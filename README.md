@@ -84,7 +84,7 @@ Japanese from the disc you dump yourself.
 
 | Path | Contents |
 |---|---|
-| `tools/` | 50 tools: archive and image codecs, the script VM parser, text insertion, VWF and HD font patches, the Latin name entry, the movie subtitler, the PPSSPP debugger client |
+| `tools/` | 51 tools: archive and image codecs, the script VM parser, text insertion, VWF and HD font patches, the Latin name entry, the movie subtitler, the PPSSPP debugger client |
 | `work/translation/en/` | the English: 67,872 script strings, 1,327 executable strings, 34 data tables |
 | `work/glossary/glossary.en.json` | 490 names and terms |
 | `work/ui/specs/` | 9 interface sheets: where each Japanese label sits and its English |
