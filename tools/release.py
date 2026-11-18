@@ -139,8 +139,12 @@ def main():
               'Discord: ' + DISCORD, 'Source: ' + REPO, '']
     open(os.path.join(rel, 'README-v%s.txt' % ver), 'w', encoding='utf-8', newline='\n').write('\n'.join(lines))
     head = 'Elminage II English v%s - changes\n\n' % ver
-    open(os.path.join(rel, 'CHANGELOG-v%s.txt' % ver), 'w', encoding='utf-8', newline='\n').write(
-        head + changelog_section(ver))
+    # first release: the whole history (every test build before it); later ones: this version's entry
+    if prev:
+        body = changelog_section(ver)
+    else:
+        body = open(os.path.join(ROOT, 'CHANGELOG.md'), encoding='utf-8').read().split('\n', 2)[2]
+    open(os.path.join(rel, 'CHANGELOG-v%s.txt' % ver), 'w', encoding='utf-8', newline='\n').write(head + body)
 
     names = sorted(f for f in os.listdir(rel) if not f.startswith('SHA') and not f.endswith('.md'))
     main_files = [f for f in names if f.endswith('.xdelta') or f in ('BUILD-MANIFEST.json', 'VALIDATION.json')]
