@@ -1,0 +1,345 @@
+[
+ {
+  "en": "\"You've got all the Light cards!{w}Good work. Now, hand over the Rainy Four Lights!\"{w}{p}\"It's been ages since I forged a blade this fine!{w}My arms are itching to get at it! Hang on a minute!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]/[JP]/[JP] are hanafuda scoring hands used as sword names in Garian's forging chain: Rainy Four Brights / Five Brights / Bright cards. Not in glossary; coordinate with slice_026."
+ },
+ {
+  "en": "\"It's done -- the Five Lights! Good work!{w}Now you lot are real adventurers!\"{w}",
+  "kind": "msg",
+  "note": "editorial: Garian's 'It's done -- the X!' formula from slice_026 (5771-5795)."
+ },
+ {
+  "en": "\"To carve out your own path, make sure you swing that thing for all it's worth!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But these Tarot cards...{w}they're awfully cute!{w}What's the deal... Jeratan!!\"{w}{p}\"I've made up my mind! I'm gonna collect every last one of these Jeratan Tarot cards!{w}A man never goes back on his word!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: plural 'these Tarot cards' (the five bright cards he just used); [JP] read as a smitten exclamation of the name."
+ },
+ {
+  "en": "\"Mmh... mmh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At first you took it for an ornament, but this seems to be a living fairy, and an old one.{w}",
+  "kind": "msg",
+  "note": "'it' for the thing first taken as an ornament; Quasimon is 'they' elsewhere (gender unknown in glossary)."
+ },
+ {
+  "en": "Namina",
+  "kind": "name"
+ },
+ {
+  "en": "\"Quasimon is a fairy who's lived a long, long time -- over 900 years!\"{w}{p}\"They sit here in the plaza like this almost every day, basking in the sun.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: no honorific (Mr./Ms. would assign gender)."
+ },
+ {
+  "en": "Kine",
+  "kind": "name"
+ },
+ {
+  "en": "\"They've been here since I first came to this city, back when I was still young.{w}And they were old even then, mind you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon",
+  "kind": "name"
+ },
+ {
+  "en": "\"Fu... fwaah...{w}Ha...{w}Haaaaahhhuuu~... hn\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wow! Did you see that!? That was a sneeze!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hee hee hee, youngster. Something good might happen to you today!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon is plopped down in the plaza, same as ever.{w}{p}As you watch, a butterfly flutters in from out of nowhere and settles right on Quasimon's head!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kine, it landed!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, this is...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And Quasimon's still holding the staff, too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm, that's a Fujibakama. Well, three to five points, I'd say.\"{w}",
+  "kind": "msg",
+  "note": "[JP]/[JP]/[JP]/[JP] are Tale of Genji chapter titles used as names of butterfly placements in Kine and Namina's game; romanized (Fujibakama, Makibashira, Utsusemi, Fuji no Uraba). Namina repeating it in katakana = hearing the word for the first time."
+ },
+ {
+  "en": "\"Aww... another Fujibakama...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you look on, unable to follow what the two of them are on about, the butterfly flits up again and lands on the staff.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah!? K-Kine!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kyeh!? Th-this is... a Makibashira!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A Makibashira!? I've never even heard of that one!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm, lovely form!! Twenty... no, it might come close to thirty points!!\"{w}",
+  "kind": "msg",
+  "note": "editorial: 30[JP] = close to thirty (accuracy open item)."
+ },
+ {
+  "en": "\"Ooooh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If only the honorable Quasimon would set the staff on their head with the butterfly still on it... So close!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'the honorable Quasimon' (Kine's respectful [JP] without gendering)."
+ },
+ {
+  "en": "\"You can do it, Quasimon!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The two of them seem to be playing some sort of game with the staff Quasimon holds and the way the butterfly lands on it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Paying no mind to the fuss around them, Quasimon just keeps quietly basking in the sun.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon's mouth worked, mumbling.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Te... nnoh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon is saying something.{w}When you put your ear close to their mouth, you can just barely make it out.{w}",
+  "kind": "msg",
+  "note": "editorial: name restored; bare 'They're' could read as Kine and Namina ('the two of them', 5858)."
+ },
+ {
+  "en": "\"Te... ten... ro... ken...{w}Wish I... had one...\"{w}",
+  "kind": "msg",
+  "note": "Mumbled [JP] kept as 'ten... ro... ken' so Kine's next line ('Tenroken... the Tenro Sword') pays it off."
+ },
+ {
+  "en": "Having murmured that, Quasimon closed their eyes, as if even that had been a great effort.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-youngster!{w}What did the honorable Quasimon just say!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told Kine what Quasimon had said.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tenroken... You mean the Tenro Sword!!{w}I've heard of it! The Tenro Sword, said to show its true worth only in the hands of those who've piled up the years!!\"{w}{p}\"And that's what they said they want! Kyeeeeh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Youngster! Please, I beg you, grant the honorable Quasimon's wish!{w}I'm counting on you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon sits perfectly still, perched neatly in the plaza.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon was there as always.{w}Even when you stood right in front of them, they didn't so much as twitch.{w}{p}A butterfly appeared and slipped right into Quasimon's sleeve.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kine! The butterfly went into Quasimon's sleeve!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What did you say!? Kyeeeeh!{w}An Utsusemi... no, is it a Fuji no Uraba!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "All is peaceful in Harjiradam again today.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon was there as always. They didn't budge an inch when you came up to them, but when you showed them the Tenro Sword, they gave a little twitch.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Give Quasimon the Tenro Sword?",
+  "kind": "data",
+  "note": "Choice prompt; 'them' = Quasimon. | editorial: standalone prompt; bare 'them' unclear / reads plural."
+ },
+ {
+  "en": "\"Thank... ya... kindly...\"{w}",
+  "kind": "msg",
+  "note": "editorial: 'Thanks a bunch' reads sarcastic; the source is a sincere, folksy thanks (accuracy open item)."
+ },
+ {
+  "en": "Quasimon studied the Tenro Sword long and hard, then slowly nodded and held it out to you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"On second... thought... here... take it back...{w}Now that... I see it...{w}it's lame...\"{w}",
+  "kind": "msg",
+  "note": "[JP] [JP] = 'on second thought, I'll give it back'; [JP] = lame/uncool."
+ },
+ {
+  "en": "\"Mmmuh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon has gone into a sulk.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Quasimon is still there, same as ever.{w}All is peaceful in Harjiradam again today.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am called Kine...\"{w}{p}\"Ever since I came to Harjiradam in my youth, I have prayed for peace across the land.{w}And of course, I do my work as a shaman too, mind.\"{w}{p}\"This job is one you can't quit until you yourself decide to quit it.\"{w}{p}\"Whether that's a blessing or a burden, who can say...{w}Hyeh hyeh hyeh!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'shaman' (gender-neutral; also applied to Tarzen in 5926). Ragnastia's [JP] was rendered 'priestess' in earlier slices. | editorial: the same laugh is 'Hyeh hyeh hyeh!' in slice_028 6013."
+ },
+ {
+  "en": "\"Youngster. What does living mean to you?\"{w}{p}\"Live for yourself, and that's a life.{w}Live for others, and that's a life too.{w}So which life is the better one, I wonder?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Do you have any junior adventurers?",
+  "kind": "data",
+  "note": "Choice prompt (yes/no follows: 5922 yes, 5924 no)."
+ },
+ {
+  "en": "\"I see, I see. So young, and already doing so well for yourself.\"{w}",
+  "kind": "msg",
+  "note": "Answer to 'yes': literally 'still young yet admirable' (having juniors)."
+ },
+ {
+  "en": "\"Mm. Well, that's all still ahead of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I had a disciple too, one I wanted to take over from me.{w}But partway through their training, they left me and vanished off somewhere.\"{w}{p}\"A life spent only giving to others... it must have become too hard to bear.{w}I understand that feeling very well.\"{w}{p}\"Even now, at my age, I sometimes think about another life...{w}what if I had lived a life for myself?\"{w}{p}\"So I've no intention of blaming them for running off.{w}I just want to know where they are and what they're doing, and whether they're getting on all right.\"{w}{p}\"A shaman by the name of Tarzen. If you ever come across them, please tell me how they're doing.\"{w}",
+  "kind": "msg",
+  "note": "Tarzen gender unknown in glossary: 'they'. Later rows (slice_028) hint at male (Kine asks about girls), not used. | editorial: 'walked a life' unidiomatic; echoes 'Live for yourself' (5916)."
+ },
+ {
+  "en": "\"Kyeeeeh!!{w}Anybody want some spirit put into 'em?\"{w}{p}\"I'll pump you full of pep!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You found them!?{w}You found Tarzen!!{w}Where were they!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told Kine about Tarzen.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see, I see.{w}If they're doing well, that's all that matters.{w}I'm so very glad...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "While you were reporting to Kine, someone came up to you...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-hello...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y... you... it can't be!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It was Tarzen.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh... T... Tarzen, is it!?{w}Look how fine you've grown... how fine you've grown!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tarzen",
+  "kind": "name"
+ },
+ {
+  "en": "\"Mast-- Kine.{w}Today, I've come to take care of some unfinished business.\"{w}",
+  "kind": "msg",
+  "note": "[JP]……[JP]: Tarzen starts to say [JP] ('Master') and corrects to [JP]. [JP] -> 'settle things'. | accuracy: 'Lady' dropped per glossary (Kine: no honorific or pronoun until the script settles gender); old note text 'Mast-- Lady Kine' superseded. | editorial: 'settle things on my part' unidiomatic; Kine echoes the word in 5945 (edited together)."
+ },
+ {
+  "en": "\"Unfinished business?{w}Is there something you forgot to do, after all this time?\"{w}",
+  "kind": "msg",
+  "note": "editorial: echoes Tarzen's word in 5943 (edited together)."
+ },
+ {
+  "en": "\"That day, I left your side, Kine, without a word.\"{w}{p}\"If I was giving up my training, I should have told you my reasons and taken proper leave of you...{w}So today... I've come to be expelled.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'expelled' (formally cast out as disciple)."
+ },
+ {
+  "en": "\"Fwah fwah fwah! You fool, you!{w}I expelled you ages ago!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-right, of course you did...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, there you have it.{w}Instead of eating your heart out all this time, you should've just popped by and said hello.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But... I was the one who asked to be taken on, and I owe you so much, Kine, for training me in body and mind.\"{w}{p}\"How could I ever show my face here?\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as 'I was the one who asked (to become your disciple)'."
+ },
+ {
+  "en": "\"Ah, I understand that feeling well myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How many times I thought of quitting myself!\"{w}{p}\"Who knows if prayers ever really reach the gods? And purifying the dead spirits around here doesn't earn you a word of thanks from anybody. Nobody even notices.\"{w}{p}\"It's work done in the shadows, after all.\"{w}",
+  "kind": "msg",
+  "note": "accuracy: [JP] = nobody is grateful / appreciates it, not 'doesn't make anybody happy'."
+ },
+ {
+  "en": "Kine laughed, eyes brimming with decades' worth of loneliness.{w}",
+  "kind": "msg",
+  "note": "accuracy: no pronoun for Kine (glossary batch3: no honorific or pronoun until the script settles it); earlier 'she' note superseded."
+ },
+ {
+  "en": "\"While I was training you, I kept wondering whether to have you carry on,{w}or make you quit early and send you back to an ordinary life...\"{w}{p}\"I was torn, truth be told.{w}So when you ran off, part of me was relieved.\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "en": "\"H-how rude! I am a priest, after all!?{w}Just look at this smile, brimming with loving kindness!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That smile is what's creepy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh...!{w}W-well, let's set my face aside.{w}I'd like to hire you, but I think it'll be difficult.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, why? How come?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're a Skunk Girl, aren't you?\"{w}{p}\"This is a church.{w}If you went poot-poot all over the place, it would be unbearable...\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'Skunk Girl' (monster race name; not in glossary). [JP] = fart sound, kept childish as 'poot-poot'."
+ },
+ {
+  "en": "\"I don't go poot-poot!{w}It's just that when I get all worked up, I can't hold it in!!\"{w}{p}\"And Analis is trying so hard...{w}Waaaaah!\"{w}",
+  "kind": "msg",
+  "note": "Analis refers to self by name; where the source names her I kept 'Analis', where the subject is dropped I restored 'I'."
+ },
+ {
+  "en": "\"Ah, hey! Don't cry, please don't cry!{w}Hmm, what should I do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll try my very, very best, so please, Mister Priest!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (childish hiragana) -> 'Mister Priest' throughout to keep the kid voice."
+ },
+ {
+  "en": "\"...Then here's what we'll do.{w}Either way, a thief has stolen our bell, so business has dried up right now.\"{w}{p}\"So please go and get the bell back.{w}If you do, I'll hire you here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you! You're so nice, Mister Priest!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm asking all of you as well.{w}By the way, our only clue is this hand towel the thief left behind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let me sniff it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Isn't that dirty?{w}Well, I don't mind, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sniff, sniff...{w}The smell goes straight south!{w}Wait for us, Mister Priest!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: 'wait for us' since the party is sent with Analis (2770); could be 'me'."
+ },
+ {
+  "en": "Analis left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Will that really be all right, I wonder?{w}I'm counting on all of you, too.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: subject left open (Analis or the plan); rendered 'that' to avoid a pronoun for Analis."
+ },
+ {
+  "en": "\"Please do get it back.{w}There's no use in me just going through the motions of ringing a bell like this.\"{w}",
+  "kind": "msg",
+  "note": "Repeat-visit line: the priest mimes ringing the missing bell."
+ },
+ {
+  "en": "\"Mister Priest, we got the bell back!\"{w}",
+  "kind": "msg",
+  "note": "Subject dropped; 'we' = Analis and the party."
+ },
+ {
+  "en": "\"What, really!?{w}Oh, thank goodness! Now I can get back to work!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The bell was back in the priest's hands.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"S-so, um, Mister Priest!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, yes, it's about the job, isn't it?{w}All right, I'll hire you.{w}Do your best, starting today.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really? Yaaay!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you, Mister Priest!{w}Analis is so happy... so happy...{w}Wh-whoa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eeek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh...!?{w}Fugoeeeh!?{w}I-it stiiiiiinks!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Waaah, I'm sorryyy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mwoooaaagh!?{w}This is... bad, I'm going to di...{w}*Cough!* Gehoooooagh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A-are you okay, Mister Priest!?{w}Analis will rub your back for y...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gyaoooooooooogh!!{w}D-don't come near me, you skunk bastard!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: rude insult, kept at strength as 'skunk bastard' ([JP] here is an insult, not a gender marker)."
+ },
+ {
+  "en": "\"Aww, that's mean, Mister Priest!{w}Analis is sad~{w}So sad that... eeek!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you damn braaaaat!!{w}The window, the windoooow! Oh... pagoooh!?\nGonnupoooh... bleeeaaaargh!!\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "\"Eeeyaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're fired.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No fair! I want a job!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please, Mister Priest!{w}Analis has nowhere else to go...{w}I'll do anything, so please let me stay here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Honestly, good grief.{w}Be careful, all right!?\"{w}{p}\"It would be a shame if someone's long-awaited wedding got ruined, wouldn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mister Priest, you're so nice!{w}Thank you! Analis will try really hard!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And now...{w}Madrie Church is open for business again!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yaaay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the marriage agency run by Madrie Church! We support the forbidden love between adventurers and monsters!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Give Analis three offerings, and Analis will make it a lovely wedding!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (tip money wrapped in paper) -> 'offerings'; the mechanic is three items handed over (2875)."
+ },
+ {
+  "en": "\"Right now, if you get married, you might just be blessed with a child!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hooray!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, wait. Have you all come from Bistel?\"{w}{p}\"The Bistel Training Hall is full right now, so it seems no child can be born unless someone gives up their registration.\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: oh-tto is the priest catching himself (he just promised a child, then notices the Training Hall is full): 'Oh my.' -> 'Oh, wait.'"
+ },
+ {
+  "en": "\"I can still do just the wedding for you. But if you want a baby, make some room at the Training Hall, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is there a monster you've fallen for? Come on, come on! Don't be shy, go ahead and confess!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let's go smoochy-smooch, lovey-dovey!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Smoochy-smooch lovey-dovey?",
+  "kind": "data",
+  "note": "Choice prompt (26 chars): proceed to the wedding?"
+ },
+ {
+  "en": "\"Oh my? I don't see your monster partner. You can't get married unless you summon them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can't get married all by yourself...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see, how wonderful! And who will be the partner of this monster here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ba-dump... ba-dump... so exciting...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Who will get married?",
+  "kind": "op093"
+ },
+ {
+  "en": "\"Marriiiied! Understood!{w}Then, to make this wonderful day even better!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = drawn-out 'Married'; matches the later [JP] 'Briiide' (2877)."
+ },
+ {
+  "en": "\"Even betteeer!\"{w}",
+  "kind": "msg",
+  "note": "Analis echoes the priest's last words ([JP])."
+ },
+ {
+  "en": "\"Off-er-ings! Come on! Off-er-ings!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Off-er-iiings~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Offerings, lovey-dovey?",
+  "kind": "data",
+  "note": "Choice prompt (23 chars): hand over three offerings?"
+ },
+ {
+  "en": "\"Nooo! We can't hold the ceremony like that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Without offerings, I can't get things ready. Sorry, you two.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Select three items.\n(Items handed over will be lost.){w}",
+  "kind": "msg",
+  "note": "Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "\"Briiiide! Splendid! Now, let us prepare the ceremony!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okaaay! Wait for us, you two!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And now...\"{w}{p}\"The wedding ceremony of\nAdventurer {10:0003:000F}\nand Monster {10:0001:0007}\nshall now begin.\"{w}{p}\"Will all those in attendance please rise.\"{w}",
+  "kind": "msg",
+  "note": "Kept the source's line-per-name layout with \\n; English needs 4 lines on this page -- check it is not split awkwardly in-game. Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "\"These two first met as enemies.{w}They traded blows, hurled spells at each other,{w}reviled and scorned each other, in days of bloodshed and wounds.\"{w}{p}\"But in the name of their contract they chose to join hands, and have walked together until this very day.\"{w}{p}\"And now, the two shall take their vows.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the monster contract (party monsters are bound by contract)."
+ },
+ {
+  "en": "\"Adventurer {10:0003:000F}.\nYou now wed this monster, and in defiance of the laws of God, seek to become a married couple.\"{w}{p}\"In health and in sickness,{w}in confusion, in paralysis, in petrification,{w}whether you behead or are beheaded,\"{w}{p}\"do you promise to love, honor, comfort and help this monster,{w}and for as long as you live, to remain steadfastly faithful?\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'married couple' / 'spouses' (party member and monster genders unknown, so no 'husband/wife'). Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "Do you take the vow?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Ooo-MEN!?\nWh-what did you just say...?\"{w}",
+  "kind": "msg",
+  "note": "[JP]: priest's catchphrase pattern (Married/Bride/No) twisted from 'Amen' into 'Omen' on refusal. Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "\"You're stopping? You're stopping the wedding?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, um... I mean...{w}You can call it off, yes, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooooo...\nV-very well.{w}It's a pity, but we shall halt the ceremony.\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "\"Right, you were joking, weren't you! Honestly, don't startle me like that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That scared me~ Phew. Something almost came out!\"{w}",
+  "kind": "msg",
+  "note": "Fart joke: Analis nearly let one go from the shock."
+ },
+ {
+  "en": "\"Now then, let us start afresh... *ahem*\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Monster {10:0001:0007}.\nYou now wed this adventurer, and in defiance of the laws of darkness, seek to become a married couple.\"{w}{p}\"In health and in sickness,{w}whether cursed by light or condemned by darkness,{w}whether Good, Evil or Neutral turn their blades on you,\"{w}{p}\"do you promise to love, honor, comfort and help this adventurer,{w}and for as long as you live, to remain steadfastly faithful?\"{w}",
+  "kind": "msg",
+  "note": "[JP]/[JP]/[JP] = the alignments Good/Evil/Neutral. Accuracy: literal backslash-n replaced by a real line break (the codec only maps a real newline to 1B 0D; a literal one would print as text)."
+ },
+ {
+  "en": "{10:0001:0007} nodded.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You have now promised to become spouses.{w}May you keep this vow for the rest of your lives, and build a happy, healthy home.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Congratulations, you two! Be happy forever and ever!!\"{w}",
+  "kind": "msg"
+ }
+]

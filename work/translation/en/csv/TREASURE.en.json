@@ -1,0 +1,1010 @@
+[
+ {
+  "id": "TREASURE.CSV:2:2",
+  "en": "Dungeon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:2:22",
+  "en": "Items",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:2:38",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:3:5",
+  "en": "None",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:6",
+  "en": "Stones",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:7",
+  "en": "Ndl.",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:8",
+  "en": "Magic Drain",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:9",
+  "en": "PsnGas",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:10",
+  "en": "Bomb",
+  "max": 4,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:11",
+  "en": "Ghosts",
+  "max": 10,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:12",
+  "en": "Cobra Curse",
+  "max": 12,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:13",
+  "en": "Demon Eye",
+  "max": 10,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:14",
+  "en": "Spell Blaster",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:15",
+  "en": "Priest Blaster",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:16",
+  "en": "U.Box",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:17",
+  "en": "Counter Punch",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:18",
+  "en": "Goddess Kiss",
+  "max": 12,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TREASURE.CSV:3:19",
+  "en": "Mimic",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:20",
+  "en": "Teleporter",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:3:40",
+  "en": "Difficulty",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:6:2",
+  "en": "Loipes Cave",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:6:3",
+  "en": "B1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:9:3",
+  "en": "B2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:9:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:12:3",
+  "en": "B3F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:12:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:15:2",
+  "en": "Highberry Forest",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:15:3",
+  "en": "Northwest",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:15:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:18:3",
+  "en": "Northeast",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:18:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:21:3",
+  "en": "Southwest",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:24:3",
+  "en": "Southeast",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:24:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:27:2",
+  "en": "Nerid Marshlands",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:27:3",
+  "en": "Surface",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:30:3",
+  "en": "Underground",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:30:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:33:2",
+  "en": "Anhimona Heights",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:33:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:33:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:36:3",
+  "en": "2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:36:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:39:3",
+  "en": "3F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:39:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:42:2",
+  "en": "Dekor Ruins",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:42:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:42:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:45:3",
+  "en": "B1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:45:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:48:3",
+  "en": "B2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:48:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:51:2",
+  "en": "Blanc Desert",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:51:3",
+  "en": "South Side",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:51:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:54:3",
+  "en": "North Side",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:54:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:57:3",
+  "en": "Underground",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:57:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:60:2",
+  "en": "Heerdahl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:60:3",
+  "en": "3F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:63:3",
+  "en": "2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:63:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:66:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:66:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:69:3",
+  "en": "B1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:69:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:72:2",
+  "en": "Madrie Cemetery",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:72:3",
+  "en": "South Side",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:72:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:75:3",
+  "en": "North 1F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:75:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:78:3",
+  "en": "North B1F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:81:2",
+  "en": "Flotban Snowfld",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:81:3",
+  "en": "South Side",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:81:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:84:3",
+  "en": "North Side",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:84:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:87:3",
+  "en": "Castle Halls",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:90:2",
+  "en": "Narmant Trench",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:90:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:90:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:93:3",
+  "en": "B1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:93:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:96:3",
+  "en": "B2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:96:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:99:3",
+  "en": "B3F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:102:2",
+  "en": "Baroque Fort",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:102:3",
+  "en": "3F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:105:3",
+  "en": "2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:105:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:108:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:108:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:111:3",
+  "en": "B1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:111:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:114:2",
+  "en": "Rubenburg",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:114:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:117:3",
+  "en": "2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:117:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:120:3",
+  "en": "3F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:123:2",
+  "en": "Scorching Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:123:3",
+  "en": "3F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:126:3",
+  "en": "2F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:129:3",
+  "en": "1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:129:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:132:3",
+  "en": "B1F",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:132:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:135:2",
+  "en": "Churos Highlands",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:135:3",
+  "en": "North 2F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:138:3",
+  "en": "North 1F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:141:3",
+  "en": "South 2F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:141:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:144:3",
+  "en": "South 1F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:144:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:147:2",
+  "en": "Moonlight Falls",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:147:3",
+  "en": "Entrance",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:147:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:150:3",
+  "en": "Falls 1F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:150:40",
+  "en": "***",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:153:3",
+  "en": "Falls 2F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:153:40",
+  "en": "****",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:156:3",
+  "en": "Falls 3F",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:159:3",
+  "en": "---",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:159:40",
+  "en": "**",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:162:2",
+  "en": "Reiblair",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:162:3",
+  "en": "---",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:165:2",
+  "en": "Contrachio",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:165:3",
+  "en": "Entrance",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TREASURE.CSV:168:3",
+  "en": "Wrath Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:171:3",
+  "en": "Mercy Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:174:3",
+  "en": "Hope Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:177:3",
+  "en": "Wisdom Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:180:3",
+  "en": "Center",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:183:3",
+  "en": "Harmony Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:186:3",
+  "en": "Courage Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:189:3",
+  "en": "Joy Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:192:3",
+  "en": "Sorrow Hall",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:195:3",
+  "en": "Depths",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:198:2",
+  "en": "Urnas Rade",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:198:3",
+  "en": "Wind Omsis",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:201:3",
+  "en": "Earth Raizas",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:204:3",
+  "en": "Fire Rades",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:207:3",
+  "en": "Aqua Shirins",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TREASURE.CSV:210:3",
+  "en": "Womb Sanctum",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ }
+]

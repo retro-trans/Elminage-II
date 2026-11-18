@@ -1,0 +1,323 @@
+[
+ {
+  "en": "Max",
+  "max": 6
+ },
+ {
+  "en": "Step",
+  "max": 18
+ },
+ {
+  "en": "Note",
+  "max": 221
+ },
+ {
+  "en": "Settings",
+  "max": 42
+ },
+ {
+  "en": "Enemy 1",
+  "max": 14
+ },
+ {
+  "en": "Numeric",
+  "max": 32
+ },
+ {
+  "en": "Name",
+  "max": 28
+ },
+ {
+  "en": "Double-byte text",
+  "max": 32
+ },
+ {
+  "en": "May include kanji.",
+  "max": 221
+ },
+ {
+  "en": "Nickname",
+  "max": 28
+ },
+ {
+  "en": "Alphanumerics, hiragana, katakana and some symbols only. No kanji.",
+  "max": 221
+ },
+ {
+  "en": "Icon",
+  "max": 28
+ },
+ {
+  "en": "Number",
+  "max": 32
+ },
+ {
+  "en": "Level",
+  "max": 28
+ },
+ {
+  "en": "Race",
+  "max": 28
+ },
+ {
+  "en": "Sex",
+  "max": 28
+ },
+ {
+  "en": "Age",
+  "max": 28
+ },
+ {
+  "en": "Class",
+  "max": 28
+ },
+ {
+  "en": "Status",
+  "max": 42
+ },
+ {
+  "en": "Current HP",
+  "max": 28
+ },
+ {
+  "en": "Max HP",
+  "max": 28
+ },
+ {
+  "en": "Agility",
+  "max": 28
+ },
+ {
+  "en": "Experience",
+  "max": 28
+ },
+ {
+  "en": "2^32-1",
+  "max": 221
+ },
+ {
+  "en": "Money",
+  "max": 28
+ },
+ {
+  "en": "Status Ailments",
+  "max": 42
+ },
+ {
+  "en": "Flag",
+  "max": 32
+ },
+ {
+  "en": "High Master/Summa Ability 1",
+  "max": 28
+ },
+ {
+  "en": "High Master/Summa Ability 4",
+  "max": 28
+ },
+ {
+  "en": "SpellRes",
+  "max": 42
+ },
+ {
+  "en": "Unit: %. Base value is fixed at 100%; calculated from equipment, etc.",
+  "max": 221
+ },
+ {
+  "en": "Innate Skills (per monster, etc.)",
+  "max": 42
+ },
+ {
+  "en": "Ailment Recovery Rate",
+  "max": 28
+ },
+ {
+  "en": "Unit (%)",
+  "max": 221
+ },
+ {
+  "en": "Turn Regen",
+  "max": 28
+ },
+ {
+  "en": "Weapon Seal",
+  "max": 28
+ },
+ {
+  "en": "Enemy-only attribute.",
+  "max": 221
+ },
+ {
+  "en": "Armor Seal",
+  "max": 28
+ },
+ {
+  "en": "Can be granted by magic (tracked separately).",
+  "max": 221
+ },
+ {
+  "en": "Reinforcements",
+  "max": 28
+ },
+ {
+  "en": "Nullify Physical",
+  "max": 28
+ },
+ {
+  "en": "Absorb Physical",
+  "max": 28
+ },
+ {
+  "en": "Reflect Physical",
+  "max": 28
+ },
+ {
+  "en": "Slaying",
+  "max": 42
+ },
+ {
+  "en": "Stacked up from class, equipment, etc.",
+  "max": 221
+ },
+ {
+  "en": "Elem Atk",
+  "max": 42
+ },
+ {
+  "en": "Elem Def",
+  "max": 42
+ },
+ {
+  "en": "Unit (%)\n100 = Nullify\n200 = Absorb\n300 = Reflect",
+  "max": 221
+ },
+ {
+  "en": "Inflict",
+  "max": 42
+ },
+ {
+  "en": "Decap",
+  "max": 28
+ },
+ {
+  "en": "Resist",
+  "max": 42
+ },
+ {
+  "en": "Equipment Settings",
+  "max": 42
+ },
+ {
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221
+ },
+ {
+  "en": "Accessory 1",
+  "max": 28
+ },
+ {
+  "en": "Accessory 2",
+  "max": 28
+ },
+ {
+  "en": "Curse Trigger Flag",
+  "max": 42
+ },
+ {
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221
+ },
+ {
+  "en": "Regular Inventory",
+  "max": 42
+ },
+ {
+  "en": "Item 1",
+  "max": 28
+ },
+ {
+  "en": "One Item sheet entry",
+  "max": 32
+ },
+ {
+  "en": "Item 2",
+  "max": 28
+ },
+ {
+  "en": "Item 3",
+  "max": 28
+ },
+ {
+  "en": "Item 4",
+  "max": 28
+ },
+ {
+  "en": "Item 5",
+  "max": 28
+ },
+ {
+  "en": "Item 6",
+  "max": 28
+ },
+ {
+  "en": "Item 7",
+  "max": 28
+ },
+ {
+  "en": "Item 8",
+  "max": 28
+ },
+ {
+  "en": "Item 9",
+  "max": 28
+ },
+ {
+  "en": "Item 10",
+  "max": 28
+ },
+ {
+  "en": "Servant's Bag",
+  "max": 42,
+  "note": "accuracy: the bag is the Servant's Bag in game (elm3 HELP_TEXT [JP] 'Servant's Bag'); [JP] is the dev label for the Servant class bag."
+ },
+ {
+  "en": "Tarot Cards",
+  "max": 42
+ },
+ {
+  "en": "The Hanged Man",
+  "max": 27
+ },
+ {
+  "en": "TplHuman",
+  "max": 8
+ },
+ {
+  "en": "TplElf",
+  "max": 10
+ },
+ {
+  "en": "TplDwarf",
+  "max": 12
+ },
+ {
+  "en": "TplGnome",
+  "max": 10
+ },
+ {
+  "en": "TplHobbit",
+  "max": 12
+ },
+ {
+  "en": "TplFairy",
+  "max": 14
+ },
+ {
+  "en": "TplWerebeast",
+  "max": 16
+ },
+ {
+  "en": "TplDragonewt",
+  "max": 18
+ }
+]

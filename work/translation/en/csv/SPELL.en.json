@@ -1,0 +1,2424 @@
+[
+ {
+  "id": "SPELL.CSV:1:4",
+  "en": "Mage",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:2:4",
+  "en": "Priest",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:3:4",
+  "en": "Alchem",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:4:4",
+  "en": "Summoner",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:5:4",
+  "en": "Enemy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:7:2",
+  "en": "Level",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:7:7",
+  "en": "Description",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:7:9",
+  "en": "Btl",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:7:12",
+  "en": "Area",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:7:13",
+  "en": "Elem",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:7:19",
+  "en": "Slp",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:20",
+  "en": "Psn",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:21",
+  "en": "Para",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:22",
+  "en": "Sil.",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:23",
+  "en": "Conf",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:24",
+  "en": "Chrm",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:25",
+  "en": "Petr",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:27",
+  "en": "Dth",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:7:34",
+  "en": "Note",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:9:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:9:3",
+  "en": "Balad",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:9:7",
+  "en": "Attacks one enemy with fire.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:9:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:10:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:10:3",
+  "en": "Misama",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:10:4",
+  "en": "Sleep",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:10:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:10:7",
+  "en": "High chance to put one enemy to sleep.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:11:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:11:3",
+  "en": "Dioseed",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:12:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:12:3",
+  "en": "Balados",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:12:7",
+  "en": "Attacks one enemy row with fire.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:12:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:13:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:13:3",
+  "en": "Glass",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:13:7",
+  "en": "Attacks one enemy with freezing cold.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:13:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:14:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:14:3",
+  "en": "Ramisama",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:14:4",
+  "en": "Sleep",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:14:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:14:7",
+  "en": "Has a chance to put one enemy row to sleep.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:15:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:15:3",
+  "en": "Venom",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:15:4",
+  "en": "Poison",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:15:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:15:7",
+  "en": "High chance to inflict Poison on one enemy.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:16:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:16:3",
+  "en": "Mabalad",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:16:7",
+  "en": "Attacks one enemy row with fire.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:16:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:17:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:17:3",
+  "en": "Ziakal",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:17:7",
+  "en": "Strikes one enemy with lightning.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:17:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:18:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:18:3",
+  "en": "Ravenom",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:18:4",
+  "en": "Poison",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:18:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:18:7",
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:19:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:19:3",
+  "en": "Robuti",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:20:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:20:3",
+  "en": "Maglass",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:20:7",
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:20:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:21:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:21:3",
+  "en": "Stoma",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:21:4",
+  "en": "Petrification",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:21:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:21:7",
+  "en": "High chance to petrify one enemy.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:22:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:22:3",
+  "en": "Sosareo",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:23:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:23:3",
+  "en": "Rabalad",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:23:7",
+  "en": "Attacks one enemy row with fire.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:23:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:24:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:24:3",
+  "en": "Argeiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:24:4",
+  "en": "Dark",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:24:5",
+  "en": "Low    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:24:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:25:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:25:3",
+  "en": "Hallobuti",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:26:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:26:3",
+  "en": "Raglass",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:26:7",
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:26:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:27:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:27:3",
+  "en": "Ziakalad",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:27:7",
+  "en": "Strikes one enemy with lightning.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:27:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:28:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:28:3",
+  "en": "Rastoma",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:28:4",
+  "en": "Petrification",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:28:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:28:7",
+  "en": "Has a chance to petrify one enemy row.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:29:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:29:3",
+  "en": "Enterook Mista",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:29:7",
+  "en": "Attacks all enemies with a non-elemental explosion.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:29:36",
+  "en": "Dmg",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:30:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:30:3",
+  "en": "Diomente",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:31:1",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:31:3",
+  "en": "Miracle",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:32:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:32:3",
+  "en": "Feria",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:32:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:33:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:33:3",
+  "en": "Harias",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:34:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:34:3",
+  "en": "Tashif",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:34:4",
+  "en": "Silence",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:34:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:34:7",
+  "en": "High chance to silence one enemy.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:35:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:35:3",
+  "en": "Erod",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:36:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:36:3",
+  "en": "Venom-Fei",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:36:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:36:7",
+  "en": "Cures one ally of Poison.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:37:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:37:3",
+  "en": "Latasif",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:37:4",
+  "en": "Silence",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:37:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:37:7",
+  "en": "Has a chance to silence one enemy row.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:38:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:38:3",
+  "en": "Hallobukan",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:38:7",
+  "en": "Lowers all allies' AC by 3. Stackable.",
+  "max": 325,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:39:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:39:3",
+  "en": "Zomperi",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:40:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:40:3",
+  "en": "Feirima",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:40:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:41:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:41:3",
+  "en": "Roodfei",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:41:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:41:7",
+  "en": "Cures one ally of Paralysis.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:42:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:42:3",
+  "en": "Eroma",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:43:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:43:3",
+  "en": "Rafelima",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:43:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:44:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:44:3",
+  "en": "Mirror Eyes",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:44:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:45:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:45:3",
+  "en": "Hallobukarm",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:45:7",
+  "en": "Lowers all allies' AC by 2. Lasts the whole expedition.",
+  "max": 325,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:46:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:46:3",
+  "en": "Honey Restorer",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:47:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:47:3",
+  "en": "Sama Eyes",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:47:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:48:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:48:3",
+  "en": "Zefeifus",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:48:4",
+  "en": "Dark",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:48:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:48:7",
+  "en": "High chance to instantly kill one enemy.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:49:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:49:3",
+  "en": "Robukand",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:50:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:50:3",
+  "en": "Psi Drain",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:51:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:51:3",
+  "en": "Feireed",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:51:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:52:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:52:3",
+  "en": "Rizefus",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:52:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:53:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:53:3",
+  "en": "Elnam",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:53:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:53:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:53:7",
+  "en": "Instantly kills one demon-type monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:54:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:54:3",
+  "en": "Psi Breath",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:55:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:55:3",
+  "en": "Immolarati",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:55:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:56:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:56:3",
+  "en": "Rafeireed",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:56:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:57:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:57:3",
+  "en": "Rezefeid",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:57:4",
+  "en": "Holy",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:58:1",
+  "en": "Priest",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:58:3",
+  "en": "Razefeis",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:58:4",
+  "en": "Dark",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:58:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:58:7",
+  "en": "Has a chance to instantly kill one enemy row.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:59:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:59:3",
+  "en": "Pomedoon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:60:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:60:3",
+  "en": "Rood",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:60:4",
+  "en": "Paralysis",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:60:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:61:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:61:3",
+  "en": "Mahamaha",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:61:7",
+  "en": "The whole party is guaranteed to escape from battle.",
+  "max": 325,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:62:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:62:3",
+  "en": "Portal",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:62:7",
+  "en": "Identifies the trap on a treasure chest.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:63:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:63:3",
+  "en": "Rarood",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:63:4",
+  "en": "Paralysis",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:63:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:64:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:64:3",
+  "en": "Bulafei",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:65:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:65:3",
+  "en": "Skorekh",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:66:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:66:3",
+  "en": "Karacha",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:66:4",
+  "en": "Confusion",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:66:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:66:7",
+  "en": "High chance to confuse one enemy.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:67:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:67:3",
+  "en": "Orath",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:68:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:68:3",
+  "en": "Lascorek",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:68:7",
+  "en": "Lowers all enemies' speed.",
+  "max": 325,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:69:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:69:3",
+  "en": "Makaracha",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:69:4",
+  "en": "Confusion",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:69:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:69:7",
+  "en": "Has a chance to confuse one enemy row.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:70:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:70:3",
+  "en": "Bifei",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:71:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:71:3",
+  "en": "Yuniwa Coat",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:71:7",
+  "en": "Grants all allies the Inf Range status.",
+  "max": 325,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:72:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:72:3",
+  "en": "Pinto",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:72:4",
+  "en": "Charm",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:72:5",
+  "en": "High   ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:72:7",
+  "en": "High chance to charm one enemy.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:73:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:73:3",
+  "en": "Rapoolfei",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:74:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:74:3",
+  "en": "Ramialf",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:75:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:75:3",
+  "en": "Pendeku",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:75:7",
+  "en": "Restores all allies' items that were broken in battle.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:76:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:76:3",
+  "en": "Rapinto",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:76:4",
+  "en": "Charm",
+  "max": 17,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:76:5",
+  "en": "Med    ",
+  "max": 21,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:76:7",
+  "en": "Has a chance to charm one enemy row.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:77:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:77:3",
+  "en": "Rapidos",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:78:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:78:3",
+  "en": "Pendea Coat",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:78:7",
+  "en": "Destroys a cursed item.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:79:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:79:3",
+  "en": "Zeo Nadar",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:80:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:80:3",
+  "en": "High Portal",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:80:7",
+  "en": "Safely disarms the trap on a treasure chest.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:81:1",
+  "en": "Alchem",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:81:3",
+  "en": "Protectorate",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:82:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:82:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:82:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:83:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:83:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:84:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:84:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:84:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:85:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:85:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:85:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:86:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:86:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:87:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:87:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:87:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:88:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:88:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:88:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:89:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:89:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:90:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:90:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:90:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:91:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:91:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:91:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:92:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:92:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:93:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:93:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:93:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:94:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:94:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:94:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:95:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:95:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:96:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:96:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:96:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:97:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:97:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:97:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:98:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:98:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:99:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:99:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:99:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:100:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:100:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:100:7",
+  "en": "Forms a contract with a monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:101:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:101:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:102:1",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPELL.CSV:102:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:102:7",
+  "en": "Sends back the summoned monster.",
+  "max": 325,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "SPELL.CSV:103:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:103:3",
+  "en": "Miasma Wave",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:104:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:104:3",
+  "en": "Bell of Judgment",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:105:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:105:3",
+  "en": "Self-Destruct",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:106:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:106:3",
+  "en": "Mirroring",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:107:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:107:3",
+  "en": "Pull",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:108:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:108:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:109:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:109:3",
+  "en": "Latch On",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:110:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:110:3",
+  "en": "Eclipse",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:111:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:111:3",
+  "en": "Afternoon Nap",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:112:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:112:3",
+  "en": "Lullaby",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:113:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:113:3",
+  "en": "Nightmare",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:114:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:114:3",
+  "en": "Harmoni's Grenade",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:115:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:115:3",
+  "en": "Mind Crush",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:116:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:116:3",
+  "en": "Soul Trap",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:117:1",
+  "en": "Enemy",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPELL.CSV:117:3",
+  "en": "Oldaim",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ }
+]

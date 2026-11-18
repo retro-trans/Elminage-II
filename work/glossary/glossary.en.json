@@ -1,0 +1,3922 @@
+[
+ {
+  "jp": "ミルコ",
+  "en": "Mirco",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "in-game romanization (SCDWMAP 00003-WALK.bin@2faa \"Duel with Lv MIRCO\"); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ミルコの声",
+  "en": "Mirco's Voice",
+  "type": "term",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "グルティア",
+  "en": "Gurtia",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ゼファル",
+  "en": "Zephal",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ゼファルの声",
+  "en": "Zephal's Voice",
+  "type": "term",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ヘス",
+  "en": "Hess",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エルピーナ",
+  "en": "Elpina",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ザッパー",
+  "en": "Zapper",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ザッパーの声",
+  "en": "Zapper's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ダリシアマルテ",
+  "en": "Dalisiamarte",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "峻厳なる悪魔",
+  "en": "Stern Demon",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "レンザー",
+  "en": "Lenzer",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "レンザー家",
+  "en": "House Lenzer",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "バルタギアス",
+  "en": "Baltagias",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ベルナフ",
+  "en": "Belnaf",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ヘルマスター",
+  "en": "Hell Master",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ビステール",
+  "en": "Bistel",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); pilot decision (kept)"
+ },
+ {
+  "jp": "ビステール城",
+  "en": "Bistel Castle",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ヘストリオ大陸",
+  "en": "Hestrio Continent",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept)"
+ },
+ {
+  "jp": "ヘストリオ",
+  "en": "Hestrio",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept)"
+ },
+ {
+  "jp": "ラグナスティア",
+  "en": "Ragnastia",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); pilot decision (kept); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "御触れ",
+  "en": "'Decree'",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept)"
+ },
+ {
+  "jp": "ミリア",
+  "en": "Miria",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); pilot decision (kept); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ミリアの声",
+  "en": "Miria's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept)"
+ },
+ {
+  "jp": "訓練所",
+  "en": "Training Hall",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); pilot decision (kept)"
+ },
+ {
+  "jp": "ベルテ",
+  "en": "Berte",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ベルテの酒場",
+  "en": "Berte's Tavern",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ロゼッタ",
+  "en": "Rosetta",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ロゼッタの宿屋",
+  "en": "Rosetta's Inn",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ロイヤルスイート",
+  "en": "Royal Suite",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "コストー",
+  "en": "Costo",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "馬鹿コストー",
+  "en": "Idiot Costo",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "カーネル商店",
+  "en": "Kernel Shop",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "カーネル",
+  "en": "Kernel",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "行政局",
+  "en": "Administration Bureau",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "魔術局",
+  "en": "Magic Bureau",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "アルケロン",
+  "en": "Archelon",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "魔術局長アルケロン",
+  "en": "Director Archelon",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "管理官アルケロン",
+  "en": "Supervisor Archelon",
+  "type": "character",
+  "gender": null,
+  "status": "draft",
+  "source": null
+ },
+ {
+  "jp": "アルケロンの声",
+  "en": "Archelon's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ビステール魔術局員",
+  "en": "Bistel Magic Bureau Officer",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "サイネス",
+  "en": "Saines",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "シグレット",
+  "en": "Sigret",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "オルセス寺院",
+  "en": "Temple of Orses",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ソアラ",
+  "en": "Soara",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "フィオナ",
+  "en": "Fiona",
+  "type": "deity",
+  "gender": "female",
+  "status": "draft",
+  "source": "pilot decision (kept); https://spoiler.sakura.ne.jp/srv/el2ds/?ストーリー (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "フィオナ・ノリス",
+  "en": "Fiona Noris",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "大地の女神",
+  "en": "Earth Goddess",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept)"
+ },
+ {
+  "jp": "地母神",
+  "en": "Earth Mother",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ウルナ",
+  "en": "Urna",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16); https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "太古の邪霊",
+  "en": "ancient evil spirit",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "pilot decision (kept)"
+ },
+ {
+  "jp": "ゼフカカ",
+  "en": "Zefkaka",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ラーデ",
+  "en": "Rade",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "フィーナス・ラーデ",
+  "en": "Finas Rade",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); https://spoiler.sakura.ne.jp/srv/el2ds/?ストーリー (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "フィウール・ラーデ",
+  "en": "Fiur Rade",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ウルナ・ラーデ",
+  "en": "Urna Rade",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ウルナ＝ゼフカカ",
+  "en": "Urna-Zefkaka",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "オルセス",
+  "en": "Orses",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "サリジャナ",
+  "en": "Sarijana",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ロジェラ",
+  "en": "Rogera",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "セムナドク",
+  "en": "Semnadoc",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "シンハニコル",
+  "en": "Sinhanicol",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "デーハイン",
+  "en": "Dehain",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ボイド",
+  "en": "Void",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ナルゥ",
+  "en": "Naru",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "創命神",
+  "en": "god of life-creation",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "変幻神",
+  "en": "god of change",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "暗滅神",
+  "en": "god of Dark Oblivion",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "空間神",
+  "en": "god of space",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "存在神",
+  "en": "god of existence",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "時間神",
+  "en": "god of time",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "エルド",
+  "en": "the Eld",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "新創地",
+  "en": "the New Lands",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "管理番号",
+  "en": "control number",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "デプルス",
+  "en": "Deplus",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "煌天秤",
+  "en": "Radiant Scales",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "事象の地平",
+  "en": "event horizon",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "エルミナージュ",
+  "en": "Elminage",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ヒズベルト",
+  "en": "Hisbert",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "サブラ",
+  "en": "Sabra",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ヘヴァユール",
+  "en": "Hevayur",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "アビ",
+  "en": "Abi",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "エスペル＝デクス",
+  "en": "Espel-Dex",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "in-game romanization (SCD19 68007.bin@5095c \"ＥＳＰＥＬ－ＤＥＸ Ｃｏ．，Ｌｔｄ\")"
+ },
+ {
+  "jp": "エスペル",
+  "en": "Espel",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "in-game romanization"
+ },
+ {
+  "jp": "デクス",
+  "en": "Dex",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "in-game romanization"
+ },
+ {
+  "jp": "ゼシュローム",
+  "en": "Zeshrom",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "見下す者",
+  "en": "One Who Looks Down",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エスカプラ",
+  "en": "Escapra",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ノンハレド",
+  "en": "Nonhared",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ドネルクラル",
+  "en": "Donnelkral",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ミストレス",
+  "en": "Mistress",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "闇の眷属",
+  "en": "Kin of Darkness",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ゾーズ",
+  "en": "Zoze",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "大魔公",
+  "en": "Demon Duke",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "デュークス・テリトリー",
+  "en": "Dukes' Territory",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "聖礎",
+  "en": "Holy Foundation",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "コントラキオ",
+  "en": "Contrachio",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?ストーリー (JP facts only; no English source found, 2026-11-16); https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "神具",
+  "en": "divine relic",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "慈愛の盾",
+  "en": "Shield of Compassion",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "希望のティアラ",
+  "en": "Tiara of Hope",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "知性の胸当て",
+  "en": "Breastplate of Intellect",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "調和のブレスレット",
+  "en": "Bracelet of Harmony",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "勇気の靴",
+  "en": "Shoes of Courage",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "喜びのアンクレット",
+  "en": "Anklet of Joy",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "怒りの剣",
+  "en": "Sword of Wrath",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "復讐のピアス",
+  "en": "Earring of Vengeance",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ジュエルリング",
+  "en": "Jewel Ring",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "フェイム",
+  "en": "Fame",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "コンパス",
+  "en": "compass",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "四賢者",
+  "en": "Four Sages",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "土の賢者",
+  "en": "Earth Sage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "風の賢者",
+  "en": "Wind Sage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "火の賢者",
+  "en": "Fire Sage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "水の賢者",
+  "en": "Water Sage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "レイザーム",
+  "en": "Raizam",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "レイザームの声",
+  "en": "Raizam's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "レイザス",
+  "en": "Raizas",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "モグー",
+  "en": "mogu",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "オムショコポ",
+  "en": "Omshokopo",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "オムシス",
+  "en": "Omsis",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ラドレヒト",
+  "en": "Radrecht",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ラドレス",
+  "en": "Rades",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "シリンモリン",
+  "en": "Shirinmorin",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "シリンス",
+  "en": "Shirins",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "イスファルド",
+  "en": "Isfald",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "イスファルド",
+  "en": "Isfald",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "リーファ",
+  "en": "Leafa",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "リーファ姫",
+  "en": "Princess Leafa",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "オールドエイム",
+  "en": "Oldaim",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "アグレス広場",
+  "en": "Agres Plaza",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "王宮騎士団",
+  "en": "Royal Knights",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "スウィートジンジャー",
+  "en": "Sweet Ginger",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "スウィートジンジャー騎士団",
+  "en": "Sweet Ginger Knights",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "月光石",
+  "en": "Moonlight Stone",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ユアン",
+  "en": "Yuan",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ヴォルムス卿",
+  "en": "Lord Volms",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ヴォルムス",
+  "en": "Volms",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ハレオラート",
+  "en": "Haleorat",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ロンデルギウス",
+  "en": "Rondelgius",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ルネア",
+  "en": "Lunea",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ルネアの声",
+  "en": "Lunea's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ルネア商店",
+  "en": "Lunea's Shop",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ウルナード",
+  "en": "Urnade",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "レイブレア",
+  "en": "Reiblair",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "サイマール",
+  "en": "Saimar",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "サイマール港",
+  "en": "Port Saimar",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ヨーテル波止場",
+  "en": "Yotel Wharf",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ヨーテル",
+  "en": "Yotel",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "大商長",
+  "en": "Grand Merchant",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ワルミット",
+  "en": "Walmitt",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json); https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "アーミット",
+  "en": "Armitt",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "グレゴリオ",
+  "en": "Gregorio",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "グレゴリオの声",
+  "en": "Gregorio's Voice",
+  "type": "term",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ベネエフ",
+  "en": "Benef",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "スーパーベネエフ",
+  "en": "Super Benef",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ミューズ",
+  "en": "Muse",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "スーパーミューズ",
+  "en": "Super Muse",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ビレンテ",
+  "en": "Bilente",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ビレンテの店",
+  "en": "Bilente's Shop",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ベルドール",
+  "en": "Beldoll",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "セドナ",
+  "en": "Sedna",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "セドナの声",
+  "en": "Sedna's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "バハムート",
+  "en": "Bahamut",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "エアリーバイダー",
+  "en": "Airy Vider",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ワネリー",
+  "en": "Wanelly",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ワネリー船長",
+  "en": "Captain Wanelly",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ワネリー号",
+  "en": "the Wanelly",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ワネリー号の船員",
+  "en": "Wanelly Sailor",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ガンドラ",
+  "en": "Gandra",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ガンドラ鉱山",
+  "en": "Gandra Mine",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ガリアン",
+  "en": "Garian",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ゲイリー",
+  "en": "Gary",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16); https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "タルミート",
+  "en": "Tarmeet",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "トリス",
+  "en": "Tris",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ジェラ",
+  "en": "Jera",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16); https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ジェラの声",
+  "en": "Jera's Voice",
+  "type": "term",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "じぇらたん",
+  "en": "Jeratan",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ジェラ雑貨店",
+  "en": "Jera's General Store",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "魔傀儡",
+  "en": "magic puppet",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "セムナドク",
+  "en": "Semnadoc",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "セムナドク大聖堂",
+  "en": "Semnadoc Cathedral",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ハージラダム",
+  "en": "Harjiradam",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "メルセンヌ",
+  "en": "Mersenne",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ナミーナ",
+  "en": "Namina",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "キネ",
+  "en": "Kine",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "タルゼン",
+  "en": "Tarzen",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "クアシモン",
+  "en": "Quasimon",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "キャロン",
+  "en": "Caron",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "キャロンブランド",
+  "en": "Caron brand",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "キャロン本店",
+  "en": "Caron Main Store",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/街・施設 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "天老剣",
+  "en": "Tenro Sword",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ルーベンブルグ",
+  "en": "Rubenburg",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "宮廷魔術師",
+  "en": "court mage",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "校長",
+  "en": "Principal",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "校長の声",
+  "en": "Principal's Voice",
+  "type": "term",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "理事長",
+  "en": "Board Chair",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "キャスリィーン",
+  "en": "Kathleen",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "キャスリィーン教頭",
+  "en": "Vice Principal Kathleen",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ハルモニ",
+  "en": "Harmoni",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ハルモニ先生",
+  "en": "Professor Harmoni",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ワルモニ",
+  "en": "Warmoni",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ワルモニ先生",
+  "en": "Professor Warmoni",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "シェラザード",
+  "en": "Scheherazade",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "シェラザード先生",
+  "en": "Professor Scheherazade",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "マクマホン",
+  "en": "McMahon",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "マクマホン学年主任",
+  "en": "Head of Year McMahon",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "カミカゼ",
+  "en": "Kamikaze",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "特別顧問カミカゼ先生",
+  "en": "Special Advisor Kamikaze",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ロンビーノ先生",
+  "en": "Professor Rombino",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ロンビーノ",
+  "en": "Rombino",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ナンビーノ先生",
+  "en": "Professor Nambino",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ナンビーノ",
+  "en": "Nambino",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "保健の先生",
+  "en": "School Nurse",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "女子生徒",
+  "en": "Female Student",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "男子生徒",
+  "en": "Male Student",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "３年女子生徒",
+  "en": "Year 3 Female Student",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "２年男子生徒",
+  "en": "Year 2 Male Student",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "１年女子生徒",
+  "en": "Year 1 Female Student",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "右の生徒",
+  "en": "Student on the Right",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "左の生徒",
+  "en": "Student on the Left",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "キツめの声",
+  "en": "Stern Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "のん気そうな声",
+  "en": "Carefree Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "まとわりつく闇",
+  "en": "Clinging Darkness",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "マジカルパーティー",
+  "en": "Magical Party",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "バロックフォート",
+  "en": "Baroque Fort",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "モンタナ",
+  "en": "Montana",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ゴブリンプリンス",
+  "en": "Goblin Prince",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "https://ja.wikipedia.org/wiki/エルミナージュII_〜双生の女神と運命の大地〜 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "家老",
+  "en": "Chief Retainer",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "オーガナイト",
+  "en": "Ogre Knight",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "バンジーロープ",
+  "en": "bungee rope",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ザブトゥン",
+  "en": "Zabutoon",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "殿様",
+  "en": "Lord",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "接待ゴブリン",
+  "en": "Goblin Host",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ホステフ",
+  "en": "Hostef",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "錬金じじい",
+  "en": "Alchemy Geezer",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "オーガの手入れ人",
+  "en": "Ogre Caretaker",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "倉庫番ゴブリン",
+  "en": "Goblin Storekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "番兵オーガ",
+  "en": "Ogre Sentinel",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "番兵ゴブリン",
+  "en": "Goblin Sentinel",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ドードーキング",
+  "en": "Dodo King",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "パイログリフ",
+  "en": "Pyroglyph",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "パイログリフ研究者",
+  "en": "Pyroglyph Researcher",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "チュロス高地",
+  "en": "Churos Highlands",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "チュロス",
+  "en": "Churos",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ニシミカド",
+  "en": "Nishimikado",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ニシミカドの声",
+  "en": "Nishimikado's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ウボゲーニャ",
+  "en": "Ubogenya",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ボヒンヨブ",
+  "en": "Bohinyob",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "バビース",
+  "en": "Babis",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ヘールダール",
+  "en": "Heerdahl",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "闘技場",
+  "en": "arena",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "闘技場支配人",
+  "en": "Arena Manager",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "主催者",
+  "en": "Organizer",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "足湯スタッフ",
+  "en": "Footbath Attendant",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "饅頭売り",
+  "en": "Manju Seller",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "サービス屋",
+  "en": "Service Vendor",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "？サービス屋",
+  "en": "?Service Vendor",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "サウナ屋",
+  "en": "Sauna Vendor",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エコー",
+  "en": "Echo",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "警備兵",
+  "en": "Sentry",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "道化師の人形",
+  "en": "Clown Doll",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "獣人の少女",
+  "en": "Beastfolk Girl",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "マドリエ",
+  "en": "Madrie",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "マドリエ教会",
+  "en": "Madrie Church",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "マドリエ教会墓地",
+  "en": "Madrie Church Cemetery",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "マドリエ教会神父",
+  "en": "Madrie Church Priest",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "結婚斡旋所",
+  "en": "marriage agency",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "冥界の門",
+  "en": "Gate of the Underworld",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "狭間の魂",
+  "en": "souls of the in-between",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "アパーシャ",
+  "en": "Apasha",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ブラネット",
+  "en": "Branet",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "老君ブラネット",
+  "en": "Old Lord Branet",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エリル",
+  "en": "Eril",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "レイス",
+  "en": "Wraith",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "アンジェロ",
+  "en": "Angelo",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "アンジェロの死体",
+  "en": "Angelo's Corpse",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "墓守",
+  "en": "Gravekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "戦士の霊",
+  "en": "Fighter's Ghost",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "戦士の霊の声",
+  "en": "Fighter's Ghost's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "魔術師の霊",
+  "en": "Mage's Ghost",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "盗賊の霊の声",
+  "en": "Thief's Ghost's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "錬金術師の霊の声",
+  "en": "Alchemist's Ghost's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "僧侶の霊の声",
+  "en": "Priest's Ghost's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "司教の霊の声",
+  "en": "Bishop's Ghost's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "アナリス",
+  "en": "Analis",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ロイペス洞窟",
+  "en": "Loipes Cave",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ロイペス",
+  "en": "Loipes",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ハイベリーの森",
+  "en": "Highberry Forest",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ハイベリー",
+  "en": "Highberry",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ネリド湿地帯",
+  "en": "Nerid Marshlands",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ネリド",
+  "en": "Nerid",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "アンヒモナ高山",
+  "en": "Anhimona Heights",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "アンヒモナ",
+  "en": "Anhimona",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "デコール神殿遺跡",
+  "en": "Dekor Temple Ruins",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "デコール",
+  "en": "Dekor",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ブラン砂漠",
+  "en": "Blanc Desert",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ブラン",
+  "en": "Blanc",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "フロートバン雪原",
+  "en": "Flotban Snowfield",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "フロートバン",
+  "en": "Flotban",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ナルマント海溝",
+  "en": "Narmant Trench",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ナルマント",
+  "en": "Narmant",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "月光の滝",
+  "en": "Moonlight Falls",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "灼熱の古城",
+  "en": "Scorching Castle",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?攻略/ダンジョン攻略 (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "氷河城",
+  "en": "Glacier Castle",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "精霊大会",
+  "en": "Spirit Tournament",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "サイレントシェル",
+  "en": "Silent Shell",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ロルファン",
+  "en": "Rolfan",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "トリョロン",
+  "en": "Toryoron",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "マタタビ",
+  "en": "catnip",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "天使の小窓",
+  "en": "Angel's Window",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "汚い毛布",
+  "en": "Dirty Blanket",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "大樹の杖",
+  "en": "Great Tree Staff",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "夜叉姫",
+  "en": "Yasha Princess",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "ルゲイエ",
+  "en": "Lukoje",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "https://spoiler.sakura.ne.jp/srv/el2ds/?データ/イベント (JP facts only; no English source found, 2026-11-16)"
+ },
+ {
+  "jp": "エルブンチェーン",
+  "en": "Elven Chain",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エンペラーバード",
+  "en": "Emperor Bird",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "タランティ",
+  "en": "Taranti",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "グルド",
+  "en": "Guld",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ハニー",
+  "en": "Honey",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "暴れゾウ",
+  "en": "Rampaging Elephant",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ドライアード",
+  "en": "Dryad",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "レプラコーン",
+  "en": "Leprechaun",
+  "type": "monster",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "強欲な感じの盗賊",
+  "en": "Greedy-Looking Thief",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "リューベツァール",
+  "en": "Rubezahl",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "スフィンクス",
+  "en": "Sphinx",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "冬将軍",
+  "en": "General Winter",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "深雪",
+  "en": "Miyuki",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "雪の精霊",
+  "en": "Snow Spirit",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "雪男",
+  "en": "Abominable Snowman",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "雪うさぎ",
+  "en": "Snow Rabbit",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "門番スノーマン",
+  "en": "Snowman Gatekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "門番ウルフ",
+  "en": "Wolf Gatekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "門番イエティ",
+  "en": "Yeti Gatekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "倉庫番ウルフ",
+  "en": "Wolf Storekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "倉庫番イエティ",
+  "en": "Yeti Storekeeper",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "火のエレメンタル",
+  "en": "Fire Elemental",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "土のエレメンタル",
+  "en": "Earth Elemental",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "風のエレメンタル",
+  "en": "Wind Elemental",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "水のエレメンタル",
+  "en": "Water Elemental",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エレメンタル",
+  "en": "Elemental",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "イフリート",
+  "en": "Ifrit",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "フェニックス",
+  "en": "Phoenix",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "フェニックスクィーン",
+  "en": "Phoenix Queen",
+  "type": "monster",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "審判",
+  "en": "Referee",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "土の男",
+  "en": "Earth Man",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ジルフェ",
+  "en": "Sylphe",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ウンディーネ",
+  "en": "Undine",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ミズチ",
+  "en": "Mizuchi",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ケルベロス",
+  "en": "Cerberus",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ユニコーン",
+  "en": "Unicorn",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ルナティックデーモン",
+  "en": "Lunatic Demon",
+  "type": "monster",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エドゥモー・シニア",
+  "en": "Edumo Senior",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エドゥモー",
+  "en": "Edumo",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ベクトレイム",
+  "en": "Vectraim",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ユーラティア",
+  "en": "Euratia",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ドマナヤ",
+  "en": "Domanaya",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "クベト",
+  "en": "Kubet",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ムンダミス",
+  "en": "Mundamis",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "どっかのベイベー",
+  "en": "Some Baby",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "どっかのママン",
+  "en": "Some Mama",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "どっかのジジイ",
+  "en": "Some Old Geezer",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "どっかのババア",
+  "en": "Some Old Hag",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エルフの声",
+  "en": "Elf's Voice",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "全員",
+  "en": "All",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "原始五種族",
+  "en": "Five Primal Races",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ロゴーン",
+  "en": "Rogorn",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "リーダ",
+  "en": "Rida",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ヤヒテ",
+  "en": "Yahite",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "サジコニ",
+  "en": "Sajikoni",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ペペト",
+  "en": "Peppet",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ゼーパリズ",
+  "en": "Zeparis",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ヤンサ",
+  "en": "Yansa",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ウヤポル",
+  "en": "Uyapol",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "リジライ",
+  "en": "Rijirai",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ゴフレキ",
+  "en": "Gofreki",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ハワンブー",
+  "en": "Hawanbu",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ゴブリン",
+  "en": "Goblin",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "エルフ",
+  "en": "Elf",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ノーム",
+  "en": "Gnome",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "フェアリー",
+  "en": "Fairy",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ワービースト",
+  "en": "Werebeast",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ホビット",
+  "en": "Hobbit",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "オーガ",
+  "en": "Ogre",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "コボルド",
+  "en": "Kobold",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "オーク",
+  "en": "Orc",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "リザードマン",
+  "en": "Lizardman",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ドードー",
+  "en": "Dodo",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "タロット",
+  "en": "Tarot",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "フランベルジュ",
+  "en": "Flamberge",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ディスペル",
+  "en": "Dispel",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "マジックユーザー",
+  "en": "magic user",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "エルブン",
+  "en": "Elven",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "氷化エルブン鉄",
+  "en": "Frozen Elven Iron",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ドヴェル軟鋼",
+  "en": "Dvel Soft Steel",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ナンバー・ワン",
+  "en": "Number One",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "？？？",
+  "en": "???",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "少年の声",
+  "en": "Boy's Voice",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "少年",
+  "en": "Boy",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "男の声",
+  "en": "Man's Voice",
+  "type": "title",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "老人の声",
+  "en": "Elderly Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "老人",
+  "en": "Elder",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "少女の声",
+  "en": "Girl's Voice",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "少女",
+  "en": "Girl",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "女性の声",
+  "en": "Woman's Voice",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "女性",
+  "en": "Woman",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "獣の声",
+  "en": "Beast's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "獣",
+  "en": "Beast",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "老婆の声",
+  "en": "Old Woman's Voice",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "老人冒険者",
+  "en": "Elderly Adventurer",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "老婆冒険者",
+  "en": "Old Woman Adventurer",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "尼僧",
+  "en": "Nun",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "ふしぎなおんなのこ",
+  "en": "Mysterious Little Girl",
+  "type": "title",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "奇妙な生き物",
+  "en": "Strange Creature",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "怪しい騎士",
+  "en": "Suspicious Knight",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "怪しい魔術師",
+  "en": "Suspicious Mage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "怪しい侍",
+  "en": "Suspicious Samurai",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "宣教師",
+  "en": "Missionary",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "右のネコ",
+  "en": "Cat on the Right",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "左のネコ",
+  "en": "Cat on the Left",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "声",
+  "en": "Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "冒険者",
+  "en": "adventurer",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "盗賊",
+  "en": "Thief",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "兵士",
+  "en": "Soldier",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "兵士の声",
+  "en": "Soldier's Voice",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "衛兵",
+  "en": "Guard",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "侍",
+  "en": "Samurai",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "僧侶",
+  "en": "Priest",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "魔術師",
+  "en": "Mage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "召喚師",
+  "en": "Summoner",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "使用人",
+  "en": "Servant",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "神女",
+  "en": "Valkyrie",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "ビショップ",
+  "en": "Bishop",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "バード",
+  "en": "Bard",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "Elminage III glossary (E:/Projects/Elminage III/work/glossary/glossary.json)"
+ },
+ {
+  "jp": "■デバッグ",
+  "en": "■Debug",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "■第二水準（",
+  "en": "■JIS Level 2 (",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "■第二水準漏れテスト（",
+  "en": "■JIS Level 2 Gap Test (",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found (2026-11-16)"
+ },
+ {
+  "jp": "商工組合価格協定",
+  "en": "Commerce Guild Price Agreement",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "商長",
+  "en": "Chief Merchant",
+  "type": "title",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "ＧＰ",
+  "en": "GP",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "悲しみのピアス",
+  "en": "Earring of Sorrow",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "回転床",
+  "en": "Spinner",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "アルマイト",
+  "en": "Almite",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "サイレントビースト",
+  "en": "Silent Beast",
+  "type": "monster",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "馬小屋",
+  "en": "Stables",
+  "type": "place",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "神影",
+  "en": "Godshade",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "【貴重品】",
+  "en": "[Key Item]",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "ヒルデ",
+  "en": "Hilde",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "姐さん",
+  "en": "Sis",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "ミルコ様",
+  "en": "Master Mirco",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "坊ちゃま",
+  "en": "the young master",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "我が君",
+  "en": "my liege",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "旦那様",
+  "en": "the master",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "ヘス様",
+  "en": "Hess (no honorific while Hess's gender is unknown)",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 1 translation)"
+ },
+ {
+  "jp": "アニマシエ",
+  "en": "Animacie",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "聖なる火種",
+  "en": "Holy Ember",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "真夜中の虹",
+  "en": "Midnight Rainbow",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "月の翁",
+  "en": "the Old Man of the Moon",
+  "type": "title",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "廃画『滅びの朝』",
+  "en": "Forsaken Painting 'Morning of Ruin'",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "廃画",
+  "en": "Forsaken Painting",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "麻痺の牙",
+  "en": "Paralysis Fang",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "テンタクルス",
+  "en": "Tentacles",
+  "type": "monster",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "０ＧＰショップ",
+  "en": "0 GP Shop",
+  "type": "place",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "錬金倉庫",
+  "en": "Alchemy Storage",
+  "type": "place",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "次代の書",
+  "en": "Book of the Next Age",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "万物百科辞典",
+  "en": "Encyclopedia of All Things",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "古びたコンパス",
+  "en": "Old Compass",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "ビト",
+  "en": "Bito",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "流転の儀",
+  "en": "Rite of Flux",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "ウルナ様",
+  "en": "Lady Urna",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 2 translation)"
+ },
+ {
+  "jp": "雨四光",
+  "en": "Rainy Four Lights",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "五光",
+  "en": "Five Lights",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "光札",
+  "en": "Light cards",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "猪鹿蝶",
+  "en": "Boar-Deer-Butterfly",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "青笹百刃",
+  "en": "Hundred Bamboo Edge",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "千早紅桜",
+  "en": "Chihaya Benizakura",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "甕星",
+  "en": "Mikaboshi",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "バハムートの一本釣り",
+  "en": "Bahamut on a Single Line",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "奇怪な老人の彫刻",
+  "en": "Weird Old Statue",
+  "type": "title",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "知恵の輪",
+  "en": "puzzle ring",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "炎のロッド",
+  "en": "Flame Rod",
+  "type": "item",
+  "gender": "",
+  "status": "draft",
+  "source": "script (batch 3 translation)"
+ },
+ {
+  "jp": "大尚書",
+  "en": "the Grand Chancellor",
+  "type": "title",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "深遠",
+  "en": "the Abyss",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "呪魔実験",
+  "en": "arcane experiment",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "極魔源",
+  "en": "Ultimate Mana Source",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "高魔源",
+  "en": "High Mana Source",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "掃射追撃",
+  "en": "Strafe Pursuit",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "追撃",
+  "en": "Pursuit",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "地平送り",
+  "en": "sent to the Horizon",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "魔印",
+  "en": "Magic Seal",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ },
+ {
+  "jp": "しんぷさま",
+  "en": "Mister Priest",
+  "type": "term",
+  "gender": "",
+  "status": "draft",
+  "source": "script translation"
+ }
+]

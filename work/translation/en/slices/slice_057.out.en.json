@@ -1,0 +1,358 @@
+[
+ {
+  "en": "\"{11:0001:0015} is a dangerous spell.{w}That's exactly why it demands understanding, too.{w}It'll probably be on the exam, so you'd better learn it, okay?\"{w}",
+  "kind": "msg",
+  "note": "Spell name is a runtime insert (the top Mage attack spell per Kathleen's lecture, slice 054)."
+ },
+ {
+  "en": "\"Ahh, how is everyone doing~{w}Are you studying properly, hmmm~?\"{w}{p}\"Your time as a student seems long, but it's short, you knooow~{w}No rushing, no letting up, no slacking off, that's the way~{w}Snort-hee~\"{w}",
+  "kind": "msg",
+  "note": "buhihi = 'snort-hee' as in slices 026/037; the musical note -> '~'."
+ },
+ {
+  "en": "\"Hm? Aren't those certificates of completion?{w}Oh, so you've finally collected them all!{w}Well done, well done. Here now, please take this!\"{w}",
+  "kind": "msg",
+  "note": "shuuryoushou = the per-year completion certificates (key items in slices 055/056)."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Diploma.{w}",
+  "kind": "msg",
+  "note": "New key item name: Diploma (sotsugyou shousho; Soara's 'my diploma' in slice 016). Align with the key-item table."
+ },
+ {
+  "en": "\"You are the pride of our school~.{w}What you've learned will surely be of use to everyone in the land.\"{w}{p}\"Even after you graduate, never lose the will to learn, and keep aiming higher~\"{w}{p}\"If things ever get hard, come and visit anytime.{w}Next time, I really will have Mont Blancs and such ready to welcome you~ Snort-hee-hee!!\"{w}",
+  "kind": "msg",
+  "note": "kondo koso = 'next time, for sure' (implies the treat was missing before). Mont Blanc = the chestnut cake."
+ },
+ {
+  "en": "\"Come and visit anytime.{w}You'll always be welcome, you knooow~ Snort-hee-hee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Snort? The Board Chair's office?{w}The Board Chair isn't someone you can just go and see, you knooow~{w}What business might you have, hmmm~?\"{w}{p}\"I see, Soara has, has she~...{w}Even so, the Board Chair told me not to let anyone through~\"{w}{p}\"I'm sorry, but would you kindly take your leave~?{w}Snort-hee-hee!!\"{w}",
+  "kind": "msg",
+  "note": "haa, Soara-san ga~ trails off: the party has explained that Soara is involved; kept as a trailing acknowledgement."
+ },
+ {
+  "en": "\"...Oh my, oh my, you're serious, aren't you~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I think your aspirations are wonderful~{w}I've heard the strange rumors about the Board Chair, too~\"{w}{p}\"But even so, I can't let you through here~{w}I owe the Board Chair for letting me serve as Principal~\"{w}{p}\"If you absolutely insist...{w}then I'll have to get rough~\"{w}{p}\"Bfuuu... You're prepared for that...?{w}I see. Then it can't be helped~{w}I'll just have to see you out with everything I've got! Snooort!!\"{w}",
+  "kind": "msg",
+  "note": "'You're prepared for that...?' answers an unvoiced reply from the party (kakugo no ue da to)."
+ },
+ {
+  "en": "\"Snoooooooort!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed the Principal.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So sorry about thaaat~{w}Snort, snort-hee-hee...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmpa-mmpa...\"{w}",
+  "kind": "msg",
+  "note": "Mumbling while knocked out (npa npa); no meaning."
+ },
+ {
+  "en": "The Principal has been knocked flat.{w}He won't come to for a while.{w}",
+  "kind": "msg",
+  "note": "Principal is male (lead convention)."
+ },
+ {
+  "en": "\"Well, well, if it isn't everyone.{w}How are you doing? Snort-hee-hee!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sense an immense magical power drawing near.{w}Space twists, and then...{w}",
+  "kind": "msg",
+  "note": "Subject restored: the party senses it."
+ },
+ {
+  "en": "\"Oh, where's Soara? Am I a little early?{w}From this spot, I can send you to where the Board Chair is.\"{w}{p}\"I'll send you on ahead, at least.\"{w}",
+  "kind": "msg",
+  "note": "kimitachi dake demo = 'you, at least / even if only you' (Soara is not here yet)."
+ },
+ {
+  "en": "\"Are you ready?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"All right, here we go.{w}............Haaaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. Let me know when you're ready.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                             *\n*       Rubenburg Board Chair's Office        *\n*                                             *{0F}{w}",
+  "kind": "msg",
+  "note": "Banner in the source's asterisk frame (47 chars per line); centring to check in game."
+ },
+ {
+  "en": "In the middle of the strange room stood an elderly figure wearing a robe.{w}It was most likely the Board Chair.{w}",
+  "kind": "msg",
+  "note": "roujin = old person; the Board Chair's gender is not established (glossary), so 'elderly figure', no pronoun."
+ },
+ {
+  "en": "Board Chair",
+  "kind": "name"
+ },
+ {
+  "en": "\"So you've made it this far...{w}I know all about you.\"{w}{p}\"Now then, wait a little.\nIt would be foolish to have the same conversation twice.\"{w}",
+  "kind": "msg",
+  "note": "The Chair is waiting for Soara (next rows)."
+ },
+ {
+  "en": "The elder seemed not the least bit shaken at the sight of you.{w}The Chair stood perfectly still, as if waiting for something.{w}",
+  "kind": "msg",
+  "note": "Pronouns avoided for the Chair (gender unknown)."
+ },
+ {
+  "en": "After a while,\nSoara threw the door open and burst in.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Board Chair!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you've come, Soara. I've been waiting for you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Board Chair...{w}I respect you, Board Chair!{w}And yet, why...\"{w}{p}\"You of all people should know how terrifying spells can be, even better than we do!\"{w}{p}\"Why would you go out of your way to create something as dangerous as an Ultimate Mana Source!!\"{w}",
+  "kind": "msg",
+  "note": "New term: gokumagen = 'Ultimate Mana Source' (not in glossary; Kathleen's lecture in slice 054 also uses koumagen, suggested 'High Mana Source')."
+ },
+ {
+  "en": "\"Heh heh heh...{w}It seems having a junior who's a little too capable can be its own kind of trouble.\"{w}{p}\"Since you know that much, I'll tell you.{w}You lot seem to have graduated from this school as well, so I suppose there's no harm in saying it.\"{w}{p}\"You all believe that you are living on this land, don't you?{w}But that is not so.\"{w}{p}\"You are... no, we are...{w}being kept alive.{w}Like livestock.\"{w}",
+  "kind": "msg",
+  "note": "kouhai = 'junior' (Soara, who is the Chair's younger self per slice 016). ikiteiru vs ikasareteiru = living vs being kept alive."
+ },
+ {
+  "en": "\"Livestock...?{w}Isn't that going too far?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No.{w}If anything, we are lower than livestock.\"{w}{p}\"Sorcery is a Reading system of magic,\none that glimpses the power of the gods...\nno, the very world of the gods.\"{w}{p}\"The more one deciphers the knowledge, information and laws of the gods' world, the closer one can come, indirectly, to the thinking of the gods.\"{w}{p}\"And the conclusion I reached from all that...{w}is that the gods have not prepared the land for our sake.\"{w}",
+  "kind": "msg",
+  "note": "majutsu = 'Sorcery' (the Mage school, as opposed to priest prayer); riidingu = 'Reading', capitalised as a term. Self-correction 'power... no, world' kept, word order adjusted within the same page."
+ },
+ {
+  "en": "\"I don't think that's true at all!{w}Look at Semnadoc! Isn't it thriving, blessed with so much of the god's love?\"{w}",
+  "kind": "msg",
+  "note": "Semnadoc here = the holy city (prospering), blessed by the god of the same name."
+ },
+ {
+  "en": "\"Then who has seen this god?{w}Who has spoken with this god?{w}Who has heard from the god's own mouth that it cherishes us?\"{w}{p}\"Archbishop Mersenne is working very hard, you know.{w}In devotion to the god Semnadoc, there is likely no one on this land who can match him.\"{w}{p}\"And yet,\nSemnadoc does not speak a word even to him.{w}Why is that?\"{w}",
+  "kind": "msg",
+  "note": "Mersenne is male (glossary evidence is this very line). Semnadoc's gender unknown: 'it' used for the god in the abstract question, no he/she. 'Archbishop' for daishikyou (not in glossary)."
+ },
+ {
+  "en": "\"'The gods must surely love us.'{w}'The gods prepared the land for us.'{w}'The gods exist for our sake.'\"{w}{p}\"All of that is nothing more than our 'wishes' --\nhow we want the gods to be.\"{w}",
+  "kind": "msg",
+  "note": "kami read as plural 'the gods' following the Chair's kamigami."
+ },
+ {
+  "en": "\"Th... then,\nwhat purpose are the gods preparing the land for...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It seems they expect something to be born from this land,\nor else to appear, or arise...\nsomething of that sort.\"{w}{p}\"Our being here is nothing more than a condition for that possibility.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is it a living thing?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then, is it an object?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, that I don't know either.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't know what it is, but it seems they're waiting for it to appear.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Somehow...\nthat's awfully vague, coming from you, Board Chair.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It seems they haven't obtained any more information than that, either.\"{w}",
+  "kind": "msg",
+  "note": "karera = 'they' (Zoze, see next rows), not the gods."
+ },
+ {
+  "en": "\"'They'? Who are 'they'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Zoze, a Kin of Darkness who answered my call.\"{w}{p}\"Zoze has wandered through many scrapped lands,\nand is now said to be in a land called\nBelnaf Arana.\"{w}{p}\"This land\ncan easily be scrapped on a single whim of the gods.\"{w}{p}\"If so, then the way for us to survive\nis to free this land from the gods' rule\nand make it stand on its own.\"{w}{p}\"To gain that power,\nI made a... deal with Zoze.\"{w}",
+  "kind": "msg",
+  "note": "Zoze's gender unknown: name repeated, no pronoun. haiki = 'scrapped' (glossary notes)."
+ },
+ {
+  "en": "\"!! ...No... Board Chair...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I want to bring true peace\nto this land.\"{w}{p}\"My deal with Zoze: information on the Ultimate Mana Source in exchange for safety.{w}When I make the Ultimate Mana Source appear in this room,\nZoze helps keep the land from collapsing.\"{w}{p}\"Behold the barrier surrounding this room.{w}I made the barrier so powerful\nthat it warped space itself.\"{w}{p}\"Even this is not enough,\nbut Zoze says the shortfall will be made up.\"{w}{p}\"We will record how the Ultimate Mana Source forms and what results,\nand use that to research new spells.\"{w}{p}\"Judging from the way the gods forbid\nthe casting of {11:0001:0015} through the spirits,\nthe Ultimate Mana Source is likely a power that even the gods cannot handle.\"{w}{p}\"We will obtain it, control it at will,\nand hold power equal to the gods'.{w}That is our plan.\"{w}",
+  "kind": "msg",
+  "note": "yatsu (Zoze) rendered by name. Subject of 'forbid through the spirits' restored as the gods (Kathleen's lecture: gods direct the spirits). mote-amasu = more than one can handle."
+ },
+ {
+  "en": "\"Power... equal to the gods...!?{w}I don't believe we could ever\nfully control power like that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, I won't ask you to understand.{w}But do not interfere. Is that clear?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, it's nearly time for the Ultimate Mana Source experiment.{w}Leave this place.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, Board Chair...{w}It's wrong, it really is!!{w}Even if what this Zoze says is true!\"{w}{p}\"Why does such a high-risk experiment\nas making an Ultimate Mana Source emerge\nhave to be done on this land!?\"{w}{p}\"Did Zoze give you\nan explanation that actually convinced you!?{w}Please, wake up, Board Chair!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What's the matter, Board Chair of Rubenburg?\nIsn't it about time to carry out the Ultimate Mana Source experiment?{w}",
+  "kind": "msg",
+  "note": "Disembodied voice (??? box); source has no quote brackets, kept unquoted. Ruubenburugu rijichou read as 'Board Chair of Rubenburg' (school name)."
+ },
+ {
+  "en": "\"Nngh... So you've come...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you, a number of eerie tentacles\nbrimming with baleful power\ncame dancing out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Clinging Darkness",
+  "kind": "name",
+  "note": "Glossary name, 17 chars: over the ~16-char name-box guide; check width."
+ },
+ {
+  "en": "\"The time is ripE. Now, quickly, begin the experimenT.\"{w}",
+  "kind": "msg",
+  "note": "This tentacle voice ends words in stray katakana (mic-ta, jikken-wo); rendered by capitalising the last letter of the affected word. Same device in 4078, 4090, 4105."
+ },
+ {
+  "en": "\"Heh heh heh... Quite so, quite so.{w}Dispose of that meddling little girl.\"{w}",
+  "kind": "msg",
+  "note": "kukuku + sayou, sayou = 'Heh heh heh... Quite so, quite so' (the second tentacle voice; also 4080, 4092, 4107)."
+ },
+ {
+  "en": "\"Sorry, but I have no taste for laying hands on my own students.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What did you say?{w}Do you mean to break your contract with us?\"{w}",
+  "kind": "msg",
+  "note": "Third tentacle voice: refined, watakushi + desu wa."
+ },
+ {
+  "en": "\"Now, now, don't be hasty, Zoze.{w}Soara, leave this barrier at once.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, you, Zoze or whatever you are!{w}Have you properly thought about what happens\nafter the Ultimate Mana Source appears?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Insolent little girl...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have thought of it. Rest easY.\"{w}",
+  "kind": "msg",
+  "note": "Distorted voice (see 4064)."
+ },
+ {
+  "en": "\"Heh heh heh... Quite so, quite so.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then the Ultimate Mana Source...{w}what happens to it after it appears!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Nothing of the sort you're worried about\nwill happen, I assure you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Carry out the experiment and see it with your own eyes, why don't you.\"{w}",
+  "kind": "msg",
+  "note": "yokarou: fourth, archaic voice. Addressee left as 'you' (Soara and/or the Chair)."
+ },
+ {
+  "en": "\"...Board Chair!{w}Are you really going to trust someone\nwho gives such evasive answers!?\"{w}{p}\"'Pile up unclear, vague things,\nand you'll never get a correct result' --\nthose were your own words, Board Chair, weren't they!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Board Chair, this child is still younG.{w}She cannot keep up with our discussioN.{w}Move on to the next stage, quicklY.\"{w}",
+  "kind": "msg",
+  "note": "Distorted voice (see 4064). 'She' = Soara (female per glossary)."
+ },
+ {
+  "en": "\"Heh heh heh... Quite so, quite so.{w}Besides, my support will not last forever, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it? Has something gone wrong?\"{w}",
+  "kind": "msg",
+  "note": "The Chair asks Zoze; the reply (4096) says things will get troublesome."
+ },
+ {
+  "en": "\"It looks like things will get troublesome if this drags on.{w}Would you be so kind as to hurry with the experiment?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. Very well.{w}Soara, I will not kill you.{w}But I will not let you interfere, either...\"{w}{p}\"Watch my arcane experiment from a front-row seat!!\"{w}",
+  "kind": "msg",
+  "note": "juma jikken = 'arcane experiment' (Kathleen's kinjirareta juma jikken, slice 054); provisional, align with that slice."
+ },
+ {
+  "en": "You routed the Board Chair.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh...{w}I never imagined you had grown this strong...\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the party (who fought the Chair)."
+ },
+ {
+  "en": "\"What are you doing, Board Chair!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is baD. They have comE.\"{w}",
+  "kind": "msg",
+  "note": "Distorted voice (see 4064). 'They' = Mirco's group, arriving in slice 058."
+ },
+ {
+  "en": "\"Quite so. This will get troublesome.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...'They'? Who do you mean?\"{w}",
+  "kind": "msg"
+ }
+]

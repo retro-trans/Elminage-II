@@ -1,0 +1,389 @@
+[
+ {
+  "en": "Run test script SF_01",
+  "len": 32,
+  "note": "debug"
+ },
+ {
+  "en": "Run test script SF_02",
+  "len": 32,
+  "note": "debug"
+ },
+ {
+  "en": "Run test script SF_03",
+  "len": 32,
+  "note": "debug"
+ },
+ {
+  "en": "Run test script SF_04",
+  "len": 32,
+  "note": "debug"
+ },
+ {
+  "en": "Run test script OP_01",
+  "len": 32,
+  "note": "debug"
+ },
+ {
+  "en": "Stop all scripts",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Force-close the window",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Force a fade-in",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Analyze the floor data",
+  "len": 29,
+  "note": "debug"
+ },
+ {
+  "en": "Clear the fixed-enemy flag table",
+  "len": 33,
+  "note": "debug"
+ },
+ {
+  "en": "Clear the free-memory monitor peak",
+  "len": 35,
+  "note": "debug"
+ },
+ {
+  "en": "Mirror-copy the Jesbayler footprints",
+  "len": 33,
+  "note": "debug; the name appears nowhere else (not in glossary or script): romanized Jesbayler"
+ },
+ {
+  "en": "Set VICTORY_COUNT to 2048",
+  "len": 30,
+  "note": "debug"
+ },
+ {
+  "en": "Return to the starting point",
+  "len": 19,
+  "note": "debug"
+ },
+ {
+  "en": "Toggle the timer state",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Force the timer to 0",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Switch to the next compass target",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "Copy footprint flags to history",
+  "len": 29,
+  "note": "debug"
+ },
+ {
+  "en": "Clear footprint flag history",
+  "len": 29,
+  "note": "debug"
+ },
+ {
+  "en": "Clear footprint flags",
+  "len": 23,
+  "note": "debug"
+ },
+ {
+  "en": "Set an item to broken",
+  "len": 25,
+  "note": "debug"
+ },
+ {
+  "en": "Floor data is OK.",
+  "len": 25,
+  "note": "debug"
+ },
+ {
+  "en": "Floor data and map data do not match.",
+  "len": 45,
+  "note": "debug"
+ },
+ {
+  "en": "Floor data needs updating.",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "Slp",
+  "len": 3,
+  "note": "status abbreviation (pointer table, relocatable); 3 letters like SPELL.json Slp/Dth; display width not checked"
+ },
+ {
+  "en": "Psn",
+  "len": 3,
+  "note": "status abbreviation (as ITEM.json Psn)"
+ },
+ {
+  "en": "Par",
+  "len": 3,
+  "note": "status abbreviation"
+ },
+ {
+  "en": "Sil",
+  "len": 3,
+  "note": "status abbreviation"
+ },
+ {
+  "en": "Cnf",
+  "len": 3,
+  "note": "status abbreviation"
+ },
+ {
+  "en": "Cha",
+  "len": 3,
+  "note": "status abbreviation | editorial: lead decision, status abbreviations follow the EL01_000 strip (Cha)"
+ },
+ {
+  "en": "Pet",
+  "len": 3,
+  "note": "status abbreviation (petrified) | editorial: lead decision, petrified = Pet (Stn reads as stun)"
+ },
+ {
+  "en": "Cur",
+  "len": 3,
+  "note": "status abbreviation (cursed)"
+ },
+ {
+  "en": "Dth",
+  "len": 3,
+  "note": "status abbreviation (as SPELL.json Dth)"
+ },
+ {
+  "en": "Ash",
+  "len": 3,
+  "note": "status abbreviation"
+ },
+ {
+  "en": "Fear",
+  "len": 3,
+  "note": "status abbreviation; 4 letters (no clear 3-letter form)"
+ },
+ {
+  "en": "No Summoner in the party.",
+  "len": 31,
+  "note": "debug (summoner contract menu)"
+ },
+ {
+  "en": "No Contract",
+  "len": 7,
+  "note": "debug (summoner contract list, %-20s field)"
+ },
+ {
+  "en": "Sword of Wrath",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Shield of Compassion",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Tiara of Hope",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Breastplate of Intellect",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Bracelet of Harmony",
+  "len": 19,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Shoes of Courage",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Anklet of Joy",
+  "len": 19,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Earring of Sorrow",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Jewel Ring",
+  "len": 19,
+  "note": "compass target | editorial: compass mode list names the target only, like 'Relics' / 'Altars'"
+ },
+ {
+  "en": "Relics",
+  "len": 9,
+  "note": "compass target; divine relic as in the glossary | lead: code refs cannot be repointed (build); must fit the 9-byte slot: compass mode \"Relics\"."
+ },
+ {
+  "en": "Altars",
+  "len": 9,
+  "note": "compass target | lead: code refs cannot be repointed (build); must fit the 9-byte slot: compass mode \"Altars\"."
+ },
+ {
+  "en": "Current compass: %s",
+  "len": 19,
+  "note": "debug"
+ },
+ {
+  "en": "Completely ineffective",
+  "len": 13,
+  "note": "effect table (pairs chosen by side)"
+ },
+ {
+  "en": "It's not working at all",
+  "len": 17,
+  "note": "effect table"
+ },
+ {
+  "en": "Not very effective",
+  "len": 15,
+  "note": "effect table"
+ },
+ {
+  "en": "It's not working well",
+  "len": 19,
+  "note": "effect table"
+ },
+ {
+  "en": "2x effect",
+  "len": 11
+ },
+ {
+  "en": "3x effect",
+  "len": 11
+ },
+ {
+  "en": "5x effect",
+  "len": 11
+ },
+ {
+  "en": "10x effect",
+  "len": 13
+ },
+ {
+  "en": "1.5x effect",
+  "len": 14
+ },
+ {
+  "en": "1.5x effect",
+  "len": 15,
+  "note": "full-width-dot duplicate of the previous row"
+ },
+ {
+  "en": "?Drain Barrier raised",
+  "len": 22,
+  "note": "row key is 1 byte early: 0x0895a5fb is the top byte (0x3F) of the float 1.5; the real string starts at 0x0895a5fc (2 code refs the scan missed). The leading \"?\" rewrites that 0x3F unchanged; the game reads from 0x0895a5fc, so players see \"Drain Barrier raised\". Party-side message (code picks it when the target side is the party)"
+ },
+ {
+  "en": "Enemy raised a Drain Barrier",
+  "len": 23,
+  "note": "party-POV message: the code picks the passive form when the target side is the enemy"
+ },
+ {
+  "en": "Party raised a Breath Barrier",
+  "len": 19,
+  "note": "party side"
+ },
+ {
+  "en": "Enemy raised a Breath Barrier",
+  "len": 21,
+  "note": "enemy side"
+ },
+ {
+  "en": "Drawing attacks; can't hide",
+  "len": 23,
+  "note": "draw attacks = the spell text term"
+ },
+ {
+  "en": "Can't draw attacks while hiding",
+  "len": 25
+ },
+ {
+  "en": "AC is now -20",
+  "len": 21
+ },
+ {
+  "en": "Party's spell resistance rose",
+  "len": 19,
+  "note": "code picks this when the target side is the party"
+ },
+ {
+  "en": "Enemy's spell resistance rose",
+  "len": 23,
+  "note": "target side enemy"
+ },
+ {
+  "en": "Party's spell resistance fell",
+  "len": 23,
+  "note": "target side party"
+ },
+ {
+  "en": "Enemy's spell resistance fell",
+  "len": 19,
+  "note": "target side enemy"
+ },
+ {
+  "en": "Party's speed rose",
+  "len": 17
+ },
+ {
+  "en": "Enemy's speed rose",
+  "len": 19
+ },
+ {
+  "en": "Party's speed fell",
+  "len": 19
+ },
+ {
+  "en": "Enemy's speed fell",
+  "len": 15
+ },
+ {
+  "en": "The countdown has begun",
+  "len": 25
+ },
+ {
+  "en": "Everyone's weapons were blessed",
+  "len": 23
+ },
+ {
+  "en": "An ally's number of attacks rose",
+  "len": 17,
+  "note": "single-target spell (raises an ally number of attacks) | editorial: 'number of attacks' as in the spell/item help text"
+ },
+ {
+  "en": "An enemy's number of attacks rose",
+  "len": 21,
+  "note": "editorial: 'number of attacks' as in the spell/item help text"
+ },
+ {
+  "en": "Party's range is now unlimited",
+  "len": 21,
+  "note": "editorial: side pattern 'Party's X' / 'Enemy's X' (Inf Range is granted to all allies per SPELL_TEXT)"
+ },
+ {
+  "en": "Enemy's range is now unlimited",
+  "len": 21,
+  "note": "editorial: side pattern 'Party's X' / 'Enemy's X'"
+ }
+]

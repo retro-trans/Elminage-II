@@ -1,0 +1,349 @@
+[
+ {
+  "en": "\"Now, get those requests done, and be quick about it!{w}I, Walmitt, don't lift a finger out of pity, you know!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Three requests completed. Good, that'll do.{w}Here it is: 'The Saimar Merchant's Companion'! Take it!\"{w}",
+  "kind": "msg",
+  "note": "Reuses the slice_011 (row 3171) title 'The Saimar Merchant's Companion'; set off with single quotes as in row 5318."
+ },
+ {
+  "en": "[Key Item]\nYou obtained 'The Saimar Merchant's Companion'.{w}",
+  "kind": "msg",
+  "note": "Title kept in single quotes because it starts with 'The'."
+ },
+ {
+  "en": "\"You lot show real promise.\"{w}{p}\"I love people who can get the job done. From now on, drop by and see me whenever you're in the area.\"{w}{p}\"Let's scratch each other's backs, shall we?{w}Hahaha!!\"{w}",
+  "kind": "msg",
+  "note": "Walmitt switches from kimi-tachi to omae-tachi here: 'you lot'."
+ },
+ {
+  "en": "\"Hey there! Keeping well, are you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh?{w}You're telling me you can resolve that request?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Resolve the request?",
+  "kind": "data"
+ },
+ {
+  "en": "\"What, just wasting my time?{w}Honestly, you adventurers have far too much time on your hands. If you've no intention of working, go home.\"{w}",
+  "kind": "msg",
+  "note": "hiyakashi (browsing with no intent to buy) rendered 'just wasting my time'."
+ },
+ {
+  "en": "\"...Mm. I, Walmitt, have duly confirmed that the request is complete.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I welcome capable people, whatever their background.{w}It's modest, but this is a reward for living up to my trust.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You received 1500 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By all means, do drop by again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? You call this completing the request?{w}Don't make me laugh, you haven't done a thing.{w}Honestly, this is why adventurers are...\"{w}{p}\"Listen. In my line of business, trust comes first. People who do sloppy work like you won't get so much as 1 GP from me. Come back when you've done it properly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now, you people.{w}Hasn't that request already been resolved?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tarmeet",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome, adventurers!{w}It's time once again for Tarmeet the Alchemy Lover!!\"{w}{p}\"You came all the way to Gandra Mine because you want to learn alchemy too, right? These glasses see through everything!!\"{w}",
+  "kind": "msg",
+  "note": "Renkin daisuki Tarmeet no jikan: styled like a show segment, 'It's time once again for Tarmeet the Alchemy Lover'. Bokensha is unmarked for number; party addressed as kimi-tachi, so 'adventurers'."
+ },
+ {
+  "en": "Ask about alchemy?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Why!?{w}I'm offering to teach you, you know!?{w}W-wait! Hey, youuu!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Certainly, certainly!!{w}I'll teach you, I'll tell you all about it! Don't hold back, ask away! C'mooon!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If there's anything about alchemy items you don't understand, come see me anytime!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hiiic~...\"{w}",
+  "kind": "msg",
+  "note": "Drunken 'ui~' rendered as a hiccup; '~' kept from the source long-vowel mark."
+ },
+ {
+  "en": "Gary",
+  "kind": "name"
+ },
+ {
+  "en": "\"Me, I'm... the great Gary, I am...{w}I work here in Gandra, y'know.{w}...Hey, you got any catnip water?\"{w}{p}\"Me, see? In Gandra, I go p-pushin' the b-bellowsh... like... this...{w}Ain't there any catnip waaater!? ...Huh?\"{w}{p}\"So like I said, me...\"{w}",
+  "kind": "msg",
+  "note": "Slurred 'fuhigo' (fuigo, bellows) kept slurred. Catnip water per glossary note. Last page trails off by design."
+ },
+ {
+  "en": "\"Urp!?\"{w}{p}\"..........!{w}...Ngh..........!?{w}...Pff... Uuu... Nnn...\"{w}",
+  "kind": "msg",
+  "note": "Gary fighting back vomit; sounds approximated."
+ },
+ {
+  "en": "\"Hah, hah... I-I'm fine... Hiiic~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gary is asleep...{w}As he sleeps, he keeps yanking out the hairs on the slovenly belly sticking out of his clothes.{w}",
+  "kind": "msg",
+  "note": "Gary is male per glossary, so 'he'."
+ },
+ {
+  "en": "Tris",
+  "kind": "name"
+ },
+ {
+  "en": "\"Gary. I would like you to wake up.{w}If you sleep there, the delivery wagon cannot get through.\"{w}",
+  "kind": "msg",
+  "note": "Tris's polite ~no desu voice: no contractions throughout. Gary-san / Tarmeet-san rendered as the bare name (Tarmeet's gender is unknown, so no Mr./Ms. for either, for consistency)."
+ },
+ {
+  "en": "\"Garyyy?{w}If you keep sleeping like that, I will run you over with the wagon, you know? Honestly.\"{w}{p}\"You people over there. I would like you to help me move Gary out of the way a little.\"{w}",
+  "kind": "msg",
+  "note": "hiichau: Tris is the one who would run Gary over (wagon de), so 'I will run you over'."
+ },
+ {
+  "en": "You tried to lift Gary up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urp!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........Ngh!{w}...Bff..........!?{w}...Ghoh... Uuu... Nnn...gk!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Gary, you just escaped with your life.{w}If it ever comes to that, I will not show any mercy, you know!?{w}Honestly, really... I am very cross.\"{w}",
+  "kind": "msg",
+  "note": "punpun desu (cute anger) rendered 'I am very cross'. [acc] moshimo no toki wa yousha shimasen is a non-past warning about next time, not a past counterfactual."
+ },
+ {
+  "en": "Tris left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... aaah...{w}Y-y-you lot...{w}Got a sec...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "For once, a sober Gary speaks to you.{w}{p}Gary is holding a cute umbrella that doesn't suit his looks at all.{w}",
+  "kind": "msg",
+  "note": "matomo na Gary = for once lucid/sober."
+ },
+ {
+  "en": "\"L-look at this... It's a cute umbrella, ain't it?{w}...No, that ain't what I'm getting at.\"{w}{p}\"You might not believe me, but this umbrella...{w}I brought it back out of a dream!!\"{w}{p}\"I was dozing off, and I wandered into some weird world.{w}I was roaming around, and I ended up in this strange room.\"{w}{p}\"Next thing I know, I woke up, but for some reason, in my hand... was the umbrella I saw in that room in the dream!\"{w}{p}\"Ever since, whenever I sleep, someone with a terrifying voice comes chasing after me, going 'Give back the umbrella, give back the umbrella.'\"{w}{p}\"When I'm sprawled out on some floor, I'm fine. But if I sleep somewhere with a proper pillow... Eeeeek!!\"{w}",
+  "kind": "msg",
+  "note": "Item left generic ('cute umbrella'); the item name itself is not in this slice."
+ },
+ {
+  "en": "\"I'm too scared to sleep anymore!{w}Please, take this umbrella off my hands!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I gave it to ya, all right? I gave it to ya, ya hear!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaagh! Yoooou!!\"{w}",
+  "kind": "msg",
+  "note": "Trigger of this outburst not visible in the slice (probably the party handing the umbrella back or refusing); kept as a bare 'You!!' without guessing."
+ },
+ {
+  "en": "\"W-well?{w}You can sleep somewhere with a pillow, and nothing happens?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you gave it back! Well, ain't that great...\"{w}{p}\"...is what I'd like to say, but!!\"{w}{p}\"Look at thiiis!\nI brought it back agaaain!{w}What is WRONG with meeee!!\"{w}",
+  "kind": "msg",
+  "note": "ore wa, ore tte yatsu wa: self-reproach, 'What is WRONG with me'. Kept the source line break between the two exclamations."
+ },
+ {
+  "en": "...Perhaps it's a talent of sorts.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm too scared to sleep anymore!{w}Please, take this umbrella off my hands again!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay, line up, line up. I would like you to line up.{w}No cutting in line.\"{w}{p}\"...Oh, you people are not from Gandra?\"{w}{p}\"I am sorry, this food is made for the miners, so I cannot share it with you.\"{w}",
+  "kind": "msg",
+  "note": "zuru wa dame (no cheating) in a meal queue: 'No cutting in line'; row 5483 confirms the party broke a rule."
+ },
+ {
+  "en": "\"I am sorry, I did not introduce myself. I am Tris.{w}I am a serving magic puppet that Tarmeet built.\"{w}",
+  "kind": "msg",
+  "note": "magic puppet per glossary."
+ },
+ {
+  "en": "\"The one who made me, Tarmeet, is this weirdo right here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tris, there's no call to introduce me as a weirdo!?\"{w}",
+  "kind": "msg",
+  "note": "Tarmeet's complaint phrased with 'someone/them' to avoid gendering the speaker in the third person. [acc] Tarmeet objects to being introduced; first person 'me' needs no gendered pronoun, and 'them' could be misread as the party."
+ },
+ {
+  "en": "\"Tarmeet is the one who built me so I cannot lie.\"{w}{p}\"Tarmeet's speech, thinking and lifestyle differ from those of the average Gandra resident, so Tarmeet meets the requirements of a weirdo.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch... And another thing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes.\"{w}",
+  "kind": "msg",
+  "note": "hai desu: rendered 'Yes.' so Tarmeet's later \"Don't 'Yes' me!\" (5440, 5493) lands; the line also serves as a reply to being called."
+ },
+ {
+  "en": "\"What is this!!{w}I told you I hate bitter melon, didn't I?\"{w}",
+  "kind": "msg",
+  "note": "nigauri = bitter melon (new term)."
+ },
+ {
+  "en": "\"Don't 'Yes' me! If you know, why do you put it in?\"{w}{p}\"I can't stand it even showing up in the corner of these glasses! I won't eat this stuff!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tarmeet's likes and dislikes have nothing to do with the food the body needs.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They do.{w}Eating it puts me in a bad mood.{w}It's bad for my mental health.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is not a reason.{w}I judge that they have nothing to do with it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They do so.\"{w}",
+  "kind": "msg",
+  "note": "kankei aru no: childish insistence."
+ },
+ {
+  "en": "\"They do not.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Come here, you! I'll remodel you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tarmeet said unauthorized modifications are not allowed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is no unauthorized modification! It's the voice of your creator!{w}I'll modify you so you can't even recognize bitter melon!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, that is not allowed. If you do something cruel to me without my consent, I will have to defend myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up, get over here!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, well. Tris puuunch.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gwah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tris kiiick, kiiick.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gohh, gehhh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tris sent Tarmeet flying!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Tough luck!\nI'm a magic puppet built by the great Tarmeet, the greatest genius alchemist in Gandra's history!'\"{w}{p}\"'Like I'd ever lose to a pea-brain like you! Run on home, you villain!'{w}",
+  "kind": "msg",
+  "note": "Tris recites the victory line Tarmeet registered, in its rough voice (ore, temee). The source never closes the outer quote on page 2; closed it in English. [acc] Outer quote left open again as in the source: row 5473 redraws this page with {0E}..{0F} and closes it; the redrawn text now matches exactly."
+ },
+ {
+  "en": "{0E}\"'Like I'd ever lose to a pea-brain like you! Run on home, you villain!'{0F}...is how it goes~\"{w}",
+  "kind": "msg",
+  "note": "Tris tacks a polite 'desu~' onto the crude line; rendered '...is how it goes~'. {0E}/{0F} kept in place."
+ },
+ {
+  "en": "\"Th-that victory line I registered myself... I hate it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tarmeet has confessed to leaving the bitter melon uneaten, so next time there will be extra bitter melon.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I should've built you to be more flexible... Dammit...\"{w}",
+  "kind": "msg",
+  "note": "[acc] Subject I restored (Tarmeet built Tris)."
+ },
+ {
+  "en": "\"Tarmeet wanted me to be autonomous.\"{w}{p}\"That is why even Tarmeet cannot give me orders that I must completely obey.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Still, why do you people break the rules?{w}What do you gain from it?\"{w}{p}\"I do not understand it at all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am in trouble.{w}My cooking utensils broke.\"{w}{p}\"I tried to make a new dish for everyone, but...\"{w}{p}\"The old frying pan and ladle could not stand up to the cooking and were ruined.\"{w}{p}\"Around here, it is hard to find utensils sturdier than the ones from Gandra.\"{w}{p}\"If there are any, they would be the goods the Cyclops of the Scorching Castle make.\"{w}{p}\"I am sorry to ask you all, but could you go to the Scorching Castle and buy a frying pan and ladle for me?\"{w}{p}\"I cannot leave my post.{w}Please, I am counting on you.\"{w}",
+  "kind": "msg",
+  "note": "'Cyclops' (number unmarked in Japanese) kept as an unmarked plural-capable noun. Scorching Castle per glossary. 'minasan no tame' = for everyone (diners), not narrowed to the party."
+ },
+ {
+  "en": "\"Ah. You people.{w}Did you find a frying pan and ladle?{w}It seems not yet. That is too bad.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"TRIIIIIS!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't you 'Yes' meeee!{w}What's today's grub!\"{w}{p}\"Bitter melon bread, bitter melon soup, bitter melon salad and bitter melon meuniere!!{w}Are you trying to kill me!?\"{w}",
+  "kind": "msg",
+  "note": "Answers Tris's 'Yes.' (row 5434 text reused at a later occurrence)."
+ }
+]

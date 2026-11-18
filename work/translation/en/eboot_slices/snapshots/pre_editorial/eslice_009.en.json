@@ -1,0 +1,381 @@
+[
+ {
+  "en": "Priest Blaster",
+  "len": 21,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Urashima's Box",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Counter Punch",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Goddess's Kiss",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Teleporter",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Main",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Sub",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Head",
+  "len": 3
+ },
+ {
+  "en": "Body",
+  "len": 3
+ },
+ {
+  "en": "Hands",
+  "len": 3
+ },
+ {
+  "en": "Feet",
+  "len": 3
+ },
+ {
+  "en": "Accessory",
+  "len": 7
+ },
+ {
+  "en": "Both Hands",
+  "len": 5,
+  "note": "equip slot list; two-handed weapon"
+ },
+ {
+  "en": "All",
+  "len": 5,
+  "note": "equip slot list; meaning \"any slot / all\" inferred"
+ },
+ {
+  "en": "Talisman",
+  "len": 5,
+  "note": "as ITEM [JP] = Talisman"
+ },
+ {
+  "en": "Salve",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Full Heal Potion",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Wake-Up Potion",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Antidote",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Paralysis Cure",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Nightdew Lozenge",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Calming Herb",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "First Love Gem",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Stonemelt Water",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Headache Remedy",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Fool",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The High Priestess",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Empress",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Emperor",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Hierophant",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Lovers",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Chariot",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Justice",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Hermit",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Wheel of Fortune",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Hanged Man",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Death",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Temperance",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Devil",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Tower",
+  "len": 3,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Star",
+  "len": 3,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Moon",
+  "len": 3,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The Sun",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Judgement",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "The World",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Male",
+  "len": 3
+ },
+ {
+  "en": "Female",
+  "len": 3
+ },
+ {
+  "en": "(Reserve)",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Good",
+  "len": 3
+ },
+ {
+  "en": "Neutral",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Evil",
+  "len": 3
+ },
+ {
+  "en": "Fighter",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Thief",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Alchemist",
+  "len": 9,
+  "note": "prefill was the short form \"Alc\"; this list pairs the full class name with a separate abbreviation string (Alc), so the full name is used"
+ },
+ {
+  "en": "Servant",
+  "len": 7,
+  "note": "prefill was \"Ser\"; full class name used (abbreviation is its own string)"
+ },
+ {
+  "en": "Bishop",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ranger",
+  "len": 5,
+  "note": "prefill was \"Ran\"; full class name used (abbreviation is its own string)"
+ },
+ {
+  "en": "Gladiator",
+  "len": 5,
+  "note": "prefill was \"Gla\"; full class name used (abbreviation is its own string)"
+ },
+ {
+  "en": "Bard",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Kannagi",
+  "len": 3,
+  "note": "class (glossary/CSV Kannagi)"
+ },
+ {
+  "en": "Valkyrie",
+  "len": 5,
+  "note": "prefill was \"Val\"; full class name used (abbreviation is its own string)"
+ },
+ {
+  "en": "Lord",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Samurai",
+  "len": 3,
+  "note": "class (glossary)"
+ },
+ {
+  "en": "Ninja",
+  "len": 5,
+  "note": "prefill was \"Nin\"; full class name used (abbreviation is its own string)"
+ },
+ {
+  "en": "Fire Breath",
+  "len": 11
+ },
+ {
+  "en": "Fire",
+  "len": 3,
+  "note": "short label after Fire Breath"
+ },
+ {
+  "en": "Ice Breath",
+  "len": 11
+ },
+ {
+  "en": "Lightning Breath",
+  "len": 11
+ },
+ {
+  "en": "Holy Breath",
+  "len": 13
+ },
+ {
+  "en": "Dark Breath",
+  "len": 13
+ },
+ {
+  "en": "Sleep Breath",
+  "len": 13
+ },
+ {
+  "en": "Poison Breath",
+  "len": 13
+ },
+ {
+  "en": "Paralysis Breath",
+  "len": 13
+ },
+ {
+  "en": "Silence Breath",
+  "len": 13
+ },
+ {
+  "en": "Confusion Breath",
+  "len": 13
+ },
+ {
+  "en": "Charm Breath",
+  "len": 13
+ },
+ {
+  "en": "Charm",
+  "len": 5,
+  "note": "short label after Charm Breath"
+ },
+ {
+  "en": "Stone Breath",
+  "len": 11,
+  "note": "element name \"Stone\" as in the existing \"Breath element changed to Stone\""
+ },
+ {
+  "en": "Death Breath",
+  "len": 11
+ },
+ {
+  "en": "Human",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ }
+]

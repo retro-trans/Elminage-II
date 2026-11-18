@@ -1,0 +1,347 @@
+[
+ {
+  "en": "III. The Empress",
+  "len": 9
+ },
+ {
+  "en": "Physical attacks banned for all",
+  "len": 21
+ },
+ {
+  "en": "IV. The Emperor",
+  "len": 9
+ },
+ {
+  "en": "The adventurers were silenced",
+  "len": 21
+ },
+ {
+  "en": "The monsters were silenced",
+  "len": 21
+ },
+ {
+  "en": "V. The Hierophant",
+  "len": 9
+ },
+ {
+  "en": "Skills banned for all",
+  "len": 21,
+  "note": "[JP] = the Skill command (TAROT_TEXT: 'Bans all skill actions')"
+ },
+ {
+  "en": "VI. The Lovers",
+  "len": 9
+ },
+ {
+  "en": "The adventurers were charmed",
+  "len": 23
+ },
+ {
+  "en": "The monsters were charmed",
+  "len": 23
+ },
+ {
+  "en": "VII. The Chariot",
+  "len": 9
+ },
+ {
+  "en": "The adventurers' evasion rose",
+  "len": 25
+ },
+ {
+  "en": "The monsters' evasion rose",
+  "len": 25
+ },
+ {
+  "en": "VIII. Justice",
+  "len": 9
+ },
+ {
+  "en": "Good alignment was blessed",
+  "len": 23,
+  "note": "[JP] = alignment (TAROT_TEXT 'Good-aligned')"
+ },
+ {
+  "en": "IX. The Hermit",
+  "len": 9
+ },
+ {
+  "en": "Passive fighting was banned",
+  "len": 25,
+  "note": "editorial: [JP] = 'banned' as in rows 1 and 6"
+ },
+ {
+  "en": "X. Wheel of Fortune",
+  "len": 13,
+  "note": "TAROT_TEXT short form 'Fortune' (10-byte cell)"
+ },
+ {
+  "en": "Everyone's turn order went haywire",
+  "len": 23
+ },
+ {
+  "en": "XI. Strength",
+  "len": 9
+ },
+ {
+  "en": "The adventurers' attack power rose",
+  "len": 25
+ },
+ {
+  "en": "The monsters' attack power rose",
+  "len": 25
+ },
+ {
+  "en": "XII. The Hanged Man",
+  "len": 19
+ },
+ {
+  "en": "Everyone's luck fell",
+  "len": 17
+ },
+ {
+  "en": "XIII. Death",
+  "len": 11
+ },
+ {
+  "en": "was taken to the world of the dead",
+  "len": 23,
+  "note": "no subject in the source: continuation after the victim's name"
+ },
+ {
+  "en": "XIV. Temperance",
+  "len": 11
+ },
+ {
+  "en": "Neutral alignment was blessed",
+  "len": 25
+ },
+ {
+  "en": "XV. The Devil",
+  "len": 11
+ },
+ {
+  "en": "Evil alignment was blessed",
+  "len": 23
+ },
+ {
+  "en": "XVI. The Tower",
+  "len": 9
+ },
+ {
+  "en": "The adventurers were confused",
+  "len": 23
+ },
+ {
+  "en": "The monsters were confused",
+  "len": 23
+ },
+ {
+  "en": "XVII. The Star",
+  "len": 9
+ },
+ {
+  "en": "The adventurers' accuracy rose",
+  "len": 25
+ },
+ {
+  "en": "The monsters' accuracy rose",
+  "len": 25
+ },
+ {
+  "en": "XVIII. The Moon",
+  "len": 9
+ },
+ {
+  "en": "The adventurers fled",
+  "len": 23
+ },
+ {
+  "en": "The monsters fled",
+  "len": 23
+ },
+ {
+  "en": "XIX. The Sun",
+  "len": 11
+ },
+ {
+  "en": "The adventurers recovered",
+  "len": 21
+ },
+ {
+  "en": "The monsters recovered",
+  "len": 21
+ },
+ {
+  "en": "XX. Judgement",
+  "len": 11,
+  "note": "card spelling 'Judgement' as in CHR/TAROT_TEXT"
+ },
+ {
+  "en": "Await the hour of judgment",
+  "len": 15
+ },
+ {
+  "en": "XXI. The World",
+  "len": 13
+ },
+ {
+  "en": "Everyone's defensive resistances vanished",
+  "len": 25
+ },
+ {
+  "en": "Success=%d, Check=%d",
+  "len": 19,
+  "note": "debug"
+ },
+ {
+  "en": "drew a tarot card",
+  "len": 17,
+  "note": "no subject in the source: continuation after the drawer's name"
+ },
+ {
+  "en": "Draw failed",
+  "len": 11
+ },
+ {
+  "en": "Draw succeeded",
+  "len": 11
+ },
+ {
+  "en": "Death pointed its finger",
+  "len": 17,
+  "note": "Death = the tarot card / reaper ([JP])"
+ },
+ {
+  "en": "Target level=%d",
+  "len": 14,
+  "note": "debug"
+ },
+ {
+  "en": "The will of death was repelled",
+  "len": 23,
+  "note": "[JP]: the actor's death effect was bounced back by the target"
+ },
+ {
+  "en": "A chest!",
+  "len": 9,
+  "note": "no refs: 8 bytes in a 9-byte slot"
+ },
+ {
+  "en": "was resisted",
+  "len": 11
+ },
+ {
+  "en": "resisted",
+  "len": 9
+ },
+ {
+  "en": "Ailments were cured",
+  "len": 19
+ },
+ {
+  "en": "Everyone's stats returned to normal",
+  "len": 23
+ },
+ {
+  "en": "A divine miracle rained down",
+  "len": 21
+ },
+ {
+  "en": "withdrew",
+  "len": 9,
+  "note": "[JP]: no subject; probably a summoned monster leaving"
+ },
+ {
+  "en": "A mirror image appeared",
+  "len": 15,
+  "note": "[JP] = a copy / mirror image of someone"
+ },
+ {
+  "en": "The item was repaired",
+  "len": 21
+ },
+ {
+  "en": "Rand(0,%d)=%d",
+  "len": 14,
+  "note": "debug"
+ },
+ {
+  "en": "dealt the finishing blow",
+  "len": 15,
+  "note": "[JP]"
+ },
+ {
+  "en": "was finished off",
+  "len": 19
+ },
+ {
+  "en": "The formation was rearranged",
+  "len": 21
+ },
+ {
+  "en": "The wish was granted",
+  "len": 17
+ },
+ {
+  "en": "sent it back to its own world",
+  "len": 19,
+  "note": "[JP]: banishing a summoned monster; 'it' = the monster"
+ },
+ {
+  "en": "attempted a contract",
+  "len": 13
+ },
+ {
+  "en": "Success=%d, Resist=%d",
+  "len": 17,
+  "note": "debug"
+ },
+ {
+  "en": "Can't form a contract",
+  "len": 13,
+  "note": "editorial: error messages use \"Can't ...\" (slice 005)"
+ },
+ {
+  "en": "Contract failed",
+  "len": 9
+ },
+ {
+  "en": "Contract succeeded",
+  "len": 9
+ },
+ {
+  "en": "A monster appeared",
+  "len": 15
+ },
+ {
+  "en": "No contracted monster",
+  "len": 17,
+  "note": "[JP] (no contract made)"
+ },
+ {
+  "en": "was swallowed by a fissure",
+  "len": 17,
+  "note": "[JP] = Fissure (Argeiss)"
+ },
+ {
+  "en": "Force=%d, Resist=%d",
+  "len": 21,
+  "note": "debug"
+ },
+ {
+  "en": "Fight",
+  "len": 5,
+  "note": "battle command; 5 letters like the other labels (Spell, Equip)"
+ },
+ {
+  "en": "Spell",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Skill",
+  "len": 5,
+  "note": "battle command [JP] (opens the skill menu: [JP])"
+ }
+]

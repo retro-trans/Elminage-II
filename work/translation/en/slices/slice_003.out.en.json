@@ -1,0 +1,355 @@
+[
+ {
+  "en": "\"That's... But... but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Master Mirco.{w}Swear on that Baltagias of yours.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Swear what?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That next time, you will win, no matter what.{w}That even without me, you will be victorious!\"{w}{p}\"We can't have you forever dragging the name of House Lenzer, the name of Lord Dalisiamarte...{w}through the mud, can we?\"{w}",
+  "kind": "msg",
+  "note": "The {w} falls before the verb in JP; English cut so the verb phrase completes after the pause. Subject 'you' (Mirco) settled by his reply in :448."
+ },
+ {
+  "en": "\"Me...{w}dragging Uncle's name... through the mud?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. If you stay as you are now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait! I don't mean to do anything like that!{w}I want to be useful to Uncle too, you know!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But does merely wanting it change anything?\"{w}{p}\"'I want to be stronger.'{w}'I want to be wiser.'{w}'I want to build my willpower.'\"{w}{p}\"Everyone wants those things.{w}But most people can never turn those wishes into goals!\"{w}{p}\"They talk about their ideals and feel as if that alone achieved them, and then they just wait for somebody else to fix everything.{w}...Just like you, right now!\"{w}",
+  "kind": "msg",
+  "note": "The three wishes are quoted as generic 'what everyone thinks', so set in single quotes."
+ },
+ {
+  "en": "\"!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right now, you have nothing.\"{w}{p}\"You're weak, you're stupid, you're slow,{w}a runty little crybaby who wets his pants.{w}...Ah, dammit! Now I'm getting angry all over again!!\"{w}",
+  "kind": "msg",
+  "note": "Kept at full force; Zephal drops his polite register here (kuso). Mirco is male per glossary, so 'his pants'."
+ },
+ {
+  "en": "\"Isn't that going a bit far...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But you have a future.{w}You can still grow a great deal.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By your own strength, you change yourself, and the world.{w}Only one who can turn wishes into goals and take that step can become a true lord.\"{w}{p}\"...Your uncle is just that sort of man.{w}Stand on your own two feet, Master Mirco.{w}No -- heir to the house. Lord Mirco Lenzer.\"{w}",
+  "kind": "msg",
+  "note": "kunshu = 'lord' (also the Lord class). Mirco-sama -> 'Master Mirco'; the escalation jikitoushu + Mirco=Lenzer-sama -> 'heir to the house. Lord Mirco Lenzer'. Fullwidth = name separator dropped."
+ },
+ {
+  "en": "\"But... even if you tell me that!{w}I can't do anything...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I will be taking my leave now.\"{w}{p}\"You there. That was a splendid attack, but the next time we meet, I will fight you in earnest.{w}Be ready for it.\"{w}",
+  "kind": "msg",
+  "note": "anatagata = the player party."
+ },
+ {
+  "en": "\"They're back!?{w}Dammit, and Zephal's not even here!\"{w}{p}\"Wh-what do I do...?{w}Hey, you'll all lend me a hand this time, won't you?\"{w}",
+  "kind": "msg",
+  "note": "'They' = the player party reappearing; 'you all' = Mirco's companions (Zapper, Hess, Elpina answer next)."
+ },
+ {
+  "en": "\"Obviously!{w}No way you could win on your own!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fear not. This time, I shall join the fight as well...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you, Hess!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, fine. Guess I'll pitch in for you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If we all work together, we're bound to win!{w}Dragging Uncle's name through the mud...{w}I never, ever want to do that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why... why can't I win...?{w}We were so close...!!\"{w}{p}\"I did everything Zephal and Zapper told me when I fought... so why!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is because, in your heart, you are still losing, Master Mirco.\"{w}",
+  "kind": "msg",
+  "note": "kimochi de makete iru = beaten in spirit/heart."
+ },
+ {
+  "en": "\"Ah, Zephal!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was watching that battle just now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why can't I win!?{w}I gave that fight everything I had!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. Well, it was not perfect, but it was the most aggressive you have ever fought.{w}Let me see... I would call it your first passing grade.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"However, something is still missing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's missing?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Resolve.\"{w}",
+  "kind": "msg",
+  "note": "kakugo = resolve; recurs through the scene (kunshu no kakugo = 'a lord's resolve')."
+ },
+ {
+  "en": "\"Re...solve?\"{w}",
+  "kind": "msg",
+  "note": "Mirco stumbles over the word; split kept."
+ },
+ {
+  "en": "\"Master Mirco... you are still counting on everyone else's strength, after all.\"{w}{p}\"Zapper for muscle, Hess for spells, Gurtia and Elpina for support.\"{w}{p}\"'Even if I mess up, everyone will take care of it.'{w}Isn't that what you think?\"{w}",
+  "kind": "msg",
+  "note": "Mirco's assumed thought rendered as a quoted inner line."
+ },
+ {
+  "en": "\"Urk...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Master Mirco, you are the leader of this party.{w}You hold the fate of all five of us in your hands.\"{w}{p}\"Even if you stand alone, you must have the resolve to fight with our lives and your own on your shoulders -- the resolve of a lord.\"{w}",
+  "kind": "msg",
+  "note": "'Five of us' = Zephal, Zapper, Hess, Gurtia, Elpina."
+ },
+ {
+  "en": "\"A lord's resolve...?{w}I'm carrying everyone's lives...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You told me once you thought the boss was cool, didn't ya?\"{w}",
+  "kind": "msg",
+  "note": "danna (Zapper's word for Dalisiamarte, confirmed by Mirco's 'Uncle' in :524) -> 'the boss'."
+ },
+ {
+  "en": "\"Yeah.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bet that's what the cool really comes down to.\"{w}{p}\"No matter how strong the enemy... yeah, even if it was a god,\"{w}{p}\"if it means protectin' us and Belnaf, that man's got the resolve to fight without a thought for himself. That's the kind of man he is.\"{w}{p}\"It's a different kind of resolve, but Hilde's got it...{w}and, well, I guess even Zoze does.\"{w}",
+  "kind": "msg",
+  "note": "Zapper uses respectful ano kata / okata for Dalisiamarte, so 'that man' rather than 'that guy'. NEW NAME: Hilde (hirude), not in glossary; no pronoun used."
+ },
+ {
+  "en": "\"So that's what it was...{w}That's why Uncle is so cool.\"{w}{p}\"...Zephal. Not just getting stronger -- do you think I can have resolve like Uncle's someday?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed.{w}That is exactly why the five of us are here: to help you find it, Master Mirco.\"{w}{p}\"Offer a hand to anyone who tries to stand.{w}That is the way of the knight.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, so I'm counted in too?{w}I just tagged along with Big Sis.\"{w}",
+  "kind": "msg",
+  "note": "anesan (Elpina's name for Gurtia) -> 'Big Sis'."
+ },
+ {
+  "en": "\"Having come this far together, we're all in the same boat now, surely.\"{w}",
+  "kind": "msg",
+  "note": "ichiren takushou = sharing one fate."
+ },
+ {
+  "en": "\"Oh, that reminds me.{w}Big Sis, how come you didn't fight alongside him back there?\"{w}",
+  "kind": "msg",
+  "note": "'him' = Mirco (male per glossary), from the fight just before."
+ },
+ {
+  "en": "\"What...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, duh. Who'd feel like helpin' a master who leans on everybody else for everything? Right, Gurtia?\"{w}",
+  "kind": "msg",
+  "note": "Zapper answers for Gurtia, deflecting; Mirco takes it at face value next row."
+ },
+ {
+  "en": "\"Oh, I get it. Ahaha, that makes sense.{w}I'm sorry about everything till now, Gurtia.\"{w}{p}\"I'm gonna get way, way stronger, and protect you and everyone else, Gurtia!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-yes. I am... looking forward to it.\"{w}",
+  "kind": "msg",
+  "note": "Hesitation kept; it lands ironically given the following Hess/Gurtia scene."
+ },
+ {
+  "en": "\"Now then, I have fetched my sword as well. With this, I can finally face you in earnest.\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the player party (rematch)."
+ },
+ {
+  "en": "\"I'm gonna get way, way stronger! Next time I'll win for sure!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "From somewhere far off, you heard the voices of Hess and Gurtia.{w}",
+  "kind": "msg",
+  "note": "Narration in past tense, matching the pilot ('Miria left.'); 'you' = the player party."
+ },
+ {
+  "en": "\"Gurtia, what of the others?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They've each gone off to play or to rest.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see...{w}Say, Gurtia, won't you have a talk with me? It has been a long while.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, Hess, honestly.{w}Why, we talk all the time.\"{w}",
+  "kind": "msg",
+  "note": "Hess-sama: honorific dropped because Hess's gender is unknown (no neutral English equivalent of -sama); politeness carried by the phrasing."
+ },
+ {
+  "en": "\"There are things one can only speak of at a time like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How long has it been now, since you became the wet nurse?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I learned a servant's duties from the previous head of the house, and was placed with Master Mirco right after, so...\"{w}",
+  "kind": "msg",
+  "note": "sendai-sama = previous head of the house; gender unknown, no pronoun. Trailing 'so...' carries the implied 'as long as he has been alive'."
+ },
+ {
+  "en": "\"I see. About as long as the young master has been alive, then. Mm, so it was.\"{w}",
+  "kind": "msg",
+  "note": "bocchama = 'the young master'."
+ },
+ {
+  "en": "\"You still resent them, don't you?{w}House Lenzer... Lord Dalisiamarte.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Who can say. Whatever could you mean?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"When this warrior's training journey began, I was checking the backgrounds of those coming along, and I found out by chance.\"{w}{p}\"How you came to serve our house.{w}All because you had such a rare, healthy body...\"{w}",
+  "kind": "msg",
+  "note": "musha shugyou = warrior's training journey (the party's reason for being here)."
+ },
+ {
+  "en": "\"That is all in the past. Would you kindly drop the subject?\"{w}{p}\"It isn't as if anything was done to me. And without lifting a finger, I earned the shining distinction of wet nurse to a future Demon Duke.\"{w}",
+  "kind": "msg",
+  "note": "Likely sarcastic; kept the flat, polite surface so the irony stays as in JP."
+ },
+ {
+  "en": "\"...Have you given up singing and your instrument, then? I have never heard you sing, you see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lullabies, yes -- many times, for Master Mirco.\"{w}",
+  "kind": "msg",
+  "note": "Kept the JP clipped answer as a fragment (deliberate curtness)."
+ },
+ {
+  "en": "\"Your singing voice was so remarkably beautiful, I always did wonder about it.\"{w}",
+  "kind": "msg",
+  "note": "Hess heard the lullabies, so 'your singing voice' refers to them; what Hess wondered about is left implicit, as in JP."
+ },
+ {
+  "en": "\"...Hess. Forgive me, but I fail to see the point of this conversation.\"{w}",
+  "kind": "msg",
+  "note": "Hess-sama: honorific dropped (see :558)."
+ },
+ {
+  "en": "\"It's true that I was made a wet nurse against my will, by a force I could not resist: the wishes of House Lenzer.\"{w}{p}\"But what good does it do to look back on it like this now?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Seeing you hold back from fighting alongside Master Mirco, I thought... well... that perhaps you still bear some grudge...\"{w}",
+  "kind": "msg",
+  "note": "omou tokoro ga aru = has feelings/misgivings about it; 'grudge' follows from :572."
+ },
+ {
+  "en": "\"Oh, so that's what this is about. In that case, why not simply order me again? 'Fight alongside Master Mirco,' you could say.\"{w}{p}\"I am only a lowly, insignificant demon. I could hardly defy a Demon Duke.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, that's not it -- that's not it at all, Gurtia!\"{w}{p}\"...I want you to forgive him. The master... Or at least, if nothing else, Master Mirco.\"{w}",
+  "kind": "msg",
+  "note": "danna-sama = the master of the house; read as Dalisiamarte (the target of the resentment in :572). Male per glossary, so 'him'."
+ },
+ {
+  "en": "\"Hah! Is that all!!{w}Then, as I said, why not simply order me to?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What I'm trying to say is...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Haaaah...\"{w}{p}\"You steal a person's future, and then ask them to like you.\"{w}{p}\"My, my, one convenient demand after another! Just what I'd expect from the Demon Duke house of Lenzer!\"{w}",
+  "kind": "msg",
+  "note": "daimakou Renza-ke -> 'the Demon Duke house of Lenzer'. Full sarcastic force kept."
+ },
+ {
+  "en": "\"Gurtia... I...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gurtiaaa, you there?\"{w}",
+  "kind": "msg",
+  "note": "Drawn-out call (~) rendered by stretching the name."
+ },
+ {
+  "en": "\"!!{w}...Ah, yes! Young master!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Isn't it about time to eat?{w}Zephal and Zapper trained me again, and after all that running around, I'm starving!\"{w}{p}\"Look at these blisters. Here too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Master Mirco did quite well today. His attack still needs a lot of work, but his defense is really taking shape.\"{w}",
+  "kind": "msg",
+  "note": "UNCERTAIN: JP Mirco-sama can be 2nd or 3rd person. Read as Zephal reporting to Gurtia (Mirco was just talking to her), so 3rd person 'his'."
+ }
+]

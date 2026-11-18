@@ -1,0 +1,354 @@
+[
+ {
+  "en": "\"It's okay~{w}Professor Warmoni is the bad one, after all~{w}So show us your bad side, right here~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Ha ha, you got me.{w}When did that happen, I wonder?\"{w}{p}\"It was a pain, but I kept helping the students with their problems... and before I knew it, I was taking the job seriously...\"{w}{p}\"Like, I've gotta really think about these kids' futures, y'know?{w}...Right, I've made up my mind!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Just for now, the bad Professor Warmoni is back!{w}Hand over that Mont Blanc!!\"{w}",
+  "kind": "msg",
+  "note": "Source 'leave it here' rendered as a mugger's 'Hand over'."
+ },
+ {
+  "en": "\"Kyaa~ Professor Warmoni, you're so cool~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hand over the Mont Blanc?",
+  "kind": "data",
+  "note": "Mont Blanc = item ITEM.CSV 673/ITEM_TEXT 665 (chestnut cupcake); same form as slice 051."
+ },
+ {
+  "en": "\"Heh... Victory to evil!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yaaay~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Mont Blanc was confiscated...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let's see...{w}I feel sorry for you, so here, have this~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Use it with care, okay~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, don't use that! Don't you dare use it, got it!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'll teach you the beauty of evil!{w}I'll pound it right into your bodies!!\"{w}",
+  "kind": "msg",
+  "note": "Refusal branch: Warmoni picks a fight."
+ },
+ {
+  "en": "\"Yaaay! Get ready for it~!\"{w}",
+  "kind": "msg",
+  "note": "Star symbol dropped (ASCII only), as slice 032 did."
+ },
+ {
+  "en": "\"We lost~{w}Waaah...\"{w}",
+  "kind": "msg",
+  "note": "Subject 'we': both teachers fought the party (Warmoni concedes next row)."
+ },
+ {
+  "en": "\"Tch... You're not bad.{w}That's the first time in ages I've gotten serious...{w}Well, I'll let you off this time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Professor Harmoni and Professor Warmoni left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo, what's up?{w}Dying to walk the bad path, are ya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Want a lesson from me?",
+  "kind": "data"
+ },
+ {
+  "en": "\"So who's gonna turn bad?\"{w}",
+  "kind": "msg",
+  "note": "Precedes a party-member selection."
+ },
+ {
+  "en": "\"What should I teach you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Which lesson will you take?",
+  "kind": "data"
+ },
+ {
+  "en": "Undetectable Napping",
+  "kind": "data",
+  "note": "Menu choice; the four lessons share the 'Undetectable' frame (source: 'without getting caught')."
+ },
+ {
+  "en": "Undetectable Early Lunch",
+  "kind": "data",
+  "note": "Hayaben: eating your packed lunch during class, before the lunch break."
+ },
+ {
+  "en": "Undetectable Proxy Roll Call",
+  "kind": "data",
+  "note": "Daihen: answering roll call for an absent classmate. 28 chars."
+ },
+ {
+  "en": "Undetectable Fake Sick Day",
+  "kind": "data",
+  "note": "Kebyou: faking illness."
+ },
+ {
+  "en": "\"All right, come over here! Time for hands-on training!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, that's a good mug you've got now!{w}From here on, keep marching down the bad path!{w}Lesson over!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you're quitting?{w}Geez, what a gutless little chickenshit.\"{w}",
+  "kind": "msg",
+  "note": "Source idiom (lit. 'small butthole') = petty/gutless; crude, kept crude."
+ },
+ {
+  "en": "Mage",
+  "kind": "name",
+  "note": "Name box; glossary Mage (class); same as monster name."
+ },
+ {
+  "en": "\"You lot, never make light of elemental attack power!\"{w}{p}\"Raise the fire element of your attacks, and even {11:0001:0001} could burn down an entire country with ease!!\"{w}{p}\"...Sorry, that was a bit of an exaggeration.{w}But it's a fact: the more you raise elemental attack power, the stronger the effect!!\"{w}{p}\"And the ones who benefit most from elemental attack power are us mages!\"{w}{p}\"Long live spells!!\"{w}",
+  "kind": "msg",
+  "note": "{11:0001:0001} is a spell-name insert (presumably the first, weakest mage spell)."
+ },
+ {
+  "en": "Master Mage",
+  "kind": "name",
+  "note": "New name box (monster name, MON_TEXT 213)."
+ },
+ {
+  "en": "\"The spell system of us mages is known as the Reading school of magic.\"{w}{p}\"We interfere directly with a higher space and release its power into the lower space--that is, this land.\"{w}{p}\"The mana consumed in that process is great.{w}Study and theory can reduce it to a degree, but in the end it comes down to the caster's own strength.\"{w}{p}\"Now then, 'higher space' is merely a term of convenience.{w}Where it actually refers to, no one knows.\"{w}{p}\"Though there's no doubt it is a world where the will of the gods is at work...\"{w}{p}\"The gods hate it when we mages freely wield even the slightest bit of the power of their world.{w}Hence, as a rule, there are no divine miracles for us.\"{w}{p}\"{11:0001:0017} is the exception, but one cannot call forth that miracle without paying for it with oneself.\"{w}{p}\"...But to wield immense power with your own hands--what could be more alluring than that?\"{w}{p}\"The other courses can't quite match that, heh...{w}Afeh...{w}Afehfehfehfehfeh!!\"{w}",
+  "kind": "msg",
+  "note": "'Reading school of magic' from katakana riidingu (could also be 'Leading'); source 'katei' read as process. Afeh = toothless old-man laugh kept as sound. | Accuracy: 'jiyuu ni suru' = freely use/control, not 'take liberties with' (disrespect)."
+ },
+ {
+  "en": "Student on the Left",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "(Hey, is that old geezer okay?){w}",
+  "kind": "msg",
+  "note": "Parentheses kept: whispered aside."
+ },
+ {
+  "en": "Student on the Right",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "(Idiot...! Don't make eye contact.){w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bishop",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "\"The potency of healing spells depends on your holy-element attack power.\"{w}{p}\"Also, Priests who reach High Master get a spell power boost from it.\"{w}",
+  "kind": "msg",
+  "note": "High Master as in slice 034; spell power boost = JOBABL 'Spell Power UP'."
+ },
+ {
+  "en": "\"Got a question, sir!\"{w}",
+  "kind": "msg",
+  "note": "This student speaks casual-polite (-ssu); rendered with a blunt 'sir'."
+ },
+ {
+  "en": "\"What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've been wondering for a while, sir... is there any point to holy defense?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh...{w}...Th-there is... yes?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Like what?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is there really a point to it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's... that's because, well...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's actually no point to it at all, is there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is that true? It's pointless!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"D-defending... against holy breath... maybe?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...But there's {11:0001:002E} for that, isn't there?\"{w}",
+  "kind": "msg",
+  "note": "'for that' makes explicit what the student implies: the spell insert already covers breath defense."
+ },
+ {
+  "en": "\"Urgh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's seriously iffy...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaaaah, oh no!{w}I-I just remembered something urgent!!{w}We'll continue the lecture another day--argh, farewell!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, the teacher bolted!\"{w}",
+  "kind": "msg",
+  "note": "Subject restored as 'the teacher' (Bishop's gender not established)."
+ },
+ {
+  "en": "\"Whaaaaat~~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin Substitute",
+  "kind": "name",
+  "note": "New name box: goblin temporary lecturer. 17 chars (over ~16); alternative 'Goblin Lecturer' (15) drops 'temporary'."
+ },
+ {
+  "en": "\"In other words, the spirits stir up the mana of this land just enough to keep it circulating.\"{w}{p}\"It's thanks to the spirits, y'see, that mages can cast spells the same way anywhere they like, anytime.\"{w}{p}\"Priests are under the gods' protection from the start.{w}Since they're loved by beings outside the land, they receive blessings wherever they are.\"{w}{p}\"And then there's alchemy, known as the Ground spell system.{w}That one makes use of the land's mana circulation.\"{w}{p}\"All sorts of research is being done, but for now each alchemist gets results with their own techniques. Someday it'll all have to be merged and weeded out, eh.\"{w}",
+  "kind": "msg",
+  "note": "'Ground spell system' (katakana guraando), matching 'Reading' in 3044."
+ },
+ {
+  "en": "\"We still can't find Mirco, huh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's why I told him to use the lavatory before we came.{w}Well, when I picture him somewhere, desperate and blubbering, searching for him becomes quite a pleasure.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, even when we find him, we won't call out to him right away, right?{w}Mirco's so funny when he's flustered.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My, Elpina.{w}You're finally starting to get it, aren't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've been studying your methods, Sis.{w}Hee hee...\"{w}",
+  "kind": "msg",
+  "note": "Source writes 'nee-san' with the ordinary kanji here (usually the 'ane-san' variant); both rendered 'Sis'."
+ },
+ {
+  "en": "\"Hee hee hee hee...\"{w}",
+  "kind": "msg",
+  "note": "As Gurtia's 'Ufufufu' in slice 005."
+ },
+ {
+  "en": "\"Is it just me...?{w}I feel like some weird people have snuck into this school...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...How come?\"{w}{p}\"{11:0001:000D} and {11:0001:0014} have the same effect, don't they?\"{w}",
+  "kind": "msg",
+  "note": "The two inserts are presumably the single- and multi-target versions of one spell (see 3106)."
+ },
+ {
+  "en": "\"They do not!\"{w}{p}\"Listen. With spells that come in single-target and multi-target versions, the single-target one has higher power or success rate but only hits one enemy, while the multi-target one has lower power or success rate but can take on several.\"{w}{p}\"If you want to be sure of taking down one enemy, you should attack with the single-target one.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Still not convinced? Are you stupid or something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's up?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...L-love spells... even if you keep aiming at just one person... a-are they still hard to make work?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Weren't you listening to me? It's the same with {11:0001:0040}!{w}Even against a strong enemy, if you can charm them, you've got a shot at winning!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........{w}Um... that's not what I meant...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, then?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A-all this time, it's been you!{w}I've been watching yooouuu!!\"{w}",
+  "kind": "msg",
+  "note": "Senpai (she is his senior) folded into 'you'; the year gap is clear from 3138."
+ },
+ {
+  "en": "\"Oh, yeah.{w}Well, of course you have. I've been using {11:0001:003E}.\"{w}",
+  "kind": "msg",
+  "note": "'you have' answers 3124 (he has been watching her): her spell insert draws his gaze."
+ },
+ {
+  "en": "\"Huh? ...Whaaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...My {11:0001:003E}... that only works on you...\"{w}",
+  "kind": "msg",
+  "note": "Insert moved for English word order."
+ },
+ {
+  "en": "\"...Bang~\"{w}",
+  "kind": "msg",
+  "note": "Bakyuun = gunshot sound (heart-shot gesture); musical note -> '~'."
+ },
+ {
+  "en": "\"Th-then... could it be...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh. I'll be waiting, so hurry up and move up a year, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's no use, I just keep choosing remedial classes!{w}Even though I have to move up a yeeear!!\"{w}",
+  "kind": "msg"
+ }
+]

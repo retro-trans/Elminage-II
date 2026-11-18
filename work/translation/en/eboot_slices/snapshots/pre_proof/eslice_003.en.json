@@ -1,0 +1,362 @@
+[
+ {
+  "en": "%s's MP fell by 1 at every level",
+  "len": 21,
+  "note": "[JP] = the MP of every spell level | editorial: clearer (MP of every spell level); 'fell' as in the other stat messages"
+ },
+ {
+  "en": "%s's HP is now 9",
+  "len": 21
+ },
+ {
+  "en": "%s aged %s years",
+  "len": 19
+ },
+ {
+  "en": "%s died",
+  "len": 13
+ },
+ {
+  "en": "%s became 1 year younger",
+  "len": 19
+ },
+ {
+  "en": "Failed to call reinforcements",
+  "len": 15
+ },
+ {
+  "en": "The enemy called for help",
+  "len": 17
+ },
+ {
+  "en": "Summoning failed",
+  "len": 15
+ },
+ {
+  "en": "More monsters were called in",
+  "len": 25,
+  "note": "[JP] = the next group of monsters"
+ },
+ {
+  "en": "Escaped successfully!",
+  "len": 13
+ },
+ {
+  "en": "Failed to escape.",
+  "len": 17
+ },
+ {
+  "en": "Judgment fell upon the adventurers",
+  "len": 25,
+  "note": "Bell of Judgment effect"
+ },
+ {
+  "en": "Bell of Judgment: all die in %d turns",
+  "len": 33,
+  "note": "[JP] = Bell of Judgment (CHRTMPLT); [JP] = instant death"
+ },
+ {
+  "en": "guarded %s",
+  "len": 13,
+  "note": "continuation line (actor's name on the line before, like 'was petrified'); check in game"
+ },
+ {
+  "en": "%s",
+  "len": 7,
+  "note": "fragment: '%s [JP]' + next row '[JP]'; English keeps only the name so the pair reads 'X / was guarded.'; check in game"
+ },
+ {
+  "en": "was guarded.",
+  "len": 9,
+  "note": "second half of the '%s [JP]' / '[JP]' pair; check in game"
+ },
+ {
+  "en": "tried to steal",
+  "len": 13
+ },
+ {
+  "en": "No target",
+  "len": 13
+ },
+ {
+  "en": "stole an item",
+  "len": 17
+ },
+ {
+  "en": "had an item stolen",
+  "len": 19
+ },
+ {
+  "en": "Nothing to steal",
+  "len": 21
+ },
+ {
+  "en": "Can't carry any more items",
+  "len": 23
+ },
+ {
+  "en": "tried to strip equipment",
+  "len": 19,
+  "note": "[JP] = Strip"
+ },
+ {
+  "en": "stripped equipment",
+  "len": 13
+ },
+ {
+  "en": "had equipment stripped",
+  "len": 15
+ },
+ {
+  "en": "No equipment to strip",
+  "len": 23
+ },
+ {
+  "en": "kicked the foe flying",
+  "len": 13,
+  "note": "[JP] (kicked the foe flying); no object because the target is not in the string | accuracy: [JP] = kicked (the target) flying, not a jump kick; 'the foe' as in row 33"
+ },
+ {
+  "en": "landed an uppercut",
+  "len": 11,
+  "note": "[JP] (struck upward)"
+ },
+ {
+  "en": "landed a solid blow",
+  "len": 11,
+  "note": "[JP] (drove a blow in)"
+ },
+ {
+  "en": "was kicked flying",
+  "len": 15
+ },
+ {
+  "en": "took an uppercut",
+  "len": 15
+ },
+ {
+  "en": "took a solid blow",
+  "len": 13
+ },
+ {
+  "en": "Clean Hit=%d, Fail=%d",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "landed a solid blow, knocking the foe out",
+  "len": 21,
+  "note": "editorial: [JP] = 'landed a solid blow' as in the row 28 / 31 pair"
+ },
+ {
+  "en": "took a solid blow and was knocked out",
+  "len": 21,
+  "note": "editorial: [JP] = 'took a solid blow' as in row 31"
+ },
+ {
+  "en": "%s prevented the surprise attack",
+  "len": 21
+ },
+ {
+  "en": "The adventurers made a surprise attack",
+  "len": 19
+ },
+ {
+  "en": "%s prevented the surprise attack",
+  "len": 21,
+  "note": "same Japanese as 2 rows up except for the position of the space"
+ },
+ {
+  "en": "The enemy made a surprise attack",
+  "len": 15
+ },
+ {
+  "en": "  Attacker  %2d:%-20s\n",
+  "len": 21,
+  "note": "debug"
+ },
+ {
+  "en": "                Class = %-10s\n",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "                 Race = %-10s\n",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "                Level = %05d\n",
+  "len": 30,
+  "note": "debug"
+ },
+ {
+  "en": "                  Str = %2d\n",
+  "len": 29,
+  "note": "debug; [JP] read as strength"
+ },
+ {
+  "en": "              ElemAtk = (Fi%03d,Ic%03d,Th%03d,Ho%03d,Dk%03d)\n",
+  "len": 62,
+  "note": "debug; Fire/Ice/Thunder/Holy/Dark"
+ },
+ {
+  "en": "              Inflict = (Sl%03d,Ps%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)\n",
+  "len": 90,
+  "note": "debug; Sleep/Poison/Paralysis/Silence/Confusion/Charm/Stone/Decap/Drain"
+ },
+ {
+  "en": "  Defender  %2d:%-20s\n",
+  "len": 21,
+  "note": "debug"
+ },
+ {
+  "en": "                  Row = %s\n",
+  "len": 28,
+  "note": "debug"
+ },
+ {
+  "en": "Front",
+  "len": 5,
+  "note": "front row ([JP]); 2 refs, may also show outside the debug dump"
+ },
+ {
+  "en": "Back",
+  "len": 5,
+  "note": "back row ([JP])"
+ },
+ {
+  "en": "             SpellRes = (Mg%03d,Pr%03d,Al%03d,Sm%03d)\n",
+  "len": 55,
+  "note": "debug; Mage/Priest/Alchemy/Summon"
+ },
+ {
+  "en": "              ElemDef = (Fi%03d,Ic%03d,Th%03d,Ho%03d,Dk%03d)\n",
+  "len": 62,
+  "note": "debug"
+ },
+ {
+  "en": "              Resist = (Sl%03d,Ps%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)\n",
+  "len": 89,
+  "note": "debug; no refs: fits exactly (88 + NUL = 89); label column 20 as in the source"
+ },
+ {
+  "en": "[Chest Setup] Treasure table idx=%d\n",
+  "len": 30,
+  "note": "debug"
+ },
+ {
+  "en": " Qty=%d, ChestID=%d, Traps=%d, Type=%d:%s, \n",
+  "len": 48,
+  "note": "debug; no refs: 44 bytes in a 48-byte slot; [JP] (trap type) shortened to Type"
+ },
+ {
+  "en": "%s Seal=%d, Fail=%d",
+  "len": 19,
+  "note": "debug; %s = Weapon/Armor ([JP]/[JP] = Weapon Seal/Armor Seal)"
+ },
+ {
+  "en": "Weapon",
+  "len": 5
+ },
+ {
+  "en": "Armor",
+  "len": 5
+ },
+ {
+  "en": "%s broke",
+  "len": 11
+ },
+ {
+  "en": "%s hid",
+  "len": 13
+ },
+ {
+  "en": "tried to hide",
+  "len": 15
+ },
+ {
+  "en": "Barrier",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese; kept the 4-letter JOBABL form; 'Barrier' (used in the messages) if the skill menu has room | editorial: prefill 'Barr' (4-byte JOBABL cell) replaced; this slot has a reference, the skill labels use full words (Steal, Strip, Tarot, Breath) and the messages say 'Barrier'"
+ },
+ {
+  "en": "Spell Reflect Barrier",
+  "len": 13
+ },
+ {
+  "en": "Reflect Barrier",
+  "len": 9
+ },
+ {
+  "en": "Spell Nullify Barrier",
+  "len": 15
+ },
+ {
+  "en": "Nullify Barrier",
+  "len": 11
+ },
+ {
+  "en": "Spell Dampen Barrier (%d%%)",
+  "len": 19,
+  "note": "source has a full-width [JP] (literal, not a printf code); 'pct' because a bare % would be parsed by printf and %% fails the placeholder check | lead: %% (printf literal percent)."
+ },
+ {
+  "en": "Defense Barrier (%d%%)",
+  "len": 15,
+  "note": "full-width [JP] rendered as 'pct' (see previous row) | lead: %% (printf literal percent)."
+ },
+ {
+  "en": "It had no effect",
+  "len": 15
+ },
+ {
+  "en": "No message",
+  "len": 15,
+  "note": "debug? (placeholder for an unset message)"
+ },
+ {
+  "en": "Bald",
+  "len": 5,
+  "note": "status; SP_TEXT 104 says 'Went bald'"
+ },
+ {
+  "en": "0. The Fool",
+  "len": 9,
+  "note": "tarot card title shown when drawn"
+ },
+ {
+  "en": "The adventurers fell asleep",
+  "len": 19
+ },
+ {
+  "en": "The monsters fell asleep",
+  "len": 19
+ },
+ {
+  "en": "I. The Mage",
+  "len": 11,
+  "note": "tarot card; TAROT_TEXT/CHR say 'Mage' (copied from the class name) but the card is The Magician: align the data tables? | accuracy: lead decision (data_review_notes): tarot [JP] stays 'Mage' everywhere, as in TAROT_TEXT/CHR"
+ },
+ {
+  "en": "The adventurers' spell power rose",
+  "len": 25
+ },
+ {
+  "en": "The monsters' spell power rose",
+  "len": 25
+ },
+ {
+  "en": "II. The High Priestess",
+  "len": 11,
+  "note": "TAROT_TEXT short form 'Priestess' (10-byte cell)"
+ },
+ {
+  "en": "The adventurers were poisoned",
+  "len": 23
+ },
+ {
+  "en": "The monsters were poisoned",
+  "len": 23
+ }
+]

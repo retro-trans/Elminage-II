@@ -1,0 +1,363 @@
+[
+ {
+  "en": "Everyone looked unhappy about it, but this should calm things down a little beneath the castle.{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'beneath the castle', matching the 'things underground' lines in slice 059. Subject of [JP] (the defeated contestants) kept as 'everyone'."
+ },
+ {
+  "en": "The Referee is cleaning up after the Spirit Tournament.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's something so wistful about the end of a festival, isn't there...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The age of the Fire Elemental is comiiing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guess the age of the Fire Elemental never came...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're on top form this term!{w}We'll send Ifrit and Phoenix flying!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'we' (the Fire Elemental's side). [JP] -> 'send flying', as in the battle narration 3041."
+ },
+ {
+  "en": "\"Tch...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll let that guy have this Spirit Tournament.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = presumably the Fire Elemental who competes; left as 'that guy' (no gender implied beyond the casual register)."
+ },
+ {
+  "en": "\"Heh. The next Spirit Tournament, that's when I get my shot!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We Fire Elementals are done with our long years of burning low.\nNow is the time to rise up!{w}Onward, comrades!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'burning low' (keeps the fire pun: [JP] = waning). [JP] -> 'comrades' to fit the 'flame of revolution' line 3132."
+ },
+ {
+  "en": "The Fire Elemental headed for the ring.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sizzle, sizzle, sizzle...{w}And here I was, burning so nicely...{w}Where has the flame of revolution gone...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = smouldering sound, rendered 'Sizzle'."
+ },
+ {
+  "en": "\"BLAAASTERRR!{w}The fire kin's Spirit Tournament!{w}It's ours for the takiiing!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Buster/Blaster' shout; matches the Ifrit's Fire/Bomber/Number One shouts."
+ },
+ {
+  "en": "\"...Daaamn iiit!{w}If I'd been out there, this never would've happened...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"FIIIRE!!{w}Our boss is gonna wiiin, no matter what!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We lost, but... it was a fun tournament, right?{w}Come back and hang out again sometime!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"BOMBERRR!!{w}Burn, burn, burn it all dooown!!{w}Go get 'eeem! Our BOOOSS!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hahh... hahh...{w}W-while I wuz wadchin'...{w}I cheered so hard, by throad burned oud...\"{w}",
+  "kind": "msg",
+  "note": "Source voices every syllable (hoarse voice); rendered with nasal/hoarse spelling. Subject 'I' restored."
+ },
+ {
+  "en": "\"NUMBER ONE!!{w}With these well-honed flames, I'll turn that Phoenix Queen\ninto roast chicken! Let's go, you lot!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (yakitori) -> 'roast chicken'. [JP] -> 'you lot' (rough address to his own crew)."
+ },
+ {
+  "en": "Ifrit headed for the ring.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You got past me to become Number One!{w}Till we meet again, I'm leaving Number One in your hands!{w}Lose to anybody, and you'll answer to me!!\"{w}",
+  "kind": "msg",
+  "note": "Said to the party (the winners)."
+ },
+ {
+  "en": "\"Our Queen is the previous champion.{w}There's no way she'll lose this term either.\"{w}",
+  "kind": "msg",
+  "note": "Queen = the Phoenix Queen (female per glossary)."
+ },
+ {
+  "en": "\"...Hmph, don't get too full of yourselves, got it?{w}The Queen will rise back to the throne!{w}That's right, because she's a phoenix, the bird that never dies!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (lit. 'undying bird', the Japanese word for phoenix) unpacked so the pun survives."
+ },
+ {
+  "en": "\"There's nobody who can beat Her Majesty, I'm tellin' ya!{w}Fire Elemental, Ifrit, you oughta just give up already!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Her Majesty' (this Phoenix's address form) vs [JP] 'the Queen' in 3152/3154."
+ },
+ {
+  "en": "\"A walk-on entry or whatever, that's not fair!{w}What the heck, geez{w}Aaargh, geeeez!!\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing punctuation on the middle line; kept bare."
+ },
+ {
+  "en": "\"Her Majesty, y'know, has been winning and winning\never since I was a kid, all the waaay!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Her Majesty lost...{w}But she'll win next time, I just know it!{w}And someday, I'll be just like Her Majesty too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh-ho-ho-ho-ho!!{w}The rabble may be making a fuss, but riffraff are riffraff in the end.{w}There is simply no way they could ever match the likes of me!\"{w}{p}\"Now then, I suppose it is about time I entered the venue.{w}Without me, there would be no splendor at all, after all.{w}Oh-ho-ho-ho-ho-ho!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (affected posh 'I') -> 'the likes of me'; [JP] kept as prim, formal English."
+ },
+ {
+  "en": "The Phoenix Queen headed for the ring.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To think I would end up handing the championship to you.{w}Everyone was so worked up at this term's tournament, weren't they?{w}...I do hope nothing catastrophic is about to happen.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'something catastrophic' (a great upheaval); echoes the Referee's Contrachio remark in 3032."
+ },
+ {
+  "en": "Nishimikado",
+  "kind": "name",
+  "note": "Glossary form."
+ },
+ {
+  "en": "\"Adventurers, eh? What a coincidence, meeting you in a place like this!{w}Did you know?\nThis is the summit of the Churos Highlands: the keep.\"{w}{p}\"Thanks to my war banner,\nthese highlands are kept under guard.{w}You may adventure in peace... What?\"{w}{p}\"You want to change this banner?{w}What foolishness is this? Even if it were changed,\nwhich banner would you even put up...?\"{w}{p}\"...Don't tell me.{w}That one.{w}THAT banner!?\"{w}{p}\"Hmmm...{w}I have no intention of rejecting diversity out of hand.{w}But... won't you reconsider?\"{w}{p}\"No, is it?{w}That's the one you want?{w}...Hmmm... ...this is a predicament.\"{w}{p}\"Very well.{w}If you insist that much, we shall hold the handover ritual.{w}Did you think you could raise the guardian banner for nothing?\"{w}{p}\"The handover ritual is this: holding the banner\nyou mean to raise next, you must go once around\nthis place counterclockwise within the set time.\"{w}{p}\"Have you been looking closely at your map?{w}You'll see 'X' marks lined up along a single path.{w}That is the course.\"{w}{p}\"I shall now start the clock,\nand you must make one lap and return before it reaches 0.\"{w}{p}\"However, no detours along the way,\nand no teleporting by spell or the like.{w}Steel yourselves and go to it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = castle keep (the summit spot); [JP] -> 'kept under guard' / 'guardian banner'. [JP] = 'war banner', [JP] = 'banner' throughout (slice 017 called Rondelgius' item 'this flag'; the lead may align flag/banner). 'THAT banner' = Rondelgius' flag. [JP] -> 'the handover ritual'. [JP] -> 'counterclockwise'. Nishimikado's gender is unknown: no pronoun used."
+ },
+ {
+  "en": "Undertake the ritual?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Very well, here we go...{w}Ready...{w}Begin!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, have you, then!{w}It helps me a great deal that you've reconsidered!!\"{w}",
+  "kind": "msg",
+  "note": "Reply to the party declining the ritual."
+ },
+ {
+  "en": "\"What, you made it back in time!?{w}Hmmm, I have no choice but to acknowledge this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well! In place of my war banner,\nraise that banner of yours!!\"{w}",
+  "kind": "msg",
+  "note": "Source writes [JP] for [JP]; read as 'in place of'."
+ },
+ {
+  "en": "You pulled up Nishimikado's banner\nand drove Rondelgius's banner into the ground.{w}The air all around grew taut, and then...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what is this presence...!?{w}Is it coming from beneath us!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Was it because the banners were swapped?{w}From deep within the Churos Highlands,\nan ominous presence swells up!{w}{p}But neither you nor Nishimikado\ncould do anything about it...{w}First, you should report to Rondelgius.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Time's up!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the timer ran out."
+ },
+ {
+  "en": "\"Ha ha ha! What's the matter, is that all you've got?{w}Too bad, but with a showing like that,\nI can't let you change the guardian banner!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what do you think you're doing!?{w}Intruders! Guards, to me! Guaaards!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = period-drama call for the guard; rendered as a call for guards. Party is plural: 'Intruders'."
+ },
+ {
+  "en": "You sent Nishimikado flying.{w}",
+  "kind": "msg",
+  "note": "Same verb as 3041 'You sent them all flying'."
+ },
+ {
+  "en": "\"Impossible... to think I'd yield it in such a way.{w}No -- a defeated general has no right to talk tactics.{w}I shall acknowledge the diversity of rituals!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (proverb) -> 'a defeated general has no right to talk tactics'."
+ },
+ {
+  "en": "\"Train harder, and come back!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you made it back in time!?{w}Hmmm, I have no choice but to acknowledge this.\"{w}{p}\"...No, wait, wait, wait!{w}You lot, what happened to that pathetic banner?{w}You're not even carrying it, are you?\"{w}{p}\"Why did you throw it away?{w}No matter what others may think, if that banner is what you like,\nyou can raise it with your head held high, you know?\"{w}{p}\"...Well, I would hate it, mind you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'that pathetic banner' (Rondelgius' flag). Branch where the party ran the lap without the flag."
+ },
+ {
+  "en": "\"Adventurers, eh? What a coincidence, meeting you in a place like this!{w}Did you know?\nThis is the keep of the Churos Highlands.\"{w}{p}\"Thanks to my war banner,\nthese highlands are kept under guard.{w}You may adventure in peace!\"{w}",
+  "kind": "msg",
+  "note": "Shorter repeat greeting (no [JP] here)."
+ },
+ {
+  "en": "\"What, you actually quelled that presence!?{w}Nnnngh...{w}I suppose I have no choice but to acknowledge this...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I...{w}What a terrible thing I have done...\"{w}",
+  "kind": "msg",
+  "note": "Likely the line after the swap awakened the presence; 'I' kept as the first fragment per the source split."
+ },
+ {
+  "en": "This seems to be the royal tomb where\nthe ancestors of the ogres and goblins are buried.{w}{p}It's Montana who has business here.{w}It would be best to bring Montana along\nfrom Baroque Fort.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-this is it... our royal tomb...{w}It sure feels like something's gonna pop out...\"{w}{p}\"Hey, um, you guys...{w}Go... on ahead...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, so you've come at long last.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"HYAAAAAAH!?{w}I-it's heeere! A ghooost!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you're the one they call Montana?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-how do you know my name!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a silly child you are.{w}It's your ancestors' tomb,\nso of course there's folk here who know you.\"{w}",
+  "kind": "msg",
+  "note": "Speaker is Ubogenya (identified two rows later)."
+ },
+ {
+  "en": "\"Huh?{w}Th-that voice, I've heard it before...{w}Could it be... that old hag Ubogenya!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept rude-affectionate: 'old hag' (not softened to 'Granny')."
+ },
+ {
+  "en": "Ubogenya",
+  "kind": "name",
+  "note": "Glossary form."
+ },
+ {
+  "en": "\"Long time no see! You been keepin' well?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bohinyob",
+  "kind": "name",
+  "note": "Glossary form."
+ },
+ {
+  "en": "\"And I'm Bohinyob, the one who came\neven a generation before Ubogenya.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the head one generation before Ubogenya."
+ },
+ {
+  "en": "\"Never heard of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I was already dead by the time you were born.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Babis",
+  "kind": "name",
+  "note": "Glossary form."
+ },
+ {
+  "en": "\"And I am Bohinyob's drinking buddy!!\nThe kobold samurai, Babis, at your service!{w}'Tis only the back of the blade, I assure you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (striking with the blunt back of a sword) -> 'the back of the blade'; it pays off in slice 061 (2830: no back of the blade on a double-edged sword). [JP] -> archaic formal English."
+ },
+ {
+  "en": "\"Kobolds have nothing to do with this!{w}And what do you mean, drinking buddy!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let us not be so stiff about it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Since the old days, our kind\nhasn't been able to take the throne so easily, see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, you mean the bungee, right?{w}I did it, all proper!\"{w}",
+  "kind": "msg",
+  "note": "The new king's bungee jump (slices 048/049)."
+ },
+ {
+  "en": "\"Huh? Bungee?{w}That's nothing but a sideshow.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'sideshow' (entertainment, not the real test)."
+ },
+ {
+  "en": "\"It IS!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The chief of Baroque Fort, y'see,\nhas an important duty in this land.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'chief' (the ruler of Baroque Fort)."
+ },
+ {
+  "en": "\"An important duty? What's that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dunno.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Dunno'!?\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Montana echoes the answer in disbelief."
+ },
+ {
+  "en": "\"I dunno either, but it's important, apparently.\"{w}",
+  "kind": "msg",
+  "note": "Subject 'I' restored for Ubogenya."
+ },
+ {
+  "en": "\"Come to think of it, back when I was alive,\nI was told, 'Ask the Elf King for the details,' or some such.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'the Elf King' (not in glossary; generic title)."
+ },
+ {
+  "en": "\"Well, I dunno what it's for, but for now,\nyou've got to test your strength against your forebears and win.\"{w}",
+  "kind": "msg",
+  "note": "[JP] here = the previous heads (plural, per 2804 'all of us')."
+ },
+ {
+  "en": "\"We're fighting?{w}Ha ha, no way I'd lose,\nnot with all these guys on my side...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Montana counts the party on his side; next row (slice 061) undercuts it."
+ }
+]

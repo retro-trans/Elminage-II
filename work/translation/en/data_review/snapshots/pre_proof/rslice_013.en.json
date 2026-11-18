@@ -1,0 +1,323 @@
+[
+ {
+  "en": "Giant Zombie",
+  "max": 24
+ },
+ {
+  "en": "Ogre Crab",
+  "max": 24
+ },
+ {
+  "en": "Arch Summoner",
+  "max": 24
+ },
+ {
+  "en": "Living Statue",
+  "max": 24
+ },
+ {
+  "en": "Lich",
+  "max": 24
+ },
+ {
+  "en": "Damned",
+  "max": 24
+ },
+ {
+  "en": "Dragon Zombie",
+  "max": 24
+ },
+ {
+  "en": "Poison Dragon",
+  "max": 24
+ },
+ {
+  "en": "Onmyoji",
+  "max": 24
+ },
+ {
+  "en": "Flatwoods",
+  "max": 24
+ },
+ {
+  "en": "Arch Fairy",
+  "max": 24
+ },
+ {
+  "en": "Arch Renard",
+  "max": 24
+ },
+ {
+  "en": "Oreia",
+  "max": 24
+ },
+ {
+  "en": "Phoenix",
+  "max": 24
+ },
+ {
+  "en": "Ifrit",
+  "max": 24
+ },
+ {
+  "en": "Dhampir",
+  "max": 24
+ },
+ {
+  "en": "Gold Dragon",
+  "max": 24
+ },
+ {
+  "en": "Behemoth",
+  "max": 24
+ },
+ {
+  "en": "Phoenix Queen",
+  "max": 24
+ },
+ {
+  "en": "Red Fiend",
+  "max": 24
+ },
+ {
+  "en": "Old Lord Branet",
+  "max": 24
+ },
+ {
+  "en": "Godshade Ildraha",
+  "max": 24
+ },
+ {
+  "en": "Godshade Ashtel",
+  "max": 24
+ },
+ {
+  "en": "Godshade Rogera",
+  "max": 24
+ },
+ {
+  "en": "Godshade Void",
+  "max": 24
+ },
+ {
+  "en": "Godshade Naru",
+  "max": 24
+ },
+ {
+  "en": "Godshade Dehain",
+  "max": 24
+ },
+ {
+  "en": "Godshade Orses",
+  "max": 24
+ },
+ {
+  "en": "Godshade Sarijana",
+  "max": 24
+ },
+ {
+  "en": "Godshade Semnadoc",
+  "max": 24
+ },
+ {
+  "en": "Godshade Sinhanicol",
+  "max": 24
+ },
+ {
+  "en": "Omshokopo",
+  "max": 24
+ },
+ {
+  "en": "Radrecht",
+  "max": 24
+ },
+ {
+  "en": "Shirinmorin",
+  "max": 24
+ },
+ {
+  "en": "Raizam",
+  "max": 24
+ },
+ {
+  "en": "Wind Zone Omsis",
+  "max": 24
+ },
+ {
+  "en": "Fire Zone Rades",
+  "max": 24
+ },
+ {
+  "en": "Water Zone Shirins",
+  "max": 24
+ },
+ {
+  "en": "Earth Zone Raizas",
+  "max": 24
+ },
+ {
+  "en": "Wisdom Demon Beldoll",
+  "max": 24
+ },
+ {
+  "en": "Outer Demon-1",
+  "max": 24
+ },
+ {
+  "en": "Spirit Lord Branet",
+  "max": 24
+ },
+ {
+  "en": "Spirit Lady Eril",
+  "max": 24
+ },
+ {
+  "en": "Dodo King",
+  "max": 24
+ },
+ {
+  "en": "Sp. Advisor Kamikaze",
+  "max": 24
+ },
+ {
+  "en": "Vice Principal Kathleen",
+  "max": 24
+ },
+ {
+  "en": "Prof. Scheherazade",
+  "max": 24
+ },
+ {
+  "en": "Head of Yr McMahon",
+  "max": 24,
+  "note": "editorial: script name box is \"Head of Year McMahon\" (slice 054; lead decision); full form is 20 > min_max 18 (MONSTER3.CSV:6:59), so the script word order is kept with \"Yr\" abbreviated"
+ },
+ {
+  "en": "Principal",
+  "max": 24
+ },
+ {
+  "en": "Bd. Chair",
+  "max": 24
+ },
+ {
+  "en": "Undead Ogre",
+  "max": 24
+ },
+ {
+  "en": "Undead Goblin",
+  "max": 24
+ },
+ {
+  "en": "Undead Kobold",
+  "max": 24
+ },
+ {
+  "en": "Animacie",
+  "max": 24
+ },
+ {
+  "en": "Espel-Dex",
+  "max": 24
+ },
+ {
+  "en": "Samanbeia",
+  "max": 24
+ },
+ {
+  "en": "Berry Dromea",
+  "max": 24
+ },
+ {
+  "en": "Emperor Harold",
+  "max": 24
+ },
+ {
+  "en": "Apasha, the Abyss",
+  "max": 24
+ },
+ {
+  "en": "Ixgoil",
+  "max": 24
+ },
+ {
+  "en": "Dantarius",
+  "max": 24
+ },
+ {
+  "en": "Princess Harz",
+  "max": 24
+ },
+ {
+  "en": "Anti-World",
+  "max": 24
+ },
+ {
+  "en": "Nyoppurin",
+  "max": 24
+ },
+ {
+  "en": "Ira",
+  "max": 24
+ },
+ {
+  "en": "Dalisiamarte",
+  "max": 24
+ },
+ {
+  "en": "Light Fiend",
+  "max": 24
+ },
+ {
+  "en": "Proto Regiem",
+  "max": 24
+ },
+ {
+  "en": "Ordmystica",
+  "max": 24
+ },
+ {
+  "en": "Dina",
+  "max": 24
+ },
+ {
+  "en": "Potrif",
+  "max": 24
+ },
+ {
+  "en": "Meraden",
+  "max": 24
+ },
+ {
+  "en": "Wemlicht",
+  "max": 24
+ },
+ {
+  "en": "Shining Tusk",
+  "max": 24
+ },
+ {
+  "en": "Entropha",
+  "max": 24
+ },
+ {
+  "en": "Berte",
+  "max": 24
+ },
+ {
+  "en": "Costo",
+  "max": 24
+ },
+ {
+  "en": "Father Saines",
+  "max": 24
+ },
+ {
+  "en": "Sigret",
+  "max": 24
+ },
+ {
+  "en": "Rosetta",
+  "max": 24
+ }
+]

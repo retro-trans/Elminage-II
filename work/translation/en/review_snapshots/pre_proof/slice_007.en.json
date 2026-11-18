@@ -1,0 +1,344 @@
+[
+ {
+  "en": "\"...You look happy.\nIs that how you used to be?\"{w}{p}\"Heh... That's a lovely smile.\nYou must have been pushing yourself terribly hard all this time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well...{w}I had to... fight... so...\"{w}{p}\"Besides, in front of you lot, I wouldn't look the part if I didn't talk like that, would I?\"{w}",
+  "kind": "msg",
+  "note": "Japanese full-width indent after {w} dropped. 'talk like that' = her earlier archaic, imperious speech (we/thou register in 1064-1069). Editorial: reordered the stacked clauses of page 2 ('facing you lot, if I didn't..., I wouldn't...') for spoken flow; meaning unchanged."
+ },
+ {
+  "en": "\"But I'm fine now!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Is that really so?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What do you mean, 'is that really so'?\"{w}",
+  "kind": "msg",
+  "note": "Echoes Zeshrom's 1098 'Is that really so?' so the quote lands."
+ },
+ {
+  "en": "\"I simply cannot believe that they wish for your return.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What are you saying?\nQuit making such nasty accusations.\"{w}{p}\"These kids went to the trouble of tracking down my name, and they called me by it, just like this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course they're happy I came back!{w}Riiight?\"{w}",
+  "kind": "msg",
+  "note": "Source ends with a music note (singsong); rendered as drawn-out 'Riiight?' since ASCII only."
+ },
+ {
+  "en": "\"Then perhaps you should ask them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what's that supposed to mean...{w}......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're happy I came back, right?{w}I mean... I... um...{w}",
+  "kind": "msg",
+  "note": "No closing quote, as in the source; the line is redrawn and completed by 1114."
+ },
+ {
+  "en": "{0E}\"You're happy I came back, right?\nI mean... I... um...{0F}\nI-it was okay for me to come back... wasn't it?\"{w}",
+  "kind": "msg",
+  "note": "The {0E}...{0F} span must repeat 1112 word for word (redraw of the previous text); the \\n breaks mirror where 1112's {w} breaks fall."
+ },
+ {
+  "en": "\"Look at what they hold in their hands.{w}They are gathering divine relics for Fiona, so that this land never passes to you, you see.\"{w}{p}\"Well, from their point of view...\"{w}{p}\"they could hardly bear to lose everything they have built up to this day to an upheaval as vast as one land replacing another.\"{w}",
+  "kind": "msg",
+  "note": "'Daichi no koutai' rendered as 'the land being replaced' (Urna's land replacing Fiona's). Page 2 ends mid-sentence and page 3 continues it, as in the source. Editorial: 'in an upheaval as great as the land being replaced' -> 'to an upheaval as vast as one land replacing another' (idiomatic 'lose X to Y'; clearer that Urna's land would replace Fiona's, cf. 'Fiona's land' 1124). Accuracy recheck requested."
+ },
+ {
+  "en": "\"...That can't be.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why are they searching for the divine relics?\nYou said it yourself, did you not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The reason these kids... are gathering the relics?{w}The reason is... um...{w}to protect... Fiona's... sovereignty...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"When they first settled in this land, I suppose they truly meant, in their own way, to keep their vow to you. I won't deny that much. However...\"{w}{p}\"As time went by and they learned they could get along just fine in Fiona's land, they chose the Fiona they had grown used to over waiting for your return.\"{w}{p}\"With each new generation, that inconvenient vow from the past was buried deeper in the dust.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As far as they are concerned, the land need only be there. 'Who' that land is means nothing to such short lives.\"{w}",
+  "kind": "msg",
+  "note": "'Who' in single quotes for the source's double-bracket emphasis: the land is a person (its goddess)."
+ },
+ {
+  "en": "\"Stop it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Your awakening is just a troublesome affair that disturbs the peace--nothing but a nuisance to them.{w}No one wants you back at all!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I told you to STOP!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No... th-that's a lie...{w}But...\nyou called... my name, didn't you...\"{w}{p}\"No... this is a lie...{w}I-it's a liiiie!\nNOOOOOOOOOOOO!!\"{w}",
+  "kind": "msg",
+  "note": "Subject of 'called my name' is unstated; read as addressed to the party ('you'), as in 1081 and 1112 where she pleads with them directly. Could also be 'they'."
+ },
+ {
+  "en": "\"D-damn iiit... Why...!\nI... for your sake... even my life...{w}Fiona... Dehain... it's them...\"{w}{p}\"Why do they always, always, ALWAYS take away the things that are precious to me!?\"{w}{p}\"The life that had finally come into the world, the Four Sages...\nFather, and Sarijana too!{w}And now, my future walking beside these kids!\"{w}{p}\"Fi... o... naaaaaaa!!\"{w}",
+  "kind": "msg",
+  "note": "'I... for your sake... even my life...' kept as a deliberate trail-off (verb unsaid in the source). 'Sarijana-sama' honorific dropped: glossary gender for Sarijana is unknown, so no Lord/Lady. 'Father' = o-tousama, identity not stated here."
+ },
+ {
+  "en": "\"We shall make a place for you to belong.{w}Espel-Dex will... no, I{w}will guarantee your future, and I shall never betray you.\"{w}",
+  "kind": "msg",
+  "note": "Cut at the {w} after 'I' matches the source's self-correction. Editorial: 'promise you your future' -> 'guarantee your future' (awkward double object)."
+ },
+ {
+  "en": "\"Uuh... ngh... *hic*...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lady Urna.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......All right.{w}I'm going back. To Contrachio.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please wait--before we return, the divine relics...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't need them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pardon?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If they want them, let them have them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What do you mean by that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You need eight divine relics to gain sovereignty over the land?{w}Hah! What rubbish!!\"{w}{p}\"That was only ever something Dehain decided.\nI just played along with that little game!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha--!? N-no, but...\nwithout the divine relics, carving your name into Contrachio is...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up!!\nI am the Zefkaka, even without such things!\"{w}{p}\"Whatever Dehain says,\nwhatever this lot says!{w}I'm the one who created life, nurtured it, and saved it!\"{w}{p}\"I'm the one who should be the Earth Goddess!!\"{w}",
+  "kind": "msg",
+  "note": "Zefkaka used as a role ('the Zefkaka') per glossary note. 'this lot' = koitsura (rude), the party."
+ },
+ {
+  "en": "\"...I will never lose.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you choose Fiona, then you're my enemies now.\nCome to Contrachio, if you dare!!\"{w}{p}\"I'll destroy you along with this whole land!{w}I won't save you anymore! I'll slaughter every last one of you!!{w}This time, I'm going to win, no matter what!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"P-please wait... Lady Urna!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna and Zeshrom departed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even ingratitude has its limits!{w}You are no longer worth letting live!\"{w}{p}\"I shall bury you with my own hands, so go on and perish, cursing yourselves for choosing Fiona!!\"{w}",
+  "kind": "msg",
+  "note": "Speaker '???' is Urna's imperious voice (same opening as 1072) on the branch where the party does not name her; archaic register kept. Editorial: same source phrase as 1072 (slice 006, 'Even ingratitude has its lim--?!', cut off there); now completed with the same wording so the recurring line matches."
+ },
+ {
+  "en": "\"Damn it...{w}You'll pay for this... all of you, I swear...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Glaring at you with eyes full of hatred,\nUrna departed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So I've found you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A demon appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I have come to take not only that divine relic,\nbut every divine relic you possess.{w}Now, be good and hand them all over!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you won't hand them over, no matter what.{w}Then come to Contrachio.{w}{p}\"My powerful subordinates will be sure to show you some hospitality.\"{w}",
+  "kind": "msg",
+  "note": "Speaker field says Zeshrom (key 1182, presumably a repeated Zeshrom name box, is missing as a duplicate), so the demon of 1179-1181 is Zeshrom. The source's first quote is never closed before the second opens; mirrored as is."
+ },
+ {
+  "en": "Mistress",
+  "kind": "name"
+ },
+ {
+  "en": "\"Settling a battle of wits with brute force...{w}How crude of you lot.\"{w}",
+  "kind": "msg",
+  "note": "Source typo 'shiyou' written with the wrong kanji (private use); read as 'trying to settle'."
+ },
+ {
+  "en": "You routed Mistress.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take the {0C:0003:0010}?",
+  "kind": "data",
+  "note": "Insert is presumably the relic name from the list 1190-1197 (no article in those names, hence 'the')."
+ },
+ {
+  "en": "Sword of Wrath",
+  "kind": "data"
+ },
+ {
+  "en": "Shield of Compassion",
+  "kind": "data"
+ },
+ {
+  "en": "Tiara of Hope",
+  "kind": "data"
+ },
+ {
+  "en": "Breastplate of Intellect",
+  "kind": "data"
+ },
+ {
+  "en": "Bracelet of Harmony",
+  "kind": "data"
+ },
+ {
+  "en": "Shoes of Courage",
+  "kind": "data"
+ },
+ {
+  "en": "Anklet of Joy",
+  "kind": "data"
+ },
+ {
+  "en": "Earring of Sorrow",
+  "kind": "data",
+  "note": "New name. Follows the glossary pattern of Earring of Vengeance (piasu = pierced earring)."
+ },
+ {
+  "en": "You decided not to pray.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You prayed at the {0C:0003:0010}.{w}",
+  "kind": "msg",
+  "note": "Insert is presumably an altar name from 1205-1210, hence 'prayed at the'. If the insert turns out to be a god name, change to 'You prayed to {0C:0003:0010}.'"
+ },
+ {
+  "en": "Pray at the {0C:0003:0010}?",
+  "kind": "data",
+  "note": "Same assumption as 1201."
+ },
+ {
+  "en": "Altar of Orses",
+  "kind": "data"
+ },
+ {
+  "en": "Altar of Sarijana",
+  "kind": "data"
+ },
+ {
+  "en": "Altar of Rogera",
+  "kind": "data"
+ },
+ {
+  "en": "Altar of Semnadoc",
+  "kind": "data"
+ },
+ {
+  "en": "Altar of Sinhanicol",
+  "kind": "data"
+ },
+ {
+  "en": "Altar of Dehain",
+  "kind": "data"
+ },
+ {
+  "en": "Spinner{w}",
+  "kind": "op096",
+  "note": "Classic Wizardry term for a rotating floor tile. Alternative: 'Rotating Floor'."
+ },
+ {
+  "en": "Chute{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "* Light spell active",
+  "kind": "op0fb",
+  "note": "Source begins with a black square marker (non-ASCII), replaced by '*'. These two op0fb rows look like script branch labels (with / without the light spell) and may never be shown; check before shipping."
+ },
+ {
+  "en": "* No light spell",
+  "kind": "op0fb",
+  "note": "See 2538."
+ },
+ {
+  "en": "{0A:0003:0000} sensed a presence.{w}",
+  "kind": "op031"
+ },
+ {
+  "en": "Secret Door{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "There is a locked door.",
+  "kind": "msg"
+ },
+ {
+  "en": "Open it?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will unlock it?",
+  "kind": "op093",
+  "note": "kaijou = unlocking (by key or picking); kept neutral as 'unlock'."
+ },
+ {
+  "en": "The lock opened.",
+  "kind": "msg"
+ },
+ {
+  "en": "The lock wouldn't open.",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a switch. Press it?",
+  "kind": "data"
+ }
+]

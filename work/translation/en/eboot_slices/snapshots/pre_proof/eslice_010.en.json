@@ -1,0 +1,399 @@
+[
+ {
+  "en": "Elf",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Dwarf",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Gnome",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Hobbit",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Fairy",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Werebeast",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Dragonewt",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Devilish",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Magic Puppet",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ogre",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Goblin",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Arcane",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Undead",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Spirit",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Insect",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Animal",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Mythic",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ghost",
+  "len": 3,
+  "note": "monster type [JP]; \"Spirit\" is already [JP] in the same list, so \"Ghost\" keeps them apart (CSV has no English for [JP] yet)"
+ },
+ {
+  "en": "Dragon",
+  "len": 3,
+  "note": "monster type (CSV has no English for [JP] yet)"
+ },
+ {
+  "en": "Beastkin",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Giant",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Godshade",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Junk",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Sword",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Dagger",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Katana",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Spear",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Axe",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Hammer",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Mace",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Club",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Bow",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Whip",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Staff",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Weapon",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Book",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Shield",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Helm",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Hat",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Armor",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Breastplate",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Chain Mail",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Leather Armor",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Robe",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Gauntlets",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Boots",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Cloak",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Belt",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Amulet",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Ring",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Ankh",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Potion",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Scroll",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Instrument",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Tarot Card",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Mystic Item",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Material",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "?Other",
+  "len": 9,
+  "note": "unidentified item type, as ITEM [JP] = Other"
+ },
+ {
+  "en": "Shield",
+  "len": 3
+ },
+ {
+  "en": "Helm",
+  "len": 3
+ },
+ {
+  "en": "Armor",
+  "len": 3
+ },
+ {
+  "en": "Gauntlets",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Boots",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Finas Rade",
+  "len": 19,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "'Morning of Ruin'",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Mistress",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Surge of Destruction",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "A New Myth Begins",
+  "len": 19,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Supervisor Archelon",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Nonhared",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Donnelkral",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Escapra",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Urna",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Zeshrom",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "B.R. Mistress",
+  "len": 19,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ancient Evil & Dark Kin",
+  "len": 21,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Urna-Zefkaka",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Silent Beast",
+  "len": 19,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Angelo",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Gate of the Underworld",
+  "len": 9,
+  "note": "prefill was the budget-forced \"Underworld Gt.\"; this string has references, so the glossary form is used"
+ }
+]

@@ -1,0 +1,370 @@
+[
+ {
+  "en": "Attacks drawn to an ally",
+  "len": 17,
+  "note": "target side party"
+ },
+ {
+  "en": "Attacks drawn to an enemy",
+  "len": 17,
+  "note": "target side enemy"
+ },
+ {
+  "en": "Went into hiding",
+  "len": 7,
+  "note": "party side (the hider is ours)"
+ },
+ {
+  "en": "Lost sight of the enemy",
+  "len": 13,
+  "note": "enemy side"
+ },
+ {
+  "en": "An ally's AC rose by 7",
+  "len": 19,
+  "note": "single-target AC debuff (Wizardry AC: higher is worse); target side party"
+ },
+ {
+  "en": "An enemy's AC rose by 7",
+  "len": 15,
+  "note": "target side enemy"
+ },
+ {
+  "en": "Party's AC rose by 4",
+  "len": 25,
+  "note": "target side party"
+ },
+ {
+  "en": "Enemy's AC rose by 4",
+  "len": 21,
+  "note": "target side enemy | editorial: enemy side written 'Enemy's' as in the slice 001 pairs (speed, spell resistance)"
+ },
+ {
+  "en": "Everyone's AC fell by 3",
+  "len": 21
+ },
+ {
+  "en": "Everyone's AC fell by 2",
+  "len": 21
+ },
+ {
+  "en": "Exorcism: double damage",
+  "len": 25,
+  "note": "Exorcism as in JOBABL"
+ },
+ {
+  "en": "Blessing of Dark Oblivion",
+  "len": 11,
+  "note": "as SP_TEXT"
+ },
+ {
+  "en": "Damage x%s",
+  "len": 15
+ },
+ {
+  "en": "Ambushed them from the shadows!",
+  "len": 23
+ },
+ {
+  "en": "Got ambushed from the shadows",
+  "len": 23
+ },
+ {
+  "en": "Launched a swift attack!",
+  "len": 23
+ },
+ {
+  "en": "Hit by a swift attack",
+  "len": 25
+ },
+ {
+  "en": "Strafe Pursuit",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese; was \"Strafe\" (JOBABL budget form); this battle label has refs, full form per review_notes"
+ },
+ {
+  "en": "Pursuit",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese; was \"Purs\" (JOBABL budget form); full form per review_notes"
+ },
+ {
+  "en": "fell asleep",
+  "len": 15,
+  "note": "predicate for \"%s %s\" / \"Everyone %s\"; party-side form"
+ },
+ {
+  "en": "fell asleep",
+  "len": 7,
+  "note": "enemy-side form of the same status"
+ },
+ {
+  "en": "was poisoned",
+  "len": 15,
+  "note": "party-side form"
+ },
+ {
+  "en": "was poisoned",
+  "len": 11,
+  "note": "enemy-side form: the Japanese says (we) inflicted poison, but the named unit is the victim, so English passive"
+ },
+ {
+  "en": "was paralyzed",
+  "len": 9
+ },
+ {
+  "en": "was silenced",
+  "len": 9
+ },
+ {
+  "en": "was confused",
+  "len": 9
+ },
+ {
+  "en": "was charmed",
+  "len": 11,
+  "note": "party-side"
+ },
+ {
+  "en": "was charmed",
+  "len": 9,
+  "note": "enemy-side form (JP active); the named unit is the victim"
+ },
+ {
+  "en": "was petrified",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "was decapitated",
+  "len": 15,
+  "note": "party-side"
+ },
+ {
+  "en": "was decapitated",
+  "len": 11,
+  "note": "enemy-side form (JP active); the named unit is the victim"
+ },
+ {
+  "en": "was level drained",
+  "len": 21,
+  "note": "party-side"
+ },
+ {
+  "en": "was level drained",
+  "len": 19,
+  "note": "enemy-side form (JP active)"
+ },
+ {
+  "en": "Everyone %s",
+  "len": 9,
+  "note": "%s = status predicate"
+ },
+ {
+  "en": "%s %s",
+  "len": 7,
+  "note": "name + predicate; also name + \"<n> damage taken\" for trap damage"
+ },
+ {
+  "en": "was cursed",
+  "len": 9,
+  "note": "party-side"
+ },
+ {
+  "en": "was cursed",
+  "len": 7,
+  "note": "enemy-side form (JP active)"
+ },
+ {
+  "en": "died",
+  "len": 9,
+  "note": "predicate; also shown on its own (3 direct uses): check in game"
+ },
+ {
+  "en": "turned to ash",
+  "len": 9
+ },
+ {
+  "en": "was struck with fear",
+  "len": 13
+ },
+ {
+  "en": "Was spotted",
+  "len": 11,
+  "note": "a hidden unit on the party side was found"
+ },
+ {
+  "en": "Spotted the enemy",
+  "len": 9,
+  "note": "a hidden enemy was found"
+ },
+ {
+  "en": "Stayed hidden",
+  "len": 17,
+  "note": "party-side hider not found; read from the side pairing, check in game"
+ },
+ {
+  "en": "Enemy remains hidden",
+  "len": 13
+ },
+ {
+  "en": "Counterattacked!",
+  "len": 13,
+  "note": "party side"
+ },
+ {
+  "en": "Enemy counterattacked!",
+  "len": 15,
+  "note": "enemy side"
+ },
+ {
+  "en": "Is protected",
+  "len": 13
+ },
+ {
+  "en": "Hew",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Trigger=%d, Fail=%d",
+  "len": 17,
+  "note": "debug? probability readout"
+ },
+ {
+  "en": "Missed",
+  "len": 7
+ },
+ {
+  "en": "Nullified the drain",
+  "len": 21
+ },
+ {
+  "en": "The drain was nullified",
+  "len": 23
+ },
+ {
+  "en": "Dispel",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Success=%d, Fail=%d",
+  "len": 17,
+  "note": "debug? probability readout"
+ },
+ {
+  "en": "Lifted the curse",
+  "len": 13
+ },
+ {
+  "en": "The curse was lifted",
+  "len": 15
+ },
+ {
+  "en": "No effect",
+  "len": 11
+ },
+ {
+  "en": "Failed",
+  "len": 9
+ },
+ {
+  "en": "Nullified it",
+  "len": 11
+ },
+ {
+  "en": "It was nullified",
+  "len": 13
+ },
+ {
+  "en": "Reflected it",
+  "len": 9
+ },
+ {
+  "en": "Reflected",
+  "len": 11,
+  "note": "no refs, 11-byte slot (passive form; \"It was reflected\" does not fit)"
+ },
+ {
+  "en": "It was absorbed",
+  "len": 11
+ },
+ {
+  "en": "Absorbed it",
+  "len": 9
+ },
+ {
+  "en": "Trigger=%d, Resist=%d",
+  "len": 17,
+  "note": "debug? probability readout"
+ },
+ {
+  "en": "%s was cured",
+  "len": 15,
+  "note": "%s = ailment name from a table (e.g. \"Poison was cured\")"
+ },
+ {
+  "en": "Maid Recover",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Recovery Phase",
+  "len": 19
+ },
+ {
+  "en": "HP recovered",
+  "len": 15
+ },
+ {
+  "en": " hits!",
+  "len": 11,
+  "note": "suffix after a number (\"3 hits!\"): leading space added"
+ },
+ {
+  "en": " damage",
+  "len": 11,
+  "note": "suffix after a number (\"25 damage\"): leading space added"
+ },
+ {
+  "en": "Hit!",
+  "len": 9,
+  "note": "single-hit line; the damage line follows"
+ },
+ {
+  "en": "Effect of The Hermit tarot",
+  "len": 19,
+  "note": "tarot name as in the item tables"
+ },
+ {
+  "en": "Suffering from poison",
+  "len": 21
+ },
+ {
+  "en": "Each surviving member gained\n%10u GP",
+  "len": 45
+ },
+ {
+  "en": "Each surviving member gained\n%10llu EP\n%10u GP",
+  "len": 63,
+  "note": "EP kept as in the source (EP vs EXP still open)"
+ },
+ {
+  "en": "Oops! %s!",
+  "len": 15,
+  "note": "%s = trap name"
+ },
+ {
+  "en": "A Mimic appeared",
+  "len": 17
+ },
+ {
+  "en": "%s dodged",
+  "len": 13
+ },
+ {
+  "en": " damage taken",
+  "len": 17,
+  "note": "suffix after a number, then \"%s %s\" gives \"Name 25 damage taken\" (word order fixed by the code)"
+ }
+]

@@ -1,0 +1,343 @@
+[
+ {
+  "en": "\"For my new home~ somewhere cooler than here would be nice, mogu~{w}Where should I go, mogu~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Loipes Cave would be good, mogu!!{w}I want you to help me find a big chamber on the very lowest floor of Loipes Cave, mogu!\"{w}",
+  "kind": "msg",
+  "note": "genshitsu = Wizardry-style chamber/room."
+ },
+ {
+  "en": "\"Mogeee!?{w}There's no place for me to fit, moguuu!?{w}I'll go make a place I can fit into, mogu!!\"{w}",
+  "kind": "msg",
+  "note": "Mogu used as Raizam's first person ('mogu ga hairu basho') rendered as I/me. Presumably the chamber found is too small, so Raizam digs one."
+ },
+ {
+  "en": "\"I'm all weak from this heat, mogu!{w}I want you to carry delicate little me gently, mogu~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Are you ready, mogu?{w}I'm all set, mogu~{w}Let's hurry up and go, mogu~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Footbath Attendant",
+  "kind": "name",
+  "note": "Glossary form (18 chars, over the ~16 name-box guide); check fit in game."
+ },
+ {
+  "en": "\"Heerdahl's famous footbath hall is this way!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Splash, splash as you walk,\nand give your heart and body a re-fre~~~sh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, you mustn't.\nComing into a place like this.\"{w}{p}\"What's the matter? Do you want me to play with you?{w}Such an incorrigible child.\"{w}",
+  "kind": "msg",
+  "note": "shouganai ko ne: toying, addresses the party as a child; same tone in 2681."
+ },
+ {
+  "en": "\"In that case, let's have a battle of wits, you and I.{w}If you can win, I'll give you the Breastplate of Intellect.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?{w}You want me to stop the killing in the arena too?\"{w}{p}\"How kind of you. Fine, I'll put a stop to it.{w}If you can entertain me some other way... with this battle of wits, that is.\"{w}",
+  "kind": "msg",
+  "note": "The party's request is implied (no choice row); read as the party asking her to end the arena death matches as well."
+ },
+ {
+  "en": "\"Let's use this glass of water and some coins.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The rules are simple.{w}We take turns sinking 1 to 3 coins\ninto this glass.\"{w}{p}\"Whoever makes the glass overflow first loses.{w}Simple, isn't it?{w}Well then, shall we begin?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh...!!{w}That I would...{w}...ever see the day I lose at a game...\"{w}{p}\"......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll accept it. I lose this game.{w}You were good, all of you.{w}As promised, I'll give you the Breastplate of Intellect.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Breastplate of Intellect.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The arena too, wasn't it.\nPity. I'll turn it into some other facility...\"{w}{p}\"Say, since I've conceded this much,\nyou'll teach me some other fun thing, won't you?{w}Hehehe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Losing stings, but...{w}I haven't felt like that in a long time.{w}...It was so much fun.\"{w}{p}\"Don't you dare say this is goodbye, okay?{w}You'll come and play again, won't you? I'll be waiting...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, all over.{w}I thought you'd hold out a little longer.{w}You hopeless child.\"{w}{p}\"Come again.{w}I'll play with you any time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...Rout Mistress?",
+  "kind": "data",
+  "note": "Prompt object unstated in the source; name used to avoid a gendered pronoun."
+ },
+ {
+  "en": "\"...What a boring bunch.{w}What a waste of my hopes. Do as you please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, back again?{w}Fine, I'll take you on as many times as you like.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You came to see me. I'm so glad.{w}What will it be today?\nI've prepared this kind of game too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Won't you try it?{w}I owe you some payback for my loss, after all.{w}Mmhehe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mistress Bud",
+  "kind": "name",
+  "note": "Glossary note form. tsubomi = bud, i.e. the Mistress's successor-in-training."
+ },
+ {
+  "en": "\"Welcome to Heerdahl.{w}...The previous Mistress?{w}They left, saying the fun had been spoiled.\"{w}{p}\"A game is fun because it has rules.{w}Those who cannot share in that fun are to be\nasked to leave. Those are my instructions.\"{w}{p}\"...Good day to you, you boring people.\"{w}",
+  "kind": "msg",
+  "note": "'They' = the previous Mistress (gender not established). Shown after the party chose to rout Mistress (2684)."
+ },
+ {
+  "en": "{0A:0003:000F}'s alignment changed to Evil.{w}",
+  "kind": "msg",
+  "note": "seikaku = alignment, as in slice 000."
+ },
+ {
+  "en": "{0A:0003:000F}'s alignment changed to Good.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, your turn.{w}How many will you put in for me, I wonder?{w}Hehe... I can't wait~\"{w}",
+  "kind": "msg",
+  "note": "The coin game is written as sexual double entendre (ireru = put in); English keeps 'put in' throughout so the innuendo carries at the same strength."
+ },
+ {
+  "en": "\"Come on, it's your turn.{w}Put in as many as you like,\nif you think you can take it!\"{w}",
+  "kind": "msg",
+  "note": "ireru mono nara = 'if you can manage to put them in'; rendered as a taunt."
+ },
+ {
+  "en": "Choose how many coins.",
+  "kind": "data"
+ },
+ {
+  "en": "You put in 1 coin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, is that all?{w}...You can put in more, you know?{w}Or would you rather enjoy it slowly?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What are you holding back for?{w}You really want to put in more, don't you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You put in 2 coins.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come on, you have to put it in gently...{w}Could it be you're nervous?{w}Shall I take the lead for you... hehe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Would you stop copying me?{w}You nasty thing...!!\"{w}",
+  "kind": "msg",
+  "note": "iyarashii hito: both 'sly' (mirroring her move) and 'lewd'; 'nasty' covers both."
+ },
+ {
+  "en": "You put in 3 coins.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No way, you're putting in that many?{w}It's going to overflow, honestly...{w}You're so impatient.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, stop it!{w}If you put that many in all at once... ah, no...\nI can't believe it... no... not like this...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My turn. Now then...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My turn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mistress put in 1 coin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mistress put in 2 coins.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mistress put in 3 coins.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Coming all the way to Heerdahl, and even playing\nlittle games like this with me... are you sure that's okay?{w}If we're doing this, let's enjoy it all the way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How about this much?{w}...Still fine?{w}Then I'll torment you some m-o-r-e~\"{w}",
+  "kind": "msg",
+  "note": "ijimete a-ge-ru: syllable-split teasing kept as m-o-r-e."
+ },
+ {
+  "en": "\"What's wrong?{w}You won't win if you let your eyes wander, you know?{w}Not that I mind how much you look at me... hmm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come at me for real, okay?{w}This is a game for two to enjoy.{w}I want to feel those shivers again, it's been so long...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hey, once this game is over, you know,\nhow about we try a different kind of play next?{w}I bet you'll get hooked... mmhehehe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Me, beaten by mere adventurers?{w}I won't accept it, I won't accept... this!{w}Ngh... ugh...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now hold on a minute...???{w}This is going badly...{w}I have to do something... Tch!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're pretty good...{w}Maybe I should get serious too?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The moment you put in your coins,\nthe water overflowed from the glass!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my~, did it come spilling out?{w}Spilling so mu~ch of it... hee hee.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahh...{w}No, hold it in... noooo...!\"{w}",
+  "kind": "msg",
+  "note": "Her own losing line: 'dame yo, gaman shite' read as her pleading with herself/the glass; innuendo kept."
+ },
+ {
+  "en": "The moment Mistress put in coins,\nthe water overflowed from the glass!!{w}",
+  "kind": "msg",
+  "note": "No possessive pronoun: Mistress's gender is not established."
+ },
+ {
+  "en": "Put in 1 coin",
+  "kind": "data"
+ },
+ {
+  "en": "Put in 2 coins",
+  "kind": "data"
+ },
+ {
+  "en": "Put in 3 coins",
+  "kind": "data"
+ },
+ {
+  "en": "Echo",
+  "kind": "name"
+ },
+ {
+  "en": "\"Milk-!{w}Anybody want some milk!?{w}Echo's milk!!\"{w}{p}\"It's goat's milk, packed with nutrition!{w}1000 GP and it's yours~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Buy some?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Yay, sold~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mister Goa~at, if you plea~se!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Back Door Voice",
+  "kind": "name",
+  "note": "ura-guchi kara kikoeru koe = 'voice heard from the back door'; shortened for the name box."
+ },
+ {
+  "en": "\"BMOOOOOOOOH!!\"{w}",
+  "kind": "msg",
+  "note": "The 'goat' bellows like a huge beast (see 2915)."
+ },
+ {
+  "en": "You drank the milk.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank youuu!{w}Come again~~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Awww, you cheapskaaate~!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A gigantic beast is tethered behind the shop!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Giant Beast",
+  "kind": "name"
+ },
+ {
+  "en": "Sauna Vendor",
+  "kind": "name"
+ },
+ {
+  "en": "\"Anyone want a sauna~?{w}I'll give you a good price~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, thank you kindly!{w}That'll be 25000 GP!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hrrraaah!{w}One sauna, comin' riiight up!!\"{w}",
+  "kind": "msg",
+  "note": "darasshaa: wrestling-style battle cry; rendered as a shout."
+ },
+ {
+  "en": "A huge pile of lumber was stacked\nin front of you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can build it with just nails and a hammer!{w}Thanks for your business!!\"{w}",
+  "kind": "msg",
+  "note": "The joke: the 'sauna' is a pile of lumber to build yourself."
+ },
+ {
+  "en": "You couldn't carry it all.{w}",
+  "kind": "msg",
+  "note": "Probably the full-inventory branch; subject (the party) restored."
+ },
+ {
+  "en": "\"What's that supposed to mean!?\"{w}",
+  "kind": "msg",
+  "note": "nan da sorya: vendor's reaction; branch not certain (refusal or unable to carry)."
+ }
+]

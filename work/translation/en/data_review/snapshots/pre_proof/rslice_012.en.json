@@ -1,0 +1,322 @@
+[
+ {
+  "en": "Chance 2 (%)",
+  "max": 12
+ },
+ {
+  "en": "Foll.3",
+  "max": 6
+ },
+ {
+  "en": "Chance 3 (%)",
+  "max": 12
+ },
+ {
+  "en": "BGM",
+  "max": 6
+ },
+ {
+  "en": "Fly",
+  "max": 4
+ },
+ {
+  "en": "Schl",
+  "max": 4
+ },
+ {
+  "en": "Tomb",
+  "max": 4
+ },
+ {
+  "en": "Leader",
+  "max": 8
+ },
+ {
+  "en": "Foll",
+  "max": 4
+ },
+ {
+  "en": "Mon 1",
+  "max": 24
+ },
+ {
+  "en": "Mon 2",
+  "max": 24
+ },
+ {
+  "en": "Mon 3",
+  "max": 24
+ },
+ {
+  "en": "Mon 4",
+  "max": 24
+ },
+ {
+  "en": "Mon 5",
+  "max": 22
+ },
+ {
+  "en": "Mon 6",
+  "max": 22
+ },
+ {
+  "en": "Foll.Chk",
+  "max": 8
+ },
+ {
+  "en": "Zombie",
+  "max": 24
+ },
+ {
+  "en": "Giant Beetle",
+  "max": 24
+ },
+ {
+  "en": "Pike Mosquito",
+  "max": 24
+ },
+ {
+  "en": "Vampire Bat",
+  "max": 24
+ },
+ {
+  "en": "Giant Rat",
+  "max": 24
+ },
+ {
+  "en": "Ectoplasm",
+  "max": 24
+ },
+ {
+  "en": "FrontDup",
+  "max": 8
+ },
+ {
+  "en": "Ghoul",
+  "max": 24
+ },
+ {
+  "en": "Giant Frog",
+  "max": 24
+ },
+ {
+  "en": "Flying Stingray",
+  "max": 24
+ },
+ {
+  "en": "Crawling Claw",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 1st-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 1st-Year (M)",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 1st-Year (F)",
+  "max": 24
+ },
+ {
+  "en": "Antlion",
+  "max": 24
+ },
+ {
+  "en": "Eye Wing",
+  "max": 24
+ },
+ {
+  "en": "Echo",
+  "max": 24
+ },
+ {
+  "en": "Demon Imp",
+  "max": 24
+ },
+ {
+  "en": "Night Stalker",
+  "max": 24
+ },
+ {
+  "en": "Elven Knight",
+  "max": 24
+ },
+ {
+  "en": "Rogue",
+  "max": 24
+ },
+ {
+  "en": "Golem",
+  "max": 24
+ },
+ {
+  "en": "Dryad",
+  "max": 24
+ },
+ {
+  "en": "Rhinosaurus",
+  "max": 24
+ },
+ {
+  "en": "Grizzly",
+  "max": 24
+ },
+ {
+  "en": "Nagpa",
+  "max": 24
+ },
+ {
+  "en": "Berserker",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 2nd-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 2nd-Year (M)",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 2nd-Year (F)",
+  "max": 24
+ },
+ {
+  "en": "Ettin",
+  "max": 24
+ },
+ {
+  "en": "Mizuchi",
+  "max": 24
+ },
+ {
+  "en": "Coatl",
+  "max": 24
+ },
+ {
+  "en": "Banshee",
+  "max": 24
+ },
+ {
+  "en": "Wyvern",
+  "max": 24
+ },
+ {
+  "en": "Crusader",
+  "max": 24
+ },
+ {
+  "en": "Kunoichi",
+  "max": 24
+ },
+ {
+  "en": "Ochimusha",
+  "max": 24
+ },
+ {
+  "en": "Carrion Crawler",
+  "max": 24
+ },
+ {
+  "en": "Yeti",
+  "max": 24
+ },
+ {
+  "en": "Lucky Star",
+  "max": 24
+ },
+ {
+  "en": "Langsuir",
+  "max": 24
+ },
+ {
+  "en": "Treant",
+  "max": 24
+ },
+ {
+  "en": "Desert Murderer",
+  "max": 24
+ },
+ {
+  "en": "Bass Dragon",
+  "max": 24
+ },
+ {
+  "en": "Hunter Wolf",
+  "max": 24
+ },
+ {
+  "en": "Copper Dragon",
+  "max": 24
+ },
+ {
+  "en": "Hell Rider",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year (M)",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year (F)",
+  "max": 24
+ },
+ {
+  "en": "Centaur",
+  "max": 24
+ },
+ {
+  "en": "Kobold King",
+  "max": 24
+ },
+ {
+  "en": "Goggle Eye",
+  "max": 24
+ },
+ {
+  "en": "Black Sheep",
+  "max": 24
+ },
+ {
+  "en": "Green Dragon",
+  "max": 24
+ },
+ {
+  "en": "Avenger",
+  "max": 24
+ },
+ {
+  "en": "Orc King",
+  "max": 24
+ },
+ {
+  "en": "Lizard King",
+  "max": 24
+ },
+ {
+  "en": "Cyclops",
+  "max": 24
+ },
+ {
+  "en": "Tentacles",
+  "max": 24
+ },
+ {
+  "en": "Manticore",
+  "max": 24
+ },
+ {
+  "en": "Daimyo",
+  "max": 24
+ },
+ {
+  "en": "High Ninja",
+  "max": 24
+ }
+]

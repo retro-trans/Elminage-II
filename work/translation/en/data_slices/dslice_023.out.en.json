@@ -1,0 +1,87 @@
+[
+ {
+  "en": " 7.Chest Test",
+  "max": null,
+  "note": "debug? Debug main menu item (treasure chest test)."
+ },
+ {
+  "en": " 8.Movie Test",
+  "max": null,
+  "note": "debug? Debug main menu item."
+ },
+ {
+  "en": " 9.Debug Switches",
+  "max": null,
+  "note": "debug? SW read as switches (debug flags)."
+ },
+ {
+  "en": "10.Debug Chars",
+  "max": null,
+  "note": "debug? CHR = characters."
+ },
+ {
+  "en": "11.RNG Test",
+  "max": null,
+  "note": "debug? Random number test."
+ },
+ {
+  "en": "12.Macro Test",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "14.Char Portrait Test",
+  "max": null,
+  "note": "debug? Bust-up = character portrait art."
+ },
+ {
+  "en": "15.Ending Test",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "16.Load & Delete Save Data (Circle:Load, Triangle:Delete)",
+  "max": null,
+  "note": "debug? Button marks written as words, like the neighbouring 'Cross button' strings."
+ },
+ {
+  "en": "[Normal Battle]",
+  "max": null,
+  "note": "debug? Battle-test mode label."
+ },
+ {
+  "en": "Physical Tournament",
+  "max": null,
+  "note": "debug? Battle-test mode; 'Tournament' as in the glossary's Spirit Tournament."
+ },
+ {
+  "en": "Spell Tournament",
+  "max": null,
+  "note": "debug? Pairs with Physical Tournament."
+ },
+ {
+  "en": "(Test)",
+  "max": null,
+  "note": "debug? Pairs with '( Regular )'."
+ },
+ {
+  "en": "Elminage Debug Menu %s",
+  "max": null,
+  "note": "debug? Title format matches 'Elminage Character Viewer'."
+ },
+ {
+  "en": "Elminage Sound Test (WIP)",
+  "max": null,
+  "note": "debug? WIP = 'under construction' in the source."
+ },
+ {
+  "en": "Portrait Viewer",
+  "max": null,
+  "note": "debug? Bust-up viewer title."
+ },
+ {
+  "en": "Script error: RET without a CALL",
+  "max": null,
+  "note": "debug? Script-engine error message."
+ }
+]

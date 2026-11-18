@@ -1,0 +1,351 @@
+[
+ {
+  "en": "Friendly foes have appeared. Will you fight?",
+  "kind": "data"
+ },
+ {
+  "en": "Yes",
+  "kind": "data"
+ },
+ {
+  "en": "No",
+  "kind": "data"
+ },
+ {
+  "en": "* Current floor: {0B:0003:0000}",
+  "kind": "op0fb",
+  "note": "Debug/label line. Accuracy: black-square marker rendered '*' per the lead's convention (review_notes: square -> '*')."
+ },
+ {
+  "en": "You've encountered something!",
+  "kind": "op096"
+ },
+ {
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "note": "Debug/label line. Accuracy: marker '*' per the lead's convention. Term was set to 'Godshade' (Elm3 bestiary form) by the lead's pass; glossary entry still reads 'Divine Shadow' - lead to reconcile."
+ },
+ {
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "note": "Source text is the literal word 'item' followed by a full-width space, as if a template slot; translated as a generic line."
+ },
+ {
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained a Piece of Grotesque Flesh.{w}",
+  "kind": "msg",
+  "note": "Kichouhin (valuables) rendered as 'Key Item'. Item name is new (not in glossary)."
+ },
+ {
+  "en": "[Key Item]\nYou obtained an Espel-Dex Business Card.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Tsakaro's Evil Eye.{w}",
+  "kind": "msg",
+  "note": "New name: Tsakaro (romanized). Item name not in glossary."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Noble Lady's Eerie Wings.{w}",
+  "kind": "msg",
+  "note": "Item name not in glossary. 'You-yoku' = bewitching/eerie wing(s); singular or plural not settled."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Great Emperor's Crown.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Underworld Water.{w}",
+  "kind": "msg",
+  "note": "Yomi (the land of the dead) water. Item name not in glossary."
+ },
+ {
+  "en": "[Key Item]\nYou obtained Underworld Water{w}",
+  "kind": "msg",
+  "note": "Source variant has no final full stop; kept without one to mirror it."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Prayer to the Revered One.{w}",
+  "kind": "msg",
+  "note": "Norito = ritual prayer/invocation. Item name not in glossary."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Overlord Bull's Demon Horn.{w}",
+  "kind": "msg",
+  "note": "Item name not in glossary."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Harz Crystal.{w}",
+  "kind": "msg",
+  "note": "New name: Harz (romanized from 'Haazu'; could be meant as Herz/Hearts). Not in glossary."
+ },
+ {
+  "en": "[Key Item]\nYou obtained a Half-Drawn Map.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Nyoppurin's Pudding.{w}",
+  "kind": "msg",
+  "note": "New name: Nyoppurin (romanized). The name ends in 'purin' (pudding), a pun lost in English."
+ },
+ {
+  "en": "[Key Item]\nYou obtained Ira's True Crystal.{w}",
+  "kind": "msg",
+  "note": "New name: Ira (romanized). Not in glossary."
+ },
+ {
+  "en": "After defeating the mighty duke of the demon realm,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Having won the battle,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Good.{w}",
+  "kind": "op096",
+  "note": "Seikaku here is the alignment stat (Good/Evil)."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Evil.{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "Duel with Lv{0B:0003:0000} MIRCO",
+  "kind": "op096",
+  "note": "Source is already English in full-width letters; converted to ASCII, spelling kept."
+ },
+ {
+  "en": "Mirco",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ah, they ran away!\nGet back heeere! Hey, you!!\"{w}",
+  "kind": "msg",
+  "note": "Mirco after the party flees the duel (row follows the duel label). 'They' = the party."
+ },
+ {
+  "en": "Girl's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Say, Mirco.\nAre you sure it's really this way?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Boy's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"How should I know?!\nHey, Hess. Show us the lay of the land with magic again.\"{w}",
+  "kind": "msg",
+  "note": "Chikei hyouji = a map-display spell."
+ },
+ {
+  "en": "Elderly Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"You may ask all you like,\nbut I've no magic power left, I'm afraid.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then let's have tea and take a breather.\nDrinking tea gets your magic back, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Man's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Again?!\nMy belly is already sloshing with water.\nIf we run into an enemy at a time like this...\"{w}",
+  "kind": "msg",
+  "note": "Trails off as in the source."
+ },
+ {
+  "en": "Woman's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"In that case...\nperhaps Hess could drink\nall six servings alone?\"{w}",
+  "kind": "msg",
+  "note": "Hess-sama: no honorific (lead convention: Hess's gender is unknown, so no Master/Lord/Lady). No pronoun for Hess."
+ },
+ {
+  "en": "\"...Gurtia, do you mean to torture me with tea?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My feet hurt! My armor's heavy!\nI'm tired! I hate this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is quite enough!\nDo you call yourself a member of the proud House Lenzer?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That does it! This time, I won't let you off!\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: kyou to iu kyou wa = 'this time for sure / I've had it', not 'today of all days' (which implies a special day)."
+ },
+ {
+  "en": "\"Wh-whoa-whoa, hold on!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Get him, Zephaaal~!\"{w}",
+  "kind": "msg",
+  "note": "Music-note symbol dropped (not ASCII); '~!' keeps the sing-song tone. 'Him' = Mirco (male per glossary)."
+ },
+ {
+  "en": "Beast's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Grwaaah!\nHammer that little shit's attitude straight!{w}...No, hammer it till it snaps!!\"{w}",
+  "kind": "msg",
+  "note": "Kuso-gaki kept at full strength. Second line escalates from 'straighten out his spirit' to 'snap it'."
+ },
+ {
+  "en": "\"There you are!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Waaaah!!\nGurtiaaa! Heeelp meee!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My, my.\nYou seem to be having fun, young master.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-Hess...\"{w}",
+  "kind": "msg",
+  "note": "Mirco's plea to Hess, trailing off."
+ },
+ {
+  "en": "\"Please... wait...\nI-I'm just now... drinking my third cup...{w}Urp!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, Master Mirco! Give yourself up!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooooo~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, he ran off that way!\"{w}",
+  "kind": "msg",
+  "note": "He = Mirco."
+ },
+ {
+  "en": "Boy",
+  "kind": "name"
+ },
+ {
+  "en": "\"Somebody hel... Whoa!?\"{w}",
+  "kind": "msg",
+  "note": "Interrupted as in the source (he crashes into the party)."
+ },
+ {
+  "en": "\"Owww...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! I'm s-s-s... sorry!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zephal",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ha ha ha! Not good enough, Master Mirco!!\nDid you really think you could escape me, Zephal?!{w}...Hm? And who might these people be?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I kind of bumped into them...\nUm, are you all right?\"{w}",
+  "kind": "msg",
+  "note": "First sentence to Zephal, second to the party."
+ },
+ {
+  "en": "Woman",
+  "kind": "name"
+ },
+ {
+  "en": "\"It appears they are people of this land.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Girl",
+  "kind": "name"
+ },
+ {
+  "en": "\"So that makes them enemies, then~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Beast",
+  "kind": "name"
+ },
+ {
+  "en": "\"Enemies?! Elpina, did you spot something?{w}...Oh, fresh prey, first in ages!\nLet's kill 'em quick and chow down!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Huh?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elder",
+  "kind": "name"
+ },
+ {
+  "en": "\"Gurtia, Zapper! What is all this?!\nHonestly, such a racket.{w}We are not here to play, so do behave a little...\"{w}",
+  "kind": "msg",
+  "note": "Trails off as in the source."
+ },
+ {
+  "en": "Gurtia",
+  "kind": "name"
+ },
+ {
+  "en": "\"Look, Hess!{w}It's Master Mirco's first battle! Let's cheer him on!\"{w}",
+  "kind": "msg",
+  "note": "Hess-sama: no honorific (lead convention, gender unknown)."
+ },
+ {
+  "en": "Hess",
+  "kind": "name"
+ },
+ {
+  "en": "\"F-first battle, you say? Master Mirco's?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"B-but can I even win...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Never mind, never mind. Off you go now.{w}We'll be watching over you from right here!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Just me?{w}Aren't you all going to fight with me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, young master, really!\nIf we helped you, we would only tarnish\nyour long-awaited first battle.\"{w}",
+  "kind": "msg",
+  "note": "Doro wo nuru (smear mud on) = tarnish/disgrace."
+ }
+]

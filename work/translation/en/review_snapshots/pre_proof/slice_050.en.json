@@ -1,0 +1,355 @@
+[
+ {
+  "en": "┫┻┠┯┨┷┿",
+  "kind": "op0a4",
+  "note": "Cipher answer (glyphs for O-U), read by the puzzle; left verbatim."
+ },
+ {
+  "en": "\"And last of all...\nwould you tell me VWXYZ?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┝┰┥┸╂",
+  "kind": "op0a4",
+  "note": "Cipher answer (glyphs for V-Z), read by the puzzle; left verbatim."
+ },
+ {
+  "en": "\"Oho, now every last letter's in place!!{w}I see, I see...!!\"{w}{p}\"Right, now I can take my research even further!{w}Thank you kindly!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...{w}Sorry, but something about that doesn't seem right to me...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Answer ABCDEFG.",
+  "kind": "data"
+ },
+ {
+  "en": "Answer HIJKLMN.",
+  "kind": "data"
+ },
+ {
+  "en": "Answer OPQRSTU.",
+  "kind": "data"
+ },
+ {
+  "en": "Answer VWXYZ.",
+  "kind": "data"
+ },
+ {
+  "en": "\"Well now, I'm going to be busy from here on!!{w}Never thought I'd feel this full of pep at my age!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you folks want to decipher Pyroglyph too?\"{w}{p}\"Thing is, my research is only halfway done,\nso I don't think I can be much help to you.{w}Sorry about that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you folks want to decipher Pyroglyph too?{w}Here, let me have a look. I'll translate it for you.\"{w}{p}\"..........{w}Let's see now..........{w}..........hmm..........right!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Urnade.{w}",
+  "kind": "msg",
+  "note": "Glossary item name (the old song decoded from the score)."
+ },
+ {
+  "en": "\"These are the lyrics to an old song.{w}As for what they say...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urna...{w}Come to think of it, the Pyroglyph texts mentioned something like that too.\"{w}{p}\"The accepted view is that the Four Sages are the ones who serve the Earth Goddess, Lady Fiona, but...\"{w}{p}\"Hmm... These lyrics practically come out and say that this Urna, whoever that is, created them.\"{w}{p}\"..........\"{w}{p}\"I don't know where you got hold of these lyrics, but\nit might be best not to sing this song out in the open.\"{w}{p}\"Well, that's about the size of it!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: the researcher does not know who Urna is, so 'whoever that is' and no pronoun. 'them' = the Four Sages ([JP]). ACC: [JP] -> \"Lady Fiona\" per the honorific convention; [JP] = in Pyroglyph writings too (Pyroglyph is a script, so \"the Pyroglyph texts\")."
+ },
+ {
+  "en": "Alchemy Geezer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Aaaagh... I want grapes so bad...{w}Gimme some, gimme graaapes...{w}What the heck d'you think I came here for!\"{w}{p}\"If only some kind of trouble would crop up...{w}then the ogres would come to me for help,\nand I'd rake in the grapes.\"{w}",
+  "kind": "msg",
+  "note": "Muttered to himself (no listener); [JP] kept as 'the heck'."
+ },
+ {
+  "en": "\"What, you're looking for bungee gear!?{w}...Yeeesss! My time to shine!!\"{w}{p}\"Go to the vineyard on the roof and get some grapes!{w}Then I'll help you out!\"{w}{p}\"And besides the grapes, bring me a strong vine --\nthat's the raw material for the bungee rope.\"{w}{p}\"As for the cushion, there's a samurai visiting 1F right now,\nso get them to give you their floor cushion.{w}It's called the Handcrafted Zabutoon!!\"{w}{p}\"Grapes and a strong vine -- bring me both, got it!\"{w}",
+  "kind": "msg",
+  "note": "[JP]([JP])[JP]: the vine is the rope material, the grapes are his fee. The samurai ([JP]) has no stated gender: 'them'. [JP] = 'Handcrafted Zabutoon' (new name, Zabutoon per glossary). [JP] -> 'floor cushion' (the pun source). EDI: 'the thing they call' let 'they' read as the samurai; plain 'It's called' (as the accuracy report suggested)."
+ },
+ {
+  "en": "\"The grapes are in the vineyard on the roof!{w}The strong vine's in the storeroom down in the basement!{w}Got it? Then bring me both!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nice work -- grapes!{w}Don't mind if I dig right in... nom...{w}Deliciouuus!!\"{w}{p}\"Whoa, I know, I know.{w}The bungee rope, right?{w}Hang on a sec...\"{w}",
+  "kind": "msg",
+  "note": "Source never closes the last quote; closed in English per instruction."
+ },
+ {
+  "en": "\"Alrighty! It's done!{w}There, take it with you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the bungee rope.{w}",
+  "kind": "msg",
+  "note": "Glossary form 'bungee rope' (lowercase) kept; other key items are title case, so the lead may want 'Bungee Rope'."
+ },
+ {
+  "en": "\"So good, so darn good, these grapes!{w}No matter when I eat 'em, they're just so darn good...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They're all gone already... How stingy...{w}Aaaagh... I want grapes so bad...{w}Gimme some, gimme graaapes...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: who is stingy is unstated (the small portion); kept impersonal. Repeats 2998's wording."
+ },
+ {
+  "en": "Goblin Sentinel",
+  "kind": "name"
+ },
+ {
+  "en": "\"All clear here!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ogre Sentinel",
+  "kind": "name"
+ },
+ {
+  "en": "\"Peaceful as can be!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"E-everything's all clear... right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"P-probably...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How long is that samurai planning to keep talking?{w}Said they came to sell some Zabutoon or whatever...\nAbout time they went home...\"{w}",
+  "kind": "msg",
+  "note": "Samurai's gender not established: 'they'."
+ },
+ {
+  "en": "Lord",
+  "kind": "name"
+ },
+ {
+  "en": "\"And so, in our culture,\nbeing served chazuke means 'time to go home.'{w}Mind you, if it's come to that, you've really overstayed your welcome.\"{w}",
+  "kind": "msg",
+  "note": "Kyoto bubuzuke custom. [JP] = by the time it is served, the guest has stayed far too long. 'chazuke' kept without a gloss (no added explanation)."
+ },
+ {
+  "en": "Goblin Host",
+  "kind": "name"
+ },
+ {
+  "en": "\"Huh, is that so...{w}Wowww...{w}Um, it's about time you took your leave...\"{w}",
+  "kind": "msg",
+  "note": "The Host's ~ssu speech is rendered as casual, slangy English."
+ },
+ {
+  "en": "\"That aside!!{w}Wouldn't you like to have this Zabutoon?{w}Seeing me sit on it, you must have started wanting one!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not really, no.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You Baroque Fort folk are so reserved!{w}I like you, my good Goblin --\nthis time, let us talk the whole night through!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: 'my good Goblin' avoids a gendered 'Sir'. [JP]: the Lord takes the refusal for modesty."
+ },
+ {
+  "en": "\"Uh, I'd rather not...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmmm, this chazuke is awful!{w}Ah, no, pardon me! But it IS awful!{w}Awful though it is, it is awful all the same!!\"{w}",
+  "kind": "msg",
+  "note": "Absurd tautology kept."
+ },
+ {
+  "en": "\"Oh yeah? Well, it's my first time making it.{w}...So, in Eastern culture,\nwhat do you do when someone serves you chazuke?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ask for seconds, of course!{w}I desire a second helping!!{w}Be at ease. Be at ease, I say! Hahaha!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: a lord's 'no need to stand on ceremony'."
+ },
+ {
+  "en": "\"Well now, my belly is nice and full,\nso this time...\"{w}",
+  "kind": "msg",
+  "note": "Trails off (cut off by the Host); kept unfinished."
+ },
+ {
+  "en": "\"Thanks for coming! Goodbye!\nYou really don't need to come back!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hahaha, when you say no, you mean yes!\nYou know just how the game is played.{w}What a darling you are!\"{w}{p}\"It would be cruel to keep you in suspense too long.{w}I shall let you have this Zabutoon. Hm?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (saying no means yes): rendered at the same force."
+ },
+ {
+  "en": "\"I seriously don't want it!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But I shan't hand it over for nothing, you know?{w}I want words that will strike a chord in my heart.\"{w}",
+  "kind": "msg",
+  "note": "EDI: 'mind you?' as a teasing question is unidiomatic; 'you know?' keeps the coy [JP]."
+ },
+ {
+  "en": "\"I have no idea what you mean!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come now, that thing with thirty-one syllables.{w}Five, seven, fiiive, and then seven, seven!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the 31-mora tanka."
+ },
+ {
+  "en": "(...Is that the thing Hostef's always doing?){w}",
+  "kind": "msg",
+  "note": "Inner thought in parentheses; no pronoun for the Lord (gender not established)."
+ },
+ {
+  "en": "\"O-okay, got it. Then I'll recite one.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "'Hurry, go on home,\nplease, just go home already,\nright now, this instant!{w}Without any ifs or buts,\njust get out of here, go home!'{w}",
+  "kind": "msg",
+  "note": "Tanka in 5-7-5 / 7-7 syllables; {w} after the third line as in the source. [JP] = 'without any ifs or buts'."
+ },
+ {
+  "en": "\"Hmmm... What a dull poem.{w}All it does is say 'go home, go home.'\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, that's what I've been\nsaying this whole time, you know!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Somehow, it's so dreadfully dull\nthat I've worked up an appetite.{w}...Sorry, but might I have some chazuke?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gyaaaaagh!!{w}Somebody, go get a poem from Hostef, pleeease!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You barged in between the two of them\nand presented Hostef's poem!{w}",
+  "kind": "msg",
+  "note": "[JP] = the tanka from the key item Hostef's Tanka; 'poem' matches 3081."
+ },
+ {
+  "en": "'So long overdue,\nI do the wash -- and up on\nthe rooftop there gleams{w}a loincloth in the sunlight,\nhere at Baroque Fort.'{w}",
+  "kind": "msg",
+  "note": "Same tanka as slice 049 row 2941; that rendering reused verbatim."
+ },
+ {
+  "en": "\"Mmmmm... this is...{w}Magnificent!!{w}I shall present this Zabutoon to you all!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Handcrafted Zabutoon.{w}",
+  "kind": "msg",
+  "note": "[JP]: new name 'Handcrafted Zabutoon' ([JP] = carefully made, a maker's mark of quality)."
+ },
+ {
+  "en": "\"Well then, let's call it a night here!{w}And this time it really is goodbye!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What are you saying? I have yet to hear YOUR poem.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huhhh!? What'd you say, punk!?\"{w}",
+  "kind": "msg",
+  "note": "[JP]: thuggish snap; 'punk' at matching strength."
+ },
+ {
+  "en": "\"At this rate, why,{w}you'll be left with no gift of your own.{w}That would be far too pitiful.\"{w}{p}\"Come, come, have a seat.{w}Hyo-ho-ho!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = a gift to take away: the party got the Zabutoon, so the Lord insists on staying for the Host's poem."
+ },
+ {
+  "en": "\"Why... you... youuu...!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]……[JP]……[JP] (this... guy...): exasperated, rendered gender-neutral."
+ },
+ {
+  "en": "Leaving the writhing goblin behind, you stepped out of the room.{w}",
+  "kind": "msg",
+  "note": "EDI: removes the 'Leaving... you left' repetition."
+ },
+ {
+  "en": "\"Go home! Just go home already!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I refuuuuuse...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pleeease go hooome!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I refuse, I tell you, refuuuuuse...{w}Hyo-ho-ho!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Clothes have been kicked and scattered about.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Loincloth X.{w}",
+  "kind": "msg",
+  "note": "[JP]: new name. [JP] = 'loincloth' as in slice 049 (the Ogre Knight's loincloth left on 1F)."
+ },
+ {
+  "en": "Dodo Keeper",
+  "kind": "name",
+  "note": "[JP]: new name (Dodo per glossary)."
+ },
+ {
+  "en": "\"Whoa there, it's dangerous, so that's far enough.{w}We've got the Dodo King grazing out here.{w}Once it goes wild, there's no handling it, so keep away.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "This looks like a storeroom.{w}You searched around, but there's nothing here but strong vines.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "This looks like a storeroom.{w}You searched around and found a strong vine.{w}",
+  "kind": "msg",
+  "note": "[JP]: new item name 'strong vine' (key item, slice 051); lowercase like the glossary's 'bungee rope'."
+ },
+ {
+  "en": "\"Hey, what do you think you're doing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin Storekeeper",
+  "kind": "name",
+  "note": "Glossary form; 18 characters, over the ~16 name-box guide. Check fit in game."
+ },
+ {
+  "en": "\"This is Baroque Fort's storeroom.{w}Don't go doing whatever you please in here.{w}...What, you want a strong vine?\"{w}{p}\"Hmm...{w}Then how about doing a job for me?\"{w}{p}\"You, go and settle the Dodo King down.\"{w}{p}\"It's all worked up right now,\nso I want you to bring it back to its senses.{w}Do that, and the strong vine's yours.\"{w}",
+  "kind": "msg",
+  "note": "EDI: question phrasing needs '?'."
+ }
+]

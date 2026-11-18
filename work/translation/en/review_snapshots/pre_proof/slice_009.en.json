@@ -1,0 +1,359 @@
+[
+ {
+  "en": "Rosetta",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, Miria!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hi there, Rosetta. I've brought the adventurer register round for you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks so much! Huh, and who might this be...???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A brand-new adventurer. I think they'll be staying with you from today on, so take good care of them.\"{w}",
+  "kind": "msg",
+  "note": "Miria speaks for the newcomer: [JP] = the player will be Rosetta's guest; the request is to Rosetta."
+ },
+ {
+  "en": "\"You mean we've got a guest, for the first time in ages!? Wonderful! I'll get a room ready right away!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahaha, you're getting way ahead of yourself!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But I'm just so happy! Oh, that's right! By the way...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Which room will you be taking?",
+  "kind": "data",
+  "note": "Choice prompt (Rosetta asking the player); [JP]...[JP] shortened from \"Which room do you think you will be taking?\" to fit ~30 chars."
+ },
+ {
+  "en": "Royal Suite",
+  "kind": "data"
+ },
+ {
+  "en": "Suite",
+  "kind": "data"
+ },
+ {
+  "en": "Economy",
+  "kind": "data"
+ },
+ {
+  "en": "Stables",
+  "kind": "data",
+  "note": "[JP] = the Wizardry-style free 'Stables' lodging."
+ },
+ {
+  "en": "\"R-R-Ro... Royal!?{w}You'd like the Royal Suite!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaaaahhh...!! Mom, Dad, up in heaven!\"{w}{p}\"Your Rosetta is finally going to welcome a guest into the Royal Suite!\"{w}",
+  "kind": "msg",
+  "note": "Rosetta refers to herself by name ([JP]); kept as 'Your Rosetta' since she is addressing her late parents."
+ },
+ {
+  "en": "\"I-I'll cook like my life depends on it! Please accept it... my hospitality, with every last ounce of my life...!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] is a play on [JP] (with all one's might), swapping in [JP] (life); rendered as 'every last ounce of my life'."
+ },
+ {
+  "en": "\"Good for you, Rosetta.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, dear adventurer, until later... Later! I'll be waiting for you...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Suite! Certainly! I'll get to use the kitchen for the first time in ages!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can look forward to Rosetta's home cooking! It's seriously delicious!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay then, please come back later!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Economy! Certainly! Then I'll make up the bed for you, so you can sleep off the fatigue of your long journey.\"{w}",
+  "kind": "msg",
+  "note": "editorial: \"rest off the fatigue\" is unidiomatic -> \"sleep off the fatigue\"."
+ },
+ {
+  "en": "\"See you later, then.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hmph.\"{w}",
+  "kind": "msg",
+  "note": "Rosetta's sulky reply when the player picks the Stables ([JP])."
+ },
+ {
+  "en": "\"A-ahaha... Well, try to show her a little consideration once in a while...\"{w}",
+  "kind": "msg",
+  "note": "Miria to the player, about Rosetta (glossary: female)."
+ },
+ {
+  "en": "\"And that's the inn taken care of.\"{w}{p}\"Next, just in case the worst happens, I'll show you the temple, where they treat you when you're in bad shape. Though it's best if you never need it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Saines",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hello, Miria. I am glad to see you looking so well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is Bishop Saines of the Temple of Orses. You'll probably be relying on him whenever you get poisoned, paralyzed or turned to stone.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Bishop (the source's title here); glossary position says priest ([JP], from Wikipedia). 'him' per glossary gender (male)."
+ },
+ {
+  "en": "\"Orses is merciful. I am sure Orses will be a source of strength to you all.\"{w}",
+  "kind": "msg",
+  "note": "Orses' gender is unknown: name repeated instead of a pronoun; [JP] not rendered as 'Lord' (glossary rule for gods)."
+ },
+ {
+  "en": "\"I'm back.\"{w}",
+  "kind": "msg",
+  "note": "Unseen speaker (???), revealed as Sigret next row."
+ },
+ {
+  "en": "Sigret",
+  "kind": "name"
+ },
+ {
+  "en": "\"Retrieval complete: Almite and party, paralyzed and petrified. They're resting next door, so please see to them later.\"{w}",
+  "kind": "msg",
+  "note": "New name [JP] romanized 'Almite'. Addressed to Saines. | editorial: clunky \"the paralyzed and petrified ones\" reordered into Sigret's report-style line."
+ },
+ {
+  "en": "\"Very well. Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sigret!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, hello, Miria.{w}Your adventurers got themselves wiped out again, you know?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the adventurers registered at Miria's Training Hall."
+ },
+ {
+  "en": "\"S-sorry for all the trouble.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Trouble? Not at all. That's my job.{w}I specialize in retrieval and laying spirits to rest. Even if they come back to haunt the place, I'll see them on their way properly.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = laying spirits to rest; [JP] = guiding the dead onward."
+ },
+ {
+  "en": "\"And you there -- go ahead and get wiped out, worry-free.\"{w}",
+  "kind": "msg",
+  "note": "Sigret to the player ([JP]). Deadpan dark humour kept at full strength. | editorial: \"You there, too\" read awkwardly; same deadpan, smoother."
+ },
+ {
+  "en": "\"Now, Sigret. You mustn't say such reckless things.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you get wiped out in a dungeon, either your friends form a new party and go retrieve you, or you ask the temple to retrieve you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] has no stated subject; 'you' = the player managing the roster."
+ },
+ {
+  "en": "\"Sigret is one of those retrievers.{w}",
+  "kind": "msg",
+  "note": "Opening fragment of the next row (no closing quote in the source either); keep its wording identical to the first line of SCDWMAP:2859."
+ },
+ {
+  "en": "{0E}\"Sigret is one of those retrievers.{0F}\n...Try not to need her services too often, okay~\"{w}",
+  "kind": "msg",
+  "note": "First line repeats SCDWMAP:2857 between {0E}/{0F}; the \\n after {0F} is kept so the repeat stays on its own line. 'her' = Sigret (glossary: female)."
+ },
+ {
+  "en": "\"Oh, there's no need to hold back.\"{w}",
+  "kind": "msg",
+  "note": "Sigret answers Miria's 'try not to need her': don't be shy about using me."
+ },
+ {
+  "en": "\"Every time a retrieval request comes in, my mind can't help but wander... Ah, I wonder how this next adventurer met their end?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How much of the body is left? Are they splattered all over the place? Or have they rotted just right and become supper for everyone in the forest...\"{w}",
+  "kind": "msg",
+  "note": "Gore kept at full strength ([JP], [JP]). | editorial: accuracy item: \"our\" was an addition ([JP]); now \"everyone in the forest\"."
+ },
+ {
+  "en": "\"Eek! Stop iiit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sigret! That is quite enough!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hee hee. Well then, until we meet again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sigret has an extraordinarily strong interest in the nature of life.\"{w}{p}\"She may talk like that, but she took up the retrieval work she does now\"{w}{p}\"out of a wish all her own: 'that wiped-out adventurers not be left where they fell, to become souls of the in-between.'\"{w}{p}\"She is honest at heart, so please be good friends with her.\"{w}",
+  "kind": "msg",
+  "note": "One sentence is cut across pages 2-3 in the source; English is cut at the matching point. [JP] = glossary 'souls of the in-between'. [JP] confirms Sigret is female. | editorial: \"the reason ... is her own way of caring: so that...\" was a mismatched construction; recast across the same page cut (page 2 still ends on the retrieval work)."
+ },
+ {
+  "en": "\"Oh, please, we're the ones who should be saying that!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: answering Saines' request to befriend Sigret."
+ },
+ {
+  "en": "\"Riiight, so is that the whole tour?\"{w}{p}\"I'm heading back to the Training Hall, so come and register whenever it suits you. See ya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome! I've been waiting for you!{w}...See, I wanted to thank you for the Silent Shell.\"{w}{p}\"So I thought I'd let you, and only you, form parties even with people whose personalities are worlds apart!\"{w}{p}\"I used to let everyone team up however they liked, but once a huge brawl broke out between Good and Evil folks.{w}It got so bad the Magic Bureau sent someone to check on things.\"{w}{p}\"So now I've made it off-limits, as a rule of my own.{w}But you lot look like you'll be fine, so I'll make a special exception for you.\"{w}",
+  "kind": "msg",
+  "note": "Berte, after the Silent Shell quest (99111). [JP] = 'personality' as in the pilot row 2675; [JP]/[JP] = Good/Evil alignments. Source typo [JP] read as [JP]."
+ },
+ {
+  "en": "\n{0E}      *  Mixed Good & Evil Parties Unlocked  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner. Source centres it with full-width spaces; 6 leading spaces is a rough centring guess for a ~55-char line -- check in game."
+ },
+ {
+  "en": "\"Don't tell anyone else, okay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome iiin!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Oh?{w}I don't recognize that face. Nice to meet you!\"{w}{p}\"I'm Berte, and I run this tavern. I was an adventurer myself once, so for old times' sake I've made it a place where adventurers can meet. Glad to have you!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = a tavern where adventurers meet and form parties; [JP] = for old times' sake (her adventurer past). | editorial: comma splice and repeated \"run\"."
+ },
+ {
+  "en": "\"Here you go! Have some fresh milk, to celebrate getting to know you. The first glass is on the house. Don't be shy, drink up!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is your adventure going well? If you get tired of pushing on, come and rest here anytime.{w}For a price, of course~\"{w}",
+  "kind": "msg",
+  "note": "The music-note symbol is not ASCII; rendered as '~' here and in later Berte rows."
+ },
+ {
+  "en": "\"You know what a tavern keeper's favorite thing is? Watching the rookies split up the very first treasure they've found!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"When I see them all chummy and having the best time!{w}It just makes me want to... pat them on the head and tell them what good kids they are.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A word of warning: even if you get your hands on some rare treasure, you'd better not think about keeping it all to yourself, hm?{w}...It's been known to end in bloodshed.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = a fight with blades; 'end in bloodshed'."
+ },
+ {
+  "en": "\"Well, attack spells don't work in this tavern, and anyone who draws a sword, whatever the reason, gets a taste of Berte's iron fist~\"{w}",
+  "kind": "msg",
+  "note": "Berte refers to herself as [JP] (third person); kept as 'Berte's'."
+ },
+ {
+  "en": "\"Watching all of you from across the counter, I can't help feeling nostalgic.\"{w}{p}\"Some people drink like fish and party up a storm every time they come in,{w}and some quietly enjoy their time with their companions.\"{w}{p}\"The ones who don't like crowds pick at my cooking at the counter, or listen to the bard's songs.\"{w}{p}\"I can't be on your side of the counter anymore, can I?{w}I wonder how everyone's doing...\"{w}",
+  "kind": "msg",
+  "note": "[JP] in the last line = Berte's old adventuring companions (inferred from the nostalgia). '...side of the counter' makes the counter image explicit ([JP])."
+ },
+ {
+  "en": "\"Oh, shoot...{w}What do I do? Hmmm...\"{w}",
+  "kind": "msg",
+  "note": "Berte alone, over the broken Silent Shell (see 2918/2920)."
+ },
+ {
+  "en": "\"Oh, welcome. I'll be right with you, so grab a seat somewhere and wait.\"{w}{p}\"Maybe it'll stick back together...{w}Nope, no good...{w}...Hm? Wait a minute... Oh, I've got it!!\"{w}",
+  "kind": "msg",
+  "note": "Page 2 is Berte muttering to herself about the broken shell. | editorial: \"Wait a minute?\" with a question mark read oddly in English (self-talk)."
+ },
+ {
+  "en": "\"Hey, you guuuys~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Free? You're free, right~?",
+  "kind": "data",
+  "note": "Yes/No prompt: yes -> 2914, no -> 2916."
+ },
+ {
+  "en": "\"...Come on, you should say you're busy, even if it's a lie.{w}Oh well. If you're free, that's perfect!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww. Come on, please!{w}Lend an ear to poor Berte's troubles!\"{w}",
+  "kind": "msg",
+  "note": "Self-reference [JP] again; 'poor' carries the wheedling tone."
+ },
+ {
+  "en": "\"Take a look at this broken shell.{w}This is called a Silent Shell.\"{w}{p}\"It's a rare shellfish that only grows in mountain water, and it has the power to stop magic from spreading through the air, and sound from carrying.\"{w}{p}\"Use it on someone, and they can't utter a spell, or even a word.\"{w}{p}\"Ordinary people can only tell that it soaks up sound, so that's why they call it a Silent Shell.\"{w}{p}\"I keep one on hand at the tavern for when powerful magic users, like Mages, get drunk, but...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the Mage class (glossary); [JP] = 'magic user' (glossary). | editorial: \"suppress magic spreading ... and sound carrying\" was hard to parse."
+ },
+ {
+  "en": "\"I kicked it a little while ago and broke it!{w}Ahahahahaha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't even have to say it, right?{w}...Please, don't make that face! Of course I'm not asking you to do it for free, okay!?\"{w}",
+  "kind": "msg",
+  "note": "Source ends [JP] (rhetorical); simplified to '!'. | editorial: accuracy item: restore the flustered !? of the source with a tag that makes it read naturally."
+ },
+ {
+  "en": "\"I'll treat you to some milk! Fresh from the cow!{w}Here! Drink uuup!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You were forced to drink it.{w}",
+  "kind": "msg",
+  "note": "Narration; subject is the player/party ('you'). | accuracy: [JP] = forcibly; \"made to\" -> \"forced to\" to keep the force."
+ },
+ {
+  "en": "\"There we go, you've taken your payment, so you can't say no now~ Ufufu.\"{w}{p}\"The Silent Beast in the forest at Moonlight Falls collects Silent Shells, so could you ask it nicely and get one for me?\"{w}{p}\"Really, I ought to go myself, but... that thing seems to hate me.{w}No matter how many times I go and ask, it won't give me one.\"{w}{p}\"I tried inviting it to drinking parties to make friends, and entertaining it with songs and dances, but...{w}far from making friends, it attacks me!?\"{w}{p}\"I'm sure you'll be fine!{w}Sorry to ask, but I'm counting on you!\"{w}",
+  "kind": "msg",
+  "note": "New name [JP] = 'Silent Beast'. Treated as a single creature ([JP]); 'it' since it is a beast. Moonlight Falls per glossary."
+ },
+ {
+  "en": "\"Oh, welcome!{w}I'll come take your order in a bit, so grab a seat and wait!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, that thing you've got there... isn't that a Silent Shell!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hand over the Silent Shell?",
+  "kind": "data"
+ }
+]

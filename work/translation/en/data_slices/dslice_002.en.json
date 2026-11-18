@@ -1,0 +1,371 @@
+[
+ {
+  "en": "Tiara of Hope - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Breastplate of Intellect",
+  "max": 24
+ },
+ {
+  "en": "Breastplate of Intellect - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Bracelet of Harmony",
+  "max": 24
+ },
+ {
+  "en": "Bracelet of Harmony - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Shoes of Courage",
+  "max": 24
+ },
+ {
+  "en": "Shoes of Courage - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Anklet of Joy",
+  "max": 24
+ },
+ {
+  "en": "Anklet of Joy - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Banish the Ancient Evil",
+  "max": 24,
+  "note": "Lit. 'Banish the ancient evil spirit'; 'Banish the Ancient Evil Spirit' is 30 > 24, so 'Spirit' is dropped."
+ },
+ {
+  "en": "Once you had gathered every relic you could, Ragnastia ordered you to head for the Holy Foundation, Contrachio. The fight with the ancient evil spirit nears its end. Can you protect Mother Earth?",
+  "max": 202,
+  "note": "Lit. 'the battle will at last be ended' -> 'nears its end'. [JP] = Mother Earth."
+ },
+ {
+  "en": "Banish the Ancient Evil - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "You have every relic you can gather. All that's left is to storm Contrachio! On the way are places to offer relics, but the evil spirit's name is carved there now. Offering one makes it stronger, so be careful!",
+  "max": 216
+ },
+ {
+  "en": "You won the deadly battle with the ancient evil spirits at the Holy Foundation, Contrachio. The monsters haven't all gone, but peace like before has returned. You saved the land!",
+  "max": 202
+ },
+ {
+  "en": "Hail Great Adventurers - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Thank you so much! Now the land has been saved!!",
+  "max": 216
+ },
+ {
+  "en": "The Mysterious Altars",
+  "max": 24,
+  "note": "Plural: the quest is about the six altars."
+ },
+ {
+  "en": "Ragnastia says this land has six altars, one for each god, and that praying at all of them lets you glimpse the realm of the gods. One is Bistel's Temple of Orses, but where are the rest...?",
+  "max": 202
+ },
+ {
+  "en": "The Mysterious Altars - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Pray at the altars of Life-Creation and Space in the town temple. Change is in the Narmant Trench, Dark Oblivion in the Scorching Castle, Time in the Narmant Trench, Existence in the Blanc Desert.",
+  "max": 216,
+  "note": "Altars named by the gods' domains (glossary: god of life-creation / space / change / Dark Oblivion / time / existence). Source gives the Narmant Trench for both Change and Time; kept as written."
+ },
+ {
+  "en": "The Proud House Lenzer",
+  "max": 24,
+  "note": "Glossary form; also serves KIROKU.CSV:23:2."
+ },
+ {
+  "en": "You met Mirco, a child of the nobility of darkness. Your battles with them will never end.",
+  "max": 202,
+  "note": "[JP]: the script renders it 'a noble of darkness' (slice 002)."
+ },
+ {
+  "en": "The Proud House Lenzer - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "The more you beat them, the stronger they get. Indomitable spirit, unceasing effort! Enemy or not, I admire them. You may meet them anywhere, so take care. It seems you can also run away.",
+  "max": 216
+ },
+ {
+  "en": "Ragnastia's Treasure",
+  "max": 24
+ },
+ {
+  "en": "That idiot Costo apparently threw out Ragnastia's precious blanket, embroidered with an Emperor Bird. Hopefully it hasn't been disposed of yet.",
+  "max": 202,
+  "note": "[JP] (glossary 'Idiot Costo') -> 'That idiot Costo' in running text."
+ },
+ {
+  "en": "Ragnastia's Treasure - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Things that get thrown out end up in the trash bin. The trash bin is in the southeast of Highberry Forest, so why not search inside it?",
+  "max": 216
+ },
+ {
+  "en": "Silent Shell",
+  "max": 20
+ },
+ {
+  "en": "Berte accidentally broke the Silent Shell that keeps mages from running riot in the tavern, and has asked you to get a replacement Silent Shell from Moonlight Falls.",
+  "max": 202
+ },
+ {
+  "en": "Silent Shell - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "True silence is hard to make. Listen closely: can't you hear... a sound, even now? Now open the map of the whole land and move your right index finger 3 times. Something about sound should come into view.",
+  "max": 216,
+  "note": "Riddle kept literal ('move your right index finger 3 times' on the world map)."
+ },
+ {
+  "en": "Rosetta's Inn",
+  "max": 24
+ },
+ {
+  "en": "The traveling merchants who were the main income of Rosetta's Inn can no longer reach town, thanks to Taranti appearing in Highberry Forest, and the inn is struggling.",
+  "max": 202
+ },
+ {
+  "en": "Rosetta's Inn - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "First, go through what the merchants did. Follow the path in Highberry Forest and get caught by Taranti. Hear her out, then get the Rolfan on the floating isle in the forest's southeast and give it to her.",
+  "max": 216,
+  "note": "[JP] = floating isle (the script describes it as a small island in the middle of a lake, slice 035)."
+ },
+ {
+  "en": "Saimar Merch. Companion",
+  "max": 24,
+  "note": "Script/key item: 'The Saimar Merchant's Companion' (31) > 24; abbreviated. Also serves eb@089504d4 (key item name), which can take the full form if it is relocated."
+ },
+ {
+  "en": "The noble Costo seems interested in commoners' prices and trade, and wants you to somehow get a magazine called 'The Saimar Merchant's Companion' from Saimar.",
+  "max": 202,
+  "note": "Source says [JP] (magazine); the script calls it a booklet ([JP]). Costo's gender not stated: no pronoun."
+ },
+ {
+  "en": "Saimar Merch. Companion - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Walmitt should have 'The Saimar Merchant's Companion'. If you help him with his work, he'll likely give it to you before long.",
+  "max": 216,
+  "note": "Source uses [JP] for Walmitt (male); glossary had no gender. [JP] left out."
+ },
+ {
+  "en": "The Ruined Church Stirs",
+  "max": 24,
+  "note": "[JP] = 'a presence in the ruined church'; 'A Presence in the Ruined Church' (30) > 24. Also serves 20:2."
+ },
+ {
+  "en": "Hoping to save the souls of the in-between, Sigret heard of the Gate of the Underworld in Madrie Church Cemetery and went in alone. So Bishop Saines asked you to go after her.",
+  "max": 202
+ },
+ {
+  "en": "The Ruined Church Stirs - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "The cemetery order is Mag Fig Thi Alc Pri Bis Mag. If your names are learned, you'll be killed. Confuse them with two parties, or suspend your adventure and change your names outright. Then just storm the center.",
+  "max": 216,
+  "note": "[JP] = class initials (Mage, Fighter, Thief, Alchemist, Priest, Bishop, Mage), written with the game's 3-letter class abbreviations; second [JP] kept as Mag (could be another class). [JP] = suspend the game."
+ },
+ {
+  "en": "The Ruined Church Stirs - event text",
+  "max": 202,
+  "note": "Placeholder dev label (title + 'event text'). Translated plainly."
+ },
+ {
+  "en": "The Ruined Church Stirs - hint text",
+  "max": 216,
+  "note": "Placeholder dev label (title + 'hint text'). Translated plainly."
+ },
+ {
+  "en": "Friends After All",
+  "max": 24,
+  "note": "[JP] = 'really good friends, deep down'."
+ },
+ {
+  "en": "Miria had a fight with best friend Soara and they parted ways. Soara is said to be studying at Rubenburg, and Miria wants to know how she is doing now.",
+  "max": 202,
+  "note": "Miria's gender unknown: no pronoun for Miria; 'she' = Soara (glossary: female)."
+ },
+ {
+  "en": "Friends After All - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "If they parted after a fight, it's best to bring them face to face to make up. If you solve this Soara's troubles, she may come back to Miria.",
+  "max": 216
+ },
+ {
+  "en": "Rondelgius's Trial 1",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius ordered you to fetch the Ice Strawberry from the Flotban Snowfield.",
+  "max": 202
+ },
+ {
+  "en": "Rondelgius's Trial 1 - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "The snow rabbits seem to love Ice Strawberries too. If you end up racing them for one, it'll be very hard without speed. If it seems hopeless, raise your Agility and try again.",
+  "max": 216,
+  "note": "[JP] = snow rabbits (no monster entry found; lowercase)."
+ },
+ {
+  "en": "Rondelgius's Trial 2",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius ordered you to defeat the unknown apparition that appears in Heerdahl.",
+  "max": 202
+ },
+ {
+  "en": "Rondelgius's Trial 2 - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "The golf course bunker was to the west, I think. Search it thoroughly. I was once invited to play that golf, too... That beastfolk girl I saw... I wonder how she is now. I'm worried about her grandmother's health.",
+  "max": 216,
+  "note": "[JP] read as the beastfolk girl's grandmother (her). Speaker = the hint giver (unnamed)."
+ },
+ {
+  "en": "Rondelgius's Trial 3",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius ordered you to plant a flag on the Churos Highlands.",
+  "max": 202
+ },
+ {
+  "en": "Rondelgius's Trial 3 - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "The Churos Highlands are guarded by Nishimikado. To beat his trial, the alchemy items Angel's Window and Dove Bell will come in handy. Then run boldly yet carefully!",
+  "max": 216,
+  "note": "Source uses [JP] for Nishimikado (male). [JP] = Dove Bell (CSV)."
+ },
+ {
+  "en": "Churos Highlands Anomaly",
+  "max": 24
+ },
+ {
+  "en": "When you swapped the flags on the Churos Highlands as Rondelgius said, an unknown monster awoke.",
+  "max": 202,
+  "note": "[JP] = 'flag' as in Rondelgius's scenes (slice 017); slice 060 uses 'banner' (open item)."
+ },
+ {
+  "en": "Churos Highlands Anomaly - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "That monster likes to fight in pairs. So when you visit it, try going as a party of two.",
+  "max": 216
+ },
+ {
+  "en": "Rise Again, Ancient Song",
+  "max": 24
+ },
+ {
+  "en": "Haleorat asked you to obtain the sheet music of a song guarded by the spirits on Anhimona Heights.",
+  "max": 202
+ },
+ {
+  "en": "Rise Again, Ancient Song - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "To climb higher on Anhimona Heights, try giving the fairy on 1F some sweets. Sweets are also sold in Gandra Mine. Once you've been through, you'll find a shortcut too.",
+  "max": 216
+ },
+ {
+  "en": "The Ancient Song's Truth",
+  "max": 24
+ },
+ {
+  "en": "The sheet music you obtained was written in a script from long, long ago, and no one could read it. So Haleorat asked you to have it deciphered.",
+  "max": 202,
+  "note": "Subject of [JP] restored as Haleorat (slice 017 row 4196: Haleorat asks for someone to decipher it)."
+ },
+ {
+  "en": "The Ancient Song's Truth - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "Ogres and goblins excel at studying ancient scripts. Visit the goblin on Baroque Fort 2F and help finish the research, and the script should get deciphered along the way.",
+  "max": 216
+ },
+ {
+  "en": "'Morning of Ruin'",
+  "max": 24,
+  "note": "Glossary: Forsaken Painting 'Morning of Ruin' (35) > 24; title kept, 'Forsaken Painting' dropped. Alternative 'Painting:Morning of Ruin' (24)."
+ },
+ {
+  "en": "Lord Volms asked you to look into a copy of a mural that he bought. If only you could find the mural the painting was based on...",
+  "max": 202,
+  "note": "Source uses [JP] for Volms (male)."
+ },
+ {
+  "en": "'Morning of Ruin' - consultation text",
+  "max": 194,
+  "note": "Placeholder dev label (title + 'consultation text'); every row of this Walmitt column has the same pattern. Translated plainly."
+ },
+ {
+  "en": "To reach the painted place, warp from the center of the Dekor Temple Ruins' lowest floor. Once the ancient script is deciphered, go deeper under Dekor; an Elf, Ogre, Human, Gnome and Hobbit pray to open the door.",
+  "max": 216,
+  "note": "[JP] = 'warp' (teleport from the deepest floor's centre). [JP]: the five races pray to open the door."
+ },
+ {
+  "en": "Please Find Me",
+  "max": 24
+ },
+ {
+  "en": "Lunea of Lunea's Shop apparently gathers goods to sell in the Nerid Marshlands, but went out and never came back.",
+  "max": 202,
+  "note": "Lunea's gender not stated: no pronoun."
+ }
+]

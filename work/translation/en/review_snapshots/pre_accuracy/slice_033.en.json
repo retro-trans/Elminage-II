@@ -1,0 +1,346 @@
+[
+ {
+  "en": "\"I'm not telllling~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How meeean~ I want just a hint, at leeeast~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooo, you can't~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! Quit fooling around and come out, will you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ufufuuu~~~~\"{w}",
+  "kind": "msg",
+  "note": "~~~ for the source's drawn-out tilde run; the final ~ is the source's note mark per convention."
+ },
+ {
+  "en": "\"Graaanny, yoo-hooo~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Granny', as the Elderly Adventurer calls the old woman (possibly his wife; not stated)."
+ },
+ {
+  "en": "\"...That damn old hag! What if other adventurers get ahead of us while we're dawdling around!?\"{w}{p}\"It's definitely somewhere around here. The voice came from the east, so...\"{w}",
+  "kind": "msg",
+  "note": "The Nun's [JP] kept at full strength ('damn old hag'), as slice 019 rendered [JP]."
+ },
+ {
+  "en": "Bistel Magic Bureau Officer",
+  "kind": "name",
+  "note": "Glossary form; 27 chars, over the ~16 name-box guide. Shorter fallback if it does not fit: 'Magic Bureau Officer'."
+ },
+ {
+  "en": "\"I am an officer of the Bistel Magic Bureau. By order of Director Archelon, this place is sealed off.\"{w}{p}\"Unless you're adventurers who can at least find the Jewel Ring, you'd die the moment you went in. Get yourselves in order and come back another time.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Director Archelon' (glossary title [JP] = Director Archelon); no Lord/Master since Archelon's gender is not established."
+ },
+ {
+  "en": "\"Mm, that compass is proof you passed the trial! You did well!{w}But don't go getting carried away, eh?\"{w}{p}\"Truth is, B1F is protected by Director Archelon's power, the same as Bistel.\"{w}{p}\"But beyond here, it's different. From B2F on, things are out of our hands. If you don't keep your wits about you, you'll be dead in a ditch in no time.\"{w}{p}\"Now then, off you go!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "\"Curse you, Abizaemon! Heaping shame on a samurai like meeee!\"{w}",
+  "kind": "msg",
+  "note": "[JP] romanized 'Abizaemon' (mock samurai name built on the Abi of the glossary; new name)."
+ },
+ {
+  "en": "\"Calm down, old man! ...Jeez, if I hadn't jumped in to help, it wouldn't have stopped at a little shame, y'know?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'old man' (the Thief's address; the Samurai is 74+ years into his bushido)."
+ },
+ {
+  "en": "\"I only challenged it because I heard it was weak!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And you call yourself a samurai...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The second I came to, none of my attacks would land -- what is the meaning of thiiiiiis!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as waking from a sleep/KO status in the fight."
+ },
+ {
+  "en": "\"'Cause your skills are garbage, old man! Man, though, that's the first time I've seen anyone near master level almost lose to an Abi.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'garbage' (crude, matches the Thief's tone); [JP] -> lowercase 'master level' (class mastery level)."
+ },
+ {
+  "en": "\"Shuddup, shuddup!\nS-Seventy-four years of toil, my glorious... bushido...\nWaaaaahhh...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = slurred, childish 'shut up'. Source line breaks kept as \\n because the three beats are separate sobs; can be dropped if wrap is preferred."
+ },
+ {
+  "en": "\"Oh, come ON! Quit crying, it's embarrassing at your age!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But... but, I... I found the Helm Splitter... and I still haven't won even once... It's seppuku for meeee! Seppuku-puuuu!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Helm Splitter' (plain translation; new item name). [JP] is a babyish mangling of seppuku, kept as 'Seppuku-puuuu'."
+ },
+ {
+  "en": "\"Okay, okay! Then next time I'll go with you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-Really!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, I'll tag along, since there's no helping it! ...Jeez.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh... Fwahahaha! Allll riiiight!!{w}Just you wait, Abizaemon! I'll hack you in two with this Helm Splitter!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a pain...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suddenly, you felt a strange, heavy pressure.{w}The source of that oppressive presence was a force holding back the casting of spells.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You no longer feel the strange pressure.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A giant bat appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A giant bat appeared before you.{w}Could this be the bat from the request?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The strange pressure has not gone away, so you will have to fight without being able to use spells.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed the Big Vanbat.{w}",
+  "kind": "msg",
+  "note": "[JP] romanized 'Big Vanbat' (new monster name; could be meant as 'Vambat'/vampire bat - check the monster table)."
+ },
+ {
+  "en": "A giant bat lies sprawled at your feet.{w}You succeeded in exterminating the Big Vanbat.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "No one is here now.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suddenly, a sweet smell filled the air.{w}A fierce drowsiness comes over you. Going on like this might be dangerous.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You no longer smell the sweet scent.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The sweet smell has not faded, so you will have to fight off drowsiness as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suddenly, your sight was stolen from you.{w}In the darkness, the clammy air peculiar to caves clings to you.{w}{p}A monster by the name of fear slowly began to raise its head, ready to devour your weakened hearts.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You no longer feel fear.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The darkness has not lifted, so you will have to fight fear as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sensed a change in the air around you.{w}When you breathe in, your insides clench painfully.{w}{p}It seems air laden with toxins is drifting in.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You no longer sense the miasma.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'miasma' (the event's [JP] = 'toxins')."
+ },
+ {
+  "en": "The miasma has not cleared, so you will have to fight the toxins as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suddenly, the strength drains from your knees.{w}You nearly sank to the ground, but held on.{w}This does not seem to be anyone's prank.{w}{p}The strange weakness grows stronger with every step you take.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You no longer feel the weakness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The strange weakness has not gone away, so you will have to fight in the worst possible condition.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a sign.{w}",
+  "kind": "msg",
+  "note": "[JP] in a dungeon = 'sign' (the Bistel plaza one was 'notice board')."
+ },
+ {
+  "en": "{0E}*      You must find your own path      *\n*                                       *\n*        And so it is with life         *{0F}{w}",
+  "kind": "msg",
+  "note": "Bordered sign drawn with full-width asterisks; redrawn as ASCII '*' with padded lines of equal length (41 chars). Centring depends on the font - check in game."
+ },
+ {
+  "en": "Digging onward, you came out into a somewhat open space.{w}The cool air feels pleasant.{w}{p}Is this where you should bring Raizam?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm... This place is...!!{w}This rock face, this coolness, the size of this chamber!{w}It's perfect for my house, moguuu!\"{w}{p}\"I've decided, mogu! I'm living here, mogu!{w}You lot did well, moguuu!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] as Raizam's first person -> 'my/I'; [JP] = 'chamber'."
+ },
+ {
+  "en": "\"Now, the first thing to do in my new home is...{w}take a nap, moguuu!{w}Well then, everyone, good night...\"{w}{p}\"ZZZzzz...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...That's cold, mogu!?{w}Wh-What is it, mogu!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you listen closely, you hear a drip-drip of water.{w}It seems drops of water are falling from the ceiling.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A-A leak, mogu! This is a defective cave, moguuu!?{w}If freezing water like this keeps dripping on me, I'll catch a cold, mogu!!\"{w}{p}\"I have to do something so I don't catch a cold, mogu!{w}At times like this... um...\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as Raizam resolving to act (he then looks it up himself), not an order to the party. Could also be 'Do something...!' aimed at the party."
+ },
+ {
+  "en": "Raizam took out some sort of thick book and began earnestly flipping through it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ummm, ummm... Found it, mogu!{w}Let's see, in Gandra Mine...{w}...Okay, got it, mogu!!\"{w}{p}\"The girl at the general store in Gandra Mine is supposed to be good at fixing leaks and stuff, mogu!{w}I want you to bring her here, mogu!\"{w}{p}\"I'm counting on you, moguuu~{w}I'll sleep here while I wait, mogu...{w}ZZZzzz...\"{w}",
+  "kind": "msg",
+  "note": "'the general store in Gandra Mine' = Jera's General Store; Raizam does not name it, so kept descriptive."
+ },
+ {
+  "en": "\"ZZZzzz...{w}Mmnya, mmnya...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Raizam is asleep.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the Earth Sage?{w}My, my... this one looks like a real klutz...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'looks like a klutz' (slow, clumsy); pronoun avoided."
+ },
+ {
+  "en": "\"Raizam?{w}Yoo-hoo, Earth Saaage?\"{w}",
+  "kind": "msg",
+  "note": "[JP]/[JP] carried as tone, no Mr./Ms. (gender unknown)."
+ },
+ {
+  "en": "\"...Mm... who's there, mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's Jera, from Gandra Mine.{w}Thank you sooo much for asking for me by name~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = being requested by name (service-trade phrasing)."
+ },
+ {
+  "en": "\"I'd like you to get right to it, mogu. Please fix the leak in this chamber's ceiling, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can't reach it like this.{w}Hey, Sage, could you be my step stool for a sec?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sure, mogu. I'll be down here sleeping, mogu.{w}Do whatever you like, moguuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaand, one job done!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The water's not dripping anymore, mogu!{w}Well done, moguuu!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're welcome!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What's the matter, mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? What's the matter, you say...{w}You're just going to leave it at that? What about my payment?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, so that's what you mean, mogu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uh-huh, uh-huh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no such thing, mogu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-There's no such thing!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm one of the Four Sages, mogu! I'm super important, mogu!!{w}If there IS a reward, it's the honor of being asked to repair my home, moguuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ummm... are you serious?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mogu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh... is that so.{w}Making the great Jera work for free... you've got some nerve, don't you?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (self-reference with [JP]) -> 'the great Jera'."
+ },
+ {
+  "en": "\"Aw, it's nothing special, mogu. You're making me blush, moguuu~\"{w}",
+  "kind": "msg",
+  "note": "Raizam takes 'some nerve' as praise; the misunderstanding is the joke."
+ },
+ {
+  "en": "\"Well then, Earth Sage.{w}Would you come over here with big sis for a bit?\"{w}",
+  "kind": "msg",
+  "note": "[JP] self-reference -> 'big sis' (Jera talking down to Raizam; leads into slice 034 where she takes Raizam's whiskers)."
+ }
+]

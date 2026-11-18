@@ -1,0 +1,247 @@
+[
+ {
+  "id": "EMPLOY.CSV:3:2",
+  "en": "Parameters",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EMPLOY.CSV:3:3",
+  "en": "Fig",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:4",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:3:5",
+  "en": "Pri",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:6",
+  "en": "Thi",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:7",
+  "en": "Alc",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:8",
+  "en": "Ser",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:9",
+  "en": "Bishop",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:3:10",
+  "en": "Ran",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:11",
+  "en": "Gla",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:12",
+  "en": "Bard",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:3:14",
+  "en": "Sum",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:15",
+  "en": "Val",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:16",
+  "en": "Lord",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:3:18",
+  "en": "Nin",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EMPLOY.CSV:3:21",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EMPLOY.CSV:9:2",
+  "en": "Neutral",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:12:2",
+  "en": "Strength",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:13:2",
+  "en": "Intellect",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:14:2",
+  "en": "Piety",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:15:2",
+  "en": "Vitality",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:16:2",
+  "en": "Agility",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:17:2",
+  "en": "Luck",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:27:2",
+  "en": "Human",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:28:2",
+  "en": "Elf",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:29:2",
+  "en": "Gnome",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:30:2",
+  "en": "Hobbit",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EMPLOY.CSV:31:2",
+  "en": "Fairy",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:32:2",
+  "en": "Dwarf",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:33:2",
+  "en": "Werebeast",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:34:2",
+  "en": "Dragonewt",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:35:2",
+  "en": "Devilish",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:36:2",
+  "en": "Magic Puppet",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:37:2",
+  "en": "Ogre",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EMPLOY.CSV:38:2",
+  "en": "Goblin",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ }
+]

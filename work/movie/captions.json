@@ -1,0 +1,310 @@
+{
+ "note": "Opening movies OP_01 / OP_02 (USRDIR/MOVIE): English captions over the burned-in Japanese (tools/movie_sub.py). Times in seconds (decoded frame time), boxes in 480x272 pixels [x0, y0, x1, y1]; each card fades in/out over 'fade' seconds over a blurred, darkened band. Lines are left-aligned like the Japanese.",
+ "font_line": "C:/Windows/Fonts/georgiai.ttf",
+ "font_small": "C:/Windows/Fonts/georgiai.ttf",
+ "font_name": "C:/Windows/Fonts/georgiab.ttf",
+ "fade": 0.35,
+ "movies": {
+  "OP_01": [
+   {
+    "t0": 0.25,
+    "t1": 6.92,
+    "box": [
+     22,
+     214,
+     300,
+     244
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My memories reach back to an age long past."
+    ]
+   },
+   {
+    "t0": 8.26,
+    "t1": 14.83,
+    "box": [
+     22,
+     194,
+     431,
+     258
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "The gods who govern life,",
+     "and the gods who govern the order of things—my fathers—at war:",
+     "the sorrowful fate of those who could not trust each other's ways."
+    ]
+   },
+   {
+    "t0": 15.27,
+    "t1": 21.84,
+    "box": [
+     22,
+     205,
+     286,
+     251
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My father bore me, in whom no life dwells.",
+     "That god bore you, who nurtures life."
+    ]
+   },
+   {
+    "t0": 22.27,
+    "t1": 28.88,
+    "box": [
+     22,
+     214,
+     321,
+     244
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "And the hand that reached out was offered to me."
+    ]
+   },
+   {
+    "t0": 29.28,
+    "t1": 35.89,
+    "box": [
+     22,
+     184,
+     396,
+     266
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "Ah… I know your heart.",
+     "I know your anger, and your sorrow.",
+     "I know the great love you gave to small lives.",
+     "But you do not know the tears I shed."
+    ]
+   },
+   {
+    "t0": 36.29,
+    "t1": 42.89,
+    "box": [
+     22,
+     206,
+     410,
+     252
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "Your wrath and that god's gave birth to a great sin.",
+     "You become one with me, and your body shatters."
+    ]
+   },
+   {
+    "t0": 43.33,
+    "t1": 49.83,
+    "box": [
+     22,
+     186,
+     444,
+     268
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My heart and my body both grew unstable.",
+     "But I do not mind.",
+     "For I was able to welcome",
+     "the beloved ones you held so dear."
+    ]
+   },
+   {
+    "t0": 50.27,
+    "t1": 56.91,
+    "box": [
+     22,
+     186,
+     462,
+     268
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My fathers banished that god,",
+     "and I was reborn to be cleansed of my taint—",
+     "though I never thought of it as a taint—",
+     "to live on with these children, all you left behind."
+    ]
+   },
+   {
+    "t0": 57.34,
+    "t1": 64.81,
+    "box": [
+     22,
+     205,
+     158,
+     252
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "And yet,",
+     "now you…"
+    ]
+   }
+  ],
+  "OP_02": [
+   {
+    "t0": 0.25,
+    "t1": 6.92,
+    "box": [
+     22,
+     214,
+     300,
+     244
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My memories reach back to an age long past."
+    ]
+   },
+   {
+    "t0": 8.26,
+    "t1": 14.83,
+    "box": [
+     22,
+     194,
+     412,
+     258
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "The gods who govern life—my fathers—",
+     "at war with the gods who govern the order of things:",
+     "a shameful deed of those steeped in power and greed."
+    ]
+   },
+   {
+    "t0": 15.23,
+    "t1": 21.84,
+    "box": [
+     22,
+     205,
+     284,
+     251
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "That god bore you, in whom no life dwells.",
+     "My father bore me, who nurtures life."
+    ]
+   },
+   {
+    "t0": 22.27,
+    "t1": 28.85,
+    "box": [
+     22,
+     214,
+     320,
+     244
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "Yet the hand that reached out was offered to you."
+    ]
+   },
+   {
+    "t0": 29.28,
+    "t1": 35.89,
+    "box": [
+     22,
+     184,
+     396,
+     266
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "Ah… I cannot understand the hearts of the gods.",
+     "None of them will even look upon small lives.",
+     "They do not know the wailing of those who can only pray.",
+     "But I alone knew those children's tears."
+    ]
+   },
+   {
+    "t0": 36.29,
+    "t1": 42.89,
+    "box": [
+     22,
+     206,
+     410,
+     252
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "I gave birth to a great sin.",
+     "Vowing that we would meet again one day, I shatter."
+    ]
+   },
+   {
+    "t0": 43.33,
+    "t1": 49.9,
+    "box": [
+     22,
+     186,
+     444,
+     268
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My mind grows clouded, sinking into darkness.",
+     "But I do not mind.",
+     "If those children can live on—",
+     "for I was able to save the ones I love."
+    ]
+   },
+   {
+    "t0": 50.27,
+    "t1": 56.91,
+    "box": [
+     22,
+     186,
+     462,
+     268
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "My father was banished,",
+     "and you were reborn, as if to hide the gods' cruelty,",
+     "cradling the children I had raised."
+    ]
+   },
+   {
+    "t0": 57.37,
+    "t1": 64.81,
+    "box": [
+     22,
+     205,
+     158,
+     252
+    ],
+    "size": 13,
+    "align": "left",
+    "lines": [
+     "And now,",
+     "I…"
+    ]
+   }
+  ]
+ }
+}

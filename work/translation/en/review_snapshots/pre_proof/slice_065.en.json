@@ -1,0 +1,351 @@
+[
+ {
+  "en": "\"...No. Not just yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's that supposed to mean, Zeshrom?{w}Don't tell me you're planning to break our contract.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is not what I mean. I am saying it is not over yet.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"That is not it\" was stiff and unclear; Zeshrom's formal register kept."
+ },
+ {
+  "en": "\"...Lady Urna,\nis that all your wrath and your bitterness amount to?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why do you think\nthese two divine relics\nremained in your hands?\"{w}{p}\"Contrachio did not reject\neverything that you are.{w}So long as you hold the relics, there is still a chance.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Anyone can simply lament.\nBut you had the will to stand back up.{w}That is why I placed my hopes in you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Zeshrom...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Rise again, as many times as it takes.{w}I, too, shall lend you my aid.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch. Had to go and pull a stunt like that, didn't you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right, I... I will fight...{w}I will never give up...\"{w}{p}\"The power of this Sword of Wrath...{w}and of the Earring of Sorrow...{w}here and now, I release it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Earth Mother... is ME!{w}It must be me and no other!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna closed her eyes and called out in a clear, commanding voice.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My name is Urna.\nThe New Land, Urnas Rade.\"{w}",
+  "kind": "msg",
+  "note": "Urunasu Rade: romanized 'Urnas Rade' after Finas Rade (fiinasu raade); the glossary has only Urna Rade (uruna raade). New name. 2769/2771 look like alternative versions of the same line."
+ },
+ {
+  "en": "\"My name is Urna.\nUrna-Zefkaka.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Though the wall of time may stand between us,\nyou, above all, I must never forget.\"{w}{p}\"Light of wisdom, bright as the long ages,\nand its keeper, great elder of the sky: Omsis of Wind.\"{w}{p}\"Flame of the heart that never dies out,\nand its keeper, overlord of the hellfire: Rades of Fire.\"{w}{p}\"Ripple of life that drifts in the deep,\nand its keeper, noble of the waters: Shirins of Water.\"{w}{p}\"And...\"{w}{p}\"Firm foundation that upholds all things,\nand its keeper, child of the earth: Raizas of Earth.\"{w}{p}\"Come to me!!\"{w}",
+  "kind": "msg",
+  "note": "Urna calls the Four Sages by their former names (glossary: Omsis, Rades, Shirins, Raizas). 'X, tsukasadorishi Y, Z' rendered 'X, and its keeper, Y: Z'. Hoshi-shimo (stars and frost) = the long years -> 'the long ages'. | Editorial: \"of all things\" did not fit persons (the Sages); \"above all\", same reading kept."
+ },
+ {
+  "en": "Urna's body was enveloped in a dazzling light.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As if answering Urna's call,\na single beast appeared before you.{w}",
+  "kind": "msg",
+  "note": "Rows 2775-2778 are variants by beast count (1-4), presumably by how many Sages the party restored."
+ },
+ {
+  "en": "As if answering Urna's call,\ntwo beasts appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As if answering Urna's call,\nthree beasts appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As if answering Urna's call,\nfour beasts appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As if answering Urna's call,\nfour beasts appeared before you.{w}{p}There stood the ancient Earth Mother, a being to be held in dread.{w}The hour of judgment begins.{w}",
+  "kind": "msg",
+  "note": "Danzai (condemnation) = 'judgment', echoing Urna's 'sword of judgment' line (2724). Present tense kept from the source."
+ },
+ {
+  "en": "\"I won't... accept... this...{w}That's... right... isn't it...?{w}Fa...ther... Sari...jana...\"{w}{p}\"It won't... end... like this...{w}It will never... EN... D...{w}Gu... GYAAAAAAAAAAAAAGH!!\"{w}",
+  "kind": "msg",
+  "note": "Sarijana's honorific dropped per the lead's convention (gender not established). 'Sou... deshou...?' read as Urna appealing to Father/Sarijana: 'That's... right... isn't it...?' (she seeks their agreement). Katakana OWARA...NA (voice breaking into monster) rendered in caps 'EN... D...'."
+ },
+ {
+  "en": "A vortex of immense power arose,\nswallowing everything, Urna and the Kin of Darkness alike.{w}Something had been left behind in its wake.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Earth Fragment.{w}",
+  "kind": "msg",
+  "note": "New item name: daichi no kakera -> 'Earth Fragment' (EBOOT item table eb@089504a8 untranslated)."
+ },
+ {
+  "en": "When you scraped Urna's name from Contrachio\nand wrote Fiona's name in its place,\nfor an instant the land was wrapped in silence.{w}{p}And then...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sensed a warm light from the stone tablet before you.{w}It poured down upon you\nlike Fiona's own words of thanks.{w}{p}Finas Rade had been protected\nby your hands.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"it were ... words\" number clash -> \"like\"; stray comma before \"by your hands\" removed."
+ },
+ {
+  "en": "There is an inscription.{w}{p}Mysterious numbers are carved into its surface.{w}{p}{0E}              *  712612.301  *              \n\n    61043891  >{0F}{w}",
+  "kind": "msg",
+  "note": "Full-width digits/symbols converted to ASCII; layout re-centred to the 22-full-width-char line (44 columns). Numbers kept verbatim (likely a land/system number, cf. \"Rade 301 system\")."
+ },
+ {
+  "en": "\"Now then, what brings you here?{w}This is no place for you to be.\"{w}{p}\"Sorry, but would you kindly go back?{w}If you won't, I'll send you back, by force if need be.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"the likes of you\" added contempt not in the source (kindly old Sage); \"see you home\" read as an escort -> \"send you back, by force if need be\" (chikarazuku demo); \"go back\" matches the choice \"Go back?\"."
+ },
+ {
+  "en": "Go back?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Off with you, quickly now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't hurt the Princess any more than you already have!!\"{w}",
+  "kind": "msg",
+  "note": "Himesama = 'the Princess' (Four Sages' form of address for Urna, as Raizam's 'Princess' in slice 031)."
+ },
+ {
+  "en": "\"Y-you're a strong lot, aren't you...{w}But you're still leaving the Princess's land!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, oh!{w}So you've remembered the Princess, have you?{w}Even so...\"{w}{p}\"It must have been terribly hard on the Princess, too.{w}She won't see anyone but us.\"{w}{p}\"And this time, I must protect this land\nno matter what.{w}I can't leave it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks to you folks,\nthe Princess has finally found some peace.{w}Truly, thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is an altar.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "*  Dukes' Territory  *",
+  "kind": "op096"
+ },
+ {
+  "en": "{0E}                                              \n                Roar of Lament                \n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Event title nageki no houkou -> 'Roar of Lament' (new). Banner padded to 46 columns like earlier slices."
+ },
+ {
+  "en": "Suddenly, sand and dust swirled into the air.{w}From within the dust cloud, a misshapen dragon appeared.{w}{p}Its eyes were painted over with rage, sorrow and regret,\nand you were at the mercy of the storm.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "*  Prince's Territory  *",
+  "kind": "op096",
+  "note": "Purinsu Teritorii -> 'Prince's Territory' (new; singular to mirror Dukes' Territory)."
+ },
+ {
+  "en": "{0E}                                              \n            The Proud House Lenzer            \n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Glossary note gives this event name as \"The Proud House Lenzer\"."
+ },
+ {
+  "en": "*  Refugee Camp  *",
+  "kind": "op096",
+  "note": "Refyujii Kyanpu -> 'Refugee Camp' (new)."
+ },
+ {
+  "en": "{0E}                                              \n           Two Unforgiven Wanderers           \n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Event title (lit. 'the wandering two who are not forgiven') -> 'Two Unforgiven Wanderers' (new)."
+ },
+ {
+  "en": "\"Sis, what about this place?\"{w}",
+  "kind": "msg",
+  "note": "Neesan here is the speaker's actual sister (siblings); 'Sis'. Name boxes Boy's Voice / Girl's Voice per glossary; identity not stated."
+ },
+ {
+  "en": "\"It's a beautiful land.{w}But it seems\nit won't accept bodies like ours.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I guess we have to keep traveling after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. But first, the enemy in front of us.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}                                              \n         The Grand Chancellor's Room          \n                                              {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hoarse Voice",
+  "kind": "name",
+  "note": "Shiwagareta koe -> 'Hoarse Voice' (new name box, 12 chars). Speaker presumably the Grand Chancellor (room banner 3778), not stated; no pronouns used."
+ },
+ {
+  "en": "\"You know nothing yet.{w}You do not even know that you know nothing.{w}So allow me to teach you...\"{w}{p}\"...that an adventure too far will cost you your life.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Ellipsis bridges to the next page, which continues the sentence in lowercase."
+ },
+ {
+  "en": "\"What do you lot want!?{w}I don't even want to see your faces. Get out!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Princess~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Y-you lot!?{w}Raizam, what's the meaning of this!?\"{w}{p}\"How dare you come waltzing in here and show your faces!{w}I don't even want to look at you. Go home!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna tried to blast you out of the place!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please wait, mogu!{w}Look at what these kids brought\nfor you, Princess, mogu!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!? What are you talking about!?{w}Whatever you bring me now, it won't... huh?{w}Is that... Yuan Wine...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's going on...{w}Why do you lot have this...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told her how you had received a royal command from Leafa,\nand how the ogres and goblins of Baroque Fort\nhad kept faithfully guarding the wine.{w}",
+  "kind": "msg",
+  "note": "Chokumei = 'royal command' (Leafa is a princess). Ogre/Goblin lowercased as common nouns in narration."
+ },
+ {
+  "en": "\"There were others... who remembered me too?{w}What... that's... that's not fair...\"{w}{p}\"You lot...{w}I thought... I'd never forgive you...{w}It's not fair... Waaaaaaahhh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hundreds, thousands of years--no, tens or hundreds of thousands...{w}How long must Urna have spent\nin solitude?{w}{p}Because the days she had lost\nhad been so full of happiness.{w}{p}There was Urna, sobbing like a child.{w}The Earth Mother, scorned as an ancient evil spirit,\nwho had seen those she loved turn their blades on her.{w}{p}You and Urna had forgiven each other.{w}And now, after a long and painful journey,\nyou and Urna are at last trying to win something back.{w}",
+  "kind": "msg",
+  "note": "Page 2 is a deliberate fragment (the reason her solitude was so hard) - kept as one. Last sentence: subject carried over from 'You and Urna' -> 'you', but it could be Urna alone reclaiming something; uncertain. | Accuracy: last sentence restores the compound subject carried from the previous sentence (kimitachi to Urna): \"you and Urna are at last trying...\", so it no longer reads as the party alone."
+ },
+ {
+  "en": "\"*Sniff*... *sniff*...{w}",
+  "kind": "msg",
+  "note": "Quote left open on purpose: the next row (3860) redraws this text in {0E}..{0F} and closes the quote, so a closing quote here would vanish on redraw (same approach as slice 007)."
+ },
+ {
+  "en": "{0E}\"*Sniff*... *sniff*...{0F}\nBut I still won't forgive you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n              *  Huh?  *              {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, mogu!?{w}They worked so hard, mogu! Forgive them, moguuu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-O!{w}I mean, these kids\ntried to kill me, you know!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Says you, Princess, when you were\ntrying to turn the whole land upside down!\"{w}",
+  "kind": "msg",
+  "note": "Raizam has no mogu in this line in the source; none added."
+ },
+ {
+  "en": "\"That's one thing.{w}This is another.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"That's that\" means \"end of discussion\" in English; idiom sore wa sore, kore wa kore -> \"That's one thing. This is another.\""
+ },
+ {
+  "en": "\"...You're so unfair, Princess, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut uuup!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MOGEEEH!?{w}Not the nose, you can't grab my nose, mogeeeh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen up!{w}If you want me to forgive you, chase off the Kin of Darkness\nthat have invaded this land!\"{w}{p}\"Do that, and I'll accept this wine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-well, if that's what you want,\nyou could've just asked them nor--\"{w}",
+  "kind": "msg",
+  "note": "Source cuts off mid-word (futsuu ni onegai sureba i-) as Urna grabs Raizam's nose: English cut at the same point ('asked them nor[mally]'). | Editorial: Dash marks the cut-off so \"nor\" does not read as a typo."
+ },
+ {
+  "en": "\"MOGEEEH!{w}MOGEGEEEH!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'll for-give-you~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna gave you a friendly wink.{w}...The ancient evil spirit.{w}",
+  "kind": "msg",
+  "note": "Wry narrator aside, kept as the bare noun phrase like the source (no added 'so much for')."
+ },
+ {
+  "en": "\"So that's settled. Go take out the Demon Dukes. I'm counting on you!\"{w}",
+  "kind": "msg",
+  "note": "Daimakou taiji read as plural 'the Demon Dukes': next slice (3904) has 'you beat all the Demon Dukes'."
+ },
+ {
+  "en": "\"Counting on you, moguuu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That stone tablet over there\nstill doesn't have a start time on it, mogu.\"{w}",
+  "kind": "msg",
+  "note": "Kaishi jikoku = 'start time' (Urna's 'start stamp' line in slice 031 is the related kaishi no kokuin, which recurs in 3894)."
+ },
+ {
+  "en": "\"Who cares about that thing.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"stupid\" dropped: anna mono = \"that thing\" (accuracy flag)."
+ }
+]

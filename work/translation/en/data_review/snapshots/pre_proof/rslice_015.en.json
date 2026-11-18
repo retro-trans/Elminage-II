@@ -1,0 +1,332 @@
+[
+ {
+  "en": "Prof. McMahon",
+  "max": 18
+ },
+ {
+  "en": "Prof. Kamikaze",
+  "max": 20
+ },
+ {
+  "en": "Principal",
+  "max": 10
+ },
+ {
+  "en": "Bd. Chair",
+  "max": 10
+ },
+ {
+  "en": "D. Tentacle",
+  "max": 12
+ },
+ {
+  "en": "Montana",
+  "max": 16
+ },
+ {
+  "en": "Bohinyob",
+  "max": 16
+ },
+ {
+  "en": "Ubogenya",
+  "max": 18
+ },
+ {
+  "en": "Babis",
+  "max": 18
+ },
+ {
+  "en": "Dragon Centaur V",
+  "max": 24
+ },
+ {
+  "en": "Emperor Harold",
+  "max": 16
+ },
+ {
+  "en": "Apasha, the Abyss",
+  "max": 18
+ },
+ {
+  "en": "Lord Volms",
+  "max": 16
+ },
+ {
+  "en": "Prof. Harmoni",
+  "max": 16
+ },
+ {
+  "en": "Prof. Warmoni",
+  "max": 16
+ },
+ {
+  "en": "Mirco",
+  "max": 24
+ },
+ {
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11",
+  "max": 36
+ },
+ {
+  "en": "A creature rising from the ground, stalking prey with a formless body and big eyes. Its thick tentacles are surprisingly strong and reach even the back row, so low-level Mages and such often fall prey. If it looks dangerous, have the front row cover them.",
+  "max": 256,
+  "note": "edi: missing article (\"with a formless body\")"
+ },
+ {
+  "en": "Mere clay set in motion by high-level magic. Fiercely loyal to its maker, it is said never to disobey. For that reason, frail mages sometimes keep one at their side as a bodyguard.",
+  "max": 256
+ },
+ {
+  "en": "A magical creature that takes in all kinds of living things and grows ever larger, keeping its shape. Some of its victims bond with the Jellita and fuse with it instead of being digested. Touch it bare and digestion starts right there, so armor is a must.",
+  "max": 256,
+  "note": "edi: \"Some it takes in bond with\" read as a garden path; \"Some of its victims\""
+ },
+ {
+  "en": "A tycoon of old built a piggy bank that dodges danger on its own so no one could steal the fortune: the Goggle Eye. But who could have guessed it would flee from its owner too? The owner seems long gone, so let's gratefully claim what's inside.",
+  "max": 256
+ },
+ {
+  "en": "A mechanical bird. Its ferocity and machine precision torment adventurers. Yet turn that precision against it and you'll run rings around it. Perhaps they look alike: now and then one mistakes a rooftop weathercock for a female of its kind and courts it.",
+  "max": 256
+ },
+ {
+  "en": "Living armor. It poses as an ornament, then suddenly attacks. It may be empty inside, but it carries a full set of knight's gear, so don't let your guard down.",
+  "max": 256
+ },
+ {
+  "en": "A monster of many theories: a warrior trapped in a twisted world, a discarded failed Homunculus out for revenge, a dream demon's minion, a soldier from another dimension. Its form is so shocking, they say, that onlookers dream of it or go mad on the spot.",
+  "max": 256,
+  "note": "edi: [JP] = shocking, not \"harsh\" (accuracy uncertainty 1)"
+ },
+ {
+  "en": "A further-grown Homunculus. Save for its head, its body no longer crumbles in open air. Crack its head flask a little and the protective fluid spills; it soon dies. But if they are made on a whim and killed for no real reason, do their lives mean anything?",
+  "max": 256
+ },
+ {
+  "en": "The corpses of those who collapsed and died in the labyrinth, or of unlucky souls killed by monsters and left to rot, risen and walking. Take care not to join their ranks.",
+  "max": 256
+ },
+ {
+  "en": "A demon that feeds on carrion. No wonder they love to settle in labyrinths: they are littered with dead adventurers. Then again, perhaps one day you yourselves will give in to hunger and become Ghouls.",
+  "max": 256
+ },
+ {
+  "en": "A zombie dog. Humans have so much needless wisdom that turning zombie seems to strip them of everything, but those with little intellect to begin with act much as they did in life. Zombie Fangs are no exception: they're said to gnaw Skeleton bones for fun.",
+  "max": 256
+ },
+ {
+  "en": "The corpse of a samurai carrying the famed blade Hundred Bamboo Edge. Some attack him to get the sword, but many are said to have been cut down in turn. Is that power truly his own, or the sword's?",
+  "max": 256
+ },
+ {
+  "en": "A Bass Dragon turned zombie. Mid-level adventurers sometimes fish in dungeons as one way to find food. But reeling in a Bass Zombi is a letdown. Would a revival spell bring its fish meat back to life?",
+  "max": 256
+ },
+ {
+  "en": "A woman who died in childbirth or grieving a stillbirth is said to become a Langsuir. With a mouth on the back of her head she drinks blood and, perhaps from regret, preys only on children. Killing another's child won't bring hers back. Surely she knows...",
+  "max": 256
+ },
+ {
+  "en": "Langsuir",
+  "max": 24
+ },
+ {
+  "en": "Giants with an element of their own are close to spirits, and on death they rarely leave a corpse, returning straight to nature. But some giants are far from spirits, and such louts end up as zombies. If you meet one, beat it to a pulp to lay it to rest.",
+  "max": 256
+ },
+ {
+  "en": "A skeleton warrior bearing a great scythe. If your front row's defense is thin, it will easily take their heads. If you can't handle it, Dispel is an option too.",
+  "max": 256
+ },
+ {
+  "en": "A burly Skeleton infused with power, so big it is little different from a giant. Many Skeletons go into it, so when a Girou is smashed, the shards return to Skeleton form. After a Girou falls, vast numbers of Skeletons are said to lie strewn about.",
+  "max": 256
+ },
+ {
+  "en": "Curse or obsession? It is an undead dragon, a creature called the mightiest on earth. Even its breath has changed and its form is long gone, yet you still sense its majesty. But you are alive. Dragon or not, you can't let the dead reap your lives. Fight!",
+  "max": 256
+ },
+ {
+  "en": "A child of human and vampire blood. Most die soon after birth, so adult Dhampirs are very rare. Perhaps due to their vampire blood, they can sense vampires. Many are persecuted for their mixed blood, and their natures vary widely.",
+  "max": 256
+ },
+ {
+  "en": "A vampiress whose bewitching beauty ensnares prey, young women above all. Unlike rough lesser vampires, she draws her victim close by the waist, speaks of love, and waits till their eyes melt with bliss. Those charmed by her sweet kiss offer their blood.",
+  "max": 256,
+  "note": "acc: the victim ([JP]) is a young woman; 'its eyes' -> 'their eyes' | edi: opening reordered; \"craving young women\" dangled after \"prey\"; \"offer up\" -> \"offer\" to fit"
+ },
+ {
+  "en": "A sharp scythe that reaps heads in one sweep, a skull foretelling death, a vile centipede's body. You freeze, and suddenly every ally but you is dead... with this monster, that's commonplace. If you meet one, curse yourself for wandering into such a place.",
+  "max": 256
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of earth. Spirits are not harmful, but act by their own laws, so you may offend one unknowingly. It is not that strong, but if one attacks you, pay close attention to why it did.",
+  "max": 256
+ },
+ {
+  "en": "A spirit dwelling in a tree. It takes a womanly form, and it is said those pure of heart can befriend it. It usually lives quietly in the forest, but if anyone ravages the forest, it binds them with its vines.",
+  "max": 256
+ },
+ {
+  "en": "A mountain fairy who grows turnips. It hands out turnip and radish seeds to children but is unwelcome, so it is always grumpy. Its sack, naturally, holds turnip seeds, radish seeds and such. Its hobby is strolling about counting the turnips it has grown.",
+  "max": 256
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of wind. As if to say \"nothing in this world stays the same,\" it keeps changing the land. Yet even a wind spirit stops now and then. If the wind suddenly dies on an adventure, one may be near.",
+  "max": 256
+ },
+ {
+  "en": "Trees that live for many years merge with spirits and gain a will of their own. Treants are one such kind. Usually silent, they sometimes speak to elves or gnomes when a great calamity or change is coming.",
+  "max": 256,
+  "note": "acc: race names lowercase in running text (review_notes)"
+ },
+ {
+  "en": "A fairy said to know where gold, silver and treasure lie. It looks stubborn, but rumor says it is a timid elder. Also a shoemaker, it makes shoes for every race from fairies to giants. When a traveler's shoes break, it seems to pop up and mend them.",
+  "max": 256,
+  "note": "acc: [JP] has no gender (glossary [JP] = Elder); 'old man' -> 'elder'"
+ },
+ {
+  "en": "It appears before you out of nowhere. Speak and it won't answer; stare and you can't make out its form. A higher being's fragment, a demon in a god's guise, mere weather... Many tales are told, but lately some whisper it may be \"a warning of some kind.\"",
+  "max": 256
+ },
+ {
+  "en": "A strange light drifting in many places, also called a ghost light. Reach for it carelessly and the strange waves from its glowing body will freeze you in place. Its stamina is modest, but neither magic nor physical attacks work well on it: a tough foe.",
+  "max": 256
+ },
+ {
+  "en": "An elemental that rules darkness. It moves through shadows, wandering in search of deeper dark. Being kin to the spirits, it is normally very docile, but the miasma of evil can drive it to attack people. If you see one, you would do well to keep away.",
+  "max": 256
+ },
+ {
+  "en": "A lovely woman of the snowy peaks, with translucent white skin and a bewitching smile. Cold inside too, her breath never turns white: that's how to tell her from a normal woman. Rumors range from her killing the lost in the snow to her marrying for love.",
+  "max": 256
+ },
+ {
+  "en": "Surly and aggressive, they're often taken for fairies gone astray, but far from it. They have merely come closer to a fairy's true nature than ordinary ones. To fulfill their duty as a mana-circulation system, they attack to release the power within you.",
+  "max": 256
+ },
+ {
+  "en": "Legend says a carefully made snowman gains a heart and helps mind children until it melts in spring. But if its heart goes unnoticed and it is neglected, loneliness draws an evil will, and it becomes a fiend freezing children to keep them by it forever.",
+  "max": 256
+ },
+ {
+  "en": "A fire djinn that freely commands all flame. The air around it is always searing; an Ifrit's mere arrival sets the area ablaze. Unskilled summoners who make a pact beyond their means are often engulfed in flames and burned to ash the moment they call it.",
+  "max": 256
+ },
+ {
+  "en": "A spirit that rules all four great elements of all things. A union of fire, water, earth and wind, it embodies the balance of magic that dwells in the world. When that balance breaks, it is said to appear to restore the world to its rightful form.",
+  "max": 256
+ },
+ {
+  "en": "Its hard shell can't be cracked even with a hammer, and its sharp claws tear flesh with ease. It watches for an opening, then pounces, so if you don't judge your distance carefully, you'll be sorry.",
+  "max": 256
+ },
+ {
+  "en": "A mosquito with a mouth as sharp as a pike, the spear soldiers carry. It's only a mosquito, so it's no great foe, but lose enough blood and you'll still die. Be careful when a swarm surrounds you.",
+  "max": 256
+ },
+ {
+  "en": "It turns the floor into quicksand to drag adventurers down to itself. With their formation broken, adventurers may be wiped out without being able to do a thing. If you run into one, take it out first.",
+  "max": 256
+ },
+ {
+  "en": "It gapes its crooked-toothed mouth like an idiot. Its supple tentacles can wrap around a foe in an instant, crush every bone and swallow it whole, head first. Even if you're lucky enough to dodge, your gear will likely be destroyed.",
+  "max": 256,
+  "note": "edi: \"its body\" was ambiguous (the crawler or the foe)"
+ },
+ {
+  "en": "A fearsome coconut crab. In the forest it comes at you openly, snapping branches as it goes. Slow but hard to stop, it is very dangerous when several surround you. It has instinctive cunning too, good at driving prey into dead ends, so handle it with care.",
+  "max": 256
+ },
+ {
+  "en": "A scorpion monster found mainly in deserts. When an already dangerous creature mutates into a monster, its danger is beyond measure. When the venomous tail comes flying, the front row should brace their shields.",
+  "max": 256
+ },
+ {
+  "en": "A giant centipede that coils around a shield and lives in it like a hermit crab. Its defense is already tough, yet it hardens its allies further with spells. Some adventurers mistake the centipede for the shield's decoration and pay dearly for it.",
+  "max": 256
+ },
+ {
+  "en": "Cordyceps are fungi that take over larvae in the soil; the true body is the plant part. But in this rare cordyceps the host also lives on in symbiosis. The flower gathers the tiny flying bugs that serve as food, and the insect preys on them.",
+  "max": 256
+ },
+ {
+  "en": "Not content with scurrying, they now even fly. The terror of having one leap at you is beyond imagining. They have nests, which you may find on your adventures. If so, the wise move is to leave quietly. Poke one for fun, and a black terror will engulf you.",
+  "max": 256
+ },
+ {
+  "en": "A strange creature that seizes prey with two oddly shaped jaws. The accordion-like, arm-shaped upper jaw is stronger than it looks; once it gets a firm grip, even a human can hardly escape. If you hear a grating \"bzzzt,\" you had best be on your guard.",
+  "max": 256
+ },
+ {
+  "en": "A mighty queen bee. It often rules a corner of the forest and shows no mercy to those who run wild in its territory, so take care not to upset it. Being a bee, it adores nectar; at harvest time it is seen flying about merrily in search of flowers itself.",
+  "max": 256
+ },
+ {
+  "en": "They live in flocks in dark, cramped places, always hunting for prey by ultrasound. Once they find it, they fly straight in and go for the base of the neck with fang and claw. They prefer blood to flesh, hence the name 'Vampire'.",
+  "max": 256
+ },
+ {
+  "en": "Rats that fed on the flesh and blood of dead adventurers. More aggressive than ordinary rats and a size bigger. They know how adventurers taste, so if their cute looks lure you closer, they'll bite without mercy.",
+  "max": 256
+ },
+ {
+  "en": "Its warty skin is coated in poison that leaves anyone who touches it Poisoned. It's surprisingly strong, too: if its kick lands in your gut, you'll double over. If you can remove the poisonous parts, its meat is edible.",
+  "max": 256
+ },
+ {
+  "en": "A ray-like animal that drifts and flutters through the air. It is surprisingly quick, and its habit of attacking twice at once is a nuisance. Then again, that's all it is.",
+  "max": 256
+ },
+ {
+  "en": "A bird known for its chunky body and lovable face. Its wings are too small to fly, but instead it gained legs to run on the ground. Its lower-body muscles are so developed it is round all over, hence the name meat bomb. Its meat is muscly, so tastes vary.",
+  "max": 256,
+  "note": "edi: wings cannot \"fly\"; the bird cannot fly on them"
+ },
+ {
+  "en": "A monster known for its burly body and long, sharp horn. As a rule it doesn't attack other creatures, but once it's worked up, that's another story. With a burst of speed and a piercing charge, it kills foes in the blink of an eye.",
+  "max": 256
+ },
+ {
+  "en": "A mountain bear. It lives quietly far from towns, and leaves to avoid a fight when it hears adventurers' footsteps. But when food runs short, hunger drives it down to the foothills. Most sightings are of these hungry bears, hence its fierce reputation.",
+  "max": 256
+ },
+ {
+  "en": "The Ripper Mizuchi is the bane of fishermen and sailors. Its whole body is covered in sword-sharp blades that shred the nets they set. But if you meet one, worry about your own skin, not your tools of the trade.",
+  "max": 256
+ },
+ {
+  "en": "An odd animal that walks on its nose, balancing with its tail. Standing, it reaches a person's waist; its body is surprisingly big. It is docile, but when angered it casts the spell Zeo Nadar. If you meet a group of them, why not settle things peacefully?",
+  "max": 256
+ },
+ {
+  "en": "A huge creature, part man and part ape, met on snowy mountains. It's often seen, but no one has settled whether it is an animal, a near-human or a spirit. In a world where spirits and spells are commonplace, half-baked mysteries like it tend to be ignored.",
+  "max": 256
+ },
+ {
+  "en": "It swallows prey, water and all, with its huge mouth. It lives in dark, cold places and rises to the surface only to feed. It is so ferocious it bears the name 'Dragon'. Then again, real dragons are rather intelligent, so they may find that a nuisance.",
+  "max": 256
+ },
+ {
+  "en": "Also called the Silver Hunter. It races across snowfields like a gale, cleverly drives its prey into its hunting ground, pins it down and kills it. It usually acts alone, but in packs they can even bring down foes above their level.",
+  "max": 256
+ },
+ {
+  "en": "A sheep that has gained magical power. It has a strong spell barrier of its own and tries to lower its foes' spell resistance. When it shows up with mages or monsters that cast evasion-raising spells, it becomes a real pain.",
+  "max": 256
+ },
+ {
+  "en": "The slimy mucus covering its body makes weapons slip off. It stores foul, pitch-black ink and spits it at foes when in danger. The smell is hard to wash out and saps morale on its own, but it is actually delicious: one of the Three Great Delicacies.",
+  "max": 256
+ },
+ {
+  "en": "It cuts foes in two, bone and all, with its huge pincers and spits foamy digestive juice. Despite the name, it has nothing to do with ogres, except that an odd ogre puts one in a stew. Its tomalley is one of Hestrio's Three Great Delicacies. Remember that.",
+  "max": 256,
+  "note": "acc: race names lowercase in running text (review_notes)"
+ },
+ {
+  "en": "In the pitch-black world of the deep sea, the vivid fins it suddenly spreads catch the eye. But this is nothing less than a declaration of war. It circles you seeking an opening to attack, yet carefree adventurers keep mistaking it for a welcome.",
+  "max": 256,
+  "note": "edi: \"endless carefree adventurers\" unidiomatic for [JP]"
+ }
+]

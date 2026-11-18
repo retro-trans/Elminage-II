@@ -1,0 +1,30 @@
+[
+ {
+  "id": "SPMP.CSV:1:2",
+  "en": "Mage",
+  "max": 58,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "SPMP.CSV:1:9",
+  "en": "Pri",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPMP.CSV:1:16",
+  "en": "Alch",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "SPMP.CSV:1:37",
+  "en": "Summ",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ }
+]

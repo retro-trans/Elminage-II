@@ -1,0 +1,374 @@
+[
+ {
+  "en": "Almite",
+  "len": 11,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Nicol",
+  "len": 7,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "So-Elia",
+  "len": 11,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Massa",
+  "len": 7,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Novent",
+  "len": 9,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Wakasaa",
+  "len": 9,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place (long final vowel)"
+ },
+ {
+  "en": "Konsaisai",
+  "len": 13,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Yomogi",
+  "len": 7,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Geepoe",
+  "len": 9,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Wasshi",
+  "len": 9,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Nepuda",
+  "len": 7,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Dontesu",
+  "len": 11,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place (full-width Don + tesu)"
+ },
+ {
+  "en": "Hahn",
+  "len": 7,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Piccano",
+  "len": 11,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Eckus",
+  "len": 9,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Sendy",
+  "len": 9,
+  "note": "debug? name table (fixed 30-byte records with VILER/DDT; likely debug/staff party names): romanized, fits in place"
+ },
+ {
+  "en": "Equipped.",
+  "len": 13
+ },
+ {
+  "en": "Buy it. Are you sure?",
+  "len": 29,
+  "note": "pattern of \"Dismantle it. Are you sure?\""
+ },
+ {
+  "en": "Sell it. Are you sure?",
+  "len": 29
+ },
+ {
+  "en": "Trade it. Are you sure?",
+  "len": 29
+ },
+ {
+  "en": "Register this character?",
+  "len": 33
+ },
+ {
+  "en": "Suspend adventure. Are you sure?",
+  "len": 35
+ },
+ {
+  "en": "Use this?",
+  "len": 15,
+  "note": "facility use prompt"
+ },
+ {
+  "en": "Is this OK?",
+  "len": 23
+ },
+ {
+  "en": "Go solve this request! Got it!?",
+  "len": 37,
+  "note": "consultation office nudge; casual voice kept"
+ },
+ {
+  "en": "Buy a hint?",
+  "len": 23
+ },
+ {
+  "en": "Delete this character?",
+  "len": 33
+ },
+ {
+  "en": "Sell the item. Are you sure?",
+  "len": 37
+ },
+ {
+  "en": "Uncurse/repair it?",
+  "len": 21,
+  "note": "Uncurse/Repair as in HELP_TEXT"
+ },
+ {
+  "en": "Unleash its hidden power?",
+  "len": 29,
+  "note": "as in the ankh item texts"
+ },
+ {
+  "en": "Really discard it?",
+  "len": 19
+ },
+ {
+  "en": "Initialize. Are you sure?",
+  "len": 29
+ },
+ {
+  "en": "Really OK to initialize?",
+  "len": 33
+ },
+ {
+  "en": "No confirmation message is set.\n",
+  "len": 38,
+  "note": "debug? fallback when a prompt has no text"
+ },
+ {
+  "en": "Uncursed/repaired.",
+  "len": 21
+ },
+ {
+  "en": "Discarded.",
+  "len": 11
+ },
+ {
+  "en": "Donated.",
+  "len": 13
+ },
+ {
+  "en": "Fist",
+  "len": 5,
+  "note": "one id (0x089503dc) has no refs and a 5-byte slot, so the English must fit 4 bytes: \"Fist\" (unarmed attack / empty weapon)"
+ },
+ {
+  "en": "Loading data...",
+  "len": 25
+ },
+ {
+  "en": "Can't level up further.",
+  "len": 25
+ },
+ {
+  "en": "Happy birthday!",
+  "len": 21
+ },
+ {
+  "en": "Save data is corrupt.\nIt will be deleted.",
+  "len": 42,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Install data is corrupt.\nIt will be deleted.",
+  "len": 54,
+  "note": "pattern of the save-data row"
+ },
+ {
+  "en": "Too many gimmick entries.",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "Gimmick data was updated. Please delete your save data.",
+  "len": 57,
+  "note": "debug"
+ },
+ {
+  "en": "Script file does not exist.",
+  "len": 35,
+  "note": "debug"
+ },
+ {
+  "en": "Not enough script buffer space.",
+  "len": 41,
+  "note": "debug"
+ },
+ {
+  "en": "Script file read error",
+  "len": 35,
+  "note": "debug"
+ },
+ {
+  "en": "Script file exceeds the size limit.",
+  "len": 49,
+  "note": "debug"
+ },
+ {
+  "en": "Specified script not found. [%05d]",
+  "len": 37,
+  "note": "debug"
+ },
+ {
+  "en": "The following scripts are missing.",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "Script Debug Menu",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Script Execution Log",
+  "len": 19,
+  "note": "debug"
+ },
+ {
+  "en": "Floor Data Analysis",
+  "len": 21,
+  "note": "debug"
+ },
+ {
+  "en": "Map Flag Settings",
+  "len": 17,
+  "note": "debug"
+ },
+ {
+  "en": "Game Flag Settings",
+  "len": 17,
+  "note": "debug"
+ },
+ {
+  "en": "Game Item Flag Settings",
+  "len": 25,
+  "note": "debug"
+ },
+ {
+  "en": "Party Status Settings",
+  "len": 23,
+  "note": "debug"
+ },
+ {
+  "en": "Compass Target Info",
+  "len": 21,
+  "note": "debug"
+ },
+ {
+  "en": "Move Floor",
+  "len": 17,
+  "note": "debug"
+ },
+ {
+  "en": "Oland Shop Found Item Settings",
+  "len": 33,
+  "note": "debug; the Oland shop is not in the glossary (named only in debug script lines), romanized Oland"
+ },
+ {
+  "en": "Oland Shop Item Settings",
+  "len": 25,
+  "note": "debug; Oland romanized"
+ },
+ {
+  "en": "Summoner Contract Settings",
+  "len": 15,
+  "note": "debug"
+ },
+ {
+  "en": "Fame Settings",
+  "len": 17,
+  "note": "debug"
+ },
+ {
+  "en": "Toggle script status display",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "Show the script execution log",
+  "len": 29,
+  "note": "debug"
+ },
+ {
+  "en": "Move to another floor",
+  "len": 21,
+  "note": "debug"
+ },
+ {
+  "en": "Set map flag info",
+  "len": 29,
+  "note": "debug"
+ },
+ {
+  "en": "Set game flag info",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Set item flag info",
+  "len": 29,
+  "note": "debug"
+ },
+ {
+  "en": "Change party status",
+  "len": 31,
+  "note": "debug"
+ },
+ {
+  "en": "Show compass target info",
+  "len": 33,
+  "note": "debug"
+ },
+ {
+  "en": "Set Oland Shop found items",
+  "len": 35,
+  "note": "debug"
+ },
+ {
+  "en": "Set Oland Shop items",
+  "len": 27,
+  "note": "debug"
+ },
+ {
+  "en": "Set Summoner contracts",
+  "len": 17,
+  "note": "debug"
+ },
+ {
+  "en": "Set Fame options",
+  "len": 19,
+  "note": "debug"
+ },
+ {
+  "en": "Turn on all footprint flags (floor)",
+  "len": 31,
+  "note": "debug; footprint = auto-map visited flags"
+ },
+ {
+  "en": "Turn on all footprint flags (dungeon)",
+  "len": 35,
+  "note": "debug"
+ }
+]

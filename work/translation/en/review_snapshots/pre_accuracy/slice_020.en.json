@@ -1,0 +1,364 @@
+[
+ {
+  "en": "Gregorio",
+  "kind": "name"
+ },
+ {
+  "en": "\"GBOHH!?{w}Y-you...{w}What the hell're you doin' to your precious only son, ya...\"{w}",
+  "kind": "msg",
+  "note": "She has just hit him. The source cuts off mid-verb (nani shiyaga...); English trails off at the end instead, since the word order differs."
+ },
+ {
+  "en": "\"Quit talking like that!{w}You're shaming me in front of the neighbors!\"{w}",
+  "kind": "msg",
+  "note": "Source ends with ?! (rhetorical 'won't you?'); rendered as a statement."
+ },
+ {
+  "en": "\"Th-then fiiine...{w}YOU LOT OVER THEEERE!\nLend me some cash, dammiiit!!\"{w}",
+  "kind": "msg",
+  "note": "He turns on the party. The \\n is kept as an emphatic break."
+ },
+ {
+  "en": "\"How many times do I have to tell you not to go bothering other people!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"GYABOOOOH!?\nS-sorry 'bout that...\"{w}",
+  "kind": "msg",
+  "note": "Another blow lands. \\n kept for the cry-then-apology beat."
+ },
+ {
+  "en": "\"Hmph!\nAnd I told you to wipe off that makeup too, it looks filthy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-it ain't filthy!\nIt's cool! This makeup is totally raaad, yeahhhh!!\"{w}",
+  "kind": "msg",
+  "note": "'yeahhhh' renders the stretched emphatic da zeeee; rocker swagger."
+ },
+ {
+  "en": "\"This boy is such an idiot!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MUGYOROPEPOOOH!?\"{w}",
+  "kind": "msg",
+  "note": "Nonsense pain cry, romanized."
+ },
+ {
+  "en": "\"Honestly, you...\nGet a job already, for goodness' sake.{w}How long are you planning to keep sponging off your parents?\"{w}",
+  "kind": "msg",
+  "note": "Sune wo kajiru = sponge off one's parents, as in 4548."
+ },
+ {
+  "en": "\"Go over to Walmitt's and get yourself some work.{w}Otherwise you'll end up an adult who can't do a single thing, you hear?\"{w}",
+  "kind": "msg",
+  "note": "Walmitt's gender is unknown: 'Walmitt's' (their place) avoids a pronoun."
+ },
+ {
+  "en": "\"I'm gonna keep the heart of a boy forever and...\"{w}",
+  "kind": "msg",
+  "note": "Cut off (presumably another blow, no line between)."
+ },
+ {
+  "en": "\"O-okaaay, I gotchaaa...{w}Dammiiiiit!\"{w}",
+  "kind": "msg",
+  "note": "Wakkarimassha = slurred 'wakarimashita' (understood)."
+ },
+ {
+  "en": "Gregorio went off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gregorio's Voice",
+  "kind": "name",
+  "note": "Glossary form."
+ },
+ {
+  "en": "\"Get off my back, ya crusty old haaag!\nMy mom's got an outie belly buttonnnn!!\"{w}",
+  "kind": "msg",
+  "note": "Debeso: the childish taunt 'your mom has an outie navel', which he aims at his own mother ('ore no kaachan'). Kept 'my mom' for the joke."
+ },
+ {
+  "en": "\"Hey! No supper for you!!{w}...Sorry, you had to see that embarrassing scene.\"{w}{p}\"That was Gregorio.{w}He's a good kid at heart, though...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I wonder if Gregorio really did get some work from Walmitt.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Haven't seen Gregorio, have you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No matter how he mouths off, that boy always comes home at mealtimes...\"{w}{p}\"I've got a bad feeling about this.{w}All of you, if you come across Gregorio on your travels, tell him to come home, would you?\"{w}",
+  "kind": "msg",
+  "note": "'Minna' = the party addressed as a group."
+ },
+ {
+  "en": "\"Honestly... where could he have gone...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MAAAAAA!!\"{w}",
+  "kind": "msg",
+  "note": "Kaachan = Mom/Ma."
+ },
+ {
+  "en": "\"Gregorio, where on earth have you been!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm sorryyyy!{w}For your birthdaaay, Ma,{w}I got you thiiiis!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gregorio handed over an oven mitt.{w}",
+  "kind": "msg",
+  "note": "Nabetsukami = 'oven mitt', matching Armitt's 'ratty oven mitt' in 4550 (slice_019). Narration only; not an inventory item in this row."
+ },
+ {
+  "en": "\"Why, this is...!!{w}I'm happy, but you... this...\"{w}",
+  "kind": "msg",
+  "note": "She trails off; the next line answers how he paid for it, so no added question."
+ },
+ {
+  "en": "\"I found work at Walmitt's plaaace!\nCuttin' down treeees!\nSplittin' firewood and gettin' split myseeelf...\"{w}",
+  "kind": "msg",
+  "note": "Wattari warararetari = 'splitting and being split', a joke; kept literal. \\n kept for the list rhythm."
+ },
+ {
+  "en": "\"Is that so... Thank you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ehehehehhh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The two of them are laughing happily.{w}",
+  "kind": "msg",
+  "note": "Present tense as in the source."
+ },
+ {
+  "en": "\"Ever since then, Gregorio's turned into a real good boy.\"{w}{p}\"It's all thanks to you lot.{w}Thank you.\"{w}",
+  "kind": "msg",
+  "note": "'You lot' for anta-tachi, as in 4546."
+ },
+ {
+  "en": "\"Huh...{w}Gregori...o...?\"{w}{p}\"No, but why...{w}Don't tell me he went to that Heerdahl Walmitt was talking about!?\"{w}",
+  "kind": "msg",
+  "note": "Bad-outcome branch: something (likely his remains or news of his death) has been shown to her; the source does not say what. 'He went' restored from the elided verb."
+ },
+ {
+  "en": "\"Ahhhh!{w}It's because I stuck my nose in!{w}Gregorio... my Gregoriooo!!\"{w}",
+  "kind": "msg",
+  "note": "Yokei na koto wo shita = 'I did something I shouldn't have' (pushing him to get work). 'My Gregorio' renders the repeated, wailed name."
+ },
+ {
+  "en": "Armitt broke down in tears where she stood.{w}{p}Unable to find any words for her, you had no choice but to leave.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef",
+  "kind": "name"
+ },
+ {
+  "en": "\"Here at Yotel Wharf, there's plenty for the fish to eat and plenty of places for them to hide, y'see.{w}Makes it a fine fishing spot, it does.\"{w}",
+  "kind": "msg",
+  "note": "Old-man speech (washi, -ja, -nou) given a light folksy register. Benef's gender is unknown in the glossary; no pronoun used."
+ },
+ {
+  "en": "\"Oh... Here it comes!!{w}Hnnngh... THERE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef pulled on the rod...{w}{p}{0E}\n          *    A tasty-looking fish!    *          {0F}{w}",
+  "kind": "msg",
+  "note": "Centered banner: full-width spaces replaced with ASCII spaces as in slice_006 (approximate centering); the full-width star kept as '*'."
+ },
+ {
+  "en": "Muse",
+  "kind": "name"
+ },
+ {
+  "en": "\"Sniff, sniff... Nya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The girl who had been sleeping nearby slowly sat up.{w}",
+  "kind": "msg",
+  "note": "Mukuri to = getting up slowly or lazily, not with a start."
+ },
+ {
+  "en": "\"Eep!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I smell food, nya~{w}Benef, did you catch something yummy again, nya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I didn't, I didn't catch a thing, Muse!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Li~ar~ nyaaaaan~{w}You can't fool Muse's nose, nya!\"{w}{p}\"Gimme that~\"{w}",
+  "kind": "msg",
+  "note": "Muse refers to herself as 'Muse'. Note ~ replaces the music note per convention."
+ },
+ {
+  "en": "\"S-stay awaaay~~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n              *  Whoops  *              {0F}{w}",
+  "kind": "msg",
+  "note": "Oootto = 'whoops' (Wizardry trap-message parody). Next slice has the variant oottotto; suggest 'Whoops-a-daisy'. Centering approximate."
+ },
+ {
+  "en": "\"Aaaaahhh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before Benef could reel the fish in, Muse snatched it right off the rod!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's miiine, nyaaa!!\"{w}",
+  "kind": "msg",
+  "note": "Itadaki = 'I'll take that'."
+ },
+ {
+  "en": "\"Chomp... munch munch... Mmm! Yummy!\nYum-nyan-nyan~\"{w}",
+  "kind": "msg",
+  "note": "Umanyannyan = 'umai' (tasty) + cat sounds; music note -> ~."
+ },
+ {
+  "en": "\"M...y... little... fishy...?\"{w}",
+  "kind": "msg",
+  "note": "The source splits 'washi' (my) across a pause; English splits 'my'. O-sakana-san = cutesy 'fishy'."
+ },
+ {
+  "en": "\"Fwaaah...\"{w}{p}\"Tummy's full, so now Muse is all sleepy, nya.\nZzzz~...\"{w}",
+  "kind": "msg",
+  "note": "Subject restored as 'Muse' to keep her third-person self-reference."
+ },
+ {
+  "en": "\"Oh my, Benef, she got you again, did she?\"{w}",
+  "kind": "msg",
+  "note": "Armitt (same washerwoman) appears in this scene too. 'She' = Muse (female per glossary)."
+ },
+ {
+  "en": "\"Heh... heh heh heh...\"{w}{p}\"Here at Yotel Wharf...{w}there's plenty for the fish to eat and plenty of places for them to hide...{w}Makes it a fine fishing spot, it doooes...\"{w}{p}\"If only Muse weren't here...!\n*sniff*...\"{w}",
+  "kind": "msg",
+  "note": "Echoes 4629 word for word, broken up."
+ },
+ {
+  "en": "\"Ever since I was old enough to remember, I've dropped my line at this wharf to catch something to go with that day's rice.\"{w}{p}\"But ever since I gave Muse a fish on a whim, she eats every one I catch.\"{w}",
+  "kind": "msg",
+  "note": "Okazu = side dish eaten with rice; set up here for 4665. Benef shifts to polite speech (orimashita, mashite) when telling the party."
+ },
+ {
+  "en": "\"For ten-odd years now, I've eaten nothing but sad, lonely meals with nothing to go with the rice.{w}That's why I keep telling myself, this time, this time for sure...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef's rod got a bite!!{w}",
+  "kind": "msg",
+  "note": "Sao ga hannou shita = the rod twitched / got a bite."
+ },
+ {
+  "en": "\"So far, so normal...{w}It's after I reel it in that the trouble starts... it is!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Muse slowly sat up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not again!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I smell yummy fish, nya~{w}Benef, did you catch something yummy yet again, nya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-wait, Muse!\"{w}{p}\"Just today, just this once, let it go!!{w}Ever since you showed up, I haven't had one decent meal...\"{w}",
+  "kind": "msg",
+  "note": "Source breaks off mid-sentence; English trails off."
+ },
+ {
+  "en": "\"No~ can~ do~ nyaaaaan~{w}Muse's tummy shows no mercy, nya!\"{w}{p}\"Gimme that~\"{w}",
+  "kind": "msg",
+  "note": "Dame = 'no way'; music note -> ~."
+ },
+ {
+  "en": "\"S-stoooop~~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Again... my supper...\"{w}",
+  "kind": "msg",
+  "note": "Fragment kept."
+ },
+ {
+  "en": "\"Fwaaah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Muse fell asleep.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, Benef, she got you yet again, did she?\"{w}",
+  "kind": "msg",
+  "note": "Mirrors 4659 (matamata = yet again)."
+ },
+ {
+  "en": "\"Heh... heh heh heh...\"{w}{p}\"This... this right here is the cruel tale of Yotel Wharf...{w}Hnnnghhh~!!\"{w}",
+  "kind": "msg",
+  "note": "Kufuu = a choked, tearful groan."
+ },
+ {
+  "en": "\"My supper...{w}My... suppeeer... Ah, aaahhh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef keeps repeating it, as if delirious.{w}{p}Benef's rod got a bite!!{w}",
+  "kind": "msg",
+  "note": "Present tense as in the source."
+ },
+ {
+  "en": "\"This time I'll catch it... I'll show you I can...!!\nI've worked out a secret plaaan!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you came!!\"{w}",
+  "kind": "msg",
+  "note": "Kita na = 'so you've come / here it comes'. Read as Benef greeting Muse (she wakes and speaks next; the shared wake-up narration rows are deduplicated). Could instead be the bite: 'Here it comes!!'."
+ },
+ {
+  "en": "\"I smell yummy fish, nya~{w}Benef, thanks for catching fish for Muse every day, nyan!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Muse!{w}Take a good look at what I've got here!\"{w}",
+  "kind": "msg",
+  "note": "Temoto = what is in his hands (the two rods, next row)."
+ },
+ {
+  "en": "\"Nya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How about that? Today I'm fishing with two rods!{w}You've done nothing but sleep, so you'll never know which one has the fish on it!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's true, nya! There's two rods!?{w}Which one's got the fish stuck on it, nya~?\"{w}",
+  "kind": "msg"
+ }
+]

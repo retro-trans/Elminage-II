@@ -1,0 +1,344 @@
+[
+ {
+  "en": "\"At first, I thought it was just a rumor born of the Board Chair's enormous magic power.\"{w}{p}\"But the other day...{w}It had been cleverly hidden, but...\"{w}{p}\"I sensed as many as two {11:0001:0015} in the narrow sense going off at the same time.{w}...From the middle of the 3rd floor, no less.\"{w}",
+  "kind": "msg",
+  "note": "'It had been cleverly hidden': source drops who hid it (implied the Board Chair, who is only suspected); kept passive. 'in the narrow sense' matches the lecture/exam term in slices 054/056. No plural -s after the spell insert."
+ },
+ {
+  "en": "\"I respect the Board Chair.{w}The Chair should know better than anyone how terrifying the power that spells bring can be!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I want to know.{w}Why the Chair would take a risk like that.{w}What the point of it is.\"{w}{p}\"I tried telling my teacher, but I wasn't believed.{w}It's a cover-up even Vice Principal Kathleen can't detect.{w}I feel like something terrible is about to happen...\"{w}{p}\"I'll try once more to persuade my teacher.{w}You get the way to the Board Chair's Office ready.{w}It should be reachable from the back of the Principal's Office.\"{w}{p}\"If the Principal comes at you oinking, then... just kick him aside.{w}I'm counting on you.\"{w}",
+  "kind": "msg",
+  "note": "'my teacher': most likely Professor Scheherazade (Soara pleads with that teacher in 37003), but the line does not name them, so left unnamed and genderless."
+ },
+ {
+  "en": "Better hurry to the Principal's Office.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hi there!{w}How've you been?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come to think of it, you were saying something about Miria, weren't you...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told Soara that Miria is worried about where she's gone.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay, I'll go show my face!{w}I feel like right now, I could face Miria with my head held high.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Only... I need to get myself ready first...{w}So go on ahead to the Training Hall in Bistel.{w}I'll catch up with you later.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Soara is twirling round and round in front of the full-length mirror, holding up outfits.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miria, huh...{w}It's been so long...{w}Miria'll be floored when I say I was top of my class. *giggle*\"{w}",
+  "kind": "msg",
+  "note": "Miria's gender unknown: sentence built to avoid a pronoun."
+ },
+ {
+  "en": "Professor Scheherazade",
+  "kind": "name",
+  "note": "Glossary form, 22 chars: over the ~16 name-box limit (glossary suggests a 'Prof.' short form may be needed)."
+ },
+ {
+  "en": "\"Oh my, welcome.{w}Will it be a lesson? An exam?{w}Or maybe... ex-tra... les-sons?\"{w}",
+  "kind": "msg",
+  "note": "Parody of the newlywed 'dinner? bath? or... me?' line; the source spells out 'hoshuu' (extra/remedial lessons) syllable by syllable."
+ },
+ {
+  "en": "Take the Year 1 Completion Exam?",
+  "kind": "data",
+  "note": "Exam name follows slice 055 ('2nd-Year Completion Exam')."
+ },
+ {
+  "en": "\"Sure, I'll give you a lit-tle test~\"{w}",
+  "kind": "msg",
+  "note": "Syllable-split teasing in the source rendered as 'lit-tle'."
+ },
+ {
+  "en": "\"...Well done, you pass!{w}This is where your spell studies really begin. So put your heart into it and do your best.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Year 1 Certificate.{w}",
+  "kind": "msg",
+  "note": "Item name follows slice 055 '2nd-Year Completion Certificate'."
+ },
+ {
+  "en": "\"No good at all.{w}Are you actually studying?\"{w}{p}\"Enjoying student life is fine and all, but you need to do what you're supposed to do, understand?{w}Come back when you're ready, you silly thing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, there's no need to be scared, you know~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...The Year 1 Completion Exam.{w}Let's begin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When Professor Scheherazade closed their eyes, an anti-cheating barrier went up.{w}",
+  "kind": "msg",
+  "note": "Professor's gender unknown: 'their eyes'."
+ },
+ {
+  "en": "Question 1{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "How many level 1 Mage spells are there?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "How many level 1 Mage spells are there?",
+  "kind": "data"
+ },
+ {
+  "en": "3",
+  "kind": "data"
+ },
+ {
+  "en": "4",
+  "kind": "data"
+ },
+ {
+  "en": "5",
+  "kind": "data"
+ },
+ {
+  "en": "23",
+  "kind": "data"
+ },
+ {
+  "en": "You gave your answer.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Question 2{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "Against a single foe, which is more effective: {11:0001:0002} or {11:0001:0006}?{w}",
+  "kind": "msg",
+  "note": "Spell-name inserts kept in order."
+ },
+ {
+  "en": "Vs. one enemy only, which works better?",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:0002}",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:0006}",
+  "kind": "data"
+ },
+ {
+  "en": "Both are the same",
+  "kind": "data"
+ },
+ {
+  "en": "I don't know",
+  "kind": "data"
+ },
+ {
+  "en": "Question 3{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "Which spell school pairing is correct?{w}",
+  "kind": "msg",
+  "note": "'spell and system'. Correct answer per slice 053: Mage = Reading, Alchemy = Grand."
+ },
+ {
+  "en": "Which spell school pairing is correct?",
+  "kind": "data"
+ },
+ {
+  "en": "Mage - Cast",
+  "kind": "data",
+  "note": "System names Cast/Reading/Grand: slice 053 uses 'Reading school of magic'; Cast and Grand are new terms."
+ },
+ {
+  "en": "Priest - Reading",
+  "kind": "data"
+ },
+ {
+  "en": "Alchemy - Grand",
+  "kind": "data"
+ },
+ {
+  "en": "\"The Board Chair?{w}Even if you tell me that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please, Professor!{w}Please lend me your help!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...{w}Oh, Soara dear...{w}Have you gotten a little bigger?\"{w}",
+  "kind": "msg",
+  "note": "Professor is groping Soara's chest (next rows); 'bigger' kept as vague as the source."
+ },
+ {
+  "en": "\"Kyan!?{w}Wh-where do you think you're touching!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Worrying about students is a teacher's job, isn't it?{w}You're such a flat little thing, Soara dear, I can't help worrying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"M-mind your own business!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Persuading the professor is proving difficult...{w}",
+  "kind": "msg",
+  "note": "Restored the object (the professor) from the scene."
+ },
+ {
+  "en": "{0E}   <  Evil     Career Guidance Office     Good  >   {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; spacing approximates the source. 'Career Guidance Office' follows slice 051 (2771). In-game check."
+ },
+ {
+  "en": "\"Helloooo~{w}So you all want to become good little kids, do you~?{w}That's fine~ just leave it all to your teacher~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Let's be good little kids~",
+  "kind": "data"
+ },
+ {
+  "en": "\"I'll teach you nice and gently~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Who will receive guidance?",
+  "kind": "op093"
+ },
+ {
+  "en": "\"Now then, close your eyes~{w}Badness, badness, fly awaaay~~~!\"{w}",
+  "kind": "msg",
+  "note": "Star symbol dropped (slice 053 renders it as '!')."
+ },
+ {
+  "en": "\"Yaaay~ From today on, you're a good little kid~ Hooray~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eeeeeh~ Professor Harmoni is very, very sad~{w}*mope*...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh~?{w}Huh, huh~~~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's up, Harmoni?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Something smells good~{w}I smell some rare sweets~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You, that again?{w}Isn't your head just stuffed full of sugar?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You all, over there~{w}Show me what's in your pockets, please~!{w}It's a belongings checky-check~!\"{w}",
+  "kind": "msg",
+  "note": "Cutesy hiragana 'chekku': 'checky-check'."
+ },
+ {
+  "en": "Professor Harmoni gave your belongings a checky-check!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-hey! Don't go touching other people's stuff without asking!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Found it, a Mont Blanc~!{w}Ummm~...{w}Can I confiscate this~?\"{w}",
+  "kind": "msg",
+  "note": "Mont Blanc as in slices 051/053."
+ },
+ {
+  "en": "\"Confiscate, nothing -- you just want to eat it!{w}Show some restraint, you're a teacher, dammit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuu~{w}There's no such word as 'restraint' for Professor Harmoni~{w}Please try to understand~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, yeah.{w}...You lot don't have to bother with this one.{w}Go on, get out of here.\"{w}",
+  "kind": "msg",
+  "note": "Harmoni's gender unknown, so 'this one' rather than 'her'."
+ },
+ {
+  "en": "\"Y-your teacher~ has a grenade, you know~! I really do have one, you knooow~~~?\"{w}",
+  "kind": "msg",
+  "note": "Harmoni refers to self as 'teacher'."
+ },
+ {
+  "en": "\"A teacher doesn't threaten students!!{w}Snatching a student's snack away from them is the lowest of the low! You're way more of a bad one than I am!!\"{w}",
+  "kind": "msg",
+  "note": "'waru' = 'bad one' as in slice 053."
+ },
+ {
+  "en": "\"Uuuu~~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what is it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Professor Warmoni~{w}Professor Harmoni's been a little sad lately~{w}Lately, Professor Warmoni...\"{w}",
+  "kind": "msg",
+  "note": "Sentence cut across rows; continues in 2914."
+ },
+ {
+  "en": "\"...isn't bad one bit~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"At first, your attitude was bad~{w}But now you've gone and become a good teacher to the students~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-now that you mention it... I...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We promised, didn't we~? Professor Harmoni would raise good little kids, and Professor Warmoni would raise bad little kids~\"{w}{p}\"Where did the fierce, glaring Professor Warmoni of that day go off to~?{w}Professor Harmoni is all mopey~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Truth is~, Professor Warmoni wants to eat the Mont Blanc too, right~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urk... *gulp*\"{w}",
+  "kind": "msg"
+ }
+]

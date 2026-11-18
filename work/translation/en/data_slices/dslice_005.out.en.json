@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Icy Night Counting Snow",
+  "max": 24,
+  "note": "Quest title. 'Counting Snow' = key item name in slice_047; 'Counting Snow of the Icy Night' (30) exceeds 24."
+ },
+ {
+  "en": "Lost in a blizzard, you were rescued by a strange woman. Who on earth is she...?",
+  "max": 202
+ },
+ {
+  "en": "Icy Night Counting Snow - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug? Sohdanjo = request office (HELP_TEXT 'request list')."
+ },
+ {
+  "en": "Hmm. Perhaps that was a spirit called a \"Snow Woman,\" from the legends of the lands far to the east. If she's on your mind, why not visit her now and then?",
+  "max": 216,
+  "note": "Snow Woman = monster name (MONRAW)."
+ },
+ {
+  "en": "Your Hand at First Frost",
+  "max": 24,
+  "note": "Full sense 'At first frost, leading you by the hand...' (24 limit); trailing '...' dropped to fit. Whose hand leads is not stated; kept open. Echoes key item 'Counting Snow: First Frost' (slice_047)."
+ },
+ {
+  "en": "You accepted Miyuki's feelings, but then Miyuki was carried off by someone from Glacier Castle...",
+  "max": 202
+ },
+ {
+  "en": "Your Hand at First Frost - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "If your feelings are mutual, let's go save her! But I hear this General Winter is awfully stubborn. So show him something like his wife's portrait to soften him up. It should be hidden behind the castle.",
+  "max": 216,
+  "note": "Key item 'Wife's Portrait' (slice_047). Compressed to fit 216: 'At times like this' folded into 'So'."
+ },
+ {
+  "en": "Goblin Prince Coronation",
+  "max": 24,
+  "note": "'The Goblin Prince's Coronation' (30) exceeds 24."
+ },
+ {
+  "en": "You were asked to find the bungee gear needed for the Goblin Prince's coronation: a \"bungee rope\" and a \"Handcrafted Zabutoon.\"",
+  "max": 202,
+  "note": "Glossary: bungee rope (lower case); Handcrafted Zabutoon = key item in slice_050."
+ },
+ {
+  "en": "Goblin Prince Coronation - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "This one's a real hassle. Well, if you keep going around talking to everyone, I think it'll sort itself out eventually, so be patient and keep at it.",
+  "max": 216
+ },
+ {
+  "en": "Pyroglyph Research",
+  "max": 24
+ },
+ {
+  "en": "A Pyroglyph researcher in Baroque Fort asked you to help with the research.",
+  "max": 202,
+  "note": "Researcher's gender not established; no pronoun."
+ },
+ {
+  "en": "Pyroglyph Research - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "Ancient script research, is it! Why not try answering [┌┐┘└├┬┤] for the first, [┴┏┓┛┣┗┳] for the second, [┫┻┠┯┨┷┿] for the third, and [┝┰┥┸╂] for the last!?",
+  "max": 216,
+  "note": "NON-ASCII on purpose: the box-drawing glyphs are the Pyroglyph puzzle answers, kept verbatim as in slice_049. Full-width brackets -> [ ]. Needs the glyphs in the English font; byte count assumes 2 bytes per glyph (SJIS)."
+ },
+ {
+  "en": "Report to the Ancestors",
+  "max": 24
+ },
+ {
+  "en": "Once the coronation was over, you were asked to take Goblin Prince Montana to the royal tomb of the ogres and goblins in the Churos Highlands.",
+  "max": 202
+ },
+ {
+  "en": "Report to the Ancestors - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "That would be the first floor on the north side of the Churos Highlands. You can't go on without finding a hidden door, so search hard for it.",
+  "max": 216
+ },
+ {
+  "en": "Enrolling at Rubenburg",
+  "max": 24
+ },
+ {
+  "en": "You finished enrolling at Rubenburg. Will you actually manage to graduate?",
+  "max": 202,
+  "note": "Source uses singular kimi here; English 'you' covers it."
+ },
+ {
+  "en": "Enrolling at Rubenburg - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "The school sets lots of tough exams, so no slacking off, all right? Still, if you walk every corner of the school building, I think you'll pick up hints to the questions, so give it your best.",
+  "max": 216
+ },
+ {
+  "en": "In the Magic Research Wing, you can even fight Professor Nambino! Might something good happen if you win?",
+  "max": 202,
+  "note": "Parallel to event 67 (Rombino / Martial Arts Tourney)."
+ },
+ {
+  "en": "Magical Party - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "As befits a school that teaches spells, only spells work on Professor Nambino. It should be a good test of strength for Mages and other spellcasters.",
+  "max": 216
+ },
+ {
+  "en": "Can't... Hold... It!",
+  "max": 24,
+  "note": "Mo-re-ru = 'gonna leak': Mirco is desperate for the toilet in Rubenburg (slice_053 3092, slice_055 3590)."
+ },
+ {
+  "en": "Mirco's in a pinch!",
+  "max": 202
+ },
+ {
+  "en": "Can't... Hold... It! - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "I'll lend you an Angel's Window. Then again, I don't have to lend it... What do you think, hmm?",
+  "max": 216,
+  "note": "Teasing tone kept."
+ },
+ {
+  "en": "Stop the Forbidden Expt.",
+  "max": 24,
+  "note": "Abbreviated: 'Stop the Forbidden Experiment' is 29 (limit 24)."
+ },
+ {
+  "en": "According to Soara, the academy's Board Chair is about to dabble in a forbidden arcane experiment. You were asked to help uncover the truth.",
+  "max": 202,
+  "note": "Board Chair / arcane experiment per glossary."
+ },
+ {
+  "en": "Stop the Forbidden Expt. - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "This calls for a head-on charge, plain and simple. Storm in through the Principal's Office and demand answers.",
+  "max": 216
+ },
+ {
+  "en": "Fire Sage's Irritation",
+  "max": 24
+ },
+ {
+  "en": "Radrecht, the Fire Sage, was wilting in the heat of the Scorching Castle. The spirits seem to be raising a ruckus underground...",
+  "max": 202,
+  "note": "Radrecht's gender open; no pronoun."
+ },
+ {
+  "en": "Fire Sage's Irritation - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "I've heard of the Spirit Tournament: the fire kin gather to vie for first place. Well, if they've lost their senses and are running riot, it's easiest to make them all promise to enter, then handle them all at once.",
+  "max": 216,
+  "note": "fire kin as slice_059. Compressed to fit 216: the closing 'right?' of the first sentence dropped."
+ },
+ {
+  "en": "Hot Stuff, Shirinmorin",
+  "max": 24,
+  "note": "mabui = slangy 'gorgeous', Radrecht's voice."
+ },
+ {
+  "en": "Radrecht, back in good spirits, entrusted you with a love letter addressed to Shirinmorin.",
+  "max": 202
+ },
+ {
+  "en": "Hot Stuff, Shirinmorin - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "What, Radrecht is sweet on Shirinmorin!? Well, well, my word. So even the Four Sages fall in love. If you've been asked to deliver it, there's nothing for it but to deliver it.",
+  "max": 216,
+  "note": "-sama honorifics dropped (convention: no Lord/Lady when gender is open)."
+ },
+ {
+  "en": "Regards to the Unicorn",
+  "max": 24
+ },
+ {
+  "en": "At the entrance to the Churos Highlands, an adventurer with a past entrusted you with returning the Great Tree Staff to the Unicorn, along with her thanks.",
+  "max": 202,
+  "note": "Adventurer is female: slice_061 3042 'the Unicorn that saved her'. wakeari = 'with a past / with circumstances'."
+ },
+ {
+  "en": "Regards to the Unicorn - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "To reach the Unicorn, you'll probably have to go with Innocents only -- that is, characters who have never changed class.",
+  "max": 216,
+  "note": "'Innocent' as in the Innocent item series."
+ },
+ {
+  "en": "The Land Reborn",
+  "max": 24
+ },
+ {
+  "en": "The Librarian led you to a land newly reborn: the New Land, Urnas Rade. What can you do for her?",
+  "max": 202,
+  "note": "'her' = Urna / the land (source kanojo). 'The New Land, Urnas Rade' as slice_065."
+ },
+ {
+  "en": "The Land Reborn - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "You'll need the help of many people: Princess Leafa, King Montana, the Pyroglyph Researcher... Carve the true Earth Mother's name into Reiblair, then bring that one the Yuan Wine the ogres and goblins hold.",
+  "max": 216,
+  "note": "'that one' = the one bearing that name (Urna); kept unnamed as in the source."
+ },
+ {
+  "en": "Kine's True Disciple",
+  "max": 24,
+  "note": "shin- prefix ('True') on event 57 'Kine's Disciple'; all other cells of this event are placeholders - likely unused."
+ },
+ {
+  "en": "Kine's True Disciple - event text",
+  "max": 202,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "Kine's True Disciple - request office text",
+  "max": 194,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "Kine's True Disciple - hint text",
+  "max": 216,
+  "note": "Placeholder cell (title padded + dev label); debug?"
+ },
+ {
+  "en": "Dream World",
+  "max": 16,
+  "note": "Dev label for a fog/background preset; debug?"
+ },
+ {
+  "en": "Gray",
+  "max": 14,
+  "note": "Dev colour label; debug?"
+ },
+ {
+  "en": "Church Cemetery",
+  "max": 16,
+  "note": "Dev label (Madrie Church Cemetery ceiling); debug?"
+ },
+ {
+  "en": "Category",
+  "max": 32,
+  "note": "Column header; debug?"
+ },
+ {
+  "en": "Type",
+  "max": 16,
+  "note": "Column header (also SP_TEXT header); debug?"
+ },
+ {
+  "en": "Description",
+  "max": 76,
+  "note": "Column header (also SPELL / SPELL_TEXT headers); debug?"
+ },
+ {
+  "en": "Items",
+  "max": 8,
+  "note": "Status-screen button label; also TREASURE.CSV header (8 limit)."
+ },
+ {
+  "en": "Use",
+  "max": 98
+ },
+ {
+  "en": "Give",
+  "max": 98,
+  "note": "Matches col 9 'Give an item.'"
+ },
+ {
+  "en": "Discard",
+  "max": 98,
+  "note": "Matches col 9 'Discard an item.'"
+ },
+ {
+  "en": "Appraise",
+  "max": 98,
+  "note": "JOBABL 'Appraise'."
+ },
+ {
+  "en": "Berte's Tavern",
+  "max": 16
+ },
+ {
+  "en": "Rosetta's Inn",
+  "max": 16
+ },
+ {
+  "en": "Kernel Shop",
+  "max": 16
+ },
+ {
+  "en": "Temple of Orses",
+  "max": 16
+ },
+ {
+  "en": "Bistel Castle",
+  "max": 16
+ },
+ {
+  "en": "Agres Plaza",
+  "max": 98
+ },
+ {
+  "en": "Lunea's Shop",
+  "max": 12
+ },
+ {
+  "en": "Yotel Wharf",
+  "max": 98
+ },
+ {
+  "en": "Bilente's",
+  "max": 12,
+  "note": "Glossary 'Bilente's Shop' (14) exceeds the 12 limit set by ITEM.CSV:6:187; shortened."
+ },
+ {
+  "en": "Grand Merchant's Office",
+  "max": 98,
+  "note": "As col 9 'Go to the Grand Merchant's Office.'"
+ },
+ {
+  "en": "Request List",
+  "max": 98,
+  "note": "As col 9 'View the request list.'"
+ },
+ {
+  "en": "Canteen",
+  "max": 98,
+  "note": "As col 9."
+ },
+ {
+  "en": "Jera's Store",
+  "max": 12,
+  "note": "Glossary 'Jera's General Store' (20) exceeds the 12 limit; shortened. Note: HELP_TEXT.CSV:93:9 spells it 'Jela'."
+ },
+ {
+  "en": "Blast Furnace",
+  "max": 98,
+  "note": "As col 9."
+ }
+]

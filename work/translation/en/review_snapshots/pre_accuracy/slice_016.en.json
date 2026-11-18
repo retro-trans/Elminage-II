@@ -1,0 +1,345 @@
+[
+ {
+  "en": "\"So... ara...!?\"{w}",
+  "kind": "msg",
+  "note": "Miria stammers the name in two pieces, as the source splits it."
+ },
+ {
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ah... uh-uh-uh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"S-Soaraaa...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Wh-what?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'What'...?{w}We're seeing each other for the first time in years, and all you can say is 'what'!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what are you, an idiot!?{w}There's no reason to cry, is there!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Waaaaah!{w}Soara... Soara's come baaaack!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly. You're the one who told me to get out, Miria.\"{w}",
+  "kind": "msg",
+  "note": "Refers to the flashback in 99162 (row 4053)."
+ },
+ {
+  "en": "\"I never thought you'd actually go!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I had a feeling it would come to this. Somehow, the adventurers at the Training Hall and I just weren't running at the same temperature...\"{w}{p}\"But leaving Bistel, where I'd lived so long, going somewhere without you or anyone I knew...{w}I was scared.\"{w}{p}\"So, looking back on it... um... I think it gave me a good push.\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept as a temperature image (different levels of zeal). [JP] = 'a good push', echoed by Miria in 3920."
+ },
+ {
+  "en": "\"Here I was worried sick about you, and you call it 'a good push'...?{w}Soara, you big idiooot...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*sniff*... How was Rubenburg...? Did you get to learn lots...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yep, I became a genius!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You went one hair past genius and turned into an idiooot!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the proverbial thin line between genius and idiot."
+ },
+ {
+  "en": "\"I-I'm kidding!{w}But I studied hard and graduated top of my class.{w}Look, my diploma!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-that's amazing... Top of the class at that prestigious school!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Prestigious or not... it's nothing special.{w}I found that out once I got in.\"{w}{p}\"Rubenburg was the same. If anything, since their livelihoods didn't depend on it, they were less serious than the people here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahaha...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You were right, Miria. Everyone has a different goal.\"{w}{p}\"My friends there too -- instead of becoming court mages, some wanted to mix medicines and take over the family business, and all sorts of things.\"{w}{p}\"Even if other people fall short in my eyes, they have goals of their own... and that isn't a matter of right or wrong.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you finally get it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well... something like that... I guess.{w}Actually, you know...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, ooh, I know!{w}You said something you shouldn't have, and they picked on you! They put thumbtacks in your school slippers!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = hand-raising 'Ooh, I know!'. [JP] = indoor school shoes."
+ },
+ {
+  "en": "\"Ugh... What an old-fashioned idea...{w}...is what I'd like to say, but it was something like that.{w}Though I fought back with magic traps.\"{w}{p}\"Honestly, it was appalling. Like, what did you people even come to school for?\"{w}",
+  "kind": "msg",
+  "note": "[JP] not in glossary; rendered as the common noun 'magic traps'."
+ },
+ {
+  "en": "\"No, but come on. If you were still the Soara you were that day, of course you'd be hard to get along with, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"At times like that... for some reason, the face that came to mind was yours, Miria.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If it was that hard on you... you could have just come to see me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How could I have shown my face to you?{w}When I pictured your angry face, Miria, somehow it cheered me up, and I kept going...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait, not my smiling face!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eventually I went a little too far, and I got called in by the Board Chair.\"{w}{p}\"Not the Principal -- the Board Chair! I was so surprised.\"{w}{p}\"And the Board Chair said,{w}'You have plenty of talent, but you're far too stubborn. You're the spitting image of me when I was young.'\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Board Chair, [JP] = Principal (glossary). Chair's words in [JP] -> single quotes."
+ },
+ {
+  "en": "\"I know! And then it was 'I'll take you on as my apprentice' or something! That's how it goes, right!?\"{w}",
+  "kind": "msg",
+  "note": "Phrased as a quote to avoid a pronoun for the Chair."
+ },
+ {
+  "en": "\"No way!{w}I shot back, 'You don't even know me, so don't go deciding we're alike, you moron!'\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept at full rudeness."
+ },
+ {
+  "en": "\"What were you thinking...? You had a mentor right there...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the mentor you were lucky to get'."
+ },
+ {
+  "en": "\"Then the Chair went, 'See, right there! That's just like me! Just like meee! Hyah hyah hyah!!' and was tickled pink about it! What an infuriating old geezer!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = old geezer, kept as in source; it is the only gender cue for the Chair. Source typo [JP] ignored."
+ },
+ {
+  "en": "\"...Really, though, the Chair is a truly admirable person.{w}I want to be like the Board Chair. I feel like, for the first time, I've met someone I can respect.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And what was the Principal doing all that time?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oinking away.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = pig noises (the Principal giggles [JP] elsewhere)."
+ },
+ {
+  "en": "\"Figures.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Board Chair told me, 'Think of it as being tested.'\"{w}{p}\"I'm no saint. It's only natural to get angry when people pull nasty stuff on you, right?\"{w}{p}\"Even so, my power... this may sound arrogant, but it's stronger than an ordinary mage's.\"{w}{p}\"Whether you can use that power 'for everyone's sake' without being swayed by your own feelings -- the Chair says a powerful mage is always being tested on that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Huh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then somehow we got to talking about my future, and when I said I wanted to be useful to everyone, I...{w}ended up getting a place at the Bistel Magic Bureau!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Board Chair knows Director Archelon of the Bistel Magic Bureau, and wrote a letter for me. A recommendation, you know!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered with the glossary title 'Director Archelon' ([JP] -> no gendered 'Lord')."
+ },
+ {
+  "en": "\"Th-that's amazing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm going to give it my all for this city.\"{w}{p}\"First off, as a Magic Bureau officer, I'm supposed to travel around the city and the world and report back on the situation regularly.{w}So I'm thinking of coming back as an adventurer.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-really!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yep! Just for a limited time, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"In that case...{w}slot 57 in the adventurer register is open, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Any number's fine, really...{w}...Number 57? No way, what a coincidence! That was my registration number before, too, wasn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...It's no coincidence.{w}I kept that number free for you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh... you... you did...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I believed you'd come back for sure...{w}that the day would come when we'd be friends like this again... I believed it!\"{w}",
+  "kind": "msg",
+  "note": "Row cut kept at the source's {w}."
+ },
+ {
+  "en": "\"Miria...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, what's this... all of a sudden...{w}...*sniff*... Geez!{w}It's because you... Miria... said such wei-- ...weird things...\"{w}",
+  "kind": "msg",
+  "note": "[JP]…… stutter kept as 'wei--'."
+ },
+ {
+  "en": "\"...Hey, Soara.{w}If you're going to help everyone from inside Bistel Castle,\"{w}{p}\"then I want to help everyone from outside the castle, from the Training Hall.{w}Can I... share the same dream as you, Soara?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course... you... can... *hic*...{w}Miriaaaa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome home, Soara!{w}You did so well, all on your own! You're amazing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th... thanks... I'm hooome...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}      *  Soara Registered at the Training Hall  *{0F}{w}",
+  "kind": "msg",
+  "note": "Banner format copied from the slice 009 unlock banner."
+ },
+ {
+  "en": "{0E}      *  Free Portrait Selection Unlocked  *{0F}{w}",
+  "kind": "msg",
+  "note": "[JP] = free choice of face icon (portrait); no glossary term, check against the menu wording."
+ },
+ {
+  "en": "\"If you want to go to Bistel Castle about the Decree, first register as an adventurer with me, then form a party at Berte's Tavern.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry for being so rude earlier.{w}I've let the townspeople know that a new adventurer has arrived.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = calling out to the player out of the blue (opening, row 2657)."
+ },
+ {
+  "en": "\"Have you finished registering as an adventurer yet?\"{w}{p}\"If you don't register, you can't be called at the tavern, and you can't have an audience with the Queen at the castle either.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: an unregistered character cannot be called up to the party at the tavern."
+ },
+ {
+  "en": "\"If you've got room to spare, maybe try training up some juniors.\"{w}{p}\"Adventuring with one party is fine, but having a second party that can move will save you if you ever get stranded.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, loads of people come and go at the Training Hall, and the little differences in how they speak and write are a real headache!\"{w}{p}\"The basics are the same everywhere, so it's not like I can't understand them at all... but every now and then there's some regional dialect or turn of phrase, you know?\"{w}{p}\"But magic users have to learn whole different languages, not just dialects, right?{w}That must be rough...\"{w}",
+  "kind": "msg",
+  "note": "Source long-vowel [JP] (not the music note) not rendered as '~', since '~' stands for the note."
+ },
+ {
+  "en": "\"Hey, have you ever been to Rubenburg? It's a magic school run by Isfald, a prestigious one that's turned out lots of court mages...\"{w}{p}\"A long time ago, I had a childhood friend here, a mage named Soara. She was really smart, and on top of her magical power, she worked harder than anyone.\"{w}{p}\"We were close, but after I started working at the Training Hall and she got registered as an adventurer, things started getting tense between us. And in the end...\"{w}",
+  "kind": "msg",
+  "note": "Soara is [JP] here (glossary: female)."
+ },
+ {
+  "en": "\"I'm serious!{w}I want to gain strength and knowledge as a mage and be useful to everyone!\"{w}",
+  "kind": "msg",
+  "note": "Flashback starts here (Soara and Miria, years ago)."
+ },
+ {
+  "en": "\"I know that...\nI think it's admirable, okay? But...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But what?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's what you want to do, Soara, isn't it?{w}There are all kinds of adventurers, right?\"{w}{p}\"There might be some with big ambitions like yours, but...\"{w}{p}\"Some people adventure as a hobby.{w}And of course, some just drift into it, and some do it grudgingly to make a living...\"{w}{p}\"Expecting everyone to put in as much effort as you do, Soara... I don't think that's quite right...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So people who are actually serious about it have to get dragged down to match that lot?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'That lot'...!?{w}Watch your mouth!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nobody can get any better doing make-believe training like this!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = playing house; kept as a put-down."
+ },
+ {
+  "en": "\"That's a horrible thing to say!{w}Everyone's trying their best!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hah!\n'I tried my best' only cuts it in kindergarten.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...If you hate it that much, why don't you just get out of Bistel!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what did you say!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go study at Rubenburg and become a great mage or whatever you like!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you really mean that?\n...You've got no intention of raising the standard of training here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's asking the impossible!\nThis Training Hall doesn't exist just for you, Soara, you know?\"{w}",
+  "kind": "msg"
+ }
+]

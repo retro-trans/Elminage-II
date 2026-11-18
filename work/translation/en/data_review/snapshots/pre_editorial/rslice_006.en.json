@@ -1,0 +1,323 @@
+[
+ {
+  "en": "Berte's Tavern",
+  "max": 98
+ },
+ {
+  "en": "Rosetta's Inn",
+  "max": 98
+ },
+ {
+  "en": "Kernel Shop",
+  "max": 98
+ },
+ {
+  "en": "Temple of Orses",
+  "max": 98
+ },
+ {
+  "en": "Bistel Castle",
+  "max": 98
+ },
+ {
+  "en": "Agres Plaza",
+  "max": 98
+ },
+ {
+  "en": "Lunea's Shop",
+  "max": 98
+ },
+ {
+  "en": "Yotel Wharf",
+  "max": 98
+ },
+ {
+  "en": "Bilente's",
+  "max": 98
+ },
+ {
+  "en": "Grand Merchant's Office",
+  "max": 98
+ },
+ {
+  "en": "Request List",
+  "max": 98
+ },
+ {
+  "en": "Canteen",
+  "max": 98
+ },
+ {
+  "en": "Jera's Store",
+  "max": 98
+ },
+ {
+  "en": "Blast Furnace",
+  "max": 98
+ },
+ {
+  "en": "Harjiradam",
+  "max": 98
+ },
+ {
+  "en": "Caron Main Store",
+  "max": 98
+ },
+ {
+  "en": "Semnadoc Cathedral",
+  "max": 98
+ },
+ {
+  "en": "Ask about the gods.",
+  "max": 158
+ },
+ {
+  "en": "Offer a prayer.",
+  "max": 158
+ },
+ {
+  "en": "Colored Corridor",
+  "max": 98
+ },
+ {
+  "en": "Recorded History",
+  "max": 98
+ },
+ {
+  "en": "Inner Door",
+  "max": 98
+ },
+ {
+  "en": "Small Talk",
+  "max": 98
+ },
+ {
+  "en": "Uncurse/Repair",
+  "max": 98
+ },
+ {
+  "en": "Sell",
+  "max": 98
+ },
+ {
+  "en": "Treat & Retrieve",
+  "max": 98
+ },
+ {
+  "en": "Donate",
+  "max": 98
+ },
+ {
+  "en": "Offer a prayer to the god Orses.",
+  "max": 158
+ },
+ {
+  "en": "Rite of Flux",
+  "max": 98
+ },
+ {
+  "en": "Treat",
+  "max": 98
+ },
+ {
+  "en": "Take Back",
+  "max": 98
+ },
+ {
+  "en": "Leave in Care",
+  "max": 98
+ },
+ {
+  "en": "Seek Audience",
+  "max": 98
+ },
+ {
+  "en": "Seek an audience with Ragnastia.",
+  "max": 158
+ },
+ {
+  "en": "View details of the items you have sold to the Kernel Shop.",
+  "max": 158
+ },
+ {
+  "en": "*Not quite ready yet*",
+  "max": 158
+ },
+ {
+  "en": "View details of the 0 GP items you have sold to Lunea's Shop.",
+  "max": 158
+ },
+ {
+  "en": "Register",
+  "max": 98
+ },
+ {
+  "en": "List",
+  "max": 98
+ },
+ {
+  "en": "Delete",
+  "max": 98
+ },
+ {
+  "en": "The character roster is full.",
+  "max": 158,
+  "note": "Accuracy: dropped the added 'No more can be registered.' (not in the source, which only says the registered characters are full)."
+ },
+ {
+  "en": "Save",
+  "max": 16
+ },
+ {
+  "en": "Events",
+  "max": 16
+ },
+ {
+  "en": "Options",
+  "max": 98
+ },
+ {
+  "en": "Help Message Animation",
+  "max": 98
+ },
+ {
+  "en": "Conversation Message Speed",
+  "max": 98
+ },
+ {
+  "en": "Rename Spells",
+  "max": 98
+ },
+ {
+  "en": "Rename Enemy Spells Too",
+  "max": 98
+ },
+ {
+  "en": "Movement Animation",
+  "max": 98
+ },
+ {
+  "en": "Turns the place name display on or off.",
+  "max": 158
+ },
+ {
+  "en": "Default",
+  "max": 98
+ },
+ {
+  "en": "General",
+  "max": 98
+ },
+ {
+  "en": "Btl",
+  "max": 98
+ },
+ {
+  "en": "Dungeon",
+  "max": 98
+ },
+ {
+  "en": "Compass",
+  "max": 98
+ },
+ {
+  "en": "Key Items",
+  "max": 98
+ },
+ {
+  "en": "Fame",
+  "max": 98
+ },
+ {
+  "en": "Save Progress",
+  "max": 98
+ },
+ {
+  "en": "Suspend Adventure",
+  "max": 98
+ },
+ {
+  "en": "Leaves the current party waiting where it is and returns to Bistel.",
+  "max": 158
+ },
+ {
+  "en": "In Battle",
+  "max": 98
+ },
+ {
+  "en": "Treasure Chest",
+  "max": 98
+ },
+ {
+  "en": "Item List",
+  "max": 16
+ },
+ {
+  "en": "Comp. Type 2",
+  "max": 12
+ },
+ {
+  "en": "Comp. Type 3",
+  "max": 26
+ },
+ {
+  "en": "Algn",
+  "max": 4
+ },
+ {
+  "en": "Item Details",
+  "max": 16
+ },
+ {
+  "en": "Bis",
+  "max": 4
+ },
+ {
+  "en": "Hum",
+  "max": 4
+ },
+ {
+  "en": "Neut",
+  "max": 4
+ },
+ {
+  "en": "Rng",
+  "max": 4
+ },
+ {
+  "en": "Summ",
+  "max": 4
+ },
+ {
+  "en": "Und.",
+  "max": 4
+ },
+ {
+  "en": "Spir",
+  "max": 4
+ },
+ {
+  "en": "Bug",
+  "max": 4
+ },
+ {
+  "en": "Anim",
+  "max": 4
+ },
+ {
+  "en": "Myth",
+  "max": 4
+ },
+ {
+  "en": "Dev.",
+  "max": 8
+ },
+ {
+  "en": "Bkin",
+  "max": 4
+ },
+ {
+  "en": "Gnt.",
+  "max": 4
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "en": "Alchemy item No. 9.\nThe Dice of Fate. Countless probabilities can come into play in any situation. If you could see them, would you be able to accept your own fate? Try these dice and find out.\n\nMazurite x Milstone",
+  "max": 224,
+  "note": "Header lines kept on their own lines as in the JP layout; recipe line in the Elm3 RENKIN format ('A x B' after a blank line, the JP bullet '>' dropped). Material names from ITEM.CSV (Mazurite, Milstone)."
+ },
+ {
+  "en": "The ultimate alchemy item.\nThe Philosopher's Stone.\nOnly those who have mastered alchemy can obtain it. They say it appears on its own once the conditions are met... but what might those conditions be?",
+  "max": 224,
+  "note": "Full name in the prose; the 14-byte item name cell uses 'Philos. Stone'."
+ },
+ {
+  "en": "Area",
+  "max": 4,
+  "note": "Column header of the spell data sheet (target range: single / row / all). Budget 4."
+ },
+ {
+  "en": "Elem",
+  "max": 4,
+  "note": "Column header: element. Budget 4."
+ },
+ {
+  "en": "Attacks one enemy with fire.",
+  "max": 325
+ },
+ {
+  "en": "Dmg",
+  "max": 6,
+  "note": "Memo column: damage spell (healing rows hold the 'heal' mark). Budget 6."
+ },
+ {
+  "en": "High chance to put one enemy to sleep.",
+  "max": 325
+ },
+ {
+  "en": "Attacks one enemy row with fire.",
+  "max": 325
+ },
+ {
+  "en": "Attacks one enemy with freezing cold.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to put one enemy row to sleep.",
+  "max": 325
+ },
+ {
+  "en": "High chance to inflict Poison on one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Strikes one enemy with lightning.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 325
+ },
+ {
+  "en": "High chance to petrify one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to petrify one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Attacks all enemies with a non-elemental explosion.",
+  "max": 325
+ },
+ {
+  "en": "High chance to silence one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Cures one ally of Poison.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to silence one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Cures one ally of Paralysis.",
+  "max": 325
+ },
+ {
+  "en": "High chance to instantly kill one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to instantly kill one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Identifies the trap on a treasure chest.",
+  "max": 325
+ },
+ {
+  "en": "High chance to confuse one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to confuse one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "High chance to charm one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Restores all allies' items that were broken in battle.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to charm one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Destroys a cursed item.",
+  "max": 325
+ },
+ {
+  "en": "Safely disarms the trap on a treasure chest.",
+  "max": 325
+ },
+ {
+  "en": "Forms a contract with a monster.",
+  "max": 325
+ },
+ {
+  "en": "Sends back the summoned monster.",
+  "max": 325
+ },
+ {
+  "en": "Effect",
+  "max": 56,
+  "note": "Column header (SP_TEXT effect list and the TRAP table)."
+ },
+ {
+  "en": "Is petrified",
+  "max": 56,
+  "note": "Effect description; shared with TRAP.CSV:12:3 (Demon's Eye trap). Matches SP_TEXT 89:4 'was petrified' and 91:4 'Turned to ash'."
+ },
+ {
+  "en": "Duration",
+  "max": 10,
+  "note": "Column header; its values are one-time / continuous."
+ },
+ {
+  "en": "Sets all HP to 1, ends turn",
+  "max": 28,
+  "note": "Judgement. 'all' = everyone in battle, as in the other tarot rows ('Bans all physical attacks'). Budget 28."
+ },
+ {
+  "en": "Target",
+  "max": 6,
+  "note": "Column header."
+ },
+ {
+  "en": "Damage",
+  "max": 34,
+  "note": "Column header (damage value)."
+ },
+ {
+  "en": "Loipes Cave",
+  "max": 16
+ },
+ {
+  "en": "B3F",
+  "max": 12
+ },
+ {
+  "en": "Highberry Forest",
+  "max": 16
+ },
+ {
+  "en": "Nerid Marshlands",
+  "max": 16
+ },
+ {
+  "en": "Surface",
+  "max": 12,
+  "note": "Nerid Marshlands above-ground area (vs Underground)."
+ },
+ {
+  "en": "Underground",
+  "max": 12
+ },
+ {
+  "en": "Anhimona Heights",
+  "max": 16
+ },
+ {
+  "en": "Dekor Ruins",
+  "max": 16,
+  "note": "Glossary 'Dekor Temple Ruins' is 18 > 16; uses the glossary's short form 'Dekor Ruins'."
+ },
+ {
+  "en": "Blanc Desert",
+  "max": 16
+ },
+ {
+  "en": "South Side",
+  "max": 12
+ },
+ {
+  "en": "North Side",
+  "max": 12
+ },
+ {
+  "en": "Heerdahl",
+  "max": 16
+ },
+ {
+  "en": "Madrie Cemetery",
+  "max": 16,
+  "note": "Glossary 'Madrie Church Cemetery' is 22 > 16; 'Church' dropped."
+ },
+ {
+  "en": "North 1F",
+  "max": 12,
+  "note": "'North Side 1F' is 13 > 12."
+ },
+ {
+  "en": "North B1F",
+  "max": 12
+ },
+ {
+  "en": "Flotban Snowfld",
+  "max": 16,
+  "note": "Glossary 'Flotban Snowfield' is 17 > 16; abbreviated."
+ },
+ {
+  "en": "Narmant Trench",
+  "max": 16
+ },
+ {
+  "en": "Baroque Fort",
+  "max": 16
+ },
+ {
+  "en": "Rubenburg",
+  "max": 16
+ },
+ {
+  "en": "Scorching Castle",
+  "max": 16
+ },
+ {
+  "en": "Churos Highlands",
+  "max": 16
+ },
+ {
+  "en": "North 2F",
+  "max": 12
+ },
+ {
+  "en": "South 2F",
+  "max": 12
+ },
+ {
+  "en": "South 1F",
+  "max": 12
+ },
+ {
+  "en": "Moonlight Falls",
+  "max": 16
+ },
+ {
+  "en": "Falls 1F",
+  "max": 12
+ },
+ {
+  "en": "Falls 2F",
+  "max": 12
+ },
+ {
+  "en": "Falls 3F",
+  "max": 12
+ },
+ {
+  "en": "Reiblair",
+  "max": 16
+ },
+ {
+  "en": "Contrachio",
+  "max": 16,
+  "note": "Full form 'the Holy Foundation, Contrachio' does not fit 16; place name alone."
+ },
+ {
+  "en": "Wrath Hall",
+  "max": 12,
+  "note": "Contrachio hall. The script uses 'Hall of Sorrow' (SCD18:2712); 'Hall of X' does not fit 12 for most halls, so 'X Hall' is used for all nine."
+ },
+ {
+  "en": "Mercy Hall",
+  "max": 12,
+  "note": "jiai = compassion/mercy; 'Compassion Hall' (15) does not fit 12. Urna's line SCDWMAP:3826 renders jiai as 'compassion'."
+ },
+ {
+  "en": "Hope Hall",
+  "max": 12
+ },
+ {
+  "en": "Wisdom Hall",
+  "max": 12
+ },
+ {
+  "en": "Center",
+  "max": 12,
+  "note": "Contrachio central area."
+ },
+ {
+  "en": "Harmony Hall",
+  "max": 12
+ },
+ {
+  "en": "Courage Hall",
+  "max": 12
+ },
+ {
+  "en": "Joy Hall",
+  "max": 12
+ },
+ {
+  "en": "Sorrow Hall",
+  "max": 12,
+  "note": "The script (SCD18:2712) says 'Hall of Sorrow' (14 > 12)."
+ },
+ {
+  "en": "Depths",
+  "max": 12,
+  "note": "Contrachio's deepest part (script: 'the deepest level of Contrachio')."
+ },
+ {
+  "en": "Urnas Rade",
+  "max": 16,
+  "note": "Not in the glossary; form used in the script (SCD18:2769 'The New Land, Urnas Rade'). Distinct from glossary 'Urna Rade' (no s)."
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "id": "EL_SAI.CSV:2:2",
+  "en": "Contents",
+  "max": 46,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:2:4",
+  "en": "Img",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:2:6",
+  "en": "Note",
+  "max": 20,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:4:3",
+  "en": "Twin Gods & Fated Land",
+  "max": 22,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:6:3",
+  "en": "Surge of Destruction",
+  "max": 22,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:7:3",
+  "en": "Mistress",
+  "max": 22,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:11:3",
+  "en": "'Morning of Ruin'",
+  "max": 22,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:13:3",
+  "en": "A New Myth Begins",
+  "max": 22,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_SAI.CSV:15:3",
+  "en": "Finas Rade",
+  "max": 22,
+  "used": true,
+  "status": "new"
+ }
+]

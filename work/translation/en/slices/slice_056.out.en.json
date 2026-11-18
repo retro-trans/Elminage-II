@@ -1,0 +1,345 @@
+[
+ {
+  "en": "{11:0001:0017}",
+  "kind": "data"
+ },
+ {
+  "en": "There's no sure way",
+  "kind": "data",
+  "note": "Quiz answer to 'Is there a way to revive a dead ally for certain?' (previous rows, slice 055)."
+ },
+ {
+  "en": "Which status can't {11:0001:0024} cure?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What can't {11:0001:0024} cure?",
+  "kind": "data"
+ },
+ {
+  "en": "Sleep",
+  "kind": "data",
+  "note": "Status names provisional (EBOOT status table not yet translated): Sleep / Deadly Poison / Confusion / Fear."
+ },
+ {
+  "en": "Deadly Poison",
+  "kind": "data",
+  "note": "[JP] = the stronger poison status; align with the status table once translated."
+ },
+ {
+  "en": "Confusion",
+  "kind": "data"
+ },
+ {
+  "en": "Fear",
+  "kind": "data"
+ },
+ {
+  "en": "You cast {11:0001:0041} twice and are hit by {11:0001:0045} twice. What is your current spell resistance boost rate?{w}",
+  "kind": "msg",
+  "note": "Per the student hint (slice 055, 3602): 0041 = x1.5, 0045 = x0.7; 1.5^2 x 0.7^2 = 110%."
+ },
+ {
+  "en": "Current spell resistance boost rate?",
+  "kind": "data"
+ },
+ {
+  "en": "160%",
+  "kind": "data"
+ },
+ {
+  "en": "110%",
+  "kind": "data"
+ },
+ {
+  "en": "100%",
+  "kind": "data"
+ },
+ {
+  "en": "125%",
+  "kind": "data"
+ },
+ {
+  "en": "\"Now then, who dares be the next challenger!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? The Board Chair...\"{w}",
+  "kind": "msg",
+  "note": "Reacts to Soara asking for help about the Board Chair (cf. McMahon's 3610 in slice 055). [JP]: honorific not rendered."
+ },
+ {
+  "en": "\"Very well, I understand. Then you'd best take my shikigami along with you!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = shikigami (Kamikaze summons the Inugami in 3369)."
+ },
+ {
+  "en": "\"Actually, I was hoping you'd come yourself, Professor...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Me!?{w}I... m-my back is a bit...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-...\"{w}",
+  "kind": "msg",
+  "note": "Source opens the quote and never closes it; closed in English (lead convention). Mirco is cut off; 3742 repeats the line in full."
+ },
+ {
+  "en": "{0E}\"Wh-...{0F}\nWHAAAAAAT~~~!?\"{w}",
+  "kind": "msg",
+  "note": "[JP]…… [JP]: shock. Mirco was barged in on behind a locked door (3744)."
+ },
+ {
+  "en": "\"I locked the door, didn't I!?{w}D-don't come in heeere!!!{w}Waaah! Stupiiid!!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered without a number so the party size stays open."
+ },
+ {
+  "en": "There is a signpost bearing the Rubenburg crest.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}*  Graduation Exam: Straight Ahead North   *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign banner; framed with * like the source. Check centring in game."
+ },
+ {
+  "en": "{0E}*          Year 3 Completion Exam          *\n*                   and                    *\n*  Rubenburg Magic School Graduation Exam  *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line sign banner. [JP] = 'Completion Exam'; [JP] = 'Magic School' (new). Check centring/width in game."
+ },
+ {
+  "en": "No one is here.{w}...No, you sense a powerful magical force approaching!{w}Space twists, and then...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry to keep you waiting.\"{w}{p}\"If you've come here, that means you've come to take the Year 3 Completion Exam and the graduation exam, doesn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take the Year 3 Completion Exam?",
+  "kind": "data",
+  "note": "Prompt, 32 chars; shorten to 'Take the Year 3 Exam?' if the prompt box is tight."
+ },
+ {
+  "en": "\"Very well.{w}Face it with everything you've learned at this school -- all of your knowledge.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Very good, you pass.{w}You did very well!{w}Now, take your certificate with you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Year 3 Certificate.{w}",
+  "kind": "msg",
+  "note": "Key item [JP] = 'Year 3 Certificate' (new; EBOOT item slot len 15 bytes in JP, relocated text has no budget)."
+ },
+ {
+  "en": "\"The Principal's office is to the east on this floor.{w}Go there and receive your diploma.\"{w}{p}\"Once you do, you'll have graduated from Rubenburg!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'diploma' (as in slice 016, 131)."
+ },
+ {
+  "en": "\"...I'm sorry, but I can't let you graduate just yet.{w}Stay and learn a little more.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no shame in recognizing your own inexperience.{w}Come back once you've properly built up your strength.\"{w}",
+  "kind": "msg",
+  "note": "Likely the reply when the party declines the exam (parallel to Kamikaze's 3686)."
+ },
+ {
+  "en": "\"...The Year 3 Completion Exam.{w}Let us begin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The moment Vice Principal Kathleen's eyes closed, an anti-cheating barrier went up.{w}",
+  "kind": "msg",
+  "note": "Phrased without a pronoun (glossary: Kathleen's gender unknown)."
+ },
+ {
+  "en": "What is {11:0001:0015} in the narrow sense?{w}",
+  "kind": "msg",
+  "note": "{11:0001:0015} is a spell name (3814/3815 ask which spell is needed to learn it)."
+ },
+ {
+  "en": "{11:0001:0015} in the narrow sense?",
+  "kind": "data"
+ },
+ {
+  "en": "Nuclear strike spell",
+  "kind": "data"
+ },
+ {
+  "en": "Nuclear heat spell",
+  "kind": "data"
+ },
+ {
+  "en": "Space control spell",
+  "kind": "data"
+ },
+ {
+  "en": "Space creation spell",
+  "kind": "data"
+ },
+ {
+  "en": "In the broad sense, how many spells make up {11:0001:0015}?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "How many spells make up {11:0001:0015}?",
+  "kind": "data"
+ },
+ {
+  "en": "2",
+  "kind": "data"
+ },
+ {
+  "en": "Which spell should you know before learning {11:0001:0015}?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Spell needed to learn {11:0001:0015}?",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:000F}",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:0012}",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:0013}",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:0016}",
+  "kind": "data"
+ },
+ {
+  "en": "\"Professor Kathleen!{w}Are you here!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How unusual, Soara, for you to raise your voice like that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Professor, I... um...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is about the Board Chair, isn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's been bothering me a little, too.{w}The thing is... unfortunately, my magic isn't strong enough to find out what's going on with the Board Chair.\"{w}{p}\"On top of that, that room is covered by a barrier.{w}No one can get in by ordinary means.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No way...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is one way. Behind the Principal's office... it seems a path into the Board Chair's office has actually been prepared.\"{w}{p}\"Only the Principal can use it, but I might be able to make it usable for you and your friends too, Soara.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Professor Kathleen...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"However, we're up against the Board Chair.{w}Even for me, securing the path will take everything I've got, so...\"{w}{p}\"Beyond that, it'll be up to all of you.{w}Is that all right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, that's fine!{w}Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can hardly turn down a request from one of my dear students...{w}Well then, I'll see you later.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank goodness...{w}The person I can rely on most actually understood...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: object left implicit (Soara's plea / us); kept as 'understood'."
+ },
+ {
+  "en": "\"Hmm... that's strange...{w}Whenever I walk around here, I always feel someone's eyes on me...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zapper and Zephal are here.{w}They seem to be surrounded by students...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kyaaah, this guy is sooo handsome...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Zephal (male per glossary); Zapper is the griffon of the next line."
+ },
+ {
+  "en": "\"And this griffon is so cute~!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"GRAAAAAAH!!{w}Shut the hell up, you lot!!{w}Touch me any more and I'll eat you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eek~, so angry~ How scaaary!!\"{w}",
+  "kind": "msg",
+  "note": "Phrased without a pronoun: Zapper's gender is unknown."
+ },
+ {
+  "en": "\"Young ladies, have you seen a boy about this tall?\"{w}",
+  "kind": "msg",
+  "note": "Zephal is looking for Mirco."
+ },
+ {
+  "en": "\"...I've seen him!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, truly!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Um... i-if you'd have a meal with me, I might just remember!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, no sneaking ahead of the rest of us!{w}I saw him too!!{w}If you'd go for a walk with me...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Me, me!{w}I saw him too!!{w}M-maybe if you gave me a kiss, I'd remember!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss!{w}Have you no modesty, any of you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (singular) then [JP] (plural): kept both."
+ },
+ {
+  "en": "\"Knock it off alreadyyy!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eek, we got yelled at!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even that angry face is handsome!!\"{w}",
+  "kind": "msg",
+  "note": "Whose face is unclear (Zapper just yelled; 'handsome' was used of Zephal, who also scolded them). Kept without a referent."
+ }
+]

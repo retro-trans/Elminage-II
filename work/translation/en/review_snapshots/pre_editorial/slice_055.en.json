@@ -1,0 +1,347 @@
+[
+ {
+  "en": "\"We get to bully them?{w}Ufufu, I can hardly wait.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not interested, I say!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Professor Kamikaze, if you please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not the least bit interested, I say!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...It is in your advisor's contract.{w}I imagine sitting this out would affect your pay.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-why, I'm bursting with interest!!\"{w}",
+  "kind": "msg",
+  "note": "Kamikaze flips the moment pay is mentioned ([JP] = interest laid bare)."
+ },
+ {
+  "en": "\"Well then, let us get ready.{w}This contest bears on the school's supplies. Since we're doing it,\nwe faculty will face you with everything we have.\"{w}{p}\"Professor Scheherazade, is that thing ready?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the school's supplies/stock: the bet is whether the school store carries the Caron brand."
+ },
+ {
+  "en": "\"Thaaat hard, strong, big th-i-ng!{w}I get to call it out? Tee-hee...{w}Come forth, Tetramystica!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] spelled out as 'th-i-ng'; the innuendo of the source is kept. Tetramystica: new name (statue monster)."
+ },
+ {
+  "en": "A mysterious stone statue appeared before you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, Professor Kamikaze, your turn.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly, what a slave driver of a woman.{w}...Here, Inugami! You're up!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = a woman who works people hard (Kathleen; gender given by the line itself). Inugami: new name (Kamikaze's familiar)."
+ },
+ {
+  "en": "Inugami appeared before you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's the matter?{w}Don't tell me you've lost your nerve... hm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll give you a good long torm... a good long cuddle!\"{w}",
+  "kind": "msg",
+  "note": "[JP]…([JP]) cut off and replaced by [JP]: slip from 'torment' to 'cuddle' kept."
+ },
+ {
+  "en": "\"You seem to have gained experience in the outside world,\nbut will it hold up against us, I wonder?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't give an old-timer too much trouble, eh?\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: [JP] is gender-neutral and Kamikaze's gender is unknown (glossary): \"old man\" -> \"old-timer\"."
+ },
+ {
+  "en": "\"Then we teachers of Rubenburg shall show you\nour power to the very last drop.{w}...We shall send you scattering!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] mirrored in the narration of 3381 ('sent ... scattering')."
+ },
+ {
+  "en": "You sent the Rubenburg teachers scattering.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-how can this be...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooo, my little Tetra~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = pet form of Tetramystica."
+ },
+ {
+  "en": "\"Impossible...\nTo lose to such ridiculous equipment...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Phew, that was exhausting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It can't be helped. A promise is a promise.{w}Our school will carry the Caron brand.\"{w}{p}\"I must go and pay my respects\nto Caron later.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Caron' (gender unknown, no Ms./Mr.)."
+ },
+ {
+  "en": "You proved that the Caron brand\nhas real practical value.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Step right up, step right up!\nThe Magical Party venue\nis right this way!\"{w}{p}\"Just how far will your magic power\nget you against Professor Nambino?{w}Anyone who wants in, step up one at a time~\"{w}",
+  "kind": "msg",
+  "note": "Voice follows the Organizer in slice 042 (Rombino arena)."
+ },
+ {
+  "en": "\"I'll be waiting, so come and play anytime~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And by the way, here's last time's winner!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, go on in, one at a time!{w}Give it your all -- GO!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Amazing, amazing! You're the winner!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh heh~\nThat's nowhere near good enough!\"{w}{p}\"Don't you go underestimating\nProfessor Nambino!\"{w}",
+  "kind": "msg",
+  "note": "Source ♪ -> '~'."
+ },
+ {
+  "en": "\"Come and play again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you were about to leave,\nProfessor Nambino was munching away in front of you.{w}{p}Something stick-shaped was poking out\nof the professor's mouth.{w}",
+  "kind": "msg",
+  "note": "Nambino's gender unknown: 'the professor' instead of a pronoun."
+ },
+ {
+  "en": "Prof. Nambino",
+  "kind": "name",
+  "note": "Name box is 17 chars (limit ~16): glossary form kept; 'Prof. Nambino' if it does not fit. Accuracy: shortened to \"Prof. Nambino\" (13 chars) to meet the 16-char name-box limit, as \"Prof. Rombino\" elsewhere; name spelling unchanged."
+ },
+ {
+  "en": "Professor Nambino left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Professor Nambino left, looking dissatisfied.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuuuuugh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco was in front of you.{w}For some reason, he had his knees pressed together a little and one hand\non the wall, and a desperate look on his face.{w}",
+  "kind": "msg",
+  "note": "[JP] = slightly knock-kneed (he needs the toilet; see 38015)."
+ },
+ {
+  "en": "\"Ah, i-it's you guys...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "His five companions didn't seem to be with him.{w}Something about him was different from usual.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hehe...{w}Th-this time... I'll let you off...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hehe...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With an odd smile on his face,\nMirco backed away...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"U-um, say...{w}That thing you have, it's an Angel's... Window, right?\"{w}{p}\"N-normally,\nI'd beat you guys to a pulp right here,\nb-but I'm in a good mood today.\"{w}{p}\"If you give me the Angel's Window,{w}m-maybe I'll let you off...?{w}Ahahaha...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco squirmed the whole time he talked.{w}The way he looked at you was\njust like a puppy drowning in a river.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Give him the Angel's Window?",
+  "kind": "data",
+  "note": "Prompt says give ([JP]); Mirco then begs to borrow it (3565): kept as in the source."
+ },
+ {
+  "en": "\"P-please...{w}Lend it... lend it to me... please...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th... that's so mean...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Waaaaaah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco left in tears.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-really!?{w}Yaaaaay......!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I owe you one, thank you!!{w}I-I'm in a hurry, so that's all...{w}Bye!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco ran off at tremendous speed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hey, what's with that brat?{w}Can kids that young even get in here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Who knows? ...But he's kinda cute, maybe!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"More like... is he holding it in for the john or something?\"{w}",
+  "kind": "msg",
+  "note": "[JP] is blunt: 'the john'."
+ },
+ {
+  "en": "\"Oh, maybe! Hang in there!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"He ran off.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Can't say I don't know how he feels.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Poor guy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Spells that raise and lower spell resistance\nare a pain to calculate.\"{w}{p}\"{11:0001:0041}\nmakes spell resistance 1.5 times.\"{w}{p}\"{11:0001:0045}\nmakes spell resistance 0.7 times.\"{w}{p}\"So even if you cast both the same number of times,\nit won't necessarily go back to the original value...{w}Sigh, and I'm bad with numbers, too.\"{w}",
+  "kind": "msg",
+  "note": "Multipliers are game data (the exam in slice 056 relies on them: 1.5x1.5x0.7x0.7 = 110%)."
+ },
+ {
+  "en": "\"So you have come, new challengers.{w}Ahead lies the hall for the Year 2 Completion Exam.\"{w}{p}\"But before that,\nyou must get past me.\"{w}{p}\"As you can see, this is a no-spell floor.{w}Even a magic user will face times\nwhen they must fight without spells.\"{w}{p}\"But those who overcome such adversity\nwith wisdom are the truly wise.{w}Now, show me what you can do!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Completion Exam' (new term)."
+ },
+ {
+  "en": "\"Very well, you pass!{w}Now, go and show me you can complete the 2nd year too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you.{w}Reading is all well and good, but get outside once in a while, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Board Chair?{w}Hmm... but still...\"{w}{p}\"Whether a warrior should butt in\non matters between mages...{w}I'd like to help, but it's not my place.\"{w}{p}\"Why not try asking Vice Principal Kathleen for help?\"{w}",
+  "kind": "msg",
+  "note": "Gender of McMahon unknown: no pronoun for 'a warrior'."
+ },
+ {
+  "en": "\"I'm going to see Vice Principal Kathleen too!{w}But I want you to come as well,\nProfessor McMahon!\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as [JP] (visit). [JP] -> 'Professor McMahon' ([JP] = Professor per glossary). Source typo [JP] ignored."
+ },
+ {
+  "en": "\"So you've come, you young whelp!{w}Now then, shall I put that brain\nof yours to the test!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take the Year 2 Completion Exam?",
+  "kind": "data",
+  "note": "34 chars; fallback 'Take the 2nd-Year Exam?' if the prompt box is short."
+ },
+ {
+  "en": "\"Then here I come! Prepare yourself!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nngh, you're good...{w}You pass! Take this!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Year 2 Certificate.{w}",
+  "kind": "msg",
+  "note": "New key item name ([JP])."
+ },
+ {
+  "en": "\"You are young!{w}Don't look back -- go where your heart leads you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fool!{w}You'd pass through the 2nd-year door with knowledge like that?\nDon't make me laugh!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Don't make me laugh'."
+ },
+ {
+  "en": "\"Hah, lost your nerve, have you!?{w}Go on, then, and weep over how green you are!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...The Year 2 Completion Exam.{w}Begin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Special Advisor Kamikaze closed both eyes,\nand an anti-cheating barrier went up.{w}",
+  "kind": "msg",
+  "note": "Avoids a pronoun for Kamikaze (gender unknown in glossary)."
+ },
+ {
+  "en": "When a party member has died,\nis there a way to revive them 'for certain'?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A way to revive 'for certain'?",
+  "kind": "data"
+ },
+ {
+  "en": "Revive at a temple",
+  "kind": "data"
+ },
+ {
+  "en": "{11:0001:0031}",
+  "kind": "data",
+  "note": "Spell-name insert kept verbatim (answer option)."
+ }
+]

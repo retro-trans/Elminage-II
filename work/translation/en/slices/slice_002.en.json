@@ -1,0 +1,349 @@
+[
+ {
+  "en": "By the look of him, child or not, he is high-born: a Kin of Darkness... no, a noble of darkness.{w}It might be wise not to push him too far.{w}",
+  "kind": "msg",
+  "note": "Narration about Mirco after his threat (290). Pronoun avoided ('this one'). [JP] rendered 'a noble of darkness' (not in glossary; common phrase, not a name). Editorial: 'this one' twice read stiffly and unidiomatic for a person; Mirco is male (glossary), so 'him/he'."
+ },
+ {
+  "en": "\"Eeeeek, these people are serious!?{w}Wh-wh-what do I do!?\"{w}{p}\"Help...{w}Help me, Uncle!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Stern Demon",
+  "kind": "name"
+ },
+ {
+  "en": "\"Pathetic... Mirco!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uncle~!\"{w}",
+  "kind": "msg",
+  "note": "The source ends with a music note (non-ASCII); '~' carries the delighted tone."
+ },
+ {
+  "en": "\"Eek...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Master!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the master of the household (Dalisiamarte); used as 'the master' throughout this slice."
+ },
+ {
+  "en": "\"Well, well...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It has been far too long, my liege!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'my liege' (Zephal's address for Dalisiamarte)."
+ },
+ {
+  "en": "\"Grrr...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mirco.{w}You are the one who will someday inherit our House Lenzer.{w}How can you go on in such a disgraceful state?\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: [JP] is a rebuke (how will the heir manage in this state), not a demand for an explanation."
+ },
+ {
+  "en": "\"I'm sorry...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph. Well, no matter.{w}...So it was you who dragged the name of my house through the mud.\"{w}{p}\"I am loath to barge into a children's quarrel like some parent...{w}but I cannot simply let you go home.\"{w}{p}\"Regrettably, you must die.{w}There is no need to lament.\nIn time, we shall hold all things in our grasp.\"{w}{p}\"Even if you lived a little longer...{w}{p}{0E}\"Even if you lived a little longer... {0F}it would change nothing.\"{w}",
+  "kind": "msg",
+  "note": "Kept the source's repeated line with {0E}...{0F} and the unclosed first quote exactly as the Japanese has them. [JP]: 'we' = his kind/house, kept vague as in source."
+ },
+ {
+  "en": "Dalisiamarte",
+  "kind": "name"
+ },
+ {
+  "en": "\"Fwahahahaha!!\nYou withstood my demon axe in full -- splendid!!\"{w}{p}\"Very well,\nI shall recognize you as worthy rivals to Mirco!{w}...You there -- and you as well, Mirco!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'worthy rivals'. The closing address calls on both the party and Mirco; Mirco answers next row."
+ },
+ {
+  "en": "\"Y-yes!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Compete to your hearts' content and sharpen one another!{w}This strength of yours may one day\nchange the very shape of the world.\"{w}{p}\"Until that day, farewell!{w}That you crossed blades with Dalisiamarte and still live --\ntake pride in it for the rest of your days!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'the pride of your lives' was unidiomatic; [JP] = lifelong pride."
+ },
+ {
+  "en": "\"To think the master himself would appear...\"{w}",
+  "kind": "msg",
+  "note": "'himself' is safe: Dalisiamarte is male per glossary (Mirco's uncle)."
+ },
+ {
+  "en": "\"S-s-s-Sis!?\nTh-that just now... was that...!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (Elpina for Gurtia) = 'Sis' throughout; not in the glossary, lead may want a fixed rendering. Editorial: 'W-was that just now' read as a question about time; reordered so 'that just now' is the referent, still trailing off for Gurtia's answer. | Proof: stuttered 'Sis' keeps its capital, like 'H-Hess' (000:94)."
+ },
+ {
+  "en": "\"Yes, that was the master.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahh... to think I could behold my liege\nwith my own eyes in such a backwater...{w}I shall sleep well tonight!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Man, I dunno.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: a deflated mutter, explained in 334/338."
+ },
+ {
+  "en": "\"What is it, Zapper?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was just wonderin' when that kid'll\nfinally be fit to ride on my back,\nbut...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mirco; 'that kid' keeps the dismissive tone without a pronoun."
+ },
+ {
+  "en": "\"So coooool~!{w}My uncle is so coooool~!\"{w}",
+  "kind": "msg",
+  "note": "Mirco gushing to himself; music note dropped (non-ASCII)."
+ },
+ {
+  "en": "\"Yeah, that ain't happenin' anytime soon.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, let us be going as well.{w}There is no reason to linger in a place like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"See you later, then...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco and the others left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Waaah!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zapper's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"How many times do I gotta tell ya the same thing!!{w}Don't close your eyes when the enemy attacks!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa-whoa-whoa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zephal's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"You will never defeat an enemy\njust by squawking and wailing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eeeeek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn you, Mirco!\nChangin' up your scream ain't gonna cut it!!\"{w}",
+  "kind": "msg",
+  "note": "Zapper mocks Mirco switching from 'Whoa' to 'Eek' (351/355)."
+ },
+ {
+  "en": "\"Sis, what's with them?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not even a hint of progress, is there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Perhaps the young master is better suited to his studies, hm...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the young master' (Mirco)."
+ },
+ {
+  "en": "\"It's not about which one he's good at,\nit's about which one he's less hopeless at, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Stoooop iiit!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You think 'stop' works on a battlefield!?\nZapper, attack more sharply!!{w}Master Mirco's weak point is his footing!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Master Mirco' (Zephal and Gurtia). [JP] read as footing/feet."
+ },
+ {
+  "en": "\"Oh, what are you doing, Zapper?\nYou're letting him slip away...{w}There, right there... Get him!!\"{w}",
+  "kind": "msg",
+  "note": "Gurtia cheers Zapper on against Mirco; 'him' = Mirco."
+ },
+ {
+  "en": "\"GRAAAAAAH!{w}Mirco, you little punk,\nyou still haven't swung your sword even once!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'you little punk' here (Damn you in 357)."
+ },
+ {
+  "en": "\"Hey, hey, who do you think'll snap first,\nZephal or Zapper?{w}My money's on Zapper!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then just wait a second, will you!{w}Give me time to raise my sword!!\"{w}",
+  "kind": "msg",
+  "note": "Answers Zapper's 'haven't swung your sword once' (375)."
+ },
+ {
+  "en": "\"Zephal, I'd say.{w}Any moment now he'll shout 'I am the Hell Master!'\nand beat the stuffing out of Master Mirco.\"{w}",
+  "kind": "msg",
+  "note": "Glossary catchphrase; [JP] -> single quotes."
+ },
+ {
+  "en": "\"Honestly, you two.{w}Zephal and Zapper have both honed their mental discipline.{w}Unless it's something really bad, they won't snap during practice.\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'really bad' so Elpina's echo in 393 lands. Editorial: 'trained their minds with discipline' was clunky ([JP])."
+ },
+ {
+  "en": "\"Knock it off already!!\nI am the Hell Masterrrr!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aieee!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Told you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, you called it, Sis!{w}Mirco really must be that bad, huh!\"{w}",
+  "kind": "msg",
+  "note": "Echoes Hess's [JP] (383). [JP] -> plain 'Mirco'."
+ },
+ {
+  "en": "\"Zephal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hey, hold up, Zephal!{w}Don't you sense somethin'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed.\nThis is... that lot from before.{w}Show yourselves!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! It's you guys!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So what'll it be? Send Mirco in again?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'again this time' was redundant ([JP])."
+ },
+ {
+  "en": "\"I would like to, but any more disgrace\nwould tarnish the name of House Lenzer as well.\"{w}{p}\"I think the two of us should join in this time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right!\nI've been itchin' to cut loose myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha ha, now this is getting fun!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But you were cutting loose just a minute ago.\"{w}",
+  "kind": "msg",
+  "note": "Refers to Zapper roughing Mirco up in practice (349-375)."
+ },
+ {
+  "en": "\"You ain't even enough for a warm-up,\nyou worthless scuuuuum!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'scum', not softened."
+ },
+ {
+  "en": "\"Uuu... that's so mean...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come on, let's go, Zephal!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am Zephal, sword tutor to Master Mirco,\nin service to House Lenzer!\"{w}{p}\"With my dark swordsmanship,\nallow me to give you a lesson as well!!\"{w}",
+  "kind": "msg",
+  "note": "Self-intro wording per glossary note."
+ },
+ {
+  "en": "You routed Mirco and the others.{w}",
+  "kind": "msg",
+  "note": "Subject = the party ('you'), restored."
+ },
+ {
+  "en": "\"Tch, so my sword has broken.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The swords you can pick up in this land are all junk, huh.{w}Want me to go grab you another one?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, that's quite all right.\"{w}{p}\"At this point, I'll return to Belnaf\nand fetch my usual sword.{w}This is getting us nowhere.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!? Zephal, you're going home?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't worry, I'll be back soon.\nThis land is unstable right now,\nso coming and going is easy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What am I supposed to do if a strong enemy\nshows up while you're gone, Zephal!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You have Zapper, don't you?{w}And besides, if it really comes to that...{w}couldn't you just defeat it yourself, Master Mirco?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Master Mirco, you cannot keep\nleaning on me forever.{w}What do you think that Baltagias is for?\"{w}",
+  "kind": "msg"
+ }
+]

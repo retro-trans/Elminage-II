@@ -1,0 +1,343 @@
+[
+ {
+  "en": "\"If you ever feel like marrying a monster, just let us know anytime, please!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pleeease!\"{w}",
+  "kind": "msg",
+  "note": "Analis echoes the end of the priest's line (kudasai ne -> 'please')."
+ },
+ {
+  "en": "\"The hell are you?{w}I ain't got nothin'!{w}Quit starin' at me and get lost!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sniff sniff... it's gotta be this person!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a lie, you've got a bell behind your back!{w}...That bell belongs to Mister Priest, right?{w}Mister Priest is in trouble. Give it back to him, okay?\"{w}",
+  "kind": "msg",
+  "note": "shinpu-sama in hiragana (childish) -> 'Mister Priest'. The thief's denial it answers (row 2924) is a shared line in another slice."
+ },
+ {
+  "en": "\"Whaaat? Give it back?{w}Gyahahaha, like hell I will!{w}I'm gonna sell this bell and go have some fun in Heerdahl!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can't do that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up!{w}If you got a problem with it, try takin' it back!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph!{w}Then... I'll do THIS to you!{w}Hnnnnnngh!!\"{w}",
+  "kind": "msg",
+  "note": "e~~~i = effort cry; she is a skunk girl and the next lines show she let off her stink."
+ },
+ {
+  "en": "\"Gwaaaaah!?{w}Th-that stiiiiinks!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How's that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bwoeeeeeeh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I-I give, I'll give it back! I'll give it baaaack!!{w}...Jeez, what a smell!{w}Never in my life have I smelled anything this rank!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuu. That's so embarrassing.{w}But I'm glad we got Mister Priest's bell back!{w}Okay, shall we head back?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Unholy Bell.{w}",
+  "kind": "msg",
+  "note": "Item name provisional (katakana anhoorii beru); align with the key-item table."
+ },
+ {
+  "en": "\"Aaagh, it reeks! The stink won't come ooff!!{w}Urghhh...{w}Aaagh, it stiiiinks!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyahahahaha!{w}Visitors, for the first time in ages! I'm Angelo. Well, nice to meetcha!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Angelo",
+  "kind": "name"
+ },
+ {
+  "en": "\"C'mon, I told you my name, so you tell me yours too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Give your names?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Thanks a bunch~\"{w}{p}\"So, you guys... I dunno what you came here for, but~\"{w}{p}\"Up ahead there's a ghost king, so if you go barging in, you'll diiie~{w}You'll really, truly diiie~~\"{w}{p}\"Well, I warned you. And I've got your names memorized now, too.{w}If you don't wanna die, bye-bye, nya!!\"{w}",
+  "kind": "msg",
+  "note": "maido = shopkeeper's thanks. yuurei no ousama -> 'a ghost king' (no glossary entry; lowercase as a description, not a title). Final ~~ = ~ plus the music note."
+ },
+ {
+  "en": "\"Oh, fine. Then I'm not letting you through here either!{w}Nyahahahahaha! Bye-bye, nya!!\"{w}",
+  "kind": "msg",
+  "note": "Reply when the party refuses to give names."
+ },
+ {
+  "en": "\"Whoa!? What's with you guys!?{w}I'm not ready yet, don't come over here!!\"{w}",
+  "kind": "msg",
+  "note": "junbichuu = 'still getting set up'."
+ },
+ {
+  "en": "\"Huh?{w}Huh huh?{w}Huh huh huuuuuh!?!?\"{w}{p}\"I told you not to come, and you came anyway?{w}Hmm, this is no good!{w}There's no saving you now~\"{w}{p}\"Aaand{w}now{w}announcing the folks who are about to die~!\"{w}{p}\"Your names, ta-daa~\"{w}",
+  "kind": "msg",
+  "note": "don + music note = drumroll-style reveal -> 'ta-daa~'."
+ },
+ {
+  "en": "Angelo began calling out your names at you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hey.{w}Hey hey hey hey hey!?{w}Wait juuust a minute!?\"{w}{p}\"Why? Hey, why!? Adventurers my power doesn't work on? Nobody told me about that, Mister Wraith!?\"{w}{p}\"Wh-what's that sword!?{w}Shtop iiiit~~~!?!?\"{w}{p}\"Cornered at last, our dear Angelo resolved to fight!{w}Go for it, meeee!!\"{w}",
+  "kind": "msg",
+  "note": "reisu no danna: casual 'mister' to the Wraith (not the house-master danna-sama convention); the Wraith is called a man in row 3043. yamerryoo = slurred 'stop it'. Angelo-kun narrating self in third person -> 'our dear Angelo' (no pronoun; gender unknown)."
+ },
+ {
+  "en": "\"Gyaaah, I'm dead! ...Thud.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Angelo is lying face down on the floor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Angelo's Corpse",
+  "kind": "name"
+ },
+ {
+  "en": "\"Angelo is dead...\"{w}",
+  "kind": "msg",
+  "note": "Spoken by 'Angelo's Corpse' in quotes: the gag is that the corpse narrates its own death. Kept."
+ },
+ {
+  "en": "Examine it?",
+  "kind": "data"
+ },
+ {
+  "en": "You tried kicking Angelo's corpse.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow... ouch!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey... stop... I'm dead, I'm dead, I tell you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I SAID I'm dead!{w}Kick me like that and I'll die, won't I!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Since Angelo is apparently dead, you decided to move on.{w}",
+  "kind": "msg",
+  "note": "shinde iru sou nanode = 'since (Angelo says) it is dead'."
+ },
+ {
+  "en": "The deeper you went, the more an unearthly spectral chill began to cling thickly about your feet.{w}{p}Still you pressed on, until at last an ominous door appeared before you.{w}{p}Beside the door stood a robed man wreathed in that chill, seemingly not of this world; an old lord; and Sigret as well.{w}",
+  "kind": "msg",
+  "note": "reiki = spectral air/aura, rendered 'spectral chill' and repeated as 'that chill' for the robed man (the source repeats reiki). The robed man is the Wraith; 'man' is in the source."
+ },
+ {
+  "en": "\"You who lend your hand to the Wraith and evil spirits!{w}Toying with the souls of the dead like this -- I, Sigret, will not allow it!!\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the living helper (Branet) per the reply. Reisu could be plural 'Wraiths'; singular because one Wraith is present."
+ },
+ {
+  "en": "Wraith",
+  "kind": "name"
+ },
+ {
+  "en": "\"Toying with the souls of the dead, you say?{w}You seem to be under some misapprehension. ...What shall we do, Lord Branet?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Old Lord Branet",
+  "kind": "name"
+ },
+ {
+  "en": "\"We are those who set the souls of the in-between free.{w}Mere ignorance I can forgive, but if you stand in our way, I will show no mercy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Set the souls of the in-between... free?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You are... a priestess? Then I shall tell you a little.{w}Why do you think souls of the in-between come to be?\"{w}",
+  "kind": "msg",
+  "note": "puriisutesu -> 'priestess' (Sigret's class word as the Wraith uses it)."
+ },
+ {
+  "en": "\"That's... because spirits of the dead like you carry souls away, or because their regrets in life were too strong...\"{w}",
+  "kind": "msg",
+  "note": "anata-tachi shiryou: 'spirits of the dead like you' (plural you, the Wraith's kind)."
+ },
+ {
+  "en": "\"That is not all. Those who broke their vows even after being baptized, those who died under a curse...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And that is far from all. I could go on listing them forever.\"{w}{p}\"By rights, whatever the circumstances, every soul should find its way back to the god of Dark Oblivion.{w}You must have heard as much at the temple yourself.\"{w}{p}\"But look at what really happens!{w}Even when a life is ended properly, how many souls spill through the cracks!\"{w}{p}\"In other words, the path of souls -- the system of the holy path...{w}...has failed!!\"{w}",
+  "kind": "msg",
+  "note": "tamashii no michi = 'path of souls', seidou = 'holy path' (both as in slice 012). 'otomae-tachi tote' = you clergy too -> 'yourself'."
+ },
+ {
+  "en": "\"The path of souls... has failed!?{w}Th-that's nonsense...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Those who have already rotted away keep their forms.{w}If an absurdity this plain is not failure, then what is it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yet the gods did not set their own failure right.{w}Far from it -- they imprison us souls of the in-between and seek to bury the whole truth.\"{w}{p}\"That is Apasha, the place that captures the souls of the in-between.{w}The prison of souls -- Apasha, the Abyss.\"{w}",
+  "kind": "msg",
+  "note": "wareware hazama no tamashii: the Wraith counts itself among the souls of the in-between. shin'en (written [JP], read as abyss [JP]) -> 'the Abyss' (new term)."
+ },
+ {
+  "en": "\"What are you... saying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What lies beyond this door are the unsaved souls of the in-between. They are by no means malevolent beings.\"{w}{p}\"If you are truly of the clergy, these are the very souls you ought to save. Am I wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My wife is one of them, too...{w}What fault did she ever commit as a human being!\"{w}{p}\"Her soul is held captive in Apasha even now.{w}I will open the Gate of the Underworld and rescue Eril!\"{w}{p}\"Now, enough talk. Let us begin.{w}This door, which you, a spirit of the dead, have called forth, I, who still live, shall open! The conditions are met!!\"{w}",
+  "kind": "msg",
+  "note": "This row links 'my wife' / 'aitsu' to Eril, so Eril is Branet's wife (female) - the glossary's inferred link is confirmed here."
+ },
+ {
+  "en": "\"W-wait!{w}Oh, Bishop Saines... what should I do...\"{w}",
+  "kind": "msg",
+  "note": "Saines-sama -> 'Bishop Saines' per lead convention."
+ },
+ {
+  "en": "By Branet's hand, the Gate of the Underworld opened its forbidden maw.{w}{p}From an abyss deeper than darkness came voices like the war cries of a vast host, dreadful and yet sorrowful.{w}{p}Faintly, from far, far away, a great horde of spirits of the dead could be seen surging toward you!!{w}",
+  "kind": "msg",
+  "note": "shin'en here is generic 'abyss' (lowercase) inside a simile."
+ },
+ {
+  "en": "\"Oh no...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A great horde of spirits of the dead came pouring out!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Gate of the Underworld is not so easily opened.{w}If you cannot stand by and watch in silence, I shall dispose of you, along with those little rats over there!\"{w}",
+  "kind": "msg",
+  "note": "konezumi (little rats) = the party."
+ },
+ {
+  "en": "As the two who had been holding the door open fell, the door of the Underworld slowly lost its power and began to close its mouth on the world of the living...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Branet",
+  "kind": "name"
+ },
+ {
+  "en": "\"Eril... where is Eril...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Even as the dying old lord lay collapsed in a pool of blood, he reached for the gate as though clinging to it.{w}{p}What would happen if a living body touched the world beyond the gate?{w}The Wraith, too, silently watched to see how it would unfold.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Branet...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...? Eril, is that you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Eril",
+  "kind": "name"
+ },
+ {
+  "en": "\"Brane...t...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh... ohhhhhh!!{w}Eril, over here! Your hand...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A slender arm reached out from within the door.{w}Branet gripped that hand tightly.{w}But...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is bad... the gate is closing...!!{w}Hurry, Lord Branet!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As the door closed, Eril's body was dragged, inch by inch, back into the Abyss.{w}{p}Things like arms began to stretch out of the door, seizing the escaped spirits of the dead one after another and dragging them into the gate.{w}{p}Struggle or scream as they might, it was futile.{w}'None shall ever escape the Abyss' -- that was the will that seemed to come through.{w}{p}And the arms reaching from the door spared none of the spirits they seized...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah...! Nn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's wrong!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm being... dragged... in!?{w}Noooooo!!{w}I don't want to go back! Help meeee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn it! After coming this far...{w}Erilllll!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The dragging arms grew ever more forceful, until at last even Eril was about to be pulled into the gate.{w}{p}The Wraith, too, seemed hard-pressed just to shake off the arms and avoid being dragged in as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Branet!{w}Let go! You'll be dragged in too!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaaaaaaahhh!!{w}Is there no god... is there no god at allll!!{w}This can't be allowed to happen, it can't beeee!!\"{w}{p}\"I won't let go! I will never let go of this hand!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "But, as if mocking Branet, the arms reaching from the door dragged the two of them down into the Abyss.{w}And at last...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gwaaaaaahhh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eeeyaaaaahhh!!\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,369 @@
+[
+ {
+  "en": "{0E}\"Hmph! This stupid thing! This stupid thing!\nBack then! {0F}You wouldn't give it to me!{w}",
+  "kind": "msg",
+  "note": "Cumulative re-display: {0E} part repeats rows 4117-4123 (slice 066); the English prefix must match whatever slice 066 used for those rows. Quote left open as in the source (it continues in 4127). [accuracy] {0E} redraw aligned to slice 066 4123 (\"Hmph! Stupid thing! Stupid thing!\nBack then!\")."
+ },
+ {
+  "en": "{0E}\"Hmph! This stupid thing! This stupid thing!\nBack then! You wouldn't give it to me! {0F}And now you do!?\"{w}",
+  "kind": "msg",
+  "note": "kusenitt = 'even though (you wouldn't back then)': rendered as 'And now you do!?' (what wasn't given = the approval/start stamp). Prefix must match slice 066 rows 4117-4123. [accuracy] {0E} redraw aligned to slice 066 4123 and to 4125."
+ },
+ {
+  "en": "\"D-d-d-don't kick it! Noooooo!!\"{w}",
+  "kind": "msg",
+  "note": "kekeke = stutter on keccha (kick). No mogu in the source here."
+ },
+ {
+  "en": "\"Well, if they absolutely insist,\nI'll lend those guys a hand.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not 'those guys'... you have to call them 'the gods'...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Those guys are probably desperate to find that thing too, right?{w}They're probably only letting it go on existing because they're betting on that chance.\"{w}{p}\"In that case, I'll find it for them -- right here in my land.\"{w}",
+  "kind": "msg",
+  "note": "are = 'that thing' (unnamed); sonzoku = continued existence (of her land), referent kept vague as 'it'."
+ },
+ {
+  "en": "\"Yay! So you're making up with the gods, Princess, mogu~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No way!{w}In exchange, I'm going to have Father called back from the event horizon\nand get Dehain banished in his place!\"{w}",
+  "kind": "msg",
+  "note": "jisho no chihei = 'event horizon' (glossary). [accuracy] jishou no chihei = glossary \"event horizon\" (not Elm3 chihei-okuri \"the Horizon\")."
+ },
+ {
+  "en": "\"Waaah, waaah, waaaah!!{w}They'll hear you! The gods will hear you, moguuu!{w}They'll carve an end time into it, moguuu!!\"{w}",
+  "kind": "msg",
+  "note": "shuuryou jikoku = 'end time' (slice 030). 'it' = the land/inscription."
+ },
+ {
+  "en": "\"Shut up! If they can hear me, all the better!!\nIt's all getting recorded in Elminage anyway!{w}Isn't that right, Hisbert!?\"{w}{p}\"I won't lose!!\"{w}{p}\"To that slimy, bald, shithead bastard --\nDehain, I mean --\nI will NEVER, EVER, EVER lose!!\"{w}",
+  "kind": "msg",
+  "note": "inken hage unko yarou rendered at strength: 'slimy, bald, shithead bastard'."
+ },
+ {
+  "en": "\"Eeeek! Eeeeeek!!{w}Th-th-that was a joke, mogu! It's not true, moguuu!!\"{w}",
+  "kind": "msg",
+  "note": "uso mogu = 'it's a lie/not true' -- Raizam disowning Urna's words to the listening gods."
+ },
+ {
+  "en": "'Die! Dehain, diiiie!'{w}",
+  "kind": "msg",
+  "note": "Source switches to double-bracket quotes for 4147-4159 (lines heard as they are recorded in Elminage); kept as single quotes."
+ },
+ {
+  "en": "'Nwaaah!?{w}I'm sorry, I'm sorry, moguuu!!'{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pfft... Ahahahaha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "'Make sure you record this properly, Hisbert!{w}Hey, Dehain!{w}Spew snot all over the place and drop dead!'{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "'Eeeeeeeeeek!!!'{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, yes, I'm recording it.{w}Honestly. You really are full of energy.{w}If you can mouth off like that, you'll be fi...\"{w}",
+  "kind": "msg",
+  "note": "Interrupted mid-word (daijou...) -> 'fi...'."
+ },
+ {
+  "en": "'The librarian old lady will hear you, moguuu!!'{w}",
+  "kind": "msg",
+  "note": "obachan = 'old lady/auntie'; Hisbert repeats 'Old la...' in 4161."
+ },
+ {
+  "en": "\"Old la...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh... heh heh heh!!{w}Our little mole must be awfully fond of me, hmm?\"{w}",
+  "kind": "msg",
+  "note": "moguro-kun -> 'our little mole' (no gender for Raizam)."
+ },
+ {
+  "en": "\"Perhaps I should slip a bookmark in here\nso I won't forget that remark~.{w}...Heh... heh heh heh heh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*     Carrying the Mysterious Bookmark     *\n*   will bring a terrible calamity upon you.   *\n*    If you doubt your skill, discard it now.    *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line system box kept bordered; padding approximate. Item name 'Mysterious Bookmark' is new (fushigi na shiori)."
+ },
+ {
+  "en": "There is an inscription.{w}{p}Mysterious numbers are carved on its surface.{w}{p}{0E}        *  714729.301  *        \n\n            61045027  >{0F}{w}",
+  "kind": "msg",
+  "note": "Digits and layout copied (full-width -> ASCII, each full-width space -> two spaces); must match slice 066 rows 4082/4083. [accuracy] Number line aligned to slice 066 4083 (12 spaces, \">\" in the same column as 4082)."
+ },
+ {
+  "en": "\"Before Contrachio was made,\nI never felt like I was locked up,\nbut once it was built, the world suddenly went pitch black.\"{w}{p}\"Pitch darkness whichever way I turned.{w}Nothing to touch, however far I reached out.{w}Not a sound, either.\"{w}{p}\"I got... scared.{w}I couldn't help crying out,\nbut I couldn't even hear that.\"{w}{p}\"I thought I'd died...{w}I was so frustrated that it ended like that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I guess I got a little weak inside...{w}and I cried!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And then someone called out to me,\nin this totally laid-back tone.{w}'Are you frustraaated?' they said!\"{w}{p}\"When I said of course I was,\nI heard a voice say,\n'Let us invest in your anger and sorrow.' I was like, 'Huh?'\"{w}{p}\"But the next moment,\neverything opened up before my eyes,\nand Zeshrom was there in a dim place.\"{w}",
+  "kind": "msg",
+  "note": "yatsu (the laid-back voice) is unidentified: 'someone'/'they'."
+ },
+ {
+  "en": "\"......\"{w}{p}\"Whatever their goals or interests were...{w}the one who brought me out of that prison...\n...was Zeshrom.\"{w}{p}\"I wonder what Zeshrom would say\nif I showed off this inscription...{w}Would it make Zeshrom happy...?\"{w}",
+  "kind": "msg",
+  "note": "aitsu = Zeshrom (named in 4173); name used instead of a pronoun (glossary: no pronoun for Zeshrom)."
+ },
+ {
+  "en": "There is an inscription.{w}You could probably read it from the front.{w}",
+  "kind": "msg",
+  "note": "Narration despite the speaker field."
+ },
+ {
+  "en": "Creation Womb Palace{w}",
+  "kind": "op031",
+  "note": "New place name (soutaikyuu: creation + womb + palace)."
+ },
+ {
+  "en": "\"Do you need something, mogu?{w}This isn't a place you should be coming to, mogu.\"{w}{p}\"Sorry, but I'd like you to go home, mogu.{w}If you won't, I'll send you home by force, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Goodbye, mogu.{w}Please don't ever come back, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't hurt the Princess any more than you already have, moguuu!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you're strong, mogu...{w}But I won't let you get to the Princess, mogu!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You remembered the Princess, mogu.{w}But the Princess has gone into hiding, mogu.{w}Unless it's something really important, she won't see anyone but us, mogu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*Sniff sniff*...???{w}Th-that's Yuan Wine, mogu!?{w}There was still some left, mogu!?\"{w}{p}\"At Baroque Fort, you say...{w}Okay, mogu. Anyway, come with me, mogu!!\"{w}",
+  "kind": "msg",
+  "note": "Baroque Fort: the party's off-screen answer is echoed."
+ },
+ {
+  "en": "\"You've got some nerve, showing your face here.{w}This ain't a place for the likes of you.\"{w}{p}\"If you don't wanna die, go home.{w}Right now, I've got no intention of going easy on you lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Get going, already!{w}Before I change my mind...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'll knock you flat!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dammit, you're not bad...{w}But I'll protect the Princess even if it costs me my life!{w}Get outta here!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you remembered...{w}That's right! We're family!\nWe all grew up on the same Princess's land!!\"{w}{p}\"This time too, the Princess's land hasn't really been approved.{w}There's no start stamp carved on it.{w}And those so-called Kin of Darkness keep pouring in.\"{w}{p}\"But none of that matters!{w}This time, I've made up my mind to protect the Princess!!\"{w}{p}\"God or Kin of Darkness, I'll protect the Princess\neven if I have to take 'em down with me!\"{w}",
+  "kind": "msg",
+  "note": "kyoudai rendered 'family' (party gender unknown). kaishi no kokuin = 'start stamp' (slice 031)."
+ },
+ {
+  "en": "\"I hear you helped drive off the Kin of Darkness!\nThanks a lot.\"{w}{p}\"No matter how much time goes by,\nwe really are comrades after all, huh...{w}I'm counting on you from here on out, too!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}                                              \n            Kitty-Kitty Demon Requiem\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner; blank padding lines kept as spaces, centring approximate. masoukyoku = pun on chinkonkyoku (requiem)."
+ },
+ {
+  "en": "In the darkness, two eyes blaze fiercely.{w}On finding you, they narrow, as if testing you.{w}{p}Why is it?{w}Without a word exchanged, you understand his thoughts.{w}{p}He is searching for his master.{w}If you know where, he will let you go.{w}If you don't, he will kill you.{w}{p}His master? How could you possibly know?{w}",
+  "kind": "msg",
+  "note": "'he' follows the source's kare (a creature, not a named character)."
+ },
+ {
+  "en": "{0E}                                              \n              Corrida de Toros\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner (Spanish 'bullfight' kept)."
+ },
+ {
+  "en": "A huge double-bladed axe comes spinning toward you.{w}Wielding it is a half-human, half-bull woman of steel.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Commanding Voice",
+  "kind": "name",
+  "note": "New name box (haki ni michita koe)."
+ },
+ {
+  "en": "\"Hah hah hah hah!!{w}What's with you lot? What sorry excuses for bodies!!\"{w}{p}\"You'll never win a fight like that, you know?{w}Here, let me give you a little training.{w}Don't hold back. Come at me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}                                              \n          A Noble Lady's Banquet\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner."
+ },
+ {
+  "en": "Posh Voice",
+  "kind": "name",
+  "note": "New name box (serebu na koe)."
+ },
+ {
+  "en": "\"Lured here by a fresh new land,\nand what a lovely banquet I find.\"{w}{p}\"Look, here comes the main dish.{w}Dripping blood and fat, that springy flesh... oh, I can't stand it...!\"{w}{p}\"Medium? Rare?{w}Hehe, ingredients this fine simply must be eaten raw!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "*  Princess Territory  *",
+  "kind": "op096",
+  "note": "Area label."
+ },
+ {
+  "en": "{0E}                                              \n         A Few Loves, Stirring to Life\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner. taidou = quickening/stirring (as in a womb)."
+ },
+ {
+  "en": "Clingy Princess",
+  "kind": "name",
+  "note": "New name box (matowaritsuku hime)."
+ },
+ {
+  "en": "\"It's hot, it's hot, what do I do?{w}I can't find Mirco anywhere,\nand if I stay like this I'm gonna die.\"{w}{p}\"When I find Mirco~,\nI'll punch him and tie him up and killy-kill him~{w}Hafuu, it's so hot, I'm shriveling uuup.\"{w}{p}\"Aaah, somebody was eavesdropping\non me talking to myself, how embarrassing!{w}You get killy-killed too~\"{w}",
+  "kind": "msg",
+  "note": "bukkoropii (cutesy 'beat to death') -> 'killy-kill'."
+ },
+ {
+  "en": "\"My, what shameless people you are.{w}Do you truly believe you are qualified\nto set foot in this place?\"{w}{p}\"Take your filthy feet off the Princess's land at once,\nand get out. ...Or I shall kill you, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good day to you.\"{w}",
+  "kind": "msg",
+  "note": "Farewell (gokigenyou) when the party leaves."
+ },
+ {
+  "en": "\"Then you shall die.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph, fools who think strength is everything...{w}I will not allow you to defile the Princess any further!{w}Even at the cost of my life, I shall see you off this stage!!\"{w}",
+  "kind": "msg",
+  "note": "taijou shite itadaku = make them exit (stage metaphor kept)."
+ },
+ {
+  "en": "\"So you have finally come to understand the Princess...\nno, to understand yourselves.{w}Now, how do you intend to make amends for all your rudeness?\"{w}{p}\"At present, this land has been invaded by the Kin of Darkness.{w}Drive every last one of them out.{w}That is the only atonement you are capable of.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not bad.\nEvery one of those loathsome presences has gone silent.{w}...Thank you for helping.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "*  Catacombs  *",
+  "kind": "op096",
+  "note": "Area label."
+ },
+ {
+  "en": "{0E}                                              \n      Souls of the In-Between, Come Unto Me\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner. hazama no tamashii = 'souls of the in-between' (glossary)."
+ },
+ {
+  "en": "The thing that had begun to faintly appear before your eyes\nstarted drawing in \"something\" around it\nas it took on solid form.{w}{p}You held out, but if you are caught like this,\nit will come to the same thing.{w}",
+  "kind": "msg",
+  "note": "Inner corner brackets around 'nanika' -> double quotes."
+ },
+ {
+  "en": "\"Th-that was... the Abyss...!?\"{w}{p}\"That overwhelming presence of 'death'...{w}It's like the god of Dark Oblivion...{w}No... I can't stop shaking...\"{w}",
+  "kind": "msg",
+  "note": "shin'en = 'the Abyss'; anmetsu no kami = 'god of Dark Oblivion'."
+ },
+ {
+  "en": "\"But I won't give up.{w}Even that Wraith is standing up to it.\"{w}{p}\"My wish to save the souls of the in-between\nis real, too...\"{w}{p}\"As long as I don't give up,\nsomeday I'm sure I'll be able to help them!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}                                              \n          The Power Eater, and the Price\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner. inou-gui = eater of (supernatural) abilities."
+ },
+ {
+  "en": "\"Curse you, interfering with my treatment...{w}I failed to take Finas Rade,\nbut I will not hand over this land.\"{w}{p}\"Or perhaps, if I absorb you,\nmy body will return to what it was?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}                                              \n             ESPEL-DEX Co., Ltd\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner; source English kept (full-width -> ASCII)."
+ },
+ {
+  "en": "One Who Looks Down",
+  "kind": "name",
+  "note": "Glossary form; 18 chars, over the ~16 name-box guideline."
+ },
+ {
+  "en": "\"So you're the new talent who wants to join us?{w}We've already hired plenty this term, but...\"{w}{p}\"Well, fine. Zeshrom investigated her far too much\nwhile trying to win her over, drowned in sentiment,\nand became useless.\"{w}{p}\"If you're willing to fill in for Zeshrom,\nI'll test you, as a special favor.{w}Don't hold back. Come at me.\"{w}",
+  "kind": "msg",
+  "note": "kanojo = Urna. The source says kare no kawari ('his replacement') for Zeshrom; rendered 'fill in for Zeshrom' per the glossary's no-pronoun rule -- the lead may want 'his' here since the source states it."
+ },
+ {
+  "en": "{0E}                                              \n            Wonderful Stroll Days\n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Encounter title banner; source English kept."
+ },
+ {
+  "en": "Strange Creature",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well...{w}NYOPPing away there.{w}It might be safe.\"{w}",
+  "kind": "msg",
+  "note": "Source English kept as written (full-width -> ASCII)."
+ },
+ {
+  "en": "Mysterious Little Girl",
+  "kind": "name",
+  "note": "Glossary form; 22 chars, over the ~16 name-box guideline."
+ },
+ {
+  "en": "\"Found you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"NYOOOOOPS!?\"{w}",
+  "kind": "msg",
+  "note": "Source English kept."
+ },
+ {
+  "en": "\"Heeere goes... KABOOM!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyo... PUGYUuuuuu~~...\"{w}",
+  "kind": "msg",
+  "note": "Source text kept."
+ },
+ {
+  "en": "\"I did it again!{w}Jiggly-wiggly tummy.{w}This is fun!\"{w}",
+  "kind": "msg",
+  "note": "purinpurin (jiggly) also sets up the 'PRIN' pun in 4890."
+ },
+ {
+  "en": "\"NO MORE BOMB!{w}NO MORE NYOP!!{w}WE'RE PRIN NYOS! OK!?\"{w}",
+  "kind": "msg",
+  "note": "Source English kept as written."
+ }
+]

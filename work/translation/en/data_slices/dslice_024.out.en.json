@@ -1,0 +1,173 @@
+[
+ {
+  "en": "There are too many gimmick data entries.",
+  "max": null,
+  "note": "debug? Load-time error; neighbour 'Gimmick data has been updated...'"
+ },
+ {
+  "en": "The script file does not exist.",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Not enough script buffer capacity.",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Script file read error",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "The script file exceeds the size limit.",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "The specified script does not exist. [%05d]",
+  "max": null,
+  "note": "debug? Space added before [%05d]."
+ },
+ {
+  "en": "The following scripts do not exist.",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Script Debug Menu",
+  "max": null,
+  "note": "debug? Title case like neighbour 'Floor Data Analysis'."
+ },
+ {
+  "en": "Script Execution Log",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Toggle the script status display",
+  "max": null,
+  "note": "debug? Debug-menu description, sentence case like neighbours."
+ },
+ {
+  "en": "Show the script execution log",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Change the party's stats",
+  "max": null,
+  "note": "debug? Party status editor; stats vs conditions not verified."
+ },
+ {
+  "en": "Turn on all footprint flags on the current floor",
+  "max": null,
+  "note": "debug? Floor variant of the dungeon line next to it."
+ },
+ {
+  "en": "Run the test script SF_01",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Run the test script SF_02",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Run the test script SF_03",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Run the test script SF_04",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Run the test script OP_01",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Stop all scripts",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "Switch to the next compass target",
+  "max": null,
+  "note": "debug?"
+ },
+ {
+  "en": "The floor data needs to be updated.",
+  "max": null,
+  "note": "debug? Third of the floor-data check results."
+ },
+ {
+  "en": "Divine Relic Search",
+  "max": null,
+  "note": "Compass mode, after Jewel Ring Search; glossary divine relic."
+ },
+ {
+  "en": "Demon Subjugation: 2x damage",
+  "max": null,
+  "note": "No established term for this effect name; sits among battle buff messages."
+ },
+ {
+  "en": "%s was treated",
+  "max": null,
+  "note": "Battle message near Maid Recover; treat = established temple term."
+ },
+ {
+  "en": "Each surviving member gained\n%10u GP",
+  "max": null,
+  "note": "Line break kept: the number column is laid out by the format."
+ },
+ {
+  "en": "Each surviving member gained\n%10llu EP\n%10u GP",
+  "max": null,
+  "note": "EP kept as in the source (Latin letters); elsewhere EXP is used."
+ },
+ {
+  "en": "                Class = %-10s\n",
+  "max": null,
+  "note": "debug? Battle debug dump; label right-aligned so '=' lines up with 'Level ='/'Strength ='. Trailing \\n kept from source (neighbour English dropped it)."
+ },
+ {
+  "en": "                 Race = %-10s\n",
+  "max": null,
+  "note": "debug? As above."
+ },
+ {
+  "en": "First Strike cannot be used",
+  "max": null,
+  "note": "First Strike = established (JOBABL)."
+ },
+ {
+  "en": "No First Strike uses remain",
+  "max": null
+ },
+ {
+  "en": "Hide cannot be used",
+  "max": null
+ },
+ {
+  "en": "Tarot cannot be used",
+  "max": null
+ },
+ {
+  "en": "Barrier cannot be used",
+  "max": null
+ },
+ {
+  "en": "Choose a command. Square: All-Out Attack. R: Command Repeat.",
+  "max": null,
+  "note": "Source says Square here; HELP_TEXT 357 says Triangle for All-Out Attack. Kept Square as written."
+ },
+ {
+  "en": "Select an item to use",
+  "max": null,
+  "note": "Matches HELP_TEXT 30/360."
+ }
+]

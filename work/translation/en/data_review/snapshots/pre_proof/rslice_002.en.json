@@ -1,0 +1,340 @@
+[
+ {
+  "en": "Bistel Tour",
+  "max": 24
+ },
+ {
+  "en": "Bistel Tour - event text",
+  "max": 202,
+  "note": "Suffix lowercased to match the other EVENT_TEXT placeholder rows (same Japanese suffix)."
+ },
+ {
+  "en": "Bistel Tour - consultation text",
+  "max": 194,
+  "note": "Request Office text -> consultation text, as in the other EVENT_TEXT col 7 rows (same Japanese suffix); suffix lowercased to match."
+ },
+ {
+  "en": "Bistel Tour - hint text",
+  "max": 216,
+  "note": "Suffix lowercased to match the other EVENT_TEXT placeholder rows (same Japanese suffix)."
+ },
+ {
+  "en": "Adventurer Reg. Exam",
+  "max": 24
+ },
+ {
+  "en": "At your audience, Ragnastia said she wished to test whether you are adventurers fit for this mission. You are to use the compass to bring back the Jewel Ring from Loipes Cave.",
+  "max": 202
+ },
+ {
+  "en": "Adventurer Reg. Exam - consultation text",
+  "max": 194,
+  "note": "Request Office text -> consultation text, as in the other EVENT_TEXT col 7 rows (same Japanese suffix); suffix lowercased to match."
+ },
+ {
+  "en": "Everyone, you've already solved this request, you know? May Semnadoc bless you all!",
+  "max": 216
+ },
+ {
+  "en": "Shield of Compassion",
+  "max": 24
+ },
+ {
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202
+ },
+ {
+  "en": "Shield of Compassion - consultation text",
+  "max": 194,
+  "note": "Request Office text -> consultation text, as in the other EVENT_TEXT col 7 rows (same Japanese suffix); suffix lowercased to match."
+ },
+ {
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216
+ },
+ {
+  "en": "Tiara of Hope",
+  "max": 24
+ },
+ {
+  "en": "Tiara of Hope - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Breastplate of Intellect",
+  "max": 24
+ },
+ {
+  "en": "Breastplate of Intellect - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Bracelet of Harmony",
+  "max": 24
+ },
+ {
+  "en": "Bracelet of Harmony - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Shoes of Courage",
+  "max": 24
+ },
+ {
+  "en": "Shoes of Courage - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Anklet of Joy",
+  "max": 24
+ },
+ {
+  "en": "Anklet of Joy - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Banish the Ancient Evil",
+  "max": 24
+ },
+ {
+  "en": "Once you had gathered every relic you could, Ragnastia ordered you to head for the Holy Foundation, Contrachio. The fight with the ancient evil spirit nears its end. Can you protect Mother Earth?",
+  "max": 202
+ },
+ {
+  "en": "Banish the Ancient Evil - consultation text",
+  "max": 194
+ },
+ {
+  "en": "You have every relic you can gather. All that's left is to storm Contrachio! On the way are places to offer relics, but the evil spirit's name is carved there now. Offering one strengthens the spirit, so be careful!",
+  "max": 216,
+  "note": "accuracy: \"makes it stronger\" -> \"strengthens the spirit\" ([JP]; \"it\" could be read as the place)."
+ },
+ {
+  "en": "You won the deadly battle with the ancient evil spirits at the Holy Foundation, Contrachio. The monsters haven't all gone, but things are as peaceful as they once were. You saved the land!",
+  "max": 202,
+  "note": "editorial: 'peace like before' unidiomatic."
+ },
+ {
+  "en": "Hail Great Adventurers - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Thank you so much! Now the land has been saved!!",
+  "max": 216
+ },
+ {
+  "en": "The Mysterious Altars",
+  "max": 24
+ },
+ {
+  "en": "Ragnastia says this land has six altars, one for each god, and that praying at all of them lets you glimpse the realm of the gods. One is Bistel's Temple of Orses, but where are the rest...?",
+  "max": 202
+ },
+ {
+  "en": "The Mysterious Altars - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Pray at the altars of Life-Creation and Space in the town temple. Change is in the Narmant Trench, Dark Oblivion in the Scorching Castle, Time in the Narmant Trench, Existence in the Blanc Desert.",
+  "max": 216
+ },
+ {
+  "en": "The Proud House Lenzer",
+  "max": 24
+ },
+ {
+  "en": "You met Mirco, a child of the nobles of darkness. Your battles with them will never end.",
+  "max": 202,
+  "note": "editorial: script form 'noble of darkness' (slice 002)."
+ },
+ {
+  "en": "The Proud House Lenzer - consultation text",
+  "max": 194
+ },
+ {
+  "en": "The more you beat them, the stronger they get. Indomitable spirit, unceasing effort! Enemy or not, I admire them. You may meet them anywhere, so take care. It seems you can also run away.",
+  "max": 216
+ },
+ {
+  "en": "Ragnastia's Treasure",
+  "max": 24
+ },
+ {
+  "en": "Idiot Costo apparently threw out Ragnastia's precious blanket, embroidered with an Emperor Bird. Hopefully it hasn't been disposed of yet.",
+  "max": 202,
+  "note": "editorial: [JP] = the script's fixed epithet 'Idiot Costo'."
+ },
+ {
+  "en": "Ragnastia's Treasure - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Things that get thrown out end up in the trash bin. The trash bin is in the southeast of Highberry Forest, so why not search inside it?",
+  "max": 216
+ },
+ {
+  "en": "Silent Shell",
+  "max": 24
+ },
+ {
+  "en": "Berte accidentally broke the Silent Shell that keeps mages from running riot in the tavern, and has asked you to get a replacement Silent Shell from Moonlight Falls.",
+  "max": 202
+ },
+ {
+  "en": "Silent Shell - consultation text",
+  "max": 194
+ },
+ {
+  "en": "True silence is hard to make. Listen closely: can't you hear... a sound, even now? Go on, open the map of the whole land and move your right index finger three times. Something about sound should come into view.",
+  "max": 216,
+  "note": "editorial: 'even now? Now open' repetition; number spelled out as in the other hints."
+ },
+ {
+  "en": "Rosetta's Inn",
+  "max": 24
+ },
+ {
+  "en": "Traveling merchants were the main source of income for Rosetta's Inn, but thanks to Taranti appearing in Highberry Forest, they can no longer reach town, and the inn is struggling.",
+  "max": 202,
+  "note": "editorial: 'merchants who were the main income' reworded; clause order clarified."
+ },
+ {
+  "en": "Rosetta's Inn - consultation text",
+  "max": 194
+ },
+ {
+  "en": "First, go through what the merchants did. Follow the path in Highberry Forest and get caught by Taranti. Hear her out, then get the Rolfan on the floating isle in the forest's southeast and give it to her.",
+  "max": 216
+ },
+ {
+  "en": "Saimar Merch. Companion",
+  "max": 24
+ },
+ {
+  "en": "The noble Costo seems interested in commoners' prices and trade, and wants you to somehow get a booklet called 'The Saimar Merchant's Companion' from Saimar.",
+  "max": 202,
+  "note": "editorial: the script calls it a booklet (slices 011, 023); same object. Accuracy recheck: source word is magazine."
+ },
+ {
+  "en": "Saimar Merch. Companion - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Walmitt should have 'The Saimar Merchant's Companion'. If you help him with his work, he'll likely give it to you before long.",
+  "max": 216
+ },
+ {
+  "en": "The Ruined Church Stirs",
+  "max": 24
+ },
+ {
+  "en": "Hoping to save the souls of the in-between, Sigret heard of the Gate of the Underworld that had appeared in Madrie Church Cemetery and went in alone. So Saines asked you to go after her.",
+  "max": 202,
+  "note": "editorial: [JP] restored for clarity; no title for Saines (this row's Japanese has none; lead decision)."
+ },
+ {
+  "en": "The Ruined Church Stirs - consultation text",
+  "max": 194
+ },
+ {
+  "en": "The cemetery order is Mag Fig Thi Alc Pri Bis Mag. If your names are learned, you'll be killed. Confuse them with two parties, or suspend your adventure and change your names outright. Then just storm the center.",
+  "max": 216
+ },
+ {
+  "en": "The Ruined Church Stirs - event text",
+  "max": 202
+ },
+ {
+  "en": "The Ruined Church Stirs - hint text",
+  "max": 216
+ },
+ {
+  "en": "Friends After All",
+  "max": 24
+ },
+ {
+  "en": "Miria and Soara are best friends, but they had a fight and parted ways. Soara is said to be studying at Rubenburg, and Miria wants to know how she is doing now.",
+  "max": 202,
+  "note": "editorial: 'with best friend Soara' lacked an article; rephrased without a pronoun for Miria."
+ },
+ {
+  "en": "Friends After All - consultation text",
+  "max": 194
+ },
+ {
+  "en": "If they parted after a fight, it's best to bring them face to face to make up. If you solve this Soara's troubles, she may come back to Miria.",
+  "max": 216
+ },
+ {
+  "en": "Rondelgius's Trial 1",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius ordered you to fetch the Ice Strawberry from the Flotban Snowfield.",
+  "max": 202
+ },
+ {
+  "en": "Rondelgius's Trial 1 - consultation text",
+  "max": 194
+ },
+ {
+  "en": "The snow rabbits seem to love Ice Strawberries too. If you end up racing them for one, it'll be very hard without speed. If it seems hopeless, raise your Agility and try again.",
+  "max": 216
+ },
+ {
+  "en": "Rondelgius's Trial 2",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius ordered you to defeat the unknown apparition that appears in Heerdahl.",
+  "max": 202
+ },
+ {
+  "en": "Rondelgius's Trial 2 - consultation text",
+  "max": 194
+ },
+ {
+  "en": "The golf course bunker was to the west, I think. Comb through it. I was once invited to that golf game too, and the beastfolk girl I saw there... I wonder how she is now. I'm worried about her grandmother's health.",
+  "max": 216,
+  "note": "accuracy: the girl was seen at the golf game (one sentence in the source); removed the ellipsis the source does not have after \"too\"; \"Search it thoroughly\" -> \"Comb through it\" to fit 216."
+ },
+ {
+  "en": "Rondelgius's Trial 3",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius ordered you to plant a banner on the Churos Highlands.",
+  "max": 202,
+  "note": "accuracy: [JP] = \"banner\" (review_notes; script 017 \"Plant the banner\")."
+ },
+ {
+  "en": "Rondelgius's Trial 3 - consultation text",
+  "max": 194
+ },
+ {
+  "en": "The Churos Highlands are guarded by Nishimikado. To beat his trial, you'll find the alchemy items Angel's Window and Dove Bell handy. Then run boldly yet carefully!",
+  "max": 216,
+  "note": "editorial: dangling 'To beat his trial' fixed."
+ },
+ {
+  "en": "Churos Highlands Anomaly",
+  "max": 24
+ },
+ {
+  "en": "When you swapped out the banner on the Churos Highlands as Rondelgius said, an unknown monster awoke.",
+  "max": 202,
+  "note": "accuracy: [JP] = \"banner\"; [JP] = Nishimikado's banner replaced by Rondelgius's (script 060 2664)."
+ },
+ {
+  "en": "Churos Highlands Anomaly - consultation text",
+  "max": 194
+ },
+ {
+  "en": "That monster likes to fight in pairs. So when you visit it, try going as a party of two.",
+  "max": 216
+ },
+ {
+  "en": "Rise Again, Ancient Song",
+  "max": 24
+ }
+]

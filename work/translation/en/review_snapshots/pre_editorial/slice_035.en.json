@@ -1,0 +1,346 @@
+[
+ {
+  "en": "\"We did it! You were wonderful, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honey!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks, everyone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank youuu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The happy pair vanished into the depths of the forest.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A Fairy and a Werebeast hunter are talking about something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Guld!\nYou're wonderful! Sooo groovy!\"{w}",
+  "kind": "msg",
+  "note": "IKASU is dated slang for 'cool'; 'groovy' keeps the dated flavour. Speaker box ??? = Honey before her name is shown."
+ },
+ {
+  "en": "\"Really, Honey?! That makes me so happy!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So save the forest for me.\nBeat that menace of the forest, the Rampaging Elephant, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-well, that's...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please, please, pretty pleeease~\"{w}",
+  "kind": "msg",
+  "note": "kyuun is a cutesy pleading sound; folded into 'pretty pleeease'."
+ },
+ {
+  "en": "As you watched the two of them, a rumbling of the ground came echoing from far away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-Honey!{w}Th-those footsteps...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guld, here it comes!\"{w}",
+  "kind": "msg",
+  "note": "yatsu (the elephant) rendered 'it'."
+ },
+ {
+  "en": "\"Ohh, Guld, show me how wonderful you are!\"{w}",
+  "kind": "msg",
+  "note": "suteki ni natte = 'become wonderful (for me)'."
+ },
+ {
+  "en": "\"Y-you Rampaging Elephant, wrecking our forest!\nI, Guld, will drive you back!!{w}Take this, my deadly arrow!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bwoooh!\"{w}",
+  "kind": "msg",
+  "note": "Elephant bellow."
+ },
+ {
+  "en": "\"Get poisoned~ Get poisoned~\"{w}",
+  "kind": "msg",
+  "note": "Honey's poison chant (she is casting poison on the elephant)."
+ },
+ {
+  "en": "\"Now, Guld! Hit it with Pursuit!\"{w}",
+  "kind": "msg",
+  "note": "Tsuigeki = the skill Pursuit (JOBABL 2:18); new term."
+ },
+ {
+  "en": "\"Wh-what are you saying, Honey?!\nI don't have Pursuit!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaat?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"GYAHHH?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooo!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The pair was sent flying.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Idiot, idiot, idiot! Guld, you idiot!{w}Why can't you use Pursuit?!\"{w}",
+  "kind": "msg",
+  "note": "baka x3 in a lovers' tiff; kept at 'idiot' strength, not softened to 'dummy'."
+ },
+ {
+  "en": "\"I'm sorry, Honey!\nI'll come clean: I'm a phony hunter!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I hate people who can't use Pursuit!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gaaaaah!\"{w}",
+  "kind": "msg",
+  "note": "gaaan is the shock sound effect, voiced."
+ },
+ {
+  "en": "\"Goodbyeee!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honey! HONEYYYYY!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A dejected Werebeast was left behind.{w}As you quietly watched...{w}...your eyes met!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey there, you all. Do you like hunting?{w}I love hunting too!{w}But I'm in a fix because I can't use Pursuit.\"{w}{p}\"Will you teach me Pursuit?{w}Then Honey will be head over heels for me!{w}...I mean, then the forest will be at peace!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Teach Guld Pursuit?",
+  "kind": "data"
+ },
+ {
+  "en": "\"How can this be?!{w}This person doesn't have Pursuit!\"{w}",
+  "kind": "msg",
+  "note": "Said when the chosen party member lacks the skill."
+ },
+ {
+  "en": "\"Thank you! Let's start the lesson right away!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You taught Guld Pursuit!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right! Now I'm a Pursuit user too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You learned Pursuit!\nYou're wonderful, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you, Honey! Thank you, everyone!{w}Now I'm a real hunter too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You Rampaging Elephant, wrecking our forest!\nToday I'll drive you back for sure!!{w}Take this, my deadly arrow!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Watch me, Honey!{w}Hraaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you watched the happy pair, a rumbling of the ground came echoing from far away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eek?! Three of them?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't lose, Guld!\nGet poisoned~ Get poisoned~\nPoison-poison~ FLAAAAASH!!\"{w}",
+  "kind": "msg",
+  "note": "Chant lines kept on their own lines."
+ },
+ {
+  "en": "\"Come on, come on, Guld!{w}Blow them all away with Strafe Pursuit!\"{w}",
+  "kind": "msg",
+  "note": "Sousha Tsuigeki = skill Strafe Pursuit (glossary, Elm3 spelling; JOBABL 2:40). ACC: note corrected from 'Sweeping Pursuit'."
+ },
+ {
+  "en": "\"D-do you really think\nsomeone like me has Strafe Pursuit?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Once again, the pair was sent flying.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Idiot, idiot, idiot! Guld, you idiot!{w}Why can't you use Strafe Pursuit?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm sorry, Honey!\nWon't you forgive me for being so green?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I hate people who can't use Strafe Pursuit!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dryad",
+  "kind": "name"
+ },
+ {
+  "en": "\"Spring~ Spring~ I love spring~{w}So toasty, so warm, such lovely weather~{w}Spring is somehow just so springy~\"{w}",
+  "kind": "msg",
+  "note": "Last line is deliberate nonsense (lit. 'spring is somehow spring')."
+ },
+ {
+  "en": "A fairy is dancing merrily.{w}",
+  "kind": "msg",
+  "note": "yousei (generic fairy) for the Dryad, lowercase; the race name Fairy is a different word."
+ },
+ {
+  "en": "\"Oh my, everyone!{w}Won't you dance with me?\nIt's such fun! Oh-hohoho!!\"{w}",
+  "kind": "msg",
+  "note": "Refined-lady speech (desuwa, oh-hoho)."
+ },
+ {
+  "en": "Dance with the Dryad?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Oh dear, what a pity. Good day to you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, come over here, won't you?{w}And one-two, one-two~\"{w}{p}\"Spring~ Spring~ I love spring~{w}So toasty, so warm, such lovely weather~{w}Spring is somehow just so... HIP ATTAAACK!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh-hohohoho!{w}You were wide open!!\"{w}{p}\"That was a 'Do excuse me!', brought to you by the fairy of the forest!{w}Did you enjoy it? Tee-hee...\"{w}",
+  "kind": "msg",
+  "note": "gomen asobase (posh 'pardon me') is presented as the name of her stunt, so quoted."
+ },
+ {
+  "en": "The next thing you knew, Taranti, an enchantress in the shape of a spider, was right in front of you.{w}",
+  "kind": "msg",
+  "note": "kizuku to: 'next thing you knew' keeps it open whether the party blacked out."
+ },
+ {
+  "en": "Taranti",
+  "kind": "name"
+ },
+ {
+  "en": "\"I caught some mo-ore!\nSwishy-swish-swish...~{w}Hey, hey, you all~\"{w}",
+  "kind": "msg",
+  "note": "shurushuru = sound of silk being spun/wound."
+ },
+ {
+  "en": "Chat with big Sis, okay?",
+  "kind": "data",
+  "note": "oneesan = Taranti calling herself big sister; convention Sis."
+ },
+ {
+  "en": "\"Why...{w}Whyyyyyy?!!{w}You could at least have a little chat with meee!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hgyah?!{w}I-it... hurts...\"{w}{p}\"I... get how you feel... loud and clear.{w}But just keep me company for a little bit... please.\"{w}",
+  "kind": "msg",
+  "note": "Refusal branch: the party hits her (her cry of pain)."
+ },
+ {
+  "en": "\"Really?{w}Ufufu, thanks!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, um, it's a little survey...\nI won't get mad, so answer me honestly, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What d'you think? Am I pretty?",
+  "kind": "data",
+  "note": "31 chars, a prompt; full form 'What do you think of me? Am I pretty?' if room allows. | ACC: subject/verb restored ('Am I pretty?' for kirei?); 30 chars, fits the ~30 prompt limit; 'of me' carried by the question."
+ },
+ {
+  "en": "\"Why...{w}Whyyyyyy?!!{w}At least say I'm pretty, even if it's just flattery!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hgyah?!{w}I-it... hurts...\"{w}{p}\"I... get how you feel... loud and clear.{w}But there's something I want you to hear... please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahh... I'm so happy...~\"",
+  "kind": "msg",
+  "note": "Source has no {w}; none added."
+ },
+ {
+  "en": "\"Um... so, you see...{w}Actually, I have a favor to ask...{w}Do you know the flower called Rolfan?\"{w}{p}\"That flower smells so nice, doesn't it?{w}I thought I'd like to try wearing one,\nso I went looking for it in the southeast of the forest.\"{w}{p}\"And I found a spot on the little island in the middle\nof the lake where it looks like it grows, but I just\ncouldn't get across, and I was stuck.\"{w}{p}\"Hey, since you happened to be passing by,\ncouldn't you go get it for me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Fetch me a Rolfan? Okay~?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Why...{w}Whyyyyyy?!!{w}I asked you so cutely and everythiiing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hgyah?!{w}I-it... hurts...\"{w}{p}\"I... get how you feel... loud and clear.{w}But there's nobody else I can ask... please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone takes one look at me\nand runs away scared...{w}So, that settles it~\"{w}",
+  "kind": "msg",
+  "note": "tte koto de = 'so, that settles it'; leads into her thanks. | ACC: 'tte koto de' = she declares the matter settled (leads into her thanks in 3010), not resignation."
+ },
+ {
+  "en": "\"Yaaaay~{w}Thank you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is my secret nest, so when you leave,\nsearch the southwest wall\nand find the hidden passage, okay?\"{w}{p}\"I'm counting on you for that Rolfan~!\"{w}",
+  "kind": "msg",
+  "note": "Second page matches slice 036 row 3015."
+ },
+ {
+  "en": "Taranti set you free, all smiles.{w}",
+  "kind": "msg"
+ }
+]

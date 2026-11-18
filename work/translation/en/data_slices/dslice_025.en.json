@@ -1,0 +1,240 @@
+[
+ {
+  "en": "[All] Status Recovery Rate Up ",
+  "max": null,
+  "note": "Elm3 EBOOT has this exact label (eb@08972034); padded to 30 like the neighbours."
+ },
+ {
+  "en": "[All] No Gender Limit         ",
+  "max": null,
+  "note": "Matches ITEM.CSV header 'No Gender Limit' and neighbours 'No Alignment/Race Limit'; padded to 30."
+ },
+ {
+  "en": "Bistel",
+  "max": null
+ },
+ {
+  "en": "Isfald",
+  "max": null
+ },
+ {
+  "en": "Port Saimar",
+  "max": null
+ },
+ {
+  "en": "Gandra Mine",
+  "max": null
+ },
+ {
+  "en": "Jera's General Store",
+  "max": null,
+  "note": "Glossary spelling Jera (HELP_TEXT.CSV:93:9 has 'Jela' - fix there)."
+ },
+ {
+  "en": "Semnadoc",
+  "max": null,
+  "note": "Holy city (glossary place entry)."
+ },
+ {
+  "en": "In a Dream",
+  "max": null,
+  "note": "Area name written in childlike hiragana ('inside the dream'); dungeon between Moonlight Falls and Reiblair in the list, likely Lukoje's dream area."
+ },
+ {
+  "en": "Not Set",
+  "max": null,
+  "note": "Fallback area label when no name is assigned."
+ },
+ {
+  "en": "Lukoje's Hall",
+  "max": null,
+  "note": "Follows the 'X Hall' convention of the Contrachio halls (TREASURE.CSV, slice 017)."
+ },
+ {
+  "en": "The Promised Land",
+  "max": null
+ },
+ {
+  "en": "Dream Border Realm",
+  "max": null,
+  "note": "New term: kyou-mu-kai = border + dream + realm. Also MONAPP.CSV:209-212 (unused cells)."
+ },
+ {
+  "en": "Problem with install data. Please reinstall.",
+  "max": null,
+  "note": "Wording of the Elm3 sibling message (eb@089742a0), whose second line is absent here."
+ },
+ {
+  "en": "This image can be\nimported.",
+  "max": null,
+  "note": "Face Load import check; line breaks kept for the small box (~22 chars/line)."
+ },
+ {
+  "en": "Not a 256-color image.\nIf imported as is, it\nwill be auto-converted\nto the colors above.",
+  "max": null,
+  "note": "Four lines as in the source, each <= 22 chars."
+ },
+ {
+  "en": "The image is not\n48x48 pixels.",
+  "max": null,
+  "note": "dotto = pixels."
+ },
+ {
+  "en": "                         Elminage II",
+  "max": null,
+  "note": "Centred around column 30 like 'Production Staff' and '~ Fin ~'."
+ },
+ {
+  "en": "          ~ Twin Goddesses and the Land of Destiny ~",
+  "max": null,
+  "note": "Subtitle (Sousei no Megami to Unmei no Daichi); no established English title found. Centred around column 31."
+ },
+ {
+  "en": "                    Director    Komiyama Daisuke",
+  "max": null,
+  "note": "Layout as Elm3 credits: role right-aligned to col 28, 4 spaces, name at col 32. Name order kept as in the source (family name first), per brief; eb@08965004 / eb@089653b0 (prefilled from Elm3) use Western order - align the roll one way."
+ },
+ {
+  "en": "                    Planning    Komiyama Daisuke",
+  "max": null
+ },
+ {
+  "en": "                                Sogawa Junichi",
+  "max": null,
+  "note": "Continuation name at col 32 (source indents 14 full-width; English names all aligned at 32 like the prefilled rows). Reading from Elm3 credits."
+ },
+ {
+  "en": "                 Game Design    Komiyama Daisuke",
+  "max": null
+ },
+ {
+  "en": "                    Scenario    Komiyama Daisuke",
+  "max": null
+ },
+ {
+  "en": "                 Programming    Opera House Inc.",
+  "max": null,
+  "note": "Company name as in Elm3 credits."
+ },
+ {
+  "en": "                                Fujiwara Hiroyuki",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                                Ichinoseki Makoto",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                      Script    Komiyama Daisuke",
+  "max": null
+ },
+ {
+  "en": "                 2D Graphics    Ueno Joko",
+  "max": null,
+  "note": "Given name reading unverified (could be another reading); check an official source."
+ },
+ {
+  "en": "                                Onodera Satomi",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                                Koriyama Sachiko",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                                Higashisakihara Tatsuya",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                 3D Graphics    Matsuo Yohei",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                                Hiyama Tomoyuki",
+  "max": null,
+  "note": "Given name reading unverified (Asayuki also possible)."
+ },
+ {
+  "en": "               Opening Movie    Magota Shingo",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                 Main Visual",
+  "max": null,
+  "note": "Role heading with no name, as in Elm3 ('Main Visual' / 'Monster & ... name' / 'Item Design')."
+ },
+ {
+  "en": "                   Monster &    Miyauchi Ken",
+  "max": null,
+  "note": "Role reads 'Monster & Item Design' across this row and the next (Elm3 layout). Reading from Elm3."
+ },
+ {
+  "en": "                 Item Design",
+  "max": null,
+  "note": "Second half of 'Monster & Item Design'."
+ },
+ {
+  "en": "            Sound Production    Basiscape",
+  "max": null,
+  "note": "Studio's own romanization."
+ },
+ {
+  "en": "              Elminage Theme    Sakimoto Hitoshi",
+  "max": null
+ },
+ {
+  "en": "                    Composer    Iwata Masaharu",
+  "max": null
+ },
+ {
+  "en": "                                Kaneda Mitsuhiro",
+  "max": null
+ },
+ {
+  "en": "                                Abe Kimihiro",
+  "max": null
+ },
+ {
+  "en": "                                Kamikura Noriyuki",
+  "max": null
+ },
+ {
+  "en": "                                Chiba Azusa",
+  "max": null
+ },
+ {
+  "en": "               Sound Effects    Nakagoshi Kentaro",
+  "max": null,
+  "note": "Reading assumed (standard)."
+ },
+ {
+  "en": "                                Kaneko Masaaki",
+  "max": null,
+  "note": "Given name reading unverified (Masaaki assumed)."
+ },
+ {
+  "en": "            Sound Management    Ito Miki",
+  "max": null
+ },
+ {
+  "en": "                   Publicity    Kogo Takahiro",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                                Kunihara Hiroshi",
+  "max": null,
+  "note": "Reading from Elm3 credits."
+ },
+ {
+  "en": "                    Producer    Komiyama Daisuke",
+  "max": null
+ }
+]

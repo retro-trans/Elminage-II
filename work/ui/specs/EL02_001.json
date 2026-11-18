@@ -1,0 +1,2917 @@
+{
+ "gim": "ANIME/EL02_001.GIM",
+ "note": "Town facility + facility-action buttons (Bistel). 23 rows x 3 states (selected/normal/disabled), button 114x18 at (114*state, 20*row) in the original; widened to 130 px (see widen). Row 11 (Smithing) = reference: its text (x16-47, rows 0-15) is blitted over with the same row's plain body 44 px to the right; every other row gets x16-110 (x15 in the selected state, which carries a faint red text glow there), rows 0-15, blitted from it. Rows 16-19 (bottom border, selected-state glow) untouched. Text: 16px font, ink from x+17 (Berte's Tavern x+16), at most 92 px (ink ends <= x+108). Squeezed labels are drawn as 8 outline-coloured offset copies + ink, because squeeze renders a single flat colour.",
+ "erase": [
+  [
+   15,
+   220,
+   48,
+   236,
+   "blit:59,220"
+  ],
+  [
+   130,
+   220,
+   162,
+   236,
+   "blit:174,220"
+  ],
+  [
+   244,
+   220,
+   276,
+   236,
+   "blit:288,220"
+  ],
+  [
+   15,
+   0,
+   111,
+   16,
+   "blit:15,220"
+  ],
+  [
+   15,
+   20,
+   111,
+   36,
+   "blit:15,220"
+  ],
+  [
+   15,
+   40,
+   111,
+   56,
+   "blit:15,220"
+  ],
+  [
+   15,
+   60,
+   111,
+   76,
+   "blit:15,220"
+  ],
+  [
+   15,
+   80,
+   111,
+   96,
+   "blit:15,220"
+  ],
+  [
+   15,
+   100,
+   111,
+   116,
+   "blit:15,220"
+  ],
+  [
+   15,
+   120,
+   111,
+   136,
+   "blit:15,220"
+  ],
+  [
+   15,
+   140,
+   111,
+   156,
+   "blit:15,220"
+  ],
+  [
+   15,
+   160,
+   111,
+   176,
+   "blit:15,220"
+  ],
+  [
+   15,
+   180,
+   111,
+   196,
+   "blit:15,220"
+  ],
+  [
+   15,
+   200,
+   111,
+   216,
+   "blit:15,220"
+  ],
+  [
+   15,
+   240,
+   111,
+   256,
+   "blit:15,220"
+  ],
+  [
+   15,
+   260,
+   111,
+   276,
+   "blit:15,220"
+  ],
+  [
+   15,
+   280,
+   111,
+   296,
+   "blit:15,220"
+  ],
+  [
+   15,
+   300,
+   111,
+   316,
+   "blit:15,220"
+  ],
+  [
+   15,
+   320,
+   111,
+   336,
+   "blit:15,220"
+  ],
+  [
+   15,
+   340,
+   111,
+   356,
+   "blit:15,220"
+  ],
+  [
+   15,
+   360,
+   111,
+   376,
+   "blit:15,220"
+  ],
+  [
+   15,
+   380,
+   111,
+   396,
+   "blit:15,220"
+  ],
+  [
+   15,
+   400,
+   111,
+   416,
+   "blit:15,220"
+  ],
+  [
+   15,
+   420,
+   111,
+   436,
+   "blit:15,220"
+  ],
+  [
+   15,
+   440,
+   111,
+   456,
+   "blit:15,220"
+  ],
+  [
+   130,
+   0,
+   225,
+   16,
+   "blit:130,220"
+  ],
+  [
+   130,
+   20,
+   225,
+   36,
+   "blit:130,220"
+  ],
+  [
+   130,
+   40,
+   225,
+   56,
+   "blit:130,220"
+  ],
+  [
+   130,
+   60,
+   225,
+   76,
+   "blit:130,220"
+  ],
+  [
+   130,
+   80,
+   225,
+   96,
+   "blit:130,220"
+  ],
+  [
+   130,
+   100,
+   225,
+   116,
+   "blit:130,220"
+  ],
+  [
+   130,
+   120,
+   225,
+   136,
+   "blit:130,220"
+  ],
+  [
+   130,
+   140,
+   225,
+   156,
+   "blit:130,220"
+  ],
+  [
+   130,
+   160,
+   225,
+   176,
+   "blit:130,220"
+  ],
+  [
+   130,
+   180,
+   225,
+   196,
+   "blit:130,220"
+  ],
+  [
+   130,
+   200,
+   225,
+   216,
+   "blit:130,220"
+  ],
+  [
+   130,
+   240,
+   225,
+   256,
+   "blit:130,220"
+  ],
+  [
+   130,
+   260,
+   225,
+   276,
+   "blit:130,220"
+  ],
+  [
+   130,
+   280,
+   225,
+   296,
+   "blit:130,220"
+  ],
+  [
+   130,
+   300,
+   225,
+   316,
+   "blit:130,220"
+  ],
+  [
+   130,
+   320,
+   225,
+   336,
+   "blit:130,220"
+  ],
+  [
+   130,
+   340,
+   225,
+   356,
+   "blit:130,220"
+  ],
+  [
+   130,
+   360,
+   225,
+   376,
+   "blit:130,220"
+  ],
+  [
+   130,
+   380,
+   225,
+   396,
+   "blit:130,220"
+  ],
+  [
+   130,
+   400,
+   225,
+   416,
+   "blit:130,220"
+  ],
+  [
+   130,
+   420,
+   225,
+   436,
+   "blit:130,220"
+  ],
+  [
+   130,
+   440,
+   225,
+   456,
+   "blit:130,220"
+  ],
+  [
+   244,
+   0,
+   339,
+   16,
+   "blit:244,220"
+  ],
+  [
+   244,
+   20,
+   339,
+   36,
+   "blit:244,220"
+  ],
+  [
+   244,
+   40,
+   339,
+   56,
+   "blit:244,220"
+  ],
+  [
+   244,
+   60,
+   339,
+   76,
+   "blit:244,220"
+  ],
+  [
+   244,
+   80,
+   339,
+   96,
+   "blit:244,220"
+  ],
+  [
+   244,
+   100,
+   339,
+   116,
+   "blit:244,220"
+  ],
+  [
+   244,
+   120,
+   339,
+   136,
+   "blit:244,220"
+  ],
+  [
+   244,
+   140,
+   339,
+   156,
+   "blit:244,220"
+  ],
+  [
+   244,
+   160,
+   339,
+   176,
+   "blit:244,220"
+  ],
+  [
+   244,
+   180,
+   339,
+   196,
+   "blit:244,220"
+  ],
+  [
+   244,
+   200,
+   339,
+   216,
+   "blit:244,220"
+  ],
+  [
+   244,
+   240,
+   339,
+   256,
+   "blit:244,220"
+  ],
+  [
+   244,
+   260,
+   339,
+   276,
+   "blit:244,220"
+  ],
+  [
+   244,
+   280,
+   339,
+   296,
+   "blit:244,220"
+  ],
+  [
+   244,
+   300,
+   339,
+   316,
+   "blit:244,220"
+  ],
+  [
+   244,
+   320,
+   339,
+   336,
+   "blit:244,220"
+  ],
+  [
+   244,
+   340,
+   339,
+   356,
+   "blit:244,220"
+  ],
+  [
+   244,
+   360,
+   339,
+   376,
+   "blit:244,220"
+  ],
+  [
+   244,
+   380,
+   339,
+   396,
+   "blit:244,220"
+  ],
+  [
+   244,
+   400,
+   339,
+   416,
+   "blit:244,220"
+  ],
+  [
+   244,
+   420,
+   339,
+   436,
+   "blit:244,220"
+  ],
+  [
+   244,
+   440,
+   339,
+   456,
+   "blit:244,220"
+  ]
+ ],
+ "labels": [
+  {
+   "jp": "ベルテの酒場",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    0,
+    109,
+    16
+   ],
+   "en": "Berte's Tavern",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "ベルテの酒場",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    0,
+    109,
+    16
+   ],
+   "en": "Berte's Tavern",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "ベルテの酒場",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    0,
+    109,
+    16
+   ],
+   "en": "Berte's Tavern",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "ロゼッタの宿屋",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    20,
+    109,
+    16
+   ],
+   "en": "Rosetta's Inn",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "ロゼッタの宿屋",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    20,
+    109,
+    16
+   ],
+   "en": "Rosetta's Inn",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "ロゼッタの宿屋",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    20,
+    109,
+    16
+   ],
+   "en": "Rosetta's Inn",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "カーネル商店",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    40,
+    109,
+    16
+   ],
+   "en": "Kernel Shop",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "カーネル商店",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    40,
+    109,
+    16
+   ],
+   "en": "Kernel Shop",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "カーネル商店",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    40,
+    109,
+    16
+   ],
+   "en": "Kernel Shop",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "オルセス寺院",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    60,
+    109,
+    16
+   ],
+   "en": "Temple of Orses",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "オルセス寺院",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    60,
+    109,
+    16
+   ],
+   "en": "Temple of Orses",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "オルセス寺院",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    60,
+    109,
+    16
+   ],
+   "en": "Temple of Orses",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "ビステール城",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    80,
+    109,
+    16
+   ],
+   "en": "Bistel Castle",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "ビステール城",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    80,
+    109,
+    16
+   ],
+   "en": "Bistel Castle",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "ビステール城",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    80,
+    109,
+    16
+   ],
+   "en": "Bistel Castle",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "訓練所",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    100,
+    109,
+    16
+   ],
+   "en": "Training Hall",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "訓練所",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    100,
+    109,
+    16
+   ],
+   "en": "Training Hall",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "訓練所",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    100,
+    109,
+    16
+   ],
+   "en": "Training Hall",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "仲間を呼ぶ",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    120,
+    109,
+    16
+   ],
+   "en": "Call Companions",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "仲間を呼ぶ",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    120,
+    109,
+    16
+   ],
+   "en": "Call Companions",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "仲間を呼ぶ",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    120,
+    109,
+    16
+   ],
+   "en": "Call Companions",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "待機する",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    140,
+    109,
+    16
+   ],
+   "en": "Stand By",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "待機する",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    140,
+    109,
+    16
+   ],
+   "en": "Stand By",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "待機する",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    140,
+    109,
+    16
+   ],
+   "en": "Stand By",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "宿泊する",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    160,
+    109,
+    16
+   ],
+   "en": "Stay",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "宿泊する",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    160,
+    109,
+    16
+   ],
+   "en": "Stay",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "宿泊する",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    160,
+    109,
+    16
+   ],
+   "en": "Stay",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "全員で宿泊する",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    180,
+    109,
+    16
+   ],
+   "en": "Stay (All)",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "全員で宿泊する",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    180,
+    109,
+    16
+   ],
+   "en": "Stay (All)",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "全員で宿泊する",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    180,
+    109,
+    16
+   ],
+   "en": "Stay (All)",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "錬金倉庫",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    200,
+    109,
+    16
+   ],
+   "en": "Alchemy Storage",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "錬金倉庫",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    200,
+    109,
+    16
+   ],
+   "en": "Alchemy Storage",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "錬金倉庫",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    200,
+    109,
+    16
+   ],
+   "en": "Alchemy Storage",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "鍛冶",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    220,
+    109,
+    16
+   ],
+   "en": "Smithing",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "鍛冶",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    220,
+    109,
+    16
+   ],
+   "en": "Smithing",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "鍛冶",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    220,
+    109,
+    16
+   ],
+   "en": "Smithing",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "錬金",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    240,
+    109,
+    16
+   ],
+   "en": "Alchemy",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "錬金",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    240,
+    109,
+    16
+   ],
+   "en": "Alchemy",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "錬金",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    240,
+    109,
+    16
+   ],
+   "en": "Alchemy",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "分解",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    260,
+    109,
+    16
+   ],
+   "en": "Dismantle",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "分解",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    260,
+    109,
+    16
+   ],
+   "en": "Dismantle",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "分解",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    260,
+    109,
+    16
+   ],
+   "en": "Dismantle",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "倉庫に預ける",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    280,
+    109,
+    16
+   ],
+   "en": "Deposit",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "倉庫に預ける",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    280,
+    109,
+    16
+   ],
+   "en": "Deposit",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "倉庫に預ける",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    280,
+    109,
+    16
+   ],
+   "en": "Deposit",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "倉庫から出す",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    300,
+    109,
+    16
+   ],
+   "en": "Withdraw",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "倉庫から出す",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    300,
+    109,
+    16
+   ],
+   "en": "Withdraw",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "倉庫から出す",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    300,
+    109,
+    16
+   ],
+   "en": "Withdraw",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "買い物をする",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    320,
+    109,
+    16
+   ],
+   "en": "Shop",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "買い物をする",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    320,
+    109,
+    16
+   ],
+   "en": "Shop",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "買い物をする",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    320,
+    109,
+    16
+   ],
+   "en": "Shop",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "鑑定してもらう",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    340,
+    109,
+    16
+   ],
+   "en": "Appraise",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "鑑定してもらう",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    340,
+    109,
+    16
+   ],
+   "en": "Appraise",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "鑑定してもらう",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    340,
+    109,
+    16
+   ],
+   "en": "Appraise",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "まとめて売る",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    360,
+    109,
+    16
+   ],
+   "en": "Sell in Bulk",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "まとめて売る",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    360,
+    109,
+    16
+   ],
+   "en": "Sell in Bulk",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "まとめて売る",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    360,
+    109,
+    16
+   ],
+   "en": "Sell in Bulk",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "解呪・修理",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    380,
+    109,
+    16
+   ],
+   "en": "Uncurse/Repair",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "解呪・修理",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    380,
+    109,
+    16
+   ],
+   "en": "Uncurse/Repair",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "解呪・修理",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    380,
+    109,
+    16
+   ],
+   "en": "Uncurse/Repair",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "治療・回収",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    400,
+    109,
+    16
+   ],
+   "en": "Treat/Retrieve",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "治療・回収",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    400,
+    109,
+    16
+   ],
+   "en": "Treat/Retrieve",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "治療・回収",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    400,
+    109,
+    16
+   ],
+   "en": "Treat/Retrieve",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "治療する",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    420,
+    109,
+    16
+   ],
+   "en": "Treat",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "治療する",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    420,
+    109,
+    16
+   ],
+   "en": "Treat",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "治療する",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    420,
+    109,
+    16
+   ],
+   "en": "Treat",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  },
+  {
+   "jp": "引き取る",
+   "state": "selected",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    15,
+    440,
+    109,
+    16
+   ],
+   "en": "Take Back",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    126,
+    31,
+    21
+   ]
+  },
+  {
+   "jp": "引き取る",
+   "state": "normal",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    145,
+    440,
+    109,
+    16
+   ],
+   "en": "Take Back",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    252,
+    222,
+    184
+   ],
+   "outline": [
+    30,
+    22,
+    15
+   ]
+  },
+  {
+   "jp": "引き取る",
+   "state": "disabled",
+   "align": "left",
+   "dy": 0,
+   "rect": [
+    275,
+    440,
+    109,
+    16
+   ],
+   "en": "Take Back",
+   "inset": 4,
+   "fonts": [
+    [
+     "16",
+     1
+    ],
+    [
+     "16",
+     0
+    ]
+   ],
+   "squeeze": true,
+   "color": [
+    102,
+    102,
+    102
+   ],
+   "outline": [
+    39,
+    32,
+    26
+   ]
+  }
+ ],
+ "widen": {
+  "cell": [
+   114,
+   20
+  ],
+  "states": 3,
+  "rows": 23,
+  "new_w": 130,
+  "insert_at": 60,
+  "note": "buttons widened 114 -> 130 px (16 px of plain body inserted at x+60); MD02_004.ANM records follow (tools/anm.py)"
+ }
+}

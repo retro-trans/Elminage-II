@@ -1,0 +1,357 @@
+[
+ {
+  "en": "\"I have no intention of killing you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I know that already, dammit!!{w}I'm asking why it's bitter melon from top to bottom! Well?! HUH?!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We do not have any cooking utensils.{w}When I tried making a new dish, they all broke.\"{w}{p}\"And with the utensils I had left, this was all I could make.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Tris speaks without contractions (voice of slice_024)."
+ },
+ {
+  "en": "\"This is a mining town, isn't it?! Then get somebody to make them for you!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: source is an imperative to Tris; made a direct order."
+ },
+ {
+  "en": "\"Everyone is busy with their work.{w}So I asked the adventurers over there to go to the Scorching Castle.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'those adventurers there' -> 'the adventurers over there' (flow)."
+ },
+ {
+  "en": "\"Tch, what kind of answer is that? ...Fine, whatever.{w}You there, sorry, but please take on the request. Whenever you have time is fine. My apologies.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way~{w}if the utensils do not come in time, the next meal will be a full course of bitter melon again~\"{w}",
+  "kind": "msg",
+  "note": "Elongation marks rendered as '~'. Editorial: Tris speaks without contractions (voice of slice_024). Missing article restored; 'too' -> 'again' (next meal as well)."
+ },
+ {
+  "en": "\"Hey, you! What are you standing around gawking for?!!{w}Go now! Go right now! Go on the double!!{w}Hurry up, you dawdler! Slowpoooke!!\"{w}",
+  "kind": "msg",
+  "note": "Tarmeet switches to rude singular omae for the party; kept as 'you' with singular insults as in the source. Editorial: 'Go at a dead run' -> 'Go on the double' (spoken)."
+ },
+ {
+  "en": "\"You brought them. That is amazing!{w}These look like they can stand up to any kind of cooking!{w}Thank you very much!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Tris speaks without contractions (voice of slice_024). 'With these, I think they' had an unclear 'they'."
+ },
+ {
+  "en": "\"Well done, adventurers!\nNow I'm free of bitter melon!!{w}This is my thanks. Take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, I will make even more delicious food for everyone!!{w}...Like marinated bitter melon~\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Tris speaks without contractions (voice of slice_024)."
+ },
+ {
+  "en": "\"Okay, line up, line up. I would like you to line up.{w}No cutting in line.\"{w}{p}\"Hello, everyone.{w}Tris has been in top form ever since.\"{w}",
+  "kind": "msg",
+  "note": "Tris refers to itself by name here; kept third person. Editorial: page 1 has the same Japanese as slice_024 5422 page 1; English aligned to it (lead note)."
+ },
+ {
+  "en": "Tarmeet's Voice",
+  "kind": "name",
+  "note": "Pattern of the glossary entry 'Jera's Voice'."
+ },
+ {
+  "en": "\"GYAAAAAHHH!?\nBitter melon on my plate AGAAAIN!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You thought you heard someone scream...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tris's delicious meals~\nWould you all like to have a taste too?\"{w}",
+  "kind": "msg",
+  "note": "Music note -> '~'."
+ },
+ {
+  "en": "Who will you talk to?",
+  "kind": "data",
+  "note": "Choice prompt: Jera or Jeratan."
+ },
+ {
+  "en": "Jera",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome!{w}Oh, how unusual! You're not from Gandra, are you?{w}I'm Jera. Where are you all from?\"{w}{p}\"...Uh-huh, uh-huh.{w}The Decree from Bistel?\nWow, so there are still adventurers taking it on!\"{w}{p}\"Oh, I don't mean that in a weird way.\nSorry, sorry. It must be tough for you.\"{w}{p}\"If you like, take a rest in my shop.\nI can at least make you some tea~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jeratan wantth to be introduthed too!\"{w}",
+  "kind": "msg",
+  "note": "Jeratan's babyish lisp (deshu/kudashai) rendered with a light s->th lisp on a few words per line."
+ },
+ {
+  "en": "\"Oh, sorry, sorry!{w}That's Jeratan, hanging on the wall over there!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jeratan",
+  "kind": "name"
+ },
+ {
+  "en": "\"I'm Jeratan.{w}Pleathe play with me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jeratan is a magic puppet that Tarmeet made, using me as the model.\"{w}{p}\"If you give Jeratan sweets and win at rock-paper-scissors, you'll get rare Tarot cards handed down in a land far to the east.\"{w}{p}\"The more precious the sweets, the better the Tarot you get, so play with Jeratan if you like!\"{w}",
+  "kind": "msg",
+  "note": "Jeratan's gender unknown: no pronouns, name repeated. Editorial: clumsy apposition reordered (first sentence only)."
+ },
+ {
+  "en": "\"Eastern culture is so elegant, don't you think?{w}I got totally hooked on it and even redid the shop's interior!\"{w}{p}\"Lately I've been looking for even rarer things, so I've been getting on good terms with Saimar too.{w}A port town really does get a different flow of goods!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way, you guys...\"{w}{p}\"What do you think when you look at me?{w}Is there anything strange about me?{w}...Ah, besides the Eastern clothes. Like... overall?\"{w}",
+  "kind": "msg",
+  "note": "wasou (Japanese-style dress) -> 'the Eastern clothes', matching the game's 'East' = Japan analogue."
+ },
+ {
+  "en": "Does anything seem off?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Aww... And I'm trying so hard...\"{w}{p}\"So which part looks weird?{w}Here? Or here? Maybe over here...?{w}Don't just stay quiet, tell me... You're so mean.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really?{w}Eee, I'm happy even if it's just flattery!\"{w}{p}\"Huh? What am I talking about?{w}Geez! Don't ask such tactless questions.{w}Hee hee~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I think I've collected a fair number of things from the East, but...\"{w}{p}\"They're kind of meh. There's nothing that makes me go 'This is it!'{w}You know, real treasures, or a master-forged blade.\"{w}{p}\"You're adventurers, right?{w}If you don't mind, could you go find the items written here for me?\"{w}",
+  "kind": "msg",
+  "note": "gyoumono = blade by a master smith."
+ },
+ {
+  "en": "The note you were handed listed the names of four items:\n'Hundred Bamboo Edge', 'Chihaya Benizakura', 'Yasha Princess', 'Mikaboshi'{w}",
+  "kind": "msg",
+  "note": "Item names follow the glossary (Elminage III spellings: Hundred Bamboo Edge, Chihaya Benizakura, Yasha Princess, Mikaboshi). Accuracy: replaced stale note that said they were romanized; en unchanged."
+ },
+ {
+  "en": "\"I don't expect a top-grade katana or anything, obviously, but something like the Chihaya should be fairly easy to get hold of, and, well, I'd kind of like to try wearing it, you know?\"{w}",
+  "kind": "msg",
+  "note": "'Chihaya' = short for Chihaya Benizakura (a chihaya is a robe-like garment)."
+ },
+ {
+  "en": "\"Please!{w}If you gather them all, I'll throw in some sweet buns on the house at least! Okay?\"{w}",
+  "kind": "msg",
+  "note": "amashoku (a sweet bun sold in Jera's shop, see slice_026 5667) -> 'sweet buns'; replace if an item-list name exists."
+ },
+ {
+  "en": "\"Thanks for all your hard work. Won't you stay for some tea?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That katana... could it be...{w}the Hundred Bamboo Edge?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That robe... could it be...{w}the Chihaya Benizakura?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That spear... could it be...{w}the Yasha Princess?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That katana... could it be...{w}the Mikaboshi?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Amazing... You got every single one...!{w}I can't believe it... Ahh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jera gazes at the items you gathered, letting out a soft sigh.{w}She looks very happy.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"For someone like me...{w}What do I do, I'm so happy...!{w}This is the first time anyone's done so much for me...\"{w}{p}\"Since you worked this hard for me, I have to thank you properly.{w}What should I do...\"{w}{p}\"I know! I feel like I'd come across even rarer treasures if I stuck with you guys, so I'll register as an adventurer too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll sign up at the Training Hall in Bistel, so don't be shy about calling on me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E} *  Jera has registered at the Training Hall  * {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That... is it for me?\"{w}",
+  "kind": "msg",
+  "note": "Which item is offered is not shown in the script (likely one of the four, after recruitment)."
+ },
+ {
+  "en": "Give it to her?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Really? Thank you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-right, of course! ...Sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Later, after I close up shop...\nwant me to show you how I look in the Chihaya Benizakura?{w}Ufufu.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: hiragana ufufu = 'Ufufu' (review_notes convention)."
+ },
+ {
+  "en": "\"Do you know the story of the Yasha Princess?\"{w}",
+  "kind": "msg",
+  "note": "Here Yasha-hime is the legend's figure the spear is named after; glossary spelling kept. Editorial: article added, as in 5567."
+ },
+ {
+  "en": "\"They say the Yasha Princess suffered from a one-sided love, and in the end burned up together with the one she loved in the flames of her passion, until they were both ash.\"{w}{p}\"It's sad, but it's a lovely story, isn't it?{w}A great love you'd stake your life on... I can't help longing for that...\"{w}",
+  "kind": "msg",
+  "note": "hime = princess, so 'she'; the beloved's gender unstated -> 'the one she loved'. Editorial: article added, as in 5567/5588."
+ },
+ {
+  "en": "\"Maybe I should become a yasha too?{w}Hee hee...\"{w}",
+  "kind": "msg",
+  "note": "yasha = demon (yaksha); lower-case common noun echoing the name."
+ },
+ {
+  "en": "\"Later, after I close up shop...\nwill you come see me in the Chihaya Benizakura?\"{w}{p}\"You went to the trouble of getting it for me, so I want to look cute in it. Okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jeratan, I'm home!{w}Were you a good kid while I was away?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jeratan ith alwayth a good kid!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course you are!{w}Here, I brought you a souvenir!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha--!?{w}What'th that thweet?!{w}I've never theen one before!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's been a while, so let's eat it together!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ith that the thweet you thaid you wanted to find on thith trip --\nthe thweetheart tart?!\"{w}",
+  "kind": "msg",
+  "note": "PUN ADAPTED: source rabu-ro-manjuu = Jeratan mishearing 'love romance' (rabu romansu) as a manju bun. Rendered as 'sweetheart' misheard as 'sweetheart tart'. Literal fallback: 'love-romance bun'. Same choice in 5608-5624. Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped."
+ },
+ {
+  "en": "\"Pfft!? A-a sweetheart... tart!?{w}Jeratan, don't spring that on me out of nowhere!{w}This isn't that! Ahahaha!\"{w}",
+  "kind": "msg",
+  "note": "See 5606 pun note."
+ },
+ {
+  "en": "\"Mmh?{w}Did I thay thomething weird?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You didn't, you didn't, but...{w}Hehehe, t-tart...{w}Ahahaha! Hngh, bwahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "Jera repeats the bun part (manjuu) -> 'tart'."
+ },
+ {
+  "en": "\"Hmph! Jeratan wantth to eat a thweetheart tart too,\nthe kind that'th thweet, and thour, and a little bitter!\"{w}{p}\"Thtop laughing and go find one, pleathe!{w}Keeping it all to yourthelf ith not fair!!\"{w}",
+  "kind": "msg",
+  "note": "Addressed to Jera (she is the one laughing). Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped."
+ },
+ {
+  "en": "\"Ahahaha!\nS-sorry! Hehehe!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right,\nI'd like to find a sweetheart tart too.\"{w}",
+  "kind": "msg",
+  "note": "Double meaning (romance) kept as in source."
+ },
+ {
+  "en": "\"...I feel like I could find one\nif I were with you...{w}Or would I not be good enough?\"{w}",
+  "kind": "msg",
+  "note": "Jera switches to singular kimi: aimed at one party member (the 'you')."
+ },
+ {
+  "en": "\"Just kidding!\nHeh, I put you on the spot, didn't I? Sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"??? ...I don't really underthtand, but\nhurry up and find it, pleathe.{w}...The thweetheart tart~\"{w}",
+  "kind": "msg",
+  "note": "Music note -> '~'."
+ },
+ {
+  "en": "\"Pfft!! Hngh... hehehe!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! What'th tho funnyyy?!!\nHmph, hmph!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped. Row had no lisp although the source lisps (deshuka)."
+ },
+ {
+  "en": "\"I'll make thome tea!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jera",
+  "kind": "data"
+ },
+ {
+  "en": "Jeratan",
+  "kind": "data"
+ },
+ {
+  "en": "Talk to Jeratan",
+  "kind": "data"
+ },
+ {
+  "en": "Play with Jeratan",
+  "kind": "data"
+ },
+ {
+  "en": "\"You'll play with Jeratan?!\nYaaaay!!{w}Then firtht, give me a thweet, pleathe!\"{w}{p}\"If you give me thweetth Jeratan liketh,{w}your chanthe of getting a good Tarot when you win will be higher!!\"{w}",
+  "kind": "msg",
+  "note": "Mid-sentence {w} kept at the same cut. Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped."
+ },
+ {
+  "en": "\"Huh?! You won't play?{w}You won't even give me a thweet?!{w}Even though I made tea and everything?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thniff... Y-you're mean!!\nWaaaaah!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped. The source lisps the sniffle itself (gushu)."
+ },
+ {
+  "en": "\"Ooh!?{w}Wh-what ith that\nthwirly rolled-up thweet?!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped."
+ },
+ {
+  "en": "\"Chomp...\nMmmmm!! Thoooo yummyyy!!\"{w}{p}\"After you've done thith much for me,\nJeratan hath to pitch in too!{w}I'll give you the betht treatment ever!!\"{w}",
+  "kind": "msg",
+  "note": "'Best treatment' = Jeratan will offer a better prize (cf. slice_026 5655). Editorial: lead rule for Jeratan: th-lisp on common s-words; 'Jeratan' only where the source has jeratan, I/me where the subject is dropped."
+ },
+ {
+  "en": "\"Munch munch...{w}I've never eaten anything like thith!?{w}There really are yummy thweetth out there in the world!\"{w}",
+  "kind": "msg"
+ }
+]

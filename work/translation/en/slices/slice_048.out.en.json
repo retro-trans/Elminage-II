@@ -1,0 +1,353 @@
+[
+ {
+  "en": "\"Me, Wanelly...{w}I ain't about to abandon ship and run...{w}I told ya to bring the shot, didn't I!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: the captain naming themself (could also be read as 'this ship'); rendered as self-reference since the line goes on about abandoning ship."
+ },
+ {
+  "en": "Relics of this ship are drifting about.{w}",
+  "kind": "msg",
+  "note": "[JP] = belongings left by the dead; 'relics' used throughout the Wanelly quest."
+ },
+ {
+  "en": "Retrieve them?",
+  "kind": "data"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Wanelly's Anchor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you retrieved the last of the relics,{w}Captain Wanelly appeared!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot...{w}My shiiip...{w}What're you gonna do with my shiiip...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Unless these relics are brought back, Captain Wanelly will stay trapped at the bottom of the sea forever.{w}{p}You steeled yourselves.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed Captain Wanelly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My... shiiip...{w}My precious shiiip...{w}The memories... with my crew...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Captaaain...{w}It's 'bout time you passed on with us, eh...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: 'let's go (to death) together'; speaker is a dead crewman (revealed in the name box at 2775)."
+ },
+ {
+  "en": "\"Y... you... you're...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Captaaain...{w}We've come to fetch yaaa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait... I can't lose the ship...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wanelly Sailor",
+  "kind": "name"
+ },
+ {
+  "en": "\"Forget the ship...{w}We can always build another one, can't we...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let's all get together... and have a feast, eh...{w}Everybody's... just waitin' on you now, Captain...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see...{w}Everyone... passed on... safe and sound...{w}Then... I no longer...\"{w}",
+  "kind": "msg",
+  "note": "Trails off; continued in 2782."
+ },
+ {
+  "en": "\"This ship... the place everyone comes home to...{w}I don't have to... guard it anymore...{w}I don't have to guard it... all by myself...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm sorry...{w}I'm so sorry... Wanelly...{w}After you looked after me all this time...\"{w}",
+  "kind": "msg",
+  "note": "[JP] here = the ship, which the captain is addressing (not themself)."
+ },
+ {
+  "en": "\"Thank you... for everything... all this time...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Captain Wanelly and the crew vanished into the light...{w}",
+  "kind": "msg",
+  "note": "[JP] = the captain and companions; the crew has been established in the scene."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Wanelly's Sail.{w}",
+  "kind": "msg",
+  "note": "New item name."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Wanelly's Prow.{w}",
+  "kind": "msg",
+  "note": "New item name; [JP] = bow/prow."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Wanelly's Helm.{w}",
+  "kind": "msg",
+  "note": "New item name; [JP] = rudder/helm."
+ },
+ {
+  "en": "Beyond the darkness was a giant jellyfish.{w}That is probably the master of the Narmant Trench.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jellyfish",
+  "kind": "name",
+  "note": "New name box."
+ },
+ {
+  "en": "\"Aaah... aaaah...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Has it lost its mind?{w}The moment it saw you,\nit attacked without warning!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed Shirinmorin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hah... hah...{w}Honestly, you... what a way to treat a lady...\"{w}{p}\"Well, thanks to that I've come to my senses,\nso I'll let it slide this time.\"{w}{p}\"...What?{w}You're asking why I'd lost my mind?\"{w}{p}\"It's the Holy Foundation, Contrachio.{w}That ominous presence flowing out of there...\"{w}{p}\"As one of the Four Sages, I ought to be protecting\nthe land from a presence like that.{w}And yet...\"{w}{p}\"I wonder why.{w}It felt so... nostalgic...{w}No, that word doesn't come close to what I felt.\"{w}{p}\"...Before I knew it, I had let it in.{w}We Four Sages are greater beings than you.{w}So its influence on us is stronger, too...\"{w}{p}\"If you're an adventurer, won't you go and find out\nwhat the presence at the Holy Foundation, Contrachio,\n'truly' is?\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'let it in' (accepted the presence). [JP] -> 'truly' in single quotes."
+ },
+ {
+  "en": "\"Peace is boring, but all this commotion\nis a bit much, too.{w}You there, do a trick or something to cheer me up.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = put me at ease / lighten the mood."
+ },
+ {
+  "en": "\"Oh, what is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You handed Radrecht's letter\nto Shirinmorin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "She tore it up and threw it away!!{w}",
+  "kind": "msg",
+  "note": "Subject is Shirinmorin (female per glossary)."
+ },
+ {
+  "en": "\"No doubt it says\n'Shirinmoriiin, sweetieee~'{w}or some such nonsense again.\"{w}{p}\"Honestly, in that sweltering getup, how does Radrecht\nhave the face to write love letters to the Water Sage?{w}...Well, with that face, I suppose.\"{w}{p}\"Don't worry about it.{w}It's been like this forever...\"{w}{p}\"...Forever?{w}Oh? Come to think of it, I...{w}Since when have I been here... and why...?\"{w}{p}\"How strange. I can't remember...{w}Ugh, how creepy...{w}It's all because Radrecht sent me that thing!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]♪ rendered 'sweetieee~'. [JP] / [JP] pun kept as 'have the face' / 'with that face'. Radrecht named instead of a pronoun (gender unknown). 'Forever' echoes [JP] across the two pages."
+ },
+ {
+  "en": "Something strange is lying on the sea floor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pick it up?",
+  "kind": "data"
+ },
+ {
+  "en": "Mizuchi",
+  "kind": "name"
+ },
+ {
+  "en": "\"Lady Shirinmorin's gone off the deep end lately.{w}She shut the doors and holed herself up inside.{w}What's gotten into her...\"{w}{p}\"I'm no good with dark places.{w}If only somebody would go press\nthe four switches for me...\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Lady Shirinmorin' (female per glossary, so the honorific convention allows Lady)."
+ },
+ {
+  "en": "\"Thank goodness,\nLady Shirinmorin's back to her senses...{w}It's thanks to you guys, right? Thanks.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lady Shirinmorin's gone.{w}Apparently she's off to protect someone precious to her.{w}It'll be lonely, but it can't be helped.\"{w}{p}\"From now on, we're the ones who'll\nliven up Narmant!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = someone precious; gender of that person not given, kept 'someone'."
+ },
+ {
+  "en": "\"What?! D-don't talk to me right now!{w}Huh? What am I doing?{w}Hm, hmph! Prepare to be amazed!\"{w}{p}\"I-I'm about to jump off from here!{w}With a lifeline, of course.{w}It's what they call a b-bungee jump!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Chief Retainer",
+  "kind": "name"
+ },
+ {
+  "en": "\"How odd, young lord.\nThe bungee rope and the cushion\nare nowhere to be found. Whatever shall we do?\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'young lord' throughout this scene (the Goblin Prince, male per glossary)."
+ },
+ {
+  "en": "\"Bungee's cancelled!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That will not do.{w}A bungee jump by the new king is\na tradition of Baroque Fort.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ogre Knight",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, Prince!{w}You can handle this much, can't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, some adventurers, just at the right moment.\"{w}{p}\"Would you all mind going to find the gear\nfor the bungee jump?{w}A bungee rope, and some sort of cushion, if you please...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, if there's no cushion, something\nlike a Zabutoon will do.\"{w}{p}\"As for the bungee rope, that alchemist freeloading\non the floor below probably knows something.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Zabutoon (glossary)."
+ },
+ {
+  "en": "\"If you search the whole castle, I'm sure you'll find them.{w}Still, what a strange thing to happen.{w}I prepared so carefully for today...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Chief Retainer and the Ogre Knight\npushed the chore onto you\nand went off somewhere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-hey! You don't have to\ntry that hard looking, okay?{w}Don't you go getting all fired up!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph! Even if they get them ready,\nI'll just throw them out as many times as it takes!{w}Bungee? Like I'd ever put up with...\"{w}{p}\"H-hey there!{w}How long have you been standing there?{w}Th-that's sneaky of you... ha ha ha!!\"{w}{p}\"...Please.{w}Don't go looking for them... I'm begging you!\"{w}",
+  "kind": "msg",
+  "note": "[JP]... interrupted; kept unfinished. [JP] = 'sneaky / not nice'. [JP] (bowing gesture) -> 'I'm begging you'."
+ },
+ {
+  "en": "\"Eeek!?{w}Th-those are the bungee goods!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, well.{w}You've gathered them for us.\nThank you very much.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you traitooors!!\"{w}",
+  "kind": "msg",
+  "note": "Aimed at the party, who brought the gear."
+ },
+ {
+  "en": "\"What're you talkin' about.{w}C'mon, hurry up and show us\nhow cool our new king is.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Normally, this ceremony is not open to the public.{w}However, since you all lent us a hand,\nplease do watch before you leave.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go home! I hate you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] aimed at the party: the retainer has just invited them to watch, and 2691 calls them benefactors."
+ },
+ {
+  "en": "\"One mustn't say such rash things to one's benefactors, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hurry up and get ready.{w}Want me to help you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you idiot!{w}Don't touch me! Stay away from me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then please be quick about it.{w}It's nothing: tie on the bungee rope and hop,\nand that's the end of it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'tie and hop' (the chant that follows)."
+ },
+ {
+  "en": "\"E-easy for you to say...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"C'mon, tie and hop! Tie and hop!!{w}Hup, hup, tie and hop! Tie and hop!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = festival chant call -> 'Hup, hup'."
+ },
+ {
+  "en": "As the Ogre Knight started clapping,\nthe goblins and ogres around gradually gathered,\nand before long the Prince was completely surrounded.{w}",
+  "kind": "msg",
+  "note": "[JP] (a perfect cordon around the Prince) -> 'completely surrounded'."
+ },
+ {
+  "en": "\"Eek, eeeek...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tie and hop, come on, tie and hop!{w}Adventurers, you join in too!{w}Here we go, tie and hop, hippity hop hop hop!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'hippity hop hop hop'."
+ },
+ {
+  "en": "Crowd's Voices",
+  "kind": "name",
+  "note": "New name box; follows the 'X's Voice' pattern."
+ },
+ {
+  "en": "Tie and hop, tie and hop, tie and hop,{w}tie-'n'-ho tie-'n'-ho tie-'n'-ho tie and hop{w}tie, tie, tie and hop hop hop hop...{w}",
+  "kind": "msg",
+  "note": "No quote brackets in the source; kept unquoted. [JP] (clipped) -> 'tie-'n'-ho'."
+ },
+ {
+  "en": "\"D-damn ittt!!{w}I'll do it, I'll do iiit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With a shout, the Goblin Prince snatched\nthe bungee rope and cushion from your hands,\nclutched them in both arms... and suddenly jumped!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Graaanniiieee\"{w}",
+  "kind": "msg",
+  "note": "No closing punctuation in the source; kept."
+ },
+ {
+  "en": "\"Heh, the young lord always was a granny's boy.{w}...Wait, what!? Y-young lord!!{w}The cushion has to be laid out below beforehand!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And the end of the bungee rope!!{w}You haven't tied it to anything yet, have you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I~~ to~~ tal~~ ly~~ forgot~~!?\"{w}",
+  "kind": "msg",
+  "note": "Drawn-out wa~su~re~te~ta; five stretched chunks kept with '~~'."
+ },
+ {
+  "en": "\"Gwahk!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = impact cry."
+ },
+ {
+  "en": "Ogre Below's Voice",
+  "kind": "name",
+  "note": "18 chars, over the ~16 guideline; shorter fallback 'Ogre Below'. Pairs with [JP] in slice 049."
+ }
+]

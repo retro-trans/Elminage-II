@@ -1,0 +1,361 @@
+[
+ {
+  "en": "Shiatsu Man",
+  "kind": "name",
+  "note": "[JP] = acupressure/pressure-point massage; [JP]/[JP] is in the title itself. New name."
+ },
+ {
+  "en": "\"Shiatsu massage, here.{w}One good hard press for that tired body.{w}Your shoulders and back will feel so much lighter. Heh heh heh.\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered as a sly 'Heh heh heh'. [editorial] 'Shiatsu' to match the name box (Shiatsu Man/Woman); 'Acupressure, here' was a stray mixed term."
+ },
+ {
+  "en": "Shiatsu Woman",
+  "kind": "name",
+  "note": "New name; 13 chars."
+ },
+ {
+  "en": "\"Come at me, all of you at once!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lots of customers lie collapsed at the pair's feet.{w}It might be wiser to leave this alone...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Service Vendor",
+  "kind": "name"
+ },
+ {
+  "en": "\"...Ufufu.{w}You're curious about this shop, aren't you?\"{w}{p}\"For 30,000 GP...{w}I'll give you some... service.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Get the service?",
+  "kind": "data"
+ },
+ {
+  "en": "\"My, you're already ogling, aren't you?{w}So who's going to pay me, hmm?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = leering/ogling."
+ },
+ {
+  "en": "\"Okay, thank you kindly.{w}Now, I'll turn off the lights...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Just relax...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......{w}.........?{w}...............!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}            *    Smooch    *            {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; in-game check."
+ },
+ {
+  "en": "\n{0E}    *    Smooch    Smooch    Smooch    *    {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; in-game check."
+ },
+ {
+  "en": "\n{0E}       *    Smoooooooch~    *       {0F}{w}",
+  "kind": "msg",
+  "note": "[JP]♪: [JP]♪ folded into one '~'. Centred banner; in-game check."
+ },
+ {
+  "en": "\"All done...{w}Did you like it?{w}Come again. I'll be waiting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, too bad. Come again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "?Service Vendor",
+  "kind": "name",
+  "note": "Glossary form."
+ },
+ {
+  "en": "\"We had so many customers today!\"{w}",
+  "kind": "msg",
+  "note": "Speaker is the hidden real 'service' provider; identity not stated, kept neutral."
+ },
+ {
+  "en": "\"I never thought there was such a fun job out there!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Told you so!{w}Now then, who's our next customer~?\"{w}",
+  "kind": "msg",
+  "note": "2963-2967 read as a two-person exchange; the speaker field shows only ?Service Vendor (intervening name rows are duplicates and not in the slice)."
+ },
+ {
+  "en": "Manju Seller",
+  "kind": "name"
+ },
+ {
+  "en": "\"This is Heerdahl, land of bliss!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you've come to Heerdahl...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can't leave till you've bought manju!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can't go home till you've eaten manju!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heer!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dahl!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Manju! Please and thank you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] as a sales-chant sign-off. [editorial] 'Thanks in advance' read like an email sign-off; chant-style yoroshiku, pairs with 2992 'Thanks for your business!!'."
+ },
+ {
+  "en": "\"Very good! Buy as many as you please!{w}980 GP apiece, I say!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (archaic copula) rendered as a pompous 'I say'."
+ },
+ {
+  "en": "\"Manju! Thanks for your business!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained a Heerdahl Manju.{w}",
+  "kind": "msg",
+  "note": "Item name as in slice 022 ('Heerdahl Manju')."
+ },
+ {
+  "en": "\"Why, youuu~!!\"{w}",
+  "kind": "msg",
+  "note": "Refusal reaction."
+ },
+ {
+  "en": "This looks like the footbath staff's break room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Haaah~ Serving customers sure isn't easy~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Some customers are such a pain, huh~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The customers, sure, but that manju seller is SO annoying.\"{w}",
+  "kind": "msg",
+  "note": "[JP]; no gender given for the manju seller."
+ },
+ {
+  "en": "\"Like, way too intense. And so grubby.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (stifling, over-the-top) / [JP] (grubby, unkempt)."
+ },
+ {
+  "en": "\"Totally~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm heading out~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = leaving before the others."
+ },
+ {
+  "en": "\"Good work today~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Later~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = slangy clipped form of the previous line's [JP]. [editorial] 'G'work~' read as a typo; casual clipped reply to the leaver (translator's alternative)."
+ },
+ {
+  "en": "\"Huh, wait, are you customers?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooo, no, no!{w}This room is for staff only!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Taru-taru~ Almost done with work?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Tarzen's pet name; romanized 'Taru-taru'. New name."
+ },
+ {
+  "en": "?Taru-taru",
+  "kind": "name",
+  "note": "New name (nickname of Tarzen before the name is revealed)."
+ },
+ {
+  "en": "\"Yeah, I'll clock out once I've put this away.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'll be waiting over there~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "This person looks a lot like the shaman that Kine told you about.{w}You asked the shaman for their name.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'shaman', matching slice 027 where Kine calls her work shaman work. | ACC: referent: the shaman = Tarzen (Kine asked about a shaman named Tarzen, slice 027 5926); \"the shaman Kine\" could be misread as Kine."
+ },
+ {
+  "en": "\"Welcome!{w}...Yes? Me?{w}Er, yes, I'm Tarzen... And you are...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Kine sent you!?{w}Kine... from Semnadoc!?{w}You've come to drag me back, is that it!?\"{w}",
+  "kind": "msg",
+  "note": "Source places Kine in Semnadoc here; slice 027 says Kine came to Harjiradam. Kept as written."
+ },
+ {
+  "en": "\"Welcome~!{w}Welcome to Heerdahl's famous Footbath Hall~\"{w}{p}\"Taru-taru, what's up?{w}It's not like you to get into it with a customer, is it?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Footbath Hall' (new term). [editorial] Same wording as slice 040 2654 ('Heerdahl's famous Footbath Hall', same JP phrase); drops the vague 'attraction'."
+ },
+ {
+  "en": "\"No, these people aren't customers!{w}Remember, I told you before, about my teacher, Kine!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'teacher' (avoids 'master' per the no-honorific convention for Kine)."
+ },
+ {
+  "en": "\"Ahh... hmm... did you?{w}Ahaha, I forgot!{w}So what about it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kine told them to come and drag me back!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eh, no way!?{w}Don't quit, Taru-taru~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Like I'd quit! Now get out of here!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] aimed at the party."
+ },
+ {
+  "en": "You explained that Kine was only worried about how Tarzen had been doing since.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Tarzen."
+ },
+ {
+  "en": "\"...What?{w}You didn't come to drag me back?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, thank goodness!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How I'm doing? ...See for yourself.{w}I'm on the footbath staff here in Heerdahl.\"{w}{p}\"What about Kine... I mean, the honorable Kine?{w}Kine must be getting on in years by now, right?{w}...I see. Still going strong...\"{w}{p}\"Anyway, I'm done with training, and I'm done wearing myself down praying for peace across the land!{w}My life is mine to live!!\"{w}{p}\"So...{w}......{w}That's enough, all right!? Please, just go!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]……[JP]: Tarzen hesitates, then grudgingly adds the honorific; rendered 'I mean, the honorable Kine' since the convention bars 'Lady'. | ACC: subject restored (pro-drop). \"Still going strong...\" kept as a fragment after \"I see\" (subject plain from the line before). [editorial] 'isn't it!' read as a stray tag question; spoken exasperation."
+ },
+ {
+  "en": "\"Ah, Taru-taru, where are you going~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tarzen is hurrying back and forth through the break room.{w}...But could Tarzen be feeling guilty about something?{w}It almost looked as if Tarzen was avoiding you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Taru-taru~{w}Heyyy, Taru-taru~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Just calling you~\"{w}",
+  "kind": "msg",
+  "note": "[JP]♪ folded into one '~'."
+ },
+ {
+  "en": "\"Oh, come on...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = exasperated 'Look, you...'."
+ },
+ {
+  "en": "There's a clown doll here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you touched it, the doll clattered up onto its feet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome to the grown-up world!{w}So you're the next challenger!\"{w}{p}\"It's just a simple game of golf.{w}You can work your way across the green however you like and get to the goal.\"{w}{p}\"It's golf, so of course the balls have to fly good and far!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = ball, with the crude double meaning set up by 'grown-up world'; English 'balls' carries both. Payoff in 3074."
+ },
+ {
+  "en": "\"Sounds fun! Want to give it a go?\"",
+  "kind": "data",
+  "note": "Choice prompt; 35 chars incl. quotes."
+ },
+ {
+  "en": "\"......{w}",
+  "kind": "msg",
+  "note": "Source quote never closes; closed in English. | ACC: quote left open again: 3071 redraws this row inside {0E}..{0F} and closes it; the redraw must match."
+ },
+ {
+  "en": "{0E}\"......{0F}Just die, you shitty brats.\"{w}",
+  "kind": "msg",
+  "note": "[JP] at full strength."
+ },
+ {
+  "en": "The doll flopped limply to the ground, just as it had been before.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, all right, you're on!\"{w}{p}\"From here on, I make the rules.{w}And you can't go against me, got it?\"{w}{p}\"Oh, right, right. I forgot to tell you!{w}The 'balls' are you lot!{w}Gyahahahahahaha!!\"{w}{p}\"Now, aim for the goal in the south center!{w}First, your opening shot!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = south center of the floor. [editorial] 'I'm the rules' read as broken English; 'I make the rules' (ore ga ruuru da). Pages 2-4 are shared word for word with slice 042 SCD07:3228."
+ },
+ {
+  "en": "There's a well-kept signboard here.{w}",
+  "kind": "msg",
+  "note": "[editorial] 'neat' read as 'cool'; kirei na = clean, well-kept."
+ },
+ {
+  "en": "{0E}*         Heerdahl Golf Course         *\n*                 Free Play                 *\n*            Reception: West            *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign; padding guessed for centring, in-game check."
+ },
+ {
+  "en": "As you came up beside the circle, the Joker appeared, grinning.{w}",
+  "kind": "msg",
+  "note": "[JP] = the clown doll; 'the Joker' (new name)."
+ },
+ {
+  "en": "\"What, at the goal already?{w}Adventurers these days have no guts.\"{w}{p}\"All right, last shot!{w}If this birdie putt drops, you get to go on to the next room, but...\"{w}{p}\"If it misses, I'll kill you, got it?{w}Hyaaaaaa-hahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: subject is the putt (the Joker putts; 3089)."
+ },
+ {
+  "en": "The Joker's birdie putt missed!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Daaaaamn iiiiit!!\nDrop deeeeeead!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = harsh curse, 'drop dead'."
+ }
+]

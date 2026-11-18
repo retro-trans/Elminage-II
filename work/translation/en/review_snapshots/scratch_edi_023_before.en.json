@@ -1,0 +1,348 @@
+[
+ {
+  "en": "\"Oh, so you finally solved Beldoll!?\nThen let us apply the finishing touch!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bilente took out a key made of the same material as Beldoll and threaded every one of Beldoll's separated rings onto it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, Beldoll.{w}Lay bare the wonders that dwell within you, here before my eyes... Nnfuh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Smoke rose from the puzzle ring, and a violent shock struck you!{w}And then...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hah hah hah!{w}Somebody who can solve me finally showed up!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? And who exactly are you...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you stood a small demon.{w}Its bizarre figure brought a jester to mind.{w}",
+  "kind": "msg",
+  "note": "\"Its\" for the demon (a creature, gender unstated); avoids he/she."
+ },
+ {
+  "en": "Beldoll",
+  "kind": "name"
+ },
+ {
+  "en": "\"I'm Beldoll, the Demon of Wisdom!\nNice to meetcha!!\"{w}",
+  "kind": "msg",
+  "note": "Glossary position: 'Demon of Wisdom'. Beldoll's ore-cchi = cocky slangy voice."
+ },
+ {
+  "en": "\"Forgive me for rushing you, but...{w}might I humbly ask you to show me your very best wonder, just once...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My very best wonder?{w}I came out of a puzzle ring, didn't I?\nThat's wonder enough! Wahahahaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's wrong? Go ahead, be amazed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Surely... you don't mean I'm supposed to be amazed just because you came out?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, obviously?\"{w}",
+  "kind": "msg",
+  "note": "Source mochiron with a question mark: a puzzled 'of course?'."
+ },
+ {
+  "en": "\"...Haaaaaahhh~~~!!\"{w}",
+  "kind": "msg",
+  "note": "A long, deflated sigh (Beldoll calls it a sigh next row)."
+ },
+ {
+  "en": "\"Huh? What's with that sigh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"After all this, of all things! Of all things, a gag that's over the moment it enters!!{w}After all the trouble you put me and these adventurers through, this is the extent of your wonder?\"{w}",
+  "kind": "msg",
+  "note": "de-ochi = a joke that is spent the moment the performer appears; rendered descriptively."
+ },
+ {
+  "en": "\"Wh-what's there to complain about!?\"{w}{p}\"Fine, then how about I grant you a wish or something?\n{11:0001:0017}~, and all that!\nWahah, wahah!!\"{w}",
+  "kind": "msg",
+  "note": "{11:...} is a runtime spell-name insert (same code family used for spells elsewhere); kept verbatim, chanted with ~ as in the source."
+ },
+ {
+  "en": "\"Honestly,\nyou've disappointed me, my dear Beldoll.\"{w}{p}\"A demon popping out of an object, granting wishes...{w}Just look around this shop.{w}These shelves are rotting with junk like that.\"{w}",
+  "kind": "msg",
+  "note": "Beldoll-san = 'my dear Beldoll' (polite-sardonic; avoids Mr./Ms.)."
+ },
+ {
+  "en": "\"No wayyy!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, this won't do. It doesn't make up for anything!{w}Come now, show me a wonder worthy of my expense and my expectations.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hngh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Show me a wonder, won't you...{w}my dear Beldoll... heh heh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wearing a brazen grin, Bilente inched closer to Beldoll.{w}",
+  "kind": "msg",
+  "note": "Source writes [JP] (typo for [JP] 'fearless/brazen')."
+ },
+ {
+  "en": "\"Y-yeek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Won... der...~\"{w}",
+  "kind": "msg",
+  "note": "Syllable-by-syllable fushigi with a music note: note -> '~' per convention; 'Won-der-ful' keeps the three beats. | accuracy: \"Won-der-ful\" turned the noun Bilente keeps demanding (fushigi = wonder) into praise; now the word itself, drawn out beat by beat. Editorial may restyle the beats."
+ },
+ {
+  "en": "\"Gyaaaaahhh!?{w}D-d-don't come near meeee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Beldoll went on a rampage!!{w}",
+  "kind": "msg",
+  "note": "Battle trigger line."
+ },
+ {
+  "en": "You sent Beldoll packing.{w}",
+  "kind": "msg",
+  "note": "Subject restored: the party."
+ },
+ {
+  "en": "\"My apologies, everyone.{w}It seems this was a toy with nothing but its reputation going for it -- a real letdown.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"D-dammit...{w}Hey, mister.{w}How do I become the ultimate wonder?\"{w}",
+  "kind": "msg",
+  "note": "ossan = 'mister' (Beldoll's own word for Bilente)."
+ },
+ {
+  "en": "\"That is something you must work out for yourself.\"{w}{p}\"Well, since you're here,\nwhy not take some inspiration from the items I've collected?{w}You'll find plenty of pieces much like yourself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm... Mister, you've sure collected all kinds of stuff.{w}I mean, this is awesome!\"{w}{p}\"Oh, my senior's even here!{w}Yo! Long time no see, sir!!\"{w}",
+  "kind": "msg",
+  "note": "senpai = 'my senior' (the old-man statue, which the source calls an old man). 'sir' renders the -ssu deference."
+ },
+ {
+  "en": "Weird Old Statue",
+  "kind": "name",
+  "note": "New name: kikai na roujin no chokoku, lit. 'bizarre statue of an old man'; shortened for the name box (16 chars)."
+ },
+ {
+  "en": "\"What are you getting so worked up about, you blockhead!{w}Stop yapping for no reason!\nHow many times have I told you to build more atmosphere!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gwoh... I'm frozen stiiiff!?\"{w}",
+  "kind": "msg",
+  "note": "kanashibari: the statue's paralysis, which Bilente mentioned in slice_022 (row 5083)."
+ },
+ {
+  "en": "\"Honestly. It can't be helped.{w}I shall look after Beldoll here at the shop as well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Since then, I've had Beldoll\nhelp out with the housework\nand learn all sorts of things.\"{w}{p}\"The day Beldoll masters\na new act may not be far off.\"{w}{p}\"When that day comes,\nI would love for all of you to see it... heh heh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Walmiiiiitt!!\"{w}",
+  "kind": "msg",
+  "note": "Walmitt-san: elongated name; no Mr./Ms. (Walmitt's gender unknown)."
+ },
+ {
+  "en": "Walmitt",
+  "kind": "name"
+ },
+ {
+  "en": "\"...Pipe down, Gregorio.{w}I won't lend you money, I won't give you money, and I don't have any to spare.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's not iiit!{w}I came here to wooork!!\"{w}",
+  "kind": "msg",
+  "note": "Gregorio's -zeeee tic rendered by stretching the last word."
+ },
+ {
+  "en": "\"Huh? You?{w}Good grief. Armitt did ask me about you,\nbut I never thought you'd actually show up.\"{w}{p}\"What can you do? Any special skills?\"{w}",
+  "kind": "msg",
+  "note": "Armitt = Gregorio's mother (washerwoman)."
+ },
+ {
+  "en": "\"I can do anythiiing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh?{w}Then the shipyard has put out a call for shipwrights.\nWant to give it a try?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If I build 'em, they'll siiink!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That may well be true.{w}In that case... how about inventory management for a wholesaler?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm no good at readin' and writiiing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? Then...\ncan you cook? I've got a request from a kitchen.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Food ain't for makin'!\nIt's for eatiiing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm... And you're not an adventurer either.\nThat means I have no work I can entrust to you right now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry. Profit comes first with me.{w}If my clients can't trust me, I can't make money.\"{w}{p}\"If I sent a half-baked good-for-nothing like you out on a job,\nthe name Walmitt\nwould stop meaning anything as a brand.\"{w}{p}\"Armitt asked me, I know,\nbut this is one thing I can't do anything about.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, come ooon...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you want to work,\nfirst learn a skill that's actually worth something out there.{w}Then come back.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sniff, sniff...\"{w}",
+  "kind": "msg",
+  "note": "uruuru = teary-eyed pleading look (Walmitt answers 'that look')."
+ },
+ {
+  "en": "\"Ah, no, no.{w}Looking at me like that won't work. Get lost.{w}Shoo! Shoo!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a letdooown!{w}I ain't countin' on the likes of you ever agaaain!!\"{w}{p}\"Huh?{w}Walmitt, what's this request?{w}...Whoa, a 400,000 GP reward!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, that request is void.{w}Do you know Heerdahl?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sure dooo!{w}My buddies say it's a grown-up playground\nwhere you can get up to no goooood!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's an arena there.{w}They want new fighters,\nso the request asks us to send somebody.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooooh!\nThat's a great requeeest!{w}Rakin' in the caaash!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait, hear me out to the end!!{w}...It's a tempting offer, sure,\nbut don't you think this reward is odd?\"{w}{p}\"It's far too generous for just recruiting a fighter.{w}You can bet a request like this is almost certainly dirty.\n'Dirty' -- you know what that means, right?\"{w}",
+  "kind": "msg",
+  "note": "kuro (black) = shady/criminal; 'dirty' keeps the one-word term Walmitt then asks about."
+ },
+ {
+  "en": "\"Wha-huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No matter how much money is in it,\nI can't take on a request that dangerous.\"{w}{p}\"So it's void.\nI'm planning to tear up the request form, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'll do it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Excuse me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Meeee! I'm in, I'm in, I'm goin' iiin!!{w}I'm signin' uuup! Chaaampyooon!!\"{w}",
+  "kind": "msg",
+  "note": "chanpyon = mangled 'champion', kept mangled."
+ },
+ {
+  "en": "\"Don't be stupid! There's no telling what they'll do to you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm super strooong!{w}Nobody can stand in my waaay!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, no!{w}Give that request form back. I won't let you do it!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nuh-uuuh!{w}I already took this jooob!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Stop that!{w}Hey, Gregorio!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Chaaampyooon!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gregorio left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... Don't blame me for this...\"{w}",
+  "kind": "msg",
+  "note": "shiran zo watashi wa = 'I'm washing my hands of it'."
+ },
+ {
+  "en": "\"What's this, who are you? Adventurers?\"{w}{p}\"I am Walmitt.{w}I serve as head of the merchants based around this Port Saimar --\nthe Grand Merchant.\"{w}{p}\"It's no exaggeration to say that nothing in the continent's trade\nmoves without passing through Saimar.\"{w}{p}\"Because of that,\nall sorts of troubles and requests for advice get brought to me.\"{w}{p}\"Why don't you try handling\na few requests too, if you like?\"{w}",
+  "kind": "msg",
+  "note": "Glossary: Grand Merchant, Port Saimar."
+ },
+ {
+  "en": "\"What, 'The Saimar Merchant's Companion'!?\"{w}{p}\"Where did you hear about it?{w}That booklet is meant to be top secret\nto anyone but merchants who trained in Saimar...\"{w}{p}\"What, some Costo at\nthe Kernel Shop in Bistel\nwants it?\"{w}{p}\"Who is this Costo?{w}The only Costo\nI can think of is the minister.\"{w}{p}\"Besides, shouldn't Bistel's merchants\nbe trained by\nBistel's own merchants?\"{w}{p}\"If he insists,\nsend him to Saimar.{w}Once he's a full-fledged merchant, I'll give it to him.\"{w}{p}\"Saimar is short on talent.{w}If he shows promise, I'll put him through\nthe wringer as Walmitt's successor.\"{w}",
+  "kind": "msg",
+  "note": "Booklet title reused from slice_011 row 3171. 'him' = the shop's Costo, the one who wants the booklet (yokoshitamae has no object; Costo is male per glossary)."
+ },
+ {
+  "en": "\"...Huh?{w}Minister Costo wants it?{w}Hah! Nonsense.\"{w}{p}\"Minister Costo would never make such a demand.{w}Why on earth would a minister\nhave to work an abacus?\"{w}{p}\"Besides, you're adventurers, aren't you?\nDo you even know Minister Costo of the Administration Bureau?\"{w}{p}\"Minister Costo is the one who mediated so that trade among us in Saimar, Bistel,\nIsfald and Semnadoc would run more smoothly, you know?\"{w}{p}\"If you so casually make false claims in the name of someone who's done so much,\nI, Walmitt, won't stand for it, understand?\"{w}",
+  "kind": "msg",
+  "note": "Daijin no Costo-dono / Gyoseikyoku no Costo-dono: both 'Minister Costo'. kimi is singular here but rendered 'you' for the party; 'adventurers' plural. | accuracy: kataru = to use a name falsely; draft \"lightly using the name\" lost the false claim, now \"so casually make false claims in the name of\"."
+ },
+ {
+  "en": "\"You people sure are persistent.{w}All right, if you insist that much,\nlet's make a trade.\"{w}{p}\"Complete three of the requests I'm holding,\nand I might just hand it over as a special favor.\"{w}{p}\"Well? Not a bad deal, is it?{w}Got it? Then get to it, and be quick about it!!\"{w}",
+  "kind": "msg",
+  "note": "Walmitt drops from kimitachi to the brusquer omaetachi here."
+ }
+]

@@ -1,0 +1,355 @@
+[
+ {
+  "en": "\"You mustn't say that, mogu.\"{w}{p}\"I heard that if the Kin of Darkness get driven out, the current god of time, Naru or whatever the name is, might carve in the start stamp for you, mogu.\"{w}",
+  "kind": "msg",
+  "note": "Answers Urna's \"who cares about that thing\" (3892, the monument). 'tte itteta' (someone said) read as hearsay, matching \"I definitely heard that\" at 4080. Kaishi no kokuin = \"start stamp\" as in slice_031."
+ },
+ {
+  "en": "\"Hmph.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-then you'd be a proper New Land, Princess, mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........{w}...Huh, you lot?{w}What are you doing standing around there?\"{w}{p}\"Come on, get going already!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good luck taking down the Demon Dukes, moguuu!\"{w}",
+  "kind": "msg",
+  "note": "Plural: the next row says all of them were beaten."
+ },
+ {
+  "en": "\"You beat every last Demon Duke!{w}Good for youuu~{w}All right then, I forgive you for everything!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You got a pat on the head.{w}",
+  "kind": "msg",
+  "note": "Passive in source (atama wo naderareta); Urna pats the party."
+ },
+ {
+  "en": "\"Now this place is nice and comfy!\"{w}",
+  "kind": "msg",
+  "note": "Kaiteki ni natta: the land is pleasant now the invaders are gone."
+ },
+ {
+  "en": "\"And now the Princess will graciously accept the wine too, mogu.\"{w}",
+  "kind": "msg",
+  "note": "Raizam echoes Urna's condescending \"uketotte ageru\" from 3877; \"graciously\" carries the ageru."
+ },
+ {
+  "en": "\"Yeah. So, let me say it properly.{w}Thank you! I've received it, for real!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You gave Urna the Yuan Wine!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And also... I'm sorry for calling you a bunch of trash.\"{w}",
+  "kind": "msg",
+  "note": "Refers to Urna's \"gomi-domo\" line in the villains' scene (slice_014 rendered it \"pieces of trash\"); the party never heard it, hence 3915."
+ },
+ {
+  "en": "Urna apologized sheepishly, but you had no idea what she meant.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...N-never mind. Forget it. Hahaha...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's right, Princess. While you're at it, you should ask them for that thing, mogu.\"{w}",
+  "kind": "msg",
+  "note": "Plain \\n dropped (auto-wrap)."
+ },
+ {
+  "en": "\"'That thing'... Wha--!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen, the Princess has a favor to ask you, mogu. Please hear her out, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You idiot, don't go saying stuff like that on your own!!{w}Ahh... um, it's nothing big, really.{w}It's just... if... only if you want to, but...\"{w}{p}\"If living in Fiona's land ever gets too hard for you, you can come to my land, you know...\"{w}{p}\"I-I mean, come on! Fiona's land, right!?{w}Doesn't it look super boring!?{w}She's gloomy and stuck-up and selfish!!\"{w}",
+  "kind": "msg",
+  "note": "aitsu = Fiona (the land just named)."
+ },
+ {
+  "en": "\"That's you, Princess, mogu...\"{w}",
+  "kind": "msg",
+  "note": "Raizam: those traits describe Urna herself."
+ },
+ {
+  "en": "\"So, um... how do I put it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"See, the Princess only has the four of us, so she's lonely, mogu.\"{w}",
+  "kind": "msg",
+  "note": "boku-ra 4-nin = the Four Sages."
+ },
+ {
+  "en": "\"H-hey, you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A-anyway, that's how it is.{w}If you don't want to come, you don't have to, okay!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...There you go saying that again, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But if you do want to come, you're welcome anytime...{w}There's nothing there yet, but we'll all build it up together from here on.\"{w}{p}\"One more time, just like the old days... okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Mogu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"May your journey be a safe one.{w}...Here, take this with you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"See you around, my darling children!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh heh. My land... huh.{w}",
+  "kind": "msg",
+  "note": "Quote left open on purpose: first fragment of a build-up (3949/3951/3953); the {0E} part of the next row redraws this text, and 3953 closes the quote."
+ },
+ {
+  "en": "{0E}\"Heh heh heh. My land... huh.{0F}\nHeh... heheh...{w}",
+  "kind": "msg",
+  "note": "Build-up fragment; {0E} part matches 3949 exactly. Quote closes in 3953. \\n kept as in source (one fragment per line)."
+ },
+ {
+  "en": "{0E}\"Heh heh heh. My land... huh.\nHeh... heheh...{0F}\nEhehe... *griiin*~\"{w}",
+  "kind": "msg",
+  "note": "nimaa = a sound-word grin; the tilde stands for the note mark."
+ },
+ {
+  "en": "\"Princess, cut it out, it's creepy, mogu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But come onnn~{w}How could I NOT be happy about this!?{w}Kufufufufu~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna and the others look so happy.{w}",
+  "kind": "msg",
+  "note": "Urna-tachi: Urna and her companions (Raizam at least); kept as \"the others\"."
+ },
+ {
+  "en": "\"Huh...!?{w}Eurati... a...???{w}...No way. Can't be. Yeah.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna looked at {0A:0003:000F}, tilting her head in puzzlement.{w}",
+  "kind": "msg",
+  "note": "{0A:0003:000F} = a party member's name; no pronoun used for them."
+ },
+ {
+  "en": "\"Haha, sorry, sorry. I just thought you kind of looked like someone I knew.{w}...Not that there's any way they'd still be alive, though.\"{w}",
+  "kind": "msg",
+  "note": "shiriai (Euratia, gender unknown) -> \"someone\" / \"they\"."
+ },
+ {
+  "en": "\"..........{w}Um... this is kind of out of nowhere, but... want me to teach you how to play an instrument?\"{w}{p}\"I mean... I did make a promise and all...{w}Er, never mind, that's just my own business.{w}What do you say...?\"{w}",
+  "kind": "msg",
+  "note": "kocchi no hanashi = \"that's my own business\". The promise is to Euratia (3974)."
+ },
+ {
+  "en": "Learn to play an instrument?",
+  "kind": "data",
+  "note": "Choice prompt, 28 chars."
+ },
+ {
+  "en": "\"Really!?{w}Then come over here! Quick, quick!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna began teaching {0A:0003:000F} how to play an instrument.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This one goes...... and see, that one's......{w}...Wanna try blowing into it? ...Ahaha, yeah, like that!{w}And then there's......, and......\"{w}",
+  "kind": "msg",
+  "note": "The dots are the source's deliberately inaudible gaps; kept as gaps. fuite miru = try blowing (a wind instrument)."
+ },
+ {
+  "en": "{0A:0003:000F} learned Instrument Playing!{w}",
+  "kind": "msg",
+  "note": "Skill name (JOBABL.CSV row 2:24, not yet translated, field max 8). Provisional \"Instrument Playing\"; align with the ability table once it is named."
+ },
+ {
+  "en": "\"With this...{w}I guess I kept my promise...{w}Right, Euratia?\"{w}{p}\"...All righty!{w}{0A:0003:000F}!!{w}Go out there and give it your all!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, no?{w}Well, whatever. Come back if you ever feel like it.\"{w}",
+  "kind": "msg",
+  "note": "Response to declining the lesson."
+ },
+ {
+  "en": "There is an inscription here.{w}{p}Mysterious numbers have been carved into its surface.{w}{p}{0E}        *  714729.301  *        \n\n                      >{0F}{w}",
+  "kind": "msg",
+  "note": "Number display: full-width digits/marks converted to ASCII, each full-width space -> 2 spaces; the second line keeps 22 columns before \">\". In-game check: alignment."
+ },
+ {
+  "en": "\"*Staaare*...\"{w}",
+  "kind": "msg",
+  "note": "ji~ = staring sound; lengthens in 4069/4073."
+ },
+ {
+  "en": "\"...Mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna and Raizam are staring at the inscription.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*Staaaare*...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Mogugu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*Staaaaare*...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Mogugugu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Supposedly, driving out the Kin of Darkness would get the start time carved into the inscription, but...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What the heck. It's not working at all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's weird, mogu. I definitely heard it would, mogu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As the two of them were talking...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}        *  714729.301  *        \n\n                      >{0F}{w}",
+  "kind": "msg",
+  "note": "Same display as 4062."
+ },
+ {
+  "en": "{0E}        *  714729.301  *        \n\n            61045027  >{0F}{w}",
+  "kind": "msg",
+  "note": "Number typed in before the \">\": 12 spaces + 8 digits + 2 spaces keeps \">\" in the same column as 4082. In-game check: alignment."
+ },
+ {
+  "en": "\"Oh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Princess, look, mogu!{w}The start time's been carved in, mogu!{w}You've been officially recognized as a New Land, mogu!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bet they carved the end time in there too, while they were at it.\"{w}",
+  "kind": "msg",
+  "note": "Urna's tease (...tari shite): a mock suggestion, not a claim."
+ },
+ {
+  "en": "\"MOGEH!?\"{w}",
+  "kind": "msg",
+  "note": "Spelling as slice_034."
+ },
+ {
+  "en": "Raizam panicked, but no end time had been carved!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's not carved, mogu.{w}Don't scare me like that, moguuu~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's just the kind of thing those guys would do.{w}And I don't even know what this Naru-whoever is like, either.\"{w}",
+  "kind": "msg",
+  "note": "aitsura = the gods. Naru: no pronoun (gender unknown)."
+ },
+ {
+  "en": "\"...Princess?{w}Aren't you happy you got recognized as a New Land, mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmm.{w}Happy, not happy... I mean, what do you want me to say?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hi-yah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna kicked the inscription!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MOGUUUU!?{w}Princess, what are you doing, moguuuu!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph, this stupid thing!\"{w}",
+  "kind": "msg",
+  "note": "nani yo, konna mono: contempt for the monument and its approval."
+ },
+ {
+  "en": "\"You mustn't kick it, mogu! You'll get in trouble, mogu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen up, Raizam!{w}I am me!{w}I don't need anyone's permission to exist!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-yeah... that's true, mogu, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph!{w}",
+  "kind": "msg",
+  "note": "Build-up fragment (4117-4127, continues into slice_067); quote closes in 4127. Each {0E} part must redraw the previous row exactly."
+ },
+ {
+  "en": "{0E}\"Hmph! {0F}Stupid thing!{w}",
+  "kind": "msg",
+  "note": "Build-up fragment; see 4117."
+ },
+ {
+  "en": "{0E}\"Hmph! Stupid thing! {0F}Stupid thing!{w}",
+  "kind": "msg",
+  "note": "Build-up fragment; see 4117."
+ },
+ {
+  "en": "{0E}\"Hmph! Stupid thing! Stupid thing!\n{0F}Back then!{w}",
+  "kind": "msg",
+  "note": "Build-up fragment; \\n kept before {0F} as in source. slice_067 4125/4127 must start with {0E}\"Hmph! Stupid thing! Stupid thing!\\nBack then! ..."
+ }
+]

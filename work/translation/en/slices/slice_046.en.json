@@ -1,0 +1,351 @@
+[
+ {
+  "en": "\"What a terrible thing...{w}Lord Branet...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Having refused to let go to the very end, Branet was swallowed alive into the Abyss together with Eril...{w}",
+  "kind": "msg",
+  "note": "shin'en (lit. 'profound', used here for 'abyss') rendered 'the Abyss', capitalised because the Wraith names it 'the great Abyss, Apasha' (3120/3124). Slice 045 (3095, 3109) uses the same word."
+ },
+ {
+  "en": "\"So that... was the Abyss...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is right, priestess.{w}The souls you could not save are, in time, drawn into that place.\"{w}{p}\"Unlike the other Wraiths, I have no interest in their petty game of playing king of the evil spirits.\"{w}{p}\"My wish is to free the souls that have been taken into Apasha, the great Abyss.\"{w}{p}\"And then to destroy the path of souls laid down by the gods, and bring about a new order of souls.\"{w}{p}\"I cannot allow any more deeds that disturb the peaceful sleep of the dead.\"{w}",
+  "kind": "msg",
+  "note": "purisutesu = 'priestess' (glossary note: the Wraith's address for Sigret). kami unmarked for number: 'the gods', as slice 011. Whose deeds disturb the dead is not stated; kept impersonal. Editorial: 'Apasha, the great Abyss' (name first) to match 'Apasha, the Abyss' in 3124 and slice 045 (3065)."
+ },
+ {
+  "en": "\"...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you truly wish to bring salvation to the spirits of the dead, then go after Apasha, the Abyss.\"{w}{p}\"I, too, am investigating the Gate of the Underworld and Apasha, together with the Grand Chancellor.{w}If fate allows, we shall meet again... Farewell.\"{w}",
+  "kind": "msg",
+  "note": "omae = Sigret (the Wraith has just addressed her as priestess; her reaction 3122/3126). Confirms slice 011 (3225) reading 'if I truly want to save those souls, I should go after Apasha'. Daishousho = 'the Grand Chancellor' (new term; recurs in slice 031 and as a room name in slice 065)."
+ },
+ {
+  "en": "\"Wait, Wraith! ...Just wait...{w}Rattling off all these things I can't make sense of...{w}What was that just now... What's that supposed to mean!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: matte yo has no 'please' (trailing, deflated plea); contraction for Sigret's spoken voice."
+ },
+ {
+  "en": "\"I'm sorry... I'm just a little confused...{w}The one thing I did understand... is that if things stay as they are, there will be more and more unhappy souls...\"{w}{p}\"I'm going to go clear my head for a bit...{w}If you're heading back, go on ahead without me...\"{w}",
+  "kind": "msg",
+  "note": "Spoken to the party (modoru nara, saki ni itte). Editorial: 'cool my head' is a calque of atama wo hiyasu; idiomatic 'clear my head'."
+ },
+ {
+  "en": "You found a strawberry frozen in ice.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Ice Strawberry!{w}",
+  "kind": "msg",
+  "note": "Kouri Ichigo = 'Ice Strawberry' (new key item name)."
+ },
+ {
+  "en": "...Or so you thought, but someone snatched it away!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Snow Rabbit",
+  "kind": "name"
+ },
+ {
+  "en": "\"Heh heh~, you slowpoke, kyu~!{w}The Ice Strawberry is mine!\nIf that bugs you, try and catch me, kyu~!!\"{w}",
+  "kind": "msg",
+  "note": "Verbal tic -kkyu rendered as a tagged 'kyu'. Snow Rabbit's gender unknown ('boku' only); narration uses 'it'."
+ },
+ {
+  "en": "The Snow Rabbit hid in the snow!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-not yet, kyu!{w}My hide-and-seek skills are way better than this, kyu! Hyaah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-no way!?{w}Darn it, this time I'm getting away for sure, kyu!!{w}Hyah, hyah, hyaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kyu, kyuuuu...{w}I lose, kyu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Ice Strawberry.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's more to hide-and-seek than I thought, kyu!{w}I shouldn't get cocky just because I'm a snow rabbit -- I'm going to practice for real, kyu!!\"{w}",
+  "kind": "msg",
+  "note": "Read as the rabbit resolving to itself after losing, not advice to the party. Editorial: oku ga fukai; 'runs deep' was unidiomatic."
+ },
+ {
+  "en": "The Snow Rabbit went away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not there, kyu~{w}Dummy, dummyyy!!{w}DUUUUUUMMMMMMYYYYYYY!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Snow Rabbit's presence has vanished...{w}It seems to have gotten away from you.{w}",
+  "kind": "msg",
+  "note": "Editorial: removed the clumsy 'It seems it'."
+ },
+ {
+  "en": "Who will make the attempt??",
+  "kind": "op093",
+  "note": "Double question mark kept from the source."
+ },
+ {
+  "en": "Where will you search?",
+  "kind": "data"
+ },
+ {
+  "en": "You plunged a hand into the snow!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mugyoo!?{w}",
+  "kind": "msg",
+  "note": "No quote brackets in the source; none added."
+ },
+ {
+  "en": "You caught it!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You felt nothing there...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "North",
+  "kind": "data"
+ },
+ {
+  "en": "East",
+  "kind": "data"
+ },
+ {
+  "en": "South",
+  "kind": "data"
+ },
+ {
+  "en": "West",
+  "kind": "data"
+ },
+ {
+  "en": "There's a signpost buried in the snow.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                                *\n*  Travelers Often Lost -- Beware of Drowsiness  *\n*                                                *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign box kept in the source's asterisk frame (same 49-char frame as the 'Dead End' sign); check centring in game. Editorial: box widened to 50 so the text line is centred (2 spaces each side); wording unchanged."
+ },
+ {
+  "en": "\"Pardon me... traveler...{w}Ah, you're awake. Thank goodness...{w}Pressing on through this blizzard is reckless beyond words.\"{w}{p}\"If you head southwest from this hut, you will find a place that will carry you outside. Please make your way home from there.\"{w}",
+  "kind": "msg",
+  "note": "tabi no okata: singular address kept ('traveler'); she later calls the party kono kata (2744). Editorial: split the run-on 'so please go home from there'."
+ },
+ {
+  "en": "\"Pardon me... traveler...{w}You still haven't gone home?\"{w}{p}\"I am telling you this for your own good.{w}Please leave by way of the southwest.{w}You will heed my words, won't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pardon me... traveler...{w}Why do you not go home?{w}Do you have some business in Flotban?\"{w}{p}\"North of here lies Glacier Castle, where General Winter dwells.{w}It would be best not to go near it.\"{w}{p}\"If you insist, then go out from the north side of this hut and head south through the cave, and you will find a device that stops the blizzard.\"{w}",
+  "kind": "msg",
+  "note": "Route wording kept close to the source ('from the north of this hut, head south through the cave')."
+ },
+ {
+  "en": "You were taught how to work the switch that stops the blizzard.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please go on without looking back.{w}...When spring comes, even the snow will melt.{w}You must never come back here...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: yuki mo = 'even the snow'; the trailing 'too' read as if something else melts as well."
+ },
+ {
+  "en": "\"The blizzard has stopped.{w}And yet, why do you keep coming back?\"{w}{p}\"For one who lives alone in this hut,{w}meeting someone like you lights a lamp in my heart. In other words...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Miyuki",
+  "kind": "name"
+ },
+ {
+  "en": "\"I... I, Miyuki...{w}...have come to love you so.\"{w}",
+  "kind": "msg",
+  "note": "koishiku omotte shimau: she cannot help longing for/loving the player."
+ },
+ {
+  "en": "\"Yes...{w}I know it is a selfish wish.{w}And yet...\"{w}{p}\"If you would warm this body and heart of mine, chilled to the core, then as a token, please, take this blade...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Miyuki held out a short blade, icy cold and keenly gleaming.{w}",
+  "kind": "msg",
+  "note": "The blade is unnamed here (glossary: 'Miyuki' is also a sword name)."
+ },
+ {
+  "en": "Accept it?",
+  "kind": "data"
+ },
+ {
+  "en": "\"..........{w}I knew it, all along.{w}But some feelings simply cannot be held back.\"{w}{p}\"If we cannot be together, then I would rather...{w}Ah...{w}Please... forgive... me...\"{w}",
+  "kind": "msg",
+  "note": "Refusal branch; she then attacks (2715)."
+ },
+ {
+  "en": "You routed Miyuki.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........{w}No... I can't kill you...{w}Uuh...\"{w}{p}\"Please, don't come here again...{w}Farewell...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You will... accept it...{w}You will accept these feelings of mine...{w}Ah... Miyuki is so very happy...\"{w}",
+  "kind": "msg",
+  "note": "Her third-person self-reference kept."
+ },
+ {
+  "en": "\"Ma... forgive me...{w}Miyuki will be happy with this one...\"{w}",
+  "kind": "msg",
+  "note": "kono hito: the player, gender unknown -> 'this one'. Editorial: okkasan = 'Ma', as in her lines to General Winter (slice 047 2915)."
+ },
+ {
+  "en": "Snow Spirit",
+  "kind": "name"
+ },
+ {
+  "en": "\"Miss Miyuki!!\"{w}",
+  "kind": "msg",
+  "note": "ojousama -> 'Miss'; Miyuki-sama -> 'Lady Miyuki' (female established in glossary)."
+ },
+ {
+  "en": "Abominable Snowman",
+  "kind": "name",
+  "note": "Glossary form; 18 chars, over the ~16-char name-box guide. Check fit."
+ },
+ {
+  "en": "\"Miss Miyukiiii!\"{w}",
+  "kind": "msg",
+  "note": "Miyuki-han (dialect honorific) -> 'Miss', drawn out."
+ },
+ {
+  "en": "\"Lady Miyuki!{w}We've finally found you!{w}Your father has been terribly worried!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Word is he's brought ya a marriage offer, y'know.\"{w}",
+  "kind": "msg",
+  "note": "Subject = her father (General Winter, male per glossary) from the previous line. Rustic dialect given light colloquial English."
+ },
+ {
+  "en": "\"I have already given my answer about the marriage offer.{w}I will go with no one but the one I have chosen in my heart.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, no, you are the daughter of the lord of Glacier Castle.{w}Such selfishness will not be allowed. Come now, this way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Stop it, you insolent wretch!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What seemed to be her attendants were trying to drag Miyuki away by force.{w}They noticed you standing there, dumbfounded.{w}",
+  "kind": "msg",
+  "note": "Editorial: tense made consistent within the row (present 'try' then past 'noticed'); plural kept."
+ },
+ {
+  "en": "\"Hmm? Who're you lot?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss, who are they?{w}Don't tell me... you've already found a sweetheart down in the village...?\"{w}",
+  "kind": "msg",
+  "note": "sato = the human settlement below; 'the village'."
+ },
+ {
+  "en": "\"Ngh... this person is...{w}..........{w}...just someone who got lost in the snow.\"{w}{p}\"I only looked after them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then that's all right.{w}If ya had a sweetheart in the village, we'd hafta kill 'em.{w}Good thing, good thing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're lucky to be alive, you know. Not that Lady Miyuki would ever bother with the likes of you anyway.{w}Now, let's go, Lady Miyuki.\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: inochibiroi = escaped with your life; echoes the Abominable Snowman's threat to kill a village sweetheart (2746), so \"lucky to be alive\" rather than plain \"got lucky\"."
+ },
+ {
+  "en": "\"Headin' home now!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahh.........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Miyuki lowered her eyes sadly and was taken away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a door sealed tight by snow and ice.\nYou can't see anything that looks like a keyhole.{w}",
+  "kind": "msg",
+  "note": "fubuki to koori: 'snow and ice' (lit. 'blizzard and ice')."
+ },
+ {
+  "en": "You found something that looks like a switch.{w}However, you couldn't figure out how to operate it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You have already turned off the blizzard switch.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Snowman Gatekeeper",
+  "kind": "name",
+  "note": "Glossary form; 18 chars, over the ~16-char name-box guide. Check fit."
+ },
+ {
+  "en": "\"Hey, hey, hey!{w}Now it's the fire alarm over there!?{w}Is there really a fire? Isn't the thing just broken?\"{w}{p}\"...And who are you?{w}We're in the middle of something, so come back later.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, what's all the fuss?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wolf Gatekeeper",
+  "kind": "name"
+ },
+ {
+  "en": "\"They say the fire alarm went off.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, that's a rare one...{w}...Whoa there!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is Glacier Castle, where the great General Winter resides!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nobody gets through here!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Yeti Gatekeeper",
+  "kind": "name"
+ }
+]

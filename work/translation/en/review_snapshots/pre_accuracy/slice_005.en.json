@@ -1,0 +1,356 @@
+[
+ {
+  "en": "\"I can't just le-- ...Zapper?\"{w}",
+  "kind": "msg",
+  "note": "Answers Zapper's 'forget about Zephal' (end of slice 004); Mirco is cut off mid-word, kept as an interruption."
+ },
+ {
+  "en": "\"Hey, Mircooo...{w} Hurry up and get strong,\nand climb up on my back, okay?\"{w}",
+  "kind": "msg",
+  "note": "Zapper is a griffon (row 794): 'ride on my back'."
+ },
+ {
+  "en": "\"Well, uh... that's the plan...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm waitin' for you, y'know.{w} My reins are there just for you, y'know?{w} You get that part, riiight?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I get it...\nAnd anyway, you don't have to snuggle up to me like that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then train harder, c'mooon~\"{w}{p}\"Or else the great me might go and become\nsomebody else's griffon, y'know?{w} Is that okay? Is it, huh?\"{w}",
+  "kind": "msg",
+  "note": "Zapper's self-reference switches to 'ore-sama' here: 'the great me'."
+ },
+ {
+  "en": "\"T-too close, you're too close...\nHey! Zapper!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heeey~ Heeey, c'mooon~~~\"{w}",
+  "kind": "msg",
+  "note": "Music note dropped (ASCII only); the sing-song tone is carried by the tildes."
+ },
+ {
+  "en": "\"Z-Zapper's gone weird too!?\nH-help meee...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aw, Mircooo~ Wait uuup~~~\"{w}",
+  "kind": "msg",
+  "note": "Music note dropped (ASCII only)."
+ },
+ {
+  "en": "The two of them ran off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a strange place this is. Well then, perhaps I too...\nshall go looking for a spring that's come a little late, eh!?{w} Ho ho ho!!\"{w}",
+  "kind": "msg",
+  "note": "'A late spring' = a late-in-life romance; the image is kept rather than explained."
+ },
+ {
+  "en": "Hess ran off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...How dumb.{w} I'm going home. Night-night, big sis.\"{w}",
+  "kind": "msg",
+  "note": "anesan = 'big sis' (Elpina's name for Gurtia)."
+ },
+ {
+  "en": "\"Yes. Good night, Elpi...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mwah!\"{w}",
+  "kind": "msg",
+  "note": "Kiss sound; music note dropped (ASCII only)."
+ },
+ {
+  "en": "\"!!{w} Wh-wh-wh-what...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elpina flew off.{w}",
+  "kind": "msg",
+  "note": "Source says she flew away (tobisatte)."
+ },
+ {
+  "en": "\"Huff, huff, huff...\nI finally got away!!{w} Gurtia, are you okay?\"{w}",
+  "kind": "msg",
+  "note": "'Shook [Zapper] off': object left implicit to avoid a pronoun for Zapper (gender unknown)."
+ },
+ {
+  "en": "\"Y-yes.{w} I'm fine, and yet somehow not fine...{w} I see you made it through unharmed, young master.\"{w}",
+  "kind": "msg",
+  "note": "bocchama = 'young master', used as a third-person address to Mirco."
+ },
+ {
+  "en": "\"Honestly, everyone's doing whatever they want\njust because it's a dream.\"{w}{p}\"I noticed while I was running,\nthese clothes seem to have gotten\na little small on me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, so they have. You're a growing boy, after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Will you make me new clothes again?{w} I could have some sent from home,\nbut I'd rather have clothes you sewed for me, Gurtia.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, I don't mind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(He really has grown, hasn't he.){w}",
+  "kind": "msg",
+  "note": "Gurtia's thoughts in parentheses, as in the source."
+ },
+ {
+  "en": "\"This time, so I can move around without any trouble...\"{w}",
+  "kind": "msg",
+  "note": "Mirco keeps talking about the clothes while Gurtia thinks; rows 832-838 interleave."
+ },
+ {
+  "en": "(Inside a dream, hm...){w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Something sturdy and easy to move in...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(And whatever I do, I won't remember it when I wake up...){w}",
+  "kind": "msg",
+  "note": "Subject 'I' restored: Gurtia applies Zephal's 'no memory after waking' idea to herself."
+ },
+ {
+  "en": "\"Hey, are you listening?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...wish you'd just die.\"{w}",
+  "kind": "msg",
+  "note": "Muttered tail of the line spelled out in row 846 (...e ba ii noni); kept as a fragment that starts mid-sentence."
+ },
+ {
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Master Mirco, I wish you'd just die.\"{w}",
+  "kind": "msg",
+  "note": "Not softened: 'shinjaeba ii noni' = 'I wish you'd just die'."
+ },
+ {
+  "en": "\"House Lenzer can lose its heir\nand fall to ruin, for all I care!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gurtia pinched Mirco's cheeks with both hands!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hwehh!?\"{w}",
+  "kind": "msg",
+  "note": "Mirco's lines 853-869 are mangled speech with pinched cheeks; rendered as slurred English of the likely words."
+ },
+ {
+  "en": "\"Master Mirco, you... you...!!\"{w}",
+  "kind": "msg",
+  "note": "'Mirco-sama nante' (dismissive 'you and your...') trails off; kept unfinished."
+ },
+ {
+  "en": "\"Ow-ow! Ih hurrhs!?\"{w}",
+  "kind": "msg",
+  "note": "Slurred 'itai! itai yo!?' (It hurts!)."
+ },
+ {
+  "en": "\"Take this... and this!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thtop ih, Gurhiaaa!?\"{w}",
+  "kind": "msg",
+  "note": "Slurred 'yamete yo, Gurtia!' (Stop it, Gurtia!)."
+ },
+ {
+  "en": "(What a pathetic noise to make!\nFor the sake of a brat like this, I...!!){w}",
+  "kind": "msg",
+  "note": "Not softened: gaki = 'brat'."
+ },
+ {
+  "en": "\"Hwahh!? Hwahhh!?\"{w}",
+  "kind": "msg",
+  "note": "Inarticulate pinched-cheek noises; no clear word behind them."
+ },
+ {
+  "en": "\"Mmphh~ Thtahhp~~~\"{w}",
+  "kind": "msg",
+  "note": "Slurred 'yamete' (stop)."
+ },
+ {
+  "en": "\"...Honestly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pwah!!\nWh-what was that for, Gurtia!\nPinching me out of nowhere... Whoa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Up... we go.\"{w}",
+  "kind": "msg",
+  "note": "She is lifting Mirco (row 880)."
+ },
+ {
+  "en": "\"Wh-whoa? Gurtia!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(Even so, I'm the one who raised him... this child...){w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gurtia picked Mirco up in her arms.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"P-put me down, this is embarrassing!{w} Pinching me, picking me up...\nhave you gone weird too, Gurtia!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Weird?{w} Yes, I suppose. Perhaps I have.{w} Ufufufu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooo...\"{w}",
+  "kind": "msg",
+  "note": "gaan = shocked dismay."
+ },
+ {
+  "en": "\"Um, young master.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"For a little while...{w} um, would you walk with me, just the two of us?{w} Shall we explore? This place, I mean. ...Won't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...If you put me down.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, yes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gurtia put Mirco down.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"J-just so you know!{w} I'm not. A kid anymore, okay!?\"{w}",
+  "kind": "msg",
+  "note": "Source has an odd full stop inside 'mou. kodomo ja nai'; kept as a flustered stammer."
+ },
+ {
+  "en": "\"I know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, as long as you do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My apologies.{w} Fufu. Please don't be cross.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Geez... Okay, let's go!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco took Gurtia's hand.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The two of them left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pit{w}",
+  "kind": "op096",
+  "note": "Short label (op096), likely a trap/tile name shown in a box; kept short."
+ },
+ {
+  "en": "But you are floating in midair{w}",
+  "kind": "op096",
+  "note": "Follows the 'Pit' label: the party does not fall."
+ },
+ {
+  "en": "Above the clouds{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "There is no floor{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "Suddenly, your bodies felt lighter.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You got caught in something!",
+  "kind": "op096",
+  "note": "No {w} in source; none added. 'Hikkakatta' = snagged/caught in a trap; the ??? voice echoes it in row 919."
+ },
+ {
+  "en": "???",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "\"Ufufufu!{w} Caught you, caught you!\"{w}",
+  "kind": "msg",
+  "note": "Echoes row 917 (hikkakatta = got caught / fell for it)."
+ },
+ {
+  "en": "Your bodies would no longer obey you,\nand you were dragged off somewhere!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Where's my ball... Where's my baaall...{w}",
+  "kind": "op031"
+ },
+ {
+  "en": "*  GOLF  *{w}",
+  "kind": "op096",
+  "note": "Banner; full-width spaces as two ASCII spaces."
+ },
+ {
+  "en": "Clown Doll",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "\"Fooound youuu!{w} My cute little baaalls!!{w} C'mon, c'mon! Let's play some golf, huh!?\"{w}{p}\"Kyeeehhh!!\"{w}",
+  "kind": "msg",
+  "note": "tamatama-chan: 'balls' keeps the source's double entendre (tama = ball / testicles); the party are the golf balls (next slice: 'Nice shot!!')."
+ },
+ {
+  "en": "The Clown Doll raised the club high!{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "en": "Everyone",
+  "len": 11,
+  "note": "spell target type: friend and foe alike"
+ },
+ {
+  "en": "All allies",
+  "len": 9
+ },
+ {
+  "en": "Ally front/back row",
+  "len": 11,
+  "note": "target type (front or back row of the party); exact scope inferred"
+ },
+ {
+  "en": "Cannot be used",
+  "len": 11
+ },
+ {
+  "en": "None",
+  "len": 3,
+  "note": "one-letter status list (none, sleep, poison, paralysis...); 3-letter abbreviations suggested for slice 001: Slp Psn Par Sil Cnf Chm Stn Crs Dth Ash Fer"
+ },
+ {
+  "en": "Par",
+  "len": 3,
+  "note": "status abbreviation (paralysis); see 6:5 note"
+ },
+ {
+  "en": "Cnf",
+  "len": 3,
+  "note": "status abbreviation (confusion); see 6:5 note"
+ },
+ {
+  "en": "OK",
+  "len": 5,
+  "note": "status \"healthy\" (genre-standard OK)"
+ },
+ {
+  "en": "%d:%d:error",
+  "len": 13,
+  "note": "debug"
+ },
+ {
+  "en": "On",
+  "len": 5,
+  "note": "toggle value; context (valid/enabled) inferred"
+ },
+ {
+  "en": "Off",
+  "len": 5,
+  "note": "toggle value; context (invalid/disabled) inferred"
+ },
+ {
+  "en": "  Now",
+  "len": 7,
+  "note": "before/after comparison header; full-width space kept as two spaces"
+ },
+ {
+  "en": "After",
+  "len": 7
+ },
+ {
+  "en": "None",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "%s's actions",
+  "len": 10
+ },
+ {
+  "en": "?Asleep",
+  "len": 12,
+  "note": "slot starts 1 byte early: the leading ? is byte 0x3f, the top byte of the float 1.0f before the string; the real string starts at +1. Keep the ? so the float survives; the game reads \"Asleep\"."
+ },
+ {
+  "en": "Silenced",
+  "len": 13
+ },
+ {
+  "en": "Charmed",
+  "len": 15
+ },
+ {
+  "en": "Confused",
+  "len": 13
+ },
+ {
+  "en": "Paralyzed",
+  "len": 13
+ },
+ {
+  "en": "Petrified",
+  "len": 13
+ },
+ {
+  "en": "Cursed",
+  "len": 13
+ },
+ {
+  "en": "Light",
+  "len": 5,
+  "note": "party effect indicator (light spell)"
+ },
+ {
+  "en": "Protect",
+  "len": 5,
+  "note": "party effect indicator (AC protection)"
+ },
+ {
+  "en": "Float",
+  "len": 5
+ },
+ {
+  "en": "Bless",
+  "len": 5
+ },
+ {
+  "en": "Inf Range",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "A",
+  "len": 3,
+  "note": "debug? adventurer marker (cf. Elm3 Adv=%d)"
+ },
+ {
+  "en": "M",
+  "len": 3,
+  "note": "debug? monster marker"
+ },
+ {
+  "en": "A/M",
+  "len": 5,
+  "note": "debug? adventurer/monster marker; must fit in place (4 bytes)"
+ },
+ {
+  "en": "%s's level\ndropped by %d.",
+  "len": 29
+ },
+ {
+  "en": "You can't use inspection spells",
+  "len": 21,
+  "note": "treasure chest: trap-identifying spells"
+ },
+ {
+  "en": "You can't use unlocking spells",
+  "len": 21,
+  "note": "treasure chest: spells that open the chest safely"
+ },
+ {
+  "en": "You walked away.",
+  "len": 15,
+  "note": "leaving the treasure chest"
+ },
+ {
+  "en": "%s disarmed the trap!",
+  "len": 31
+ },
+ {
+  "en": "%s failed to disarm the trap",
+  "len": 23
+ },
+ {
+  "en": "There was no trap",
+  "len": 23
+ },
+ {
+  "en": "There seems to be no trap",
+  "len": 25
+ },
+ {
+  "en": "Couldn't identify it.",
+  "len": 19
+ },
+ {
+  "en": "ID failed",
+  "len": 9
+ },
+ {
+  "en": "Unidentified",
+  "len": 7
+ },
+ {
+  "en": "The chest opened.",
+  "len": 15
+ },
+ {
+  "en": "Obtained \"%s\"",
+  "len": 19
+ },
+ {
+  "en": "There was an item inside, but you couldn't carry it",
+  "len": 39
+ },
+ {
+  "en": "Warning: item data #%d is duplicated\n",
+  "len": 43,
+  "note": "debug"
+ },
+ {
+  "en": "AC=%3d, Slay=(Ar%d,Ud%d,Sp%d,In%d,An%d,My%d,Gh%d,Dm%d,Dr%d,Fi%d,Ma%d,Pr%d,Th%d,Bk%d,Gi%d,Gd%d),Status=%d,ShopOrder=%d\n",
+  "len": 122,
+  "note": "debug; slay multipliers by monster type / class (Arcane, Undead, Spirit, Insect, Animal, Mythic, Ghost, Demon, Dragon, Fighter, Mage, Priest, Thief, Beastkin, Giant, Godshade) as 2-letter codes; no references, fits in place (118+1 of 122)"
+ },
+ {
+  "en": "Mage",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Priest",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Alchemy",
+  "len": 7,
+  "note": "prefill was the budget-forced \"Alchem\"; this string has references, so the full spell-school name is used (list: Mage, Priest, Alchemy, Summoner)"
+ },
+ {
+  "en": "Summoner",
+  "len": 7,
+  "note": "prefill was the abbreviation \"Sum\"; string has references, full class name used"
+ },
+ {
+  "en": "spell_table[%3d] = %-20s,level=%d, dmg=%3d~%3d,%s,stat_op_type=%d\n",
+  "len": 76,
+  "note": "debug"
+ },
+ {
+  "en": "Self",
+  "len": 5,
+  "note": "target label: the user themself"
+ },
+ {
+  "en": "Tgt=%d, Evasion=%d\n",
+  "len": 20,
+  "note": "debug; tail of a printf that starts 7 bytes earlier (\"%-20s,\" + tab); fits in place (19+1 of 20)"
+ },
+ {
+  "en": "Select an item to use",
+  "len": 33
+ },
+ {
+  "en": "[Wpn] Damage Bonus",
+  "len": 21,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "[Arm] Lower AC",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "[All] Turn Regen",
+  "len": 17,
+  "note": "CSV term Turn Regen; [All] = weapons and armor (as dslice_025)"
+ },
+ {
+  "en": "[All] Resist Mage Spells ",
+  "len": 24
+ },
+ {
+  "en": "[All] Resist Priest Spells",
+  "len": 21
+ },
+ {
+  "en": "[All] Resist Alchemist Spells",
+  "len": 23
+ },
+ {
+  "en": "[Wpn] Inflict Sleep         ",
+  "len": 22,
+  "note": "padded to 28 (longest label + 1) so the column lines up, as the Japanese pads; same for the group"
+ },
+ {
+  "en": "[Wpn] Inflict Poison        ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] Inflict Paralysis     ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] Inflict Silence       ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] Inflict Confusion     ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] Inflict Charm         ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] Inflict Petrification ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] Inflict Decapitation  ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Sleep          ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Poison         ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Paralysis      ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Silence        ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Confusion      ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Charm          ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Petrification  ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Decapitation   ",
+  "len": 22
+ },
+ {
+  "en": "[Arm] Resist Drain",
+  "len": 25,
+  "note": "no padding in the source"
+ }
+]

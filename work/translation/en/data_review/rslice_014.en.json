@@ -1,0 +1,325 @@
+[
+ {
+  "en": "Ragnastia",
+  "max": 24
+ },
+ {
+  "en": "Lord Volms",
+  "max": 24
+ },
+ {
+  "en": "Rondelgius",
+  "max": 24
+ },
+ {
+  "en": "Lunea",
+  "max": 24
+ },
+ {
+  "en": "Haleorat",
+  "max": 24
+ },
+ {
+  "en": "Armitt",
+  "max": 24
+ },
+ {
+  "en": "Benef",
+  "max": 24
+ },
+ {
+  "en": "Muse",
+  "max": 24
+ },
+ {
+  "en": "Super Benef",
+  "max": 24
+ },
+ {
+  "en": "Bilente",
+  "max": 24
+ },
+ {
+  "en": "Gary",
+  "max": 24
+ },
+ {
+  "en": "Jeratan",
+  "max": 24
+ },
+ {
+  "en": "Jera",
+  "max": 24
+ },
+ {
+  "en": "Tarmeet",
+  "max": 24
+ },
+ {
+  "en": "Garian",
+  "max": 24
+ },
+ {
+  "en": "Tris",
+  "max": 24
+ },
+ {
+  "en": "Caron",
+  "max": 24
+ },
+ {
+  "en": "Namina",
+  "max": 24
+ },
+ {
+  "en": "Quasimon",
+  "max": 24
+ },
+ {
+  "en": "Mersenne",
+  "max": 24
+ },
+ {
+  "en": "Kine",
+  "max": 24
+ },
+ {
+  "en": "Harmoni",
+  "max": 24
+ },
+ {
+  "en": "Warmoni",
+  "max": 24
+ },
+ {
+  "en": "Analis",
+  "max": 24
+ },
+ {
+  "en": "D. Knight",
+  "max": 10
+ },
+ {
+  "en": "Snow Bunny",
+  "max": 10
+ },
+ {
+  "en": "Mizuti",
+  "max": 6
+ },
+ {
+  "en": "Chimra",
+  "max": 6
+ },
+ {
+  "en": "Shantiba",
+  "max": 14
+ },
+ {
+  "en": "Ochimusha",
+  "max": 10
+ },
+ {
+  "en": "Snow Bunny",
+  "max": 10
+ },
+ {
+  "en": "Shadow Size",
+  "max": 28
+ },
+ {
+  "en": "Rubenburg 1st-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 2nd-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year",
+  "max": 24
+ },
+ {
+  "en": "Director Archelon",
+  "max": 22
+ },
+ {
+  "en": "Wind Omsis",
+  "max": 14
+ },
+ {
+  "en": "Fire Rades",
+  "max": 12
+ },
+ {
+  "en": "Aqua Shirins",
+  "max": 14
+ },
+ {
+  "en": "Earth Raizas",
+  "max": 14
+ },
+ {
+  "en": "Miyuki",
+  "max": 24
+ },
+ {
+  "en": "Goblin Prince",
+  "max": 24
+ },
+ {
+  "en": "Saines",
+  "max": 8
+ },
+ {
+  "en": "Leafa",
+  "max": 8
+ },
+ {
+  "en": "Prof. Harmoni",
+  "max": 16
+ },
+ {
+  "en": "Prof. Warmoni",
+  "max": 16
+ },
+ {
+  "en": "Mirco Lenzer",
+  "max": 24
+ },
+ {
+  "en": "Gurtia",
+  "max": 24
+ },
+ {
+  "en": "Hess",
+  "max": 24
+ },
+ {
+  "en": "Zephal",
+  "max": 24
+ },
+ {
+  "en": "Elpina",
+  "max": 24
+ },
+ {
+  "en": "Zapper",
+  "max": 24
+ },
+ {
+  "en": "Raizam-1",
+  "max": 24
+ },
+ {
+  "en": "Shadow of Ildraha",
+  "max": 18
+ },
+ {
+  "en": "Shadow of Ashtel",
+  "max": 18
+ },
+ {
+  "en": "Shadow of Rogera",
+  "max": 16
+ },
+ {
+  "en": "Shadow of Void",
+  "max": 14
+ },
+ {
+  "en": "Shadow of Naru",
+  "max": 14
+ },
+ {
+  "en": "Shadow of Dehain",
+  "max": 18
+ },
+ {
+  "en": "Memory of Orses",
+  "max": 16
+ },
+ {
+  "en": "Memory of Sarijana",
+  "max": 18
+ },
+ {
+  "en": "Memory of Semnadoc",
+  "max": 18
+ },
+ {
+  "en": "Memory of Sinhanicol",
+  "max": 20
+ },
+ {
+  "en": "Director Archelon",
+  "max": 22
+ },
+ {
+  "en": "New Land Urna",
+  "max": 22,
+  "note": "accuracy: source kana nickname is the short form (new land + Urna only); matches EL_KIRO.CSV:31:2 'New Land Urna'. Name cell 6:28 keeps 'New Land Urnas Rade'."
+ },
+ {
+  "en": "Wind Omsis",
+  "max": 14
+ },
+ {
+  "en": "Fire Rades",
+  "max": 12
+ },
+ {
+  "en": "Aqua Shirins",
+  "max": 14
+ },
+ {
+  "en": "Earth Raizas",
+  "max": 14
+ },
+ {
+  "en": "Wisdom Demon Beldoll",
+  "max": 22
+ },
+ {
+  "en": "Gregorio, the Only Son",
+  "max": 24,
+  "note": "accuracy: comma added to match name cell MONSTER3.CSV:6:46 and EL_KIRO.CSV:19:2 'Gregorio, the Only Son'."
+ },
+ {
+  "en": "Old Lord Branet",
+  "max": 18
+ },
+ {
+  "en": "Spirit Lord Branet",
+  "max": 18
+ },
+ {
+  "en": "Spirit Lady Eril",
+  "max": 16
+ },
+ {
+  "en": "Underworld Gt.",
+  "max": 14,
+  "note": "accuracy: aligned to name cell MONSTER3.CSV:6:52, EL_KIRO.CSV:15:2 and MONRAW.CSV:653:43 'Underworld Gt.' (script: Gate of the Underworld, 22 > 14)."
+ },
+ {
+  "en": "Miyuki",
+  "max": 6
+ },
+ {
+  "en": "General Winter",
+  "max": 14
+ },
+ {
+  "en": "Captain Wanelly",
+  "max": 18
+ },
+ {
+  "en": "Vice Principal Kathleen",
+  "max": 24
+ },
+ {
+  "en": "Prof. Scheherazade",
+  "max": 20
+ }
+]

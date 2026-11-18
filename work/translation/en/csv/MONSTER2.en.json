@@ -1,0 +1,5231 @@
+[
+ {
+  "id": "MONSTER2.CSV:3:121",
+  "en": "Max",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:3:122",
+  "en": "Step",
+  "max": 18,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:3:123",
+  "en": "Note",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:5:2",
+  "en": "Settings",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:5:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:3",
+  "en": "Name",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:4",
+  "en": "Wyvern",
+  "max": 10,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:5",
+  "en": "Copper Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:6",
+  "en": "Green Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:7",
+  "en": "Both Heads",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:8",
+  "en": "Red Dragon",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:9",
+  "en": "Poison Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:10",
+  "en": "Hydra",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:11",
+  "en": "Grannada",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:12",
+  "en": "Scaly Halo",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:13",
+  "en": "Rootless Tail",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:14",
+  "en": "Amphisbaena",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:15",
+  "en": "Gold Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:16",
+  "en": "Elemental Wieg",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:17",
+  "en": "Emerald Dragon",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:18",
+  "en": "Dras Gloria",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:19",
+  "en": "Fighter",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:20",
+  "en": "Ronin",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:21",
+  "en": "Elven Knight",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:22",
+  "en": "Berserker",
+  "max": 10,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:23",
+  "en": "Crusader",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:24",
+  "en": "Gladiator",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:25",
+  "en": "Fandebu",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:26",
+  "en": "Hell Rider",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:27",
+  "en": "Avenger",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:28",
+  "en": "Daimyo",
+  "max": 10,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:29",
+  "en": "Dark Lord",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:30",
+  "en": "Maharaja Knight",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:31",
+  "en": "Lady Smash",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:32",
+  "en": "Hatamoto",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:33",
+  "en": "Kurushu Knight",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:34",
+  "en": "Dragon Lord",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:35",
+  "en": "Mifune",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:36",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:37",
+  "en": "Alchemist",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:38",
+  "en": "Rubenburg 1st-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:39",
+  "en": "Rubenburg 1st-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:40",
+  "en": "Witch",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:41",
+  "en": "Bard",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:42",
+  "en": "Rubenburg 2nd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:43",
+  "en": "Rubenburg 2nd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:44",
+  "en": "High Sorceress",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:45",
+  "en": "High Alchemy",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:46",
+  "en": "Snail Lich",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:47",
+  "en": "Picnicker",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:48",
+  "en": "Rubenburg 3rd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:49",
+  "en": "Rubenburg 3rd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:50",
+  "en": "Master Mage",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:51",
+  "en": "Master Alchemist",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:52",
+  "en": "Chanter Reed",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:53",
+  "en": "Arch Summoner",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:54",
+  "en": "Joker",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:55",
+  "en": "Sarijany",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:56",
+  "en": "Priest",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:57",
+  "en": "Lesser Maid",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:58",
+  "en": "Bishop",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:59",
+  "en": "Valkyrie",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:60",
+  "en": "Priestess",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:61",
+  "en": "Greater Maid",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:62",
+  "en": "High Bishop",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:63",
+  "en": "Missionary",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:64",
+  "en": "Unholy Chapel",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:65",
+  "en": "Kannagi",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:66",
+  "en": "Master Priest",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:67",
+  "en": "Arch Maid",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:68",
+  "en": "Master Bishop",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:69",
+  "en": "Onmyoji",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:70",
+  "en": "Master Valkyrie",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:71",
+  "en": "Soul Slave",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:72",
+  "en": "Thief",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:73",
+  "en": "Ranger",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:74",
+  "en": "Genin",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:75",
+  "en": "Rogue",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:76",
+  "en": "Forest Guard",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:77",
+  "en": "Kunoichi",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:78",
+  "en": "Lucky Star",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:79",
+  "en": "Arob",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:80",
+  "en": "Shooting Moon",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:81",
+  "en": "High Ninja",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:82",
+  "en": "Beauty",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:83",
+  "en": "Kagerou",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:84",
+  "en": "Arc Launcher",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:85",
+  "en": "Summer",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:86",
+  "en": "Goblin",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:87",
+  "en": "Kobold",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:88",
+  "en": "Orc",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:89",
+  "en": "Skunk Girl",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:90",
+  "en": "Taranti",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:91",
+  "en": "Ogre",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:92",
+  "en": "Lizardman",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:93",
+  "en": "Centaur",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:94",
+  "en": "Kobold King",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:95",
+  "en": "Orc King",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:96",
+  "en": "Lizard King",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:97",
+  "en": "Mermaid",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:98",
+  "en": "Ogre Knight",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:99",
+  "en": "Redcap",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:100",
+  "en": "Tiger Lady",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:101",
+  "en": "Goblin Magician",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:102",
+  "en": "Mermaid Queen",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:103",
+  "en": "Raver Lord",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:104",
+  "en": "Troll",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:105",
+  "en": "Ettin",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:106",
+  "en": "Minotaur",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:107",
+  "en": "Fire Giant",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:108",
+  "en": "Cyclops",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:109",
+  "en": "Frost Giant",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:110",
+  "en": "Cacus",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:111",
+  "en": "Sedna",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:112",
+  "en": "Poison Giant",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:113",
+  "en": "Cosplay Priest",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:114",
+  "en": "Flatwoods",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:115",
+  "en": "Tumasio",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:6:119",
+  "en": "Double-byte text",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:122",
+  "en": "Double-byte text",
+  "max": 18,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:6:123",
+  "en": "May include kanji.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:3",
+  "en": "Nickname",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:4",
+  "en": "Wyvern",
+  "max": 10,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:5",
+  "en": "Copper Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:6",
+  "en": "Green Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:7",
+  "en": "Both Heads",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:8",
+  "en": "Red Dragon",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:9",
+  "en": "Poison Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:10",
+  "en": "Hydra",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:11",
+  "en": "Grannada",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:12",
+  "en": "Scaly Halo",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:13",
+  "en": "Rootless Tail",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:14",
+  "en": "Amphisbaena",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:15",
+  "en": "Gold Dragon",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:16",
+  "en": "Elemental Wieg",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:17",
+  "en": "Emerald Dragon",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:18",
+  "en": "Dras Gloria",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:19",
+  "en": "Fighter",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:20",
+  "en": "Ronin",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:21",
+  "en": "Elven Knight",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:22",
+  "en": "Berserker",
+  "max": 10,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:23",
+  "en": "Crusader",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:24",
+  "en": "Gladiator",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:25",
+  "en": "Fandebu",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:26",
+  "en": "Hell Rider",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:27",
+  "en": "Avenger",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:28",
+  "en": "Daimyo",
+  "max": 10,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:29",
+  "en": "Dark Lord",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:30",
+  "en": "Maharaja Knight",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:31",
+  "en": "Lady Smash",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:32",
+  "en": "Hatamoto",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:33",
+  "en": "Kurushu Knight",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:34",
+  "en": "Dragon Lord",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:35",
+  "en": "Mifune",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:36",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:37",
+  "en": "Alchemist",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:38",
+  "en": "Rubenburg 1st-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:39",
+  "en": "Rubenburg 1st-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:40",
+  "en": "Witch",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:41",
+  "en": "Bard",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:42",
+  "en": "Rubenburg 2nd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:43",
+  "en": "Rubenburg 2nd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:44",
+  "en": "High Sorceress",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:45",
+  "en": "High Alchemy",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:46",
+  "en": "Snail Lich",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:47",
+  "en": "Picnicker",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:48",
+  "en": "Rubenburg 3rd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:49",
+  "en": "Rubenburg 3rd-Year",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:50",
+  "en": "Master Mage",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:51",
+  "en": "Master Alchemist",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:52",
+  "en": "Chanter Reed",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:53",
+  "en": "Arch Summoner",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:54",
+  "en": "Joker",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:55",
+  "en": "Sarijany",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:56",
+  "en": "Priest",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:57",
+  "en": "Lesser Maid",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:58",
+  "en": "Bishop",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:59",
+  "en": "Valkyrie",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:60",
+  "en": "Priestess",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:61",
+  "en": "Greater Maid",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:62",
+  "en": "High Bishop",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:63",
+  "en": "Missionary",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:64",
+  "en": "Unholy Chapel",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:65",
+  "en": "Kannagi",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:66",
+  "en": "Master Priest",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:67",
+  "en": "Arch Maid",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:68",
+  "en": "Master Bishop",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:69",
+  "en": "Onmyoji",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:70",
+  "en": "Master Valkyrie",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:71",
+  "en": "Soul Slave",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:72",
+  "en": "Thief",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:73",
+  "en": "Ranger",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:74",
+  "en": "Genin",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:75",
+  "en": "Rogue",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:76",
+  "en": "Forest Guard",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:77",
+  "en": "Kunoichi",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:78",
+  "en": "Lucky Star",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:79",
+  "en": "Arob",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:80",
+  "en": "Shooting Moon",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:81",
+  "en": "High Ninja",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:82",
+  "en": "Beauty",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:83",
+  "en": "Kagerou",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:84",
+  "en": "Arc Launcher",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:85",
+  "en": "Summer",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:86",
+  "en": "Goblin",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:87",
+  "en": "Kobold",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:88",
+  "en": "Orc",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:89",
+  "en": "Skunk Girl",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:90",
+  "en": "Taranti",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:91",
+  "en": "Ogre",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:92",
+  "en": "Lizardman",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:93",
+  "en": "Centaur",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:94",
+  "en": "Kobold King",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:95",
+  "en": "Orc King",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:96",
+  "en": "Lizard King",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:97",
+  "en": "Mermaid",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:98",
+  "en": "Ogre Knight",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:99",
+  "en": "Redcap",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:100",
+  "en": "Tiger Lady",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:101",
+  "en": "Goblin Magician",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:102",
+  "en": "Mermaid Queen",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:103",
+  "en": "Raver Lord",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:104",
+  "en": "Troll",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:105",
+  "en": "Ettin",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:106",
+  "en": "Minotaur",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:107",
+  "en": "Fire Giant",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:108",
+  "en": "Cyclops",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:109",
+  "en": "Frost Giant",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:110",
+  "en": "Cacus",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:111",
+  "en": "Sedna",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:112",
+  "en": "Poison Giant",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:113",
+  "en": "Cosplay Priest",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:114",
+  "en": "Flatwoods",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:115",
+  "en": "Tumasio",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:7:119",
+  "en": "Double-byte text",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:122",
+  "en": "Double-byte text",
+  "max": 18,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:7:123",
+  "en": "Alphanumerics, hiragana, katakana and some symbols only. No kanji.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:8:3",
+  "en": "Icon",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:8:119",
+  "en": "Number",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:9:3",
+  "en": "Level",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:9:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:10:3",
+  "en": "Race",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:10:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:11:3",
+  "en": "Sex",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:11:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:12:3",
+  "en": "Age",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:12:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:13:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:14:3",
+  "en": "Class",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:14:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:15:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:16:2",
+  "en": "Status",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:16:3",
+  "en": "Current HP",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:16:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:17:3",
+  "en": "Max HP",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:17:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:18:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:19:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:20:3",
+  "en": "Intellect",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:20:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:21:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:22:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:23:3",
+  "en": "Agility",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:23:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:24:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:25:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:26:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:27:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:28:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:29:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:30:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:31:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:32:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:33:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:34:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:35:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:36:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:37:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:38:3",
+  "en": "Experience",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:38:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:38:123",
+  "en": "2^32-1",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:39:3",
+  "en": "Money",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:39:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:39:123",
+  "en": "2^32-1",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:40:2",
+  "en": "Status Ailments",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:40:3",
+  "en": "Sleep",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:40:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:41:3",
+  "en": "Poison",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:41:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:42:3",
+  "en": "Paralysis",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:42:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:43:3",
+  "en": "Silence",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:43:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:44:3",
+  "en": "Confusion",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:44:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:45:3",
+  "en": "Charm",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:45:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:46:3",
+  "en": "Petrification",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:46:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:47:3",
+  "en": "Curse",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:47:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:48:3",
+  "en": "Death",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:48:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:49:3",
+  "en": "Ash",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:49:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:50:3",
+  "en": "Fear",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:50:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:51:3",
+  "en": "Hiding",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:51:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:52:3",
+  "en": "Marked",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:52:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:53:3",
+  "en": "Inf Range",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:53:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:54:3",
+  "en": "Balad",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:54:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:55:3",
+  "en": "Misama",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:55:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:56:3",
+  "en": "Dioseed",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:56:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:57:3",
+  "en": "Balados",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:58:3",
+  "en": "Glass",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:59:3",
+  "en": "Ramisama",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:60:3",
+  "en": "Venom",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:61:3",
+  "en": "Mabalad",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:62:3",
+  "en": "Ziakal",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:63:3",
+  "en": "Ravenom",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:64:3",
+  "en": "Robuti",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:65:3",
+  "en": "Maglass",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:66:3",
+  "en": "Stoma",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:67:3",
+  "en": "Sosareo",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:68:3",
+  "en": "Rabalad",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:69:3",
+  "en": "Argeiss",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:70:3",
+  "en": "Hallobuti",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:71:3",
+  "en": "Raglass",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:72:3",
+  "en": "Ziakalad",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:73:3",
+  "en": "Rastoma",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:74:3",
+  "en": "Enterook Mista",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:75:3",
+  "en": "Diomente",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:76:3",
+  "en": "Miracle",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:77:3",
+  "en": "Feria",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:78:3",
+  "en": "Harias",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:79:3",
+  "en": "Tashif",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:80:3",
+  "en": "Erod",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:81:3",
+  "en": "Venom-Fei",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:82:3",
+  "en": "Latasif",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:83:3",
+  "en": "Hallobukan",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:84:3",
+  "en": "Zomperi",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:85:3",
+  "en": "Feirima",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:86:3",
+  "en": "Roodfei",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:87:3",
+  "en": "Eroma",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:88:3",
+  "en": "Rafelima",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:89:3",
+  "en": "Mirror Eyes",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:90:3",
+  "en": "Hallobukarm",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:91:3",
+  "en": "Honey Restorer",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:92:3",
+  "en": "Sama Eyes",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:93:3",
+  "en": "Zefeifus",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:94:3",
+  "en": "Robukand",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:95:3",
+  "en": "Psi Drain",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:96:3",
+  "en": "Feireed",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:97:3",
+  "en": "Rizefus",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:99:3",
+  "en": "Psi Breath",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:100:3",
+  "en": "Immolarati",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:101:3",
+  "en": "Rafeireed",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:102:3",
+  "en": "Rezefeid",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:103:3",
+  "en": "Razefeis",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:104:3",
+  "en": "Pomedoon",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:105:3",
+  "en": "Rood",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:106:3",
+  "en": "Mahamaha",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:107:3",
+  "en": "Portal",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:108:3",
+  "en": "Rarood",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:109:3",
+  "en": "Bulafei",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:110:3",
+  "en": "Skorekh",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:111:3",
+  "en": "Karacha",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:112:3",
+  "en": "Orath",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:113:3",
+  "en": "Lascorek",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:114:3",
+  "en": "Makaracha",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:115:3",
+  "en": "Bifei",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:116:3",
+  "en": "Yuniwa Coat",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:117:3",
+  "en": "Pinto",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:118:3",
+  "en": "Rapoolfei",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:119:3",
+  "en": "Ramialf",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:120:3",
+  "en": "Pendeku",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:121:3",
+  "en": "Rapinto",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:122:3",
+  "en": "Rapidos",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:123:3",
+  "en": "Pendea Coat",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:124:3",
+  "en": "Zeo Nadar",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:125:3",
+  "en": "High Portal",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:126:3",
+  "en": "Protectorate",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:148:3",
+  "en": "Miasma Wave",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:149:3",
+  "en": "Bell of Judgment",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:150:3",
+  "en": "Self-Destruct",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:151:3",
+  "en": "Mirroring",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:152:3",
+  "en": "Pull",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:153:3",
+  "en": "Summon",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:154:3",
+  "en": "Latch On",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:155:3",
+  "en": "Eclipse",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:156:3",
+  "en": "Afternoon Nap",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:157:3",
+  "en": "Lullaby",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:158:3",
+  "en": "Nightmare",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:160:3",
+  "en": "Mind Crush",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:161:3",
+  "en": "Soul Trap",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:162:3",
+  "en": "Oldaim",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:180:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:181:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:182:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:183:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:184:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:185:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:186:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:187:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:188:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:189:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:190:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:191:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:192:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:193:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:194:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:195:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:196:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:197:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:198:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:199:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:200:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:201:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:202:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:203:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:204:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:205:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:206:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:207:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:208:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:209:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:210:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:211:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:212:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:213:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:214:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:215:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:216:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:217:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:218:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:219:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:220:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:221:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:222:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:223:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:224:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:225:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:226:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:227:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:228:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:229:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:230:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:231:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:232:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:233:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:234:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:235:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:236:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:237:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:238:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:239:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:240:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:241:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:242:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:243:3",
+  "en": "High Master/Summa Ability 1",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:243:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:244:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:245:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:246:3",
+  "en": "High Master/Summa Ability 4",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:246:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:247:2",
+  "en": "SpellRes",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:247:3",
+  "en": "Mage",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:247:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:247:123",
+  "en": "Unit (%). Base value is fixed at 100%; calculated from equipment, etc.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:248:3",
+  "en": "Priest",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:248:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:249:3",
+  "en": "Alchem",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:249:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:250:3",
+  "en": "Summon",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:250:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:251:2",
+  "en": "Innate Skills (per monster, etc.)",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:251:3",
+  "en": "Ailment Recovery Rate",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:251:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:251:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:252:3",
+  "en": "Turn Regen",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:252:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:253:3",
+  "en": "Breath",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:253:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:254:3",
+  "en": "Weapon Seal",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:254:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:254:123",
+  "en": "Enemy-only attribute.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:255:3",
+  "en": "Armor Seal",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:255:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:255:123",
+  "en": "Enemy-only attribute.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:256:3",
+  "en": "Inf Range",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:256:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:256:123",
+  "en": "Can be granted by magic (tracked separately).",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:257:3",
+  "en": "Run",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:257:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:258:3",
+  "en": "Reinforcements",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:258:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:259:3",
+  "en": "Nullify Physical",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:259:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:260:3",
+  "en": "Absorb Physical",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:260:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:261:3",
+  "en": "Reflect Physical",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:261:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:262:2",
+  "en": "Slaying",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:262:3",
+  "en": "Arcane",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:262:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:262:123",
+  "en": "Stacked up from class, equipment, etc.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:263:3",
+  "en": "Undead",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:263:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:264:3",
+  "en": "Spirit",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:264:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:265:3",
+  "en": "Insect",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:265:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:266:3",
+  "en": "Animal",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:266:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:267:3",
+  "en": "Mythic",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:267:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:268:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:269:3",
+  "en": "The Devil",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:269:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:270:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:271:3",
+  "en": "Fighter",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:271:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:272:3",
+  "en": "Mage",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:272:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:273:3",
+  "en": "Priest",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:273:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:274:3",
+  "en": "Thief",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:274:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:275:3",
+  "en": "Beastkin",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:275:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:276:3",
+  "en": "Giant",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:276:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:277:3",
+  "en": "Godshade",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:277:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:278:2",
+  "en": "Elem Atk",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:278:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:278:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:279:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:279:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:280:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:280:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:281:3",
+  "en": "Holy",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:281:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:281:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:282:3",
+  "en": "Dark",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:282:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:282:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:283:2",
+  "en": "Elem Def",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:283:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:283:123",
+  "en": "Unit (%)\n100 = Nullify\n200 = Absorb\n300 = Reflect",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:284:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:285:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:286:3",
+  "en": "Holy",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:286:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:287:3",
+  "en": "Dark",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:287:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:288:2",
+  "en": "Inflict",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:288:3",
+  "en": "Sleep",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:288:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:288:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:289:3",
+  "en": "Poison",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:289:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:289:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:290:3",
+  "en": "Paralysis",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:290:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:290:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:291:3",
+  "en": "Silence",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:291:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:291:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:292:3",
+  "en": "Confusion",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:292:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:292:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:293:3",
+  "en": "Charm",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:293:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:293:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:294:3",
+  "en": "Petrification",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:294:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:294:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:295:3",
+  "en": "Decap",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:295:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:295:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:296:3",
+  "en": "Drain",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:296:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:296:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:297:2",
+  "en": "Resist",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:297:3",
+  "en": "Sleep",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:297:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:297:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:298:3",
+  "en": "Poison",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:298:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:298:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:299:3",
+  "en": "Paralysis",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:299:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:299:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:300:3",
+  "en": "Silence",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:300:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:300:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:301:3",
+  "en": "Confusion",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:301:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:301:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:302:3",
+  "en": "Charm",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:302:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:302:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:303:3",
+  "en": "Petrification",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:303:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:303:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:304:3",
+  "en": "Decap",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:304:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:304:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:305:3",
+  "en": "Drain",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:305:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:305:123",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:306:2",
+  "en": "Equipment Settings",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:306:3",
+  "en": "Main",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:306:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:306:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:307:3",
+  "en": "Sub",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:307:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:307:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:308:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:308:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:309:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:309:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:310:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:310:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:311:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:311:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:312:3",
+  "en": "Accessory 1",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:312:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:312:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:313:3",
+  "en": "Accessory 2",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:313:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:313:123",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:314:2",
+  "en": "Curse Trigger Flag",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:314:3",
+  "en": "Main",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:314:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:314:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:315:3",
+  "en": "Sub",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:315:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:315:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:316:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:316:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:317:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:317:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:318:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:318:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:319:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:319:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:320:3",
+  "en": "Accessory 1",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:320:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:320:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:321:3",
+  "en": "Accessory 2",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:321:119",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:321:123",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:322:2",
+  "en": "Regular Inventory",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:322:3",
+  "en": "Item 1",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:322:119",
+  "en": "One Item sheet entry",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:323:3",
+  "en": "Item 2",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:324:3",
+  "en": "Item 3",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:325:3",
+  "en": "Item 4",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:326:3",
+  "en": "Item 5",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:327:3",
+  "en": "Item 6",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:328:3",
+  "en": "Item 7",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:329:3",
+  "en": "Item 8",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:330:3",
+  "en": "Item 9",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:331:3",
+  "en": "Item 10",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:332:2",
+  "en": "Servant's Bag",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:332:3",
+  "en": "Salve",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:332:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:333:3",
+  "en": "Full Heal Potion",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:333:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:334:3",
+  "en": "Wake-Up Potion",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:334:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:335:3",
+  "en": "Antidote",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:335:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:336:3",
+  "en": "Paralysis Cure",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:336:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:337:3",
+  "en": "Nightdew Lozenge",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:337:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:338:3",
+  "en": "Calming Herb",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:338:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:339:3",
+  "en": "First Love Gem",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:339:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:340:3",
+  "en": "Stonemelt Water",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:340:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:341:3",
+  "en": "Headache Remedy",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:341:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:342:2",
+  "en": "Tarot Cards",
+  "max": 42,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:342:3",
+  "en": "The Fool",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:342:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:343:3",
+  "en": "Mage",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:343:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:344:3",
+  "en": "The High Priestess",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:344:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:345:3",
+  "en": "The Empress",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:345:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:346:3",
+  "en": "The Emperor",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:346:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:347:3",
+  "en": "The Hierophant",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:347:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:348:3",
+  "en": "The Lovers",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:348:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:349:3",
+  "en": "The Chariot",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:349:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:350:3",
+  "en": "Justice",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:350:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:351:3",
+  "en": "The Hermit",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:351:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:352:3",
+  "en": "Wheel of Fortune",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:352:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:353:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:354:3",
+  "en": "The Hanged Man",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:354:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:355:3",
+  "en": "Death",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:355:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:356:3",
+  "en": "Temperance",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:356:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:357:3",
+  "en": "The Devil",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:357:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:358:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:359:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:360:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:361:3",
+  "en": "The Sun",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:361:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:362:3",
+  "en": "Judgement",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:362:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:363:3",
+  "en": "The World",
+  "max": 28,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONSTER2.CSV:363:119",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:364:3",
+  "en": "Recover Trigger Timing",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:365:3",
+  "en": "Y Offset\n(Floating)",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:366:3",
+  "en": "Cursor\nHeight",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:367:3",
+  "en": "Contract Monster 1",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:368:3",
+  "en": "Contract Monster 2",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:369:3",
+  "en": "Contract Monster 3",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:370:3",
+  "en": "Contract Monster 4",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:371:3",
+  "en": "Contract Monster 5",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:372:3",
+  "en": "Contract Monster 6",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:373:3",
+  "en": "Contract Monster 7",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:374:3",
+  "en": "Display Monster Gfx No.",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:375:3",
+  "en": "Shadow Size",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONSTER2.CSV:376:3",
+  "en": "Blessing of Change Disabled",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ }
+]

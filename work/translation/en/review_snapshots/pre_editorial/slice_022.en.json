@@ -1,0 +1,351 @@
+[
+ {
+  "en": "At last, Bahamut was reeled in!{w}",
+  "kind": "msg",
+  "note": "Source has no subject. Benef holds the rod and the party weakened the fish, so the passive keeps it open."
+ },
+ {
+  "en": "\"I did it! I did iiiit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When the long battle was over, a gigantic fish lay before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's huuuge, nya!!\"{w}",
+  "kind": "msg",
+  "note": "Muse's verbal tic: nya = nya, nyan = nyan. Not yet set by another slice; harmonize with slice_021."
+ },
+ {
+  "en": "\"How about that, Muse!{w}Think you can steal THIS one from me and swallow it whole!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wahahaha! You can't, can you!?{w}Eat it if you can!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm allowed, nya?\"{w}",
+  "kind": "msg",
+  "note": "Muse is checking that Benef really means she may eat it (next rows confirm)."
+ },
+ {
+  "en": "\"Hahaha... Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can really eat it, nya?\"{w}{p}\"Then Muse is going all out too...{w}Unyunyunyunyuuu~~\"{w}",
+  "kind": "msg",
+  "note": "Muse refers to herself as Muse (third person); kept."
+ },
+ {
+  "en": "\"D-don't tell me you're...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Suuuper... MYUUUUU!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what is this light!?{w}Gwaaaaah!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Super Muse",
+  "kind": "name"
+ },
+ {
+  "en": "\"Nya!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoooaaa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"FUHAHAHA!\nI HUNGER, YOU FOOLS!!\"{w}{p}\"ALL THOSE YEARS OF HOLDING BACK MY HUNGRY SPIRIT HAVE PAID OFF!\"{w}{p}\"I, THE GREAT SUPER MUSE, SHALL DEVOUR THE WORLD AND ALL IN IT!{w}I SHALL BEGIN WITH THAT LITTLE FISHY THERE!\"{w}",
+  "kind": "msg",
+  "note": "Super Muse speaks in all-hiragana with spaced phrases (old 8-bit RPG boss text); rendered in ALL CAPS. hungry seishin (drive) is punned with literal hunger: 'hungry spirit'. 'Little fishy' = kozakana, i.e. Bahamut."
+ },
+ {
+  "en": "\"CHOMP!\"{w}",
+  "kind": "msg",
+  "note": "All caps for Super Muse, as above."
+ },
+ {
+  "en": "\"Ba... Bahamut...{w}My rival...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MUNCH MUNCH... WHAT IS THIS!?{w}THAT BITE ONLY THE WILD-CAUGHT KIND HAS...\"{w}{p}\"FIRM FLESH WITH A PLUMP, SPRINGY TEXTURE!?{w}NYAHAAAAAAAAUUU!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MY HUNGRY SPIRIT...{w}IS BEING SATISFIEEED?{w}CURSE YOOOU...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmm, so satisfied, nyaaa. ...Flop.{w}Zzz... zzz...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Muse deftly spat out nothing but the bones, then flopped back down as usual.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-there's nothing left but bones, picked clean!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The soundly sleeping girl's face showed not even a trace of the outrageous events of moments ago.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm.{w}Now there's no way to prove it was caught, but please, at least take these bones with you.\"{w}{p}\"Muse... what a fearsome one...\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: source gives no subject for who needs the proof; the 'ga' contrast with handing over the bones suggests the bones serve as proof for the party, so the passive keeps it open instead of 'I'."
+ },
+ {
+  "en": "You found something in Bahamut's bones.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mnya mnya~\"{w}",
+  "kind": "msg",
+  "note": "munyamunya (sleep mumbling) rendered with Muse's cat sound."
+ },
+ {
+  "en": "A Werebeast girl is sleeping.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm so hungryyy, nyaaa~~~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Grrrrumble~~~ gurrrgle~~~{w}{p}You thought it was the ship creaking, but it was coming from the girl's stomach.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmm... *yawn*.{w}My tummy was so empty it woke me up, nyan.{w}Huh, who are you, nya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Grrrrumble~~~ gurrrgle~~~{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, my tummy is screaming, nya!{w}Everyone, save Muse's tummy, nya!{w}Or else something terrible will happen to the land, nya!!\"{w}",
+  "kind": "msg",
+  "note": "'Everyone' (minna) = the party."
+ },
+ {
+  "en": "\"What will save Muse's tummy is...{w}...a Toryoron Potato, nya!\"{w}{p}\"They grow in the Dekor Ruins, so go and get one, nya!\"{w}",
+  "kind": "msg",
+  "note": "Toryoron Potato and Dekor Ruins per glossary notes."
+ },
+ {
+  "en": "\"I'm counting on you, nya~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Zzz... zzz...{w}Dekor Ruins...{w}Toryoron Potato...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You called out to her, but she showed no sign of waking up at all.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you took out the Toryoron Potato, Muse woke up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a Toryoron Potato, nya!{w}You got it for me, nyan!? You're useful, nya!{w}I'll make you Muse's underlings, nya!\"{w}{p}\"Chomp... munch munch...{w}Mmm! It's all toryo-ey and yummy!{w}Yum-nyan-nyan~\"{w}",
+  "kind": "msg",
+  "note": "kobun = underlings (rank 1). 'toryo~tto shite' puns on the potato's name: 'toryo-ey'. umanyannyan = 'Yum-nyan-nyan'."
+ },
+ {
+  "en": "\"Ahh, so full, so fu... ll?\"{w}",
+  "kind": "msg",
+  "note": "manzoku manzo...ku: the word breaks off as her hunger returns."
+ },
+ {
+  "en": "\"Ugh, my tummy is screaming again, nya!{w}Everyone, save Muse's tummy, nya!!\"{w}{p}\"What will save Muse's tummy is...{w}...a Sun Melon, nya!\"{w}{p}\"They grow in the Blanc Desert, so go and get one, nya!\"{w}",
+  "kind": "msg",
+  "note": "Taiyou no uri = Sun Melon (uri: gourd/melon)."
+ },
+ {
+  "en": "\"I'm counting on you, nya~{w}Muse will sleep here while she waits, nya...{w}Zzz... zzz...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Zzz... zzz...{w}Blanc Desert...{w}Sun Melon...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You called out to your boss, but she showed no sign of waking up at all.{w}",
+  "kind": "msg",
+  "note": "oyabun: Muse, who had just made you her underlings."
+ },
+ {
+  "en": "When you took out the Sun Melon, Muse woke up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a Sun Melon, nya!{w}You got it for me, nyan!? You're useful, nya!{w}I'll make you Muse's boss, nya!\"{w}{p}\"Chomp... munch munch...{w}Mmm! It smells like sunshine, and it's yummy!{w}Yum-nyan-nyan~\"{w}",
+  "kind": "msg",
+  "note": "oyabun = boss (rank 2)."
+ },
+ {
+  "en": "\"Ugh, my tummy is screaming again, nya!{w}Everyone, save Muse's tummy, nya!!\"{w}{p}\"What will save Muse's tummy is...{w}...a Heerdahl Manju, nya!\"{w}{p}\"They sell them at the Heerdahl hot springs, so go and buy one, nya!\"{w}",
+  "kind": "msg",
+  "note": "Manju follows the glossary 'Manju Seller'."
+ },
+ {
+  "en": "\"Zzz... zzz...{w}Heerdahl...{w}Manju...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You called out to your underling, but she showed no sign of waking up at all.{w}",
+  "kind": "msg",
+  "note": "kobun: roles swapped, Muse is now your underling."
+ },
+ {
+  "en": "When you took out the Heerdahl Manju, Muse woke up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a Heerdahl Manju, nya!{w}You got it for me, nyan!? You're useful, nya!{w}I'll make you Muse's master, nya!\"{w}{p}\"Chomp... munch munch...{w}Mmm! It's packed with red bean paste, yummy!{w}Yum-nyan-nyan~\"{w}",
+  "kind": "msg",
+  "note": "goshujin-sama = master (rank 3)."
+ },
+ {
+  "en": "\"Ahh, so full, so full!{w}But to finish off, I really want some dessert, nyan.\"{w}{p}\"The perfect dessert for Muse is...{w}...Shirinmorin's Leg, nya!\"{w}{p}\"I want you to go to the Narmant Trench, where Shirinmorin lives, and bring back Shirinmorin's Leg, nya!\"{w}",
+  "kind": "msg",
+  "note": "Shirinmorin is the Water Sage (glossary). ashi = 'Leg' kept literal; it is eaten still wriggling (5066), so it may be a tentacle."
+ },
+ {
+  "en": "\"Zzz... zzz...{w}Narmant...{w}Shirinmorin's Leg...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You called out to her as her master, but she showed no sign of waking up at all.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you took out Shirinmorin's Leg, Muse woke up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's Shirinmorin's Leg, nya!{w}You got it for me, nyan!? You're useful, nya!{w}I probably love you, nya!\"{w}{p}\"Chomp... munch munch...{w}Mmm! It's still moving, nya! Eating it alive, nya!!{w}Yum-nyan-nyan~\"{w}",
+  "kind": "msg",
+  "note": "tabun aishiteru: the hedge 'probably' is the joke; kept. odorigui = eating it while it still moves."
+ },
+ {
+  "en": "\"I'm satisfied, nya.{w}As thanks, Muse will teach you her special move, nya!\"{w}{p}\"But this move... puts a curse of hunger on you when you equip it, nya.{w}Use it when there's nothing else you can do, nyan!\"{w}",
+  "kind": "msg",
+  "note": "harapeko no noroi = 'curse of hunger'; may be a game status name, so check against the item/skill text."
+ },
+ {
+  "en": "\"Muse's tummy is full of hungry, nya!{w}If it goes on a rampage, it'll be a disaster, nya!{w}Well done, nyan!!\"{w}",
+  "kind": "msg",
+  "note": "Context of this line is unclear (possibly the move's flavor text or a later idle line). 'full of hungry' keeps the hungry pun."
+ },
+ {
+  "en": "Bilente",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome. My name is Bilente.\"{w}{p}\"As you can see, I stock nothing but junk, but I do hope you'll favor me with your custom... Heh heh.\"{w}",
+  "kind": "msg",
+  "note": "fufu rendered as 'Heh heh' throughout for Bilente."
+ },
+ {
+  "en": "\"I have a fondness for mysterious things... particularly antiques and toys with a dark history.\"{w}{p}\"To start from the rumors surrounding old furnishings and toys, and let one's thoughts drift to the human hearts hidden behind them -- that is romance of the grandest kind, you see.\"{w}{p}\"And collecting them on the side while running the shop, I ended up like this...\"{w}{p}\"Since I spend my entire fortune on my hobby, even my wife has run out of patience with me... Heh heh.\"{w}",
+  "kind": "msg",
+  "note": "kanai = 'my wife' (the word itself means one's own wife). Bilente's gender is not stated otherwise; no pronoun used for Bilente."
+ },
+ {
+  "en": "\"When you're surrounded by so much mysterious junk like this, now and then you sense a will in some of it.\"{w}{p}\"Take this bizarre carving of an old man, for example.{w}It sells now and then, but after a while it slips back in among the goods I've bought in.\"{w}{p}\"On nights like that, it stands by my pillow and stares at me, you know.\"{w}{p}\"It must be awfully fond of me. It needn't hold me frozen with sleep paralysis -- I'm not going to run away... Heh heh.\"{w}",
+  "kind": "msg",
+  "note": "kanashibari = being held paralyzed (sleep paralysis)."
+ },
+ {
+  "en": "\"This is an item I bought in the other day, called the Beldoll. It's what you'd call a puzzle ring.\"{w}{p}\"Naturally, since I'm the one who acquired it, it's no ordinary puzzle ring.\"{w}{p}\"They say that if you thread all the rings of the solved puzzle onto this key, something mysterious will happen.\"{w}{p}\"I simply can't resist the mysterious.{w}But I've been at it these past few days, and I'm nowhere near solving it.\"{w}{p}\"Part of me wants to solve it myself, but my wish to see the Beldoll's mystery wins out...\"{w}{p}\"So I've been thinking I might entrust it to someone who travels the world, have all sorts of people try their hand at it, and see it solved.\"{w}{p}\"I wonder if there's anyone out there I could entrust it to... Heh heh.\"{w}",
+  "kind": "msg",
+  "note": "Beldoll per glossary (the ring and its spirit). chie no wa = puzzle ring."
+ },
+ {
+  "en": "Will you volunteer?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Well, it is only a toy, after all.{w}If it were something a little more valuable, I'm sure someone would take it on.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh? You'll take it on, you say?\"{w}{p}\"Hmm... But you see.{w}This is, in its own way, a 'puzzle ring.'{w}I'd like to entrust it to someone worthy of it.\"{w}{p}\"If you take on the Beldoll and manage to advance it one stage, I'll leave it with you.\"{w}{p}\"Mind you, though it's called a puzzle ring, in truth it takes not just wits but a fair share of luck as well.{w}Now then, who will make the attempt?\"{w}",
+  "kind": "msg",
+  "note": "The Japanese 'chie no wa' literally means 'ring of wisdom'; the wits/worthy link is carried by 'wits' in the last page rather than by the name."
+ },
+ {
+  "en": "Who will make the attempt?",
+  "kind": "op093"
+ },
+ {
+  "en": "\"Then, please, go ahead... Heh heh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You were handed Beldoll +6.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}{10:0003:000F} is\nworking on it...{0F}{w}",
+  "kind": "msg",
+  "note": "Kept the source line break so the four attempt rows line up."
+ },
+ {
+  "en": "{0E}{10:0003:000F} is\nworking on it...{0F}...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}{10:0003:000F} is\nworking on it......? {0F}...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}{10:0003:000F} is\nworking on it......? ...{0F}...!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, splendid! You've advanced it one move!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}    *  The Beldoll changed to +5!!  *    {0F}{w}",
+  "kind": "msg",
+  "note": "Banner spacing follows the earlier '*  ...  *' banners."
+ },
+ {
+  "en": "\"With this, I think I can safely entrust it to you all.{w}Please keep it with you as you travel the world.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Beldoll +5.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll keep the key myself, so once it's fully solved, please bring it to me.{w}I'll be looking forward to it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "In the end, the Beldoll stayed just as it was.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...It seems that was no good.{w}Well, I'll look elsewhere, so please don't let it trouble you... Heh heh.\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "id": "FOGCOLOR.CSV:5:5",
+  "en": "Gray",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "FOGCOLOR.CSV:8:6",
+  "en": "Church Cemetery",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "FOGCOLOR.CSV:10:6",
+  "en": "Dream World",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ }
+]

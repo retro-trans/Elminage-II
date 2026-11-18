@@ -1,0 +1,364 @@
+[
+ {
+  "en": "The beast looked at you in a friendly way and held something out to you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The beast nodded quietly, then left as silently as it had appeared.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The beast is eyeing you as if you're far too noisy.{w}Being a Silent Beast, perhaps it hates every sound, even the faintest little noise.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}    *  Isn't something making a sound right now?  *    {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; ASCII spaces in place of the full-width padding (check centring in game)."
+ },
+ {
+  "en": "Quietly give your name",
+  "kind": "data"
+ },
+ {
+  "en": "Speak to it gently",
+  "kind": "data"
+ },
+ {
+  "en": "Sing and dance",
+  "kind": "data"
+ },
+ {
+  "en": "Do nothing",
+  "kind": "data"
+ },
+ {
+  "en": "Perhaps angered by what you did, the beast made as if to let out a roar and attacked!{w}",
+  "kind": "msg",
+  "note": "[JP] (singular 'you') rendered as plain 'you'. 'made as if to roar': the beast is silent, it only goes through the motions."
+ },
+ {
+  "en": "Glaring at you with displeasure, the beast went off deeper into the thicket.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Valkyrie",
+  "kind": "name",
+  "note": "Glossary: [JP] = Valkyrie (class name)."
+ },
+ {
+  "en": "\"You're seriously going to stand under a waterfall?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'get into a waterfall' unidiomatic; waterfall training = 'stand under' (as 2739, slice 029)."
+ },
+ {
+  "en": "\"Yeah, I'm going to do some spiritual training.{w}Oh, I know -- why don't you join me?{w}You'll feel refreshed, body and soul!!\"{w}",
+  "kind": "msg",
+  "note": "Speaker is the Samurai (name box in another slice). | Editorial: spoken phrasing; 'refresh you body and soul' ungrammatical."
+ },
+ {
+  "en": "\"Not doing it.\"{w}",
+  "kind": "msg",
+  "note": "Flat refusal [JP] kept curt."
+ },
+ {
+  "en": "While you were waiting at the basin below the falls, Namina showed up late.{w}",
+  "kind": "msg",
+  "note": "Editorial: 'finally arrived, running late' redundant."
+ },
+ {
+  "en": "\"Sorry to keep you waiting!{w}Well then... I'm off to stand under the falls!\"{w}{p}\"Everyone, I'm sorry to ask, but if anything comes at me, please drive it off!{w}Well then... here I go!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'Here goes... now!!' awkward; source repeats sorede wa, so 'Well then' repeats too."
+ },
+ {
+  "en": "\"Hiiiiieeeee!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Namina's training has begun!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bbbbbb, bbh, bbgh, gmph!{w}Nnm-I can't, I caaan't!!\"{w}",
+  "kind": "msg",
+  "note": "Spluttering under the falls; [JP] = 'I can't'."
+ },
+ {
+  "en": "In an instant, Namina seemed to be chilled right through.{w}You decided to take a while to warm up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What do I do? I never knew the training would be this harsh.{w}...I thought it would be easy.\"{w}{p}\"But if I really do see it through, maybe I can change...\"{w}{p}\"..........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I guess I have no choice but to do it.{w}I'll give it my all.{w}After all, you've all come out here for me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Resolved, Namina went back into the falls!!{w}",
+  "kind": "msg",
+  "note": "No pronoun for Namina (glossary: script gives no gender)."
+ },
+ {
+  "en": "\"Bbbbbb!?{w}Bbh, bbgh!? Bbbh, nbbbb!!{w}Bebnabob...!! Babbibabn...\"{w}",
+  "kind": "msg",
+  "note": "Underwater gibberish. [JP] looks like a garbled [JP] (se-mu-na-do-ku), so 'Bebnabob' garbles 'Semnadoc' (next row: Namina prays to Semnadoc). [JP] left as plain gibberish."
+ },
+ {
+  "en": "Eyes rolling wildly, Namina began to pray toward Semnadoc!!{w}",
+  "kind": "msg",
+  "note": "[JP]: the god or the holy city's direction; 'toward Semnadoc' covers both."
+ },
+ {
+  "en": "As you watched over Namina's training, you felt hostile eyes on you from within the forest.{w}{p}All sorts of creatures are gathering to go after the defenseless Namina!{w}",
+  "kind": "msg",
+  "note": "Editorial: 'aiming for' a person read oddly."
+ },
+ {
+  "en": "You routed them all.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'You routed X' as in earlier slices."
+ },
+ {
+  "en": "When the fighting was over, Namina called out to you from the falls.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Agagagagaga...\"{w}",
+  "kind": "msg",
+  "note": "Teeth chattering."
+ },
+ {
+  "en": "You took the violently shaking hand held out to you and pulled Namina out of the falls.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hah, hah, everything went hazy...{w}I thought I was going to die... Ugh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But thanks to that, I remembered.{w}Why I came to Semnadoc's holy land...\"{w}{p}\"Lord Mersenne came to my poor village...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Semnadoc' (lead convention; earlier slices 028/029 have 'Lord Semnadoc')."
+ },
+ {
+  "en": "\"...and he passed on Semnadoc's teaching: that no matter how hard things get, you must never stop smiling...\"{w}{p}\"So this time, I wanted to be the one helping everyone's hearts with that teaching of Semnadoc's. That's why I came to Semnadoc.\"{w}",
+  "kind": "msg",
+  "note": "Subject restored: Mersenne (male) passed on the teaching, continuing the previous row. Last 'Semnadoc' = the holy city. | Editorial: run-on split; 'that teaching' ties back to the smile teaching (sonna)."
+ },
+ {
+  "en": "\"Aaaargh!! Since when have I been this flighty!!{w}Stupid, stupid me!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: dropped 'starry-eyed' (one source word, uwatsuita = frivolous; the pair overstated it, as accuracy flagged)."
+ },
+ {
+  "en": "\"But I'm wide awake now!{w}Let's go back to Semnadoc!\"{w}{p}\"If you'll excuse me, I'll go on ahead!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: word order / natural phrasing."
+ },
+ {
+  "en": "Namina returned to Semnadoc.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sensed someone's presence beyond the thick fog.{w}The presence took on human shape and slowly drew nearer.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Stay where you are?",
+  "kind": "data"
+ },
+ {
+  "en": "The Thing drawing nearer, step by step, is about the same height and build as you.{w}{p}About the same?{w}{p}No. What had appeared was none other than yourselves.{p}",
+  "kind": "msg",
+  "note": "[JP] (katakana 'it') rendered 'The Thing'. Source ends with {p} and no {w}; kept. | Editorial: flow of the reveal; 'what appeared was you yourselves' was stiff."
+ },
+ {
+  "en": "You left the spot with a bad aftertaste.{w}",
+  "kind": "msg",
+  "note": "Editorial: atonoaji idiom = aftertaste (feeling), not a literal taste in the mouth."
+ },
+ {
+  "en": "You stood on the islet in the middle of the falls and looked around.{w}Just as Leafa said, a beautiful Midnight Rainbow had appeared between the falls and the moon.{w}{p}Then, from the night sky, you heard a strange, croaking voice!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Strange Demon",
+  "kind": "name",
+  "note": "New name box ([JP]); the Lunatic Demon before it names itself."
+ },
+ {
+  "en": "\"Ho ho hooo!{w}What a splendid rainbow has come out this time!{w}Now then, now then, my pwecious widdle Moonlight Stone~~~!\"{w}{p}\"Let's go for a walkie on the Midnight Rainbow togevver~~~~!{w}...Hm?\"{w}{p}\"Bah, that Leafa!{w}Sending soldiers again, never learning her lesson, eh?{w}Hmm. You look rather shabby for soldiers, though. What's this?\"{w}",
+  "kind": "msg",
+  "note": "Baby talk to the stone ([JP], [JP]) kept as baby talk. ♪ -> '~'. | Editorial: 'What's this?' was used twice in one row (nanja / hate); first one changed."
+ },
+ {
+  "en": "Lunatic Demon",
+  "kind": "name"
+ },
+ {
+  "en": "\"I am the one they call the Old Man of the Moon, the Lunatic Demon!{w}You there, which order of knights are you from!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] singular in form but addressed to the party: plain 'you'."
+ },
+ {
+  "en": "\"Whaaaat?{w}The Sweet Ginger Knightsss!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pfffft! Hee hee hee!!{w}Wh-what kind of name is that for an order of knights!?{w}Wyahahaha!!\"{w}{p}\"You love Sweet Ginger that much, do you!{w}Do you, eh!? Hyahyahya!!{w}Well, whatever. No matter how many times you come, it's no use!\"{w}{p}\"A stone as beautiful as this, I'm not about to hand it over to some elf who can't tell its worth!!\"{w}{p}\"Now, I'm going to bathe it in the rainbow's light, so out of my way!{w}Hohooo!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'Tee-hee' is girlish (Mistress/Lukoje); wrong effect for the old demon's snicker."
+ },
+ {
+  "en": "You routed the Lunatic Demon.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guoooohhh...{w}Y-you lot! What do you think you're doing to a poor, helpless old man!?\"{w}{p}\"Damn it all, what is the world coming to!{w}I won't forget this, you Sweet Ginger Knightsss!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Lunatic Demon flew away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Moonlight Stone.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}      *   The current knocked you off your feet!!   *      {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; check centring in game. | Editorial: 'swept you off your feet' is a romance idiom; inner padding cut by 1 each side to keep the banner width."
+ },
+ {
+  "en": "*  Finas Rade Elite Guard  *",
+  "kind": "op096",
+  "note": "New name: [JP] = 'Elite Guard' (party/encounter banner)."
+ },
+ {
+  "en": "You encountered some mysterious people.{w}You feel as though you know each other, and at the same time as though you don't.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "*  ??????  *{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "*  Council of Isfald Nobles  *",
+  "kind": "op096",
+  "note": "New name (encounter banner)."
+ },
+ {
+  "en": "*  Trade Winds of Gold, Heart and Fish  *",
+  "kind": "op096",
+  "note": "New name: [JP] = trade wind that carries gold, feeling and fish; shortened 'carries' to 'of'."
+ },
+ {
+  "en": "*  The Art of Bodily Labor  *",
+  "kind": "op096",
+  "note": "New name: [JP]."
+ },
+ {
+  "en": "*  Miracle Reformation  *",
+  "kind": "op096",
+  "note": "New name: [JP] (religious reformation)."
+ },
+ {
+  "en": "*  Others Party  *",
+  "kind": "op096",
+  "note": "New name: [JP]."
+ },
+ {
+  "en": "\"Grrr... that drunk!{w}My favorite umbrella... and it's brand new, too!!{w}Ugh, honestly!!\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Lukoje before the name box (next row)."
+ },
+ {
+  "en": "Lukoje",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey! That's my umbrella, isn't it!!{w}Why have you got it!?{w}Give it back! Give it back to Lukoje!!\"{w}",
+  "kind": "msg",
+  "note": "Lukoje refers to herself by name; kept."
+ },
+ {
+  "en": "The girl calling herself Lukoje attacked without giving you a chance to speak!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed Lukoje.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow, ow, ow...!!{w}D-don't be so cruel to a girl!{w}My umbrella gets stolen, I get roughed up, waaaah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told her you had come to return the umbrella.{w}",
+  "kind": "msg",
+  "note": "Lukoje is female (glossary)."
+ },
+ {
+  "en": "\"Huh? You came to bring it back?{w}Oh, is that all! Ahaha, so that's what it was.{w}S-sorry for jumping you out of nowhere, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You returned the umbrella to Lukoje.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I got such a fright.{w}I was dozing in my room when a drunk suddenly came barging in.\"{w}{p}\"I was watching him, half asleep, and then he just walks out with my umbrella!{w}...Huh, so that old geezer's name is Gary.\"{w}{p}\"Anyway, you remember this too, okay?{w}Things from my world mustn't be taken out into yours, got it?\"{w}",
+  "kind": "msg",
+  "note": "Gary is male (glossary). The party has presumably told her his name. | Accuracy: [JP] is her own shock at the drunk barging in (next sentence), not something the party did; dropped \"You ... gave me\"."
+ },
+ {
+  "en": "\"Hmm hmm hmm~~{w}The dream world is so nice and peaceful~{w}All fluffy and warm... tee-hee.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gaaaryyyyyy!!{w}Why does that drunk keep taking my umbrella, night after night!?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: mainichi mainichi = repeated action, 'keep taking'."
+ },
+ {
+  "en": "Before you is a huge mural.{w}Part of the mural has been scraped away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┿┯┿┳┌",
+  "kind": "op0a4",
+  "note": "Pyroglyph cipher text: kept verbatim."
+ },
+ {
+  "en": "┤┯├┌┷ ┗┫┷┴├┯ ┿┯┿┳┌",
+  "kind": "op0a4",
+  "note": "Pyroglyph cipher text kept verbatim; full-width spaces turned into ASCII spaces (as slice 039)."
+ },
+ {
+  "en": "...Nothing happened.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you carved Urna's name, a soft light enveloped the area.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you knew it, a stone tablet had appeared in front of the mural.{w}",
+  "kind": "msg",
+  "note": "Editorial: sekihi = 'stone tablet' as in the same scene's continuation (slice 063-065)."
+ },
+ {
+  "en": "You gently touched the stone tablet.{w}",
+  "kind": "msg",
+  "note": "Editorial: sekihi = 'stone tablet' (slice 063-065)."
+ },
+ {
+  "en": "..........{w}What could this be?{w}Is this really what you struggled so hard to reach?{w}{p}You give the stone tablet a few slaps, but get no further response.{w}",
+  "kind": "msg",
+  "note": "Editorial: sekihi = 'stone tablet' (slice 063-065)."
+ }
+]

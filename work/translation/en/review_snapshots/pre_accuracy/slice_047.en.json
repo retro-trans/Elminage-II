@@ -1,0 +1,348 @@
+[
+ {
+  "en": "\"You'd best go on home nice and quiet, yuh.\"{w}",
+  "kind": "msg",
+  "note": "Yeti's -do- verbal tic rendered as a drawled 'yuh' tag; used for both yetis (gatekeeper and storekeeper)."
+ },
+ {
+  "en": "There's a fire alarm.{w}Firing off something like {11:0001:0001} at it\nmight set it off.{w}",
+  "kind": "msg",
+  "note": "{11:0001:0001} = spell name insert (presumably a fire spell, see 2861)."
+ },
+ {
+  "en": "Cast {11:0001:0001}?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will cast it?",
+  "kind": "op093"
+ },
+ {
+  "en": "That caster hasn't learned\n{11:0001:0001}.{w}",
+  "kind": "msg",
+  "note": "Subject restored as 'that caster' (the member picked in 2857; no name insert in the row)."
+ },
+ {
+  "en": "That caster has used up their spell power.{w}",
+  "kind": "msg",
+  "note": "Subject restored as in 2858."
+ },
+ {
+  "en": "{0A:0003:000F} cast\n{11:0001:0001}!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It was only a small flame, but it was\nenough to get the fire alarm riled up!{w}",
+  "kind": "msg",
+  "note": "Source personifies the alarm (okoraseru = make angry); kept as 'riled up'."
+ },
+ {
+  "en": "Suddenly everything around you was in an uproar,\nand you hurriedly made yourselves scarce.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The fire alarm keeps blaring\nits loud fire warning.{w}You'd better get away from here, and fast.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Geez, who the heck pulled this prank!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sheesh, yuh...{w}Good thing it wasn't a real fire, yuh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That really ticks me off!{w}Pranks like this are NOT okay, y'hear!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "General Winter",
+  "kind": "name"
+ },
+ {
+  "en": "\"Miyuki... where have you gone...{w}I could not make your mother happy.{w}I want you, at least, to be happy...\"{w}{p}\"Why can you not understand my heart...{w}Miyuki... oh, Miyuki...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A fierce blizzard arose, and you were blown away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Quit this foolishness, Pa!{w}I found myself a sweetheart down in the village, you know!?\"{w}",
+  "kind": "msg",
+  "note": "Miyuki drops her polite register (slice 046) and speaks rustic, Edo-ish talk to her father: ottsuan/okkasan = 'Pa'/'Ma'. sato = the (human) village, as opposed to the spirits' realm."
+ },
+ {
+  "en": "\"No... I will not have it, Miyuki...!{w}Some passing stranger like that and a spirit\nsuch as you could never understand each other!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So what if we can't understand each other?\nIsn't it enough that the love is there!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You are still young.{w}I will find you a fine husband, mark my words!{w}Hold your tongue and stay where you are!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's cruel... That's just too much, Pa...{w}Just when I finally had someone who would...{w}accept me for who I am...\"{w}",
+  "kind": "msg",
+  "note": "Sentence cut at the {w} where the source cuts it."
+ },
+ {
+  "en": "\"Oh... you came after me...?{w}...Look, Pa!{w}They braved danger just to come and get me!\"{w}",
+  "kind": "msg",
+  "note": "First part to the party, rest to her father; the party referred to as 'they'."
+ },
+ {
+  "en": "\"So you're the one who led Miyuki astray!{w}Before I lose my temper... Hmm?{w}That thing in your hand...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You handed General Winter the Wife's Portrait.{w}",
+  "kind": "msg",
+  "note": "Key item name 'Wife's Portrait' (okugata no shouzou), see 3101."
+ },
+ {
+  "en": "\"......{w}............\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pa...{w}You and Ma joined your hearts\nand pledged yourselves, didn't you?\"{w}",
+  "kind": "msg",
+  "note": "chigiri wo musubu = pledge (marriage vows); 'pledge' reused in 2943/2944/2960."
+ },
+ {
+  "en": "\"That is...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pa, weren't you happy?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh... Hnnn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please understand, Pa.{w}We love each other!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miyuki...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At his daughter's words, General Winter lowered the sword he had raised.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......{w}...Very well. I approve of the two of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But there is one condition.{w}I cannot entrust my daughter\nto one who is weak or lacks courage.\"{w}{p}\"Face me!{w}If you can force me to yield,\nI will say no more!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miyuki, this is my last selfish wish...{w}You understand how a father with a daughter feels, do you not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...All right.{w}Please, you'll win for me, won't you?\"{w}",
+  "kind": "msg",
+  "note": "Second half addressed to the party."
+ },
+ {
+  "en": "\"Son-in-law!{w}Whether you are worthy of Miyuki!{w}I shall put you to the test!!\"{w}",
+  "kind": "msg",
+  "note": "mukodono = 'son-in-law' (his word for the suitor); party member's gender not inferred, the word is his."
+ },
+ {
+  "en": "You routed General Winter.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Splendid... splendidly done, son-in-law!{w}A promise is a promise. I shall approve your pledge to Miyuki.{w}Now, which of you loves my daughter the most?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Who will pledge to Miyuki?",
+  "kind": "op093"
+ },
+ {
+  "en": "{0A:0003:000F} became engaged to Miyuki.{w}Counting Snow changed into\nCounting Snow: First Frost.{w}",
+  "kind": "msg",
+  "note": "New item names: kazoe-yuki = 'Counting Snow' (the short blade Miyuki offers in slice 046), kazoe-yuki/hatsushimo = 'Counting Snow: First Frost' (26 chars; check item slot)."
+ },
+ {
+  "en": "\"Thank you, {0A:0003:000F}...{w}Nothing could make me happier...{w}I'll follow you wherever you go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"{0A:0003:000F}.{w}I'm counting on you to take good care of Miyuki!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you're the one who led Miyuki astray!{w}Begone before I lose my temper!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well? Is Miyuki doing well?{w}...Then I have nothing more to say.{w}Take good care of her...\"{w}",
+  "kind": "msg",
+  "note": "Missing period after the second clause added."
+ },
+ {
+  "en": "\"Miyuki. If you meant to pledge yourself to this one,\nyou must have given them the Counting Snow, no?\"{w}{p}\"If they claim to love you!{w}Then why does this one not have the Counting Snow!?{w}The precious token of the heart of you snow women!!\"{w}",
+  "kind": "msg",
+  "note": "yuki-onna rendered 'snow women'. Suitor kept as 'this one'/'them'."
+ },
+ {
+  "en": "\"Th-that's...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Village folk are all talk in the end!{w}The only ones who can make you happy\nare those of our own winter kin!!\"{w}{p}\"Now, I have no further business with you!{w}Begone, before you get yourselves killed!!\"{w}",
+  "kind": "msg",
+  "note": "fuyu no kenzoku = 'winter kin' (cf. glossary 'Kin of Darkness'). korosarenu uchi ni = before you get killed."
+ },
+ {
+  "en": "Wolf Storekeeper",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, past here is General Winter's treasure vault.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Yeti Storekeeper",
+  "kind": "name"
+ },
+ {
+  "en": "\"Go on home before ya get hurt, yuh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hah! Cocky little brats.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm gonna give ya a whuppin', yuh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed the storekeepers.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Could this be a portrait of General Winter's wife?{w}On the floor lie bundles of neatly sorted love letters.{w}They must have been a devoted couple.{w}{p}Showing this portrait\nmight win General Winter over.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Wife's Portrait.{w}",
+  "kind": "msg",
+  "note": "New key item name 'Wife's Portrait' (okugata = the lady of the house / a noble's wife)."
+ },
+ {
+  "en": "Expensive-looking objects and beautiful paintings are crammed in everywhere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Missionary",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey there, hello. Nice day for a stroll, isn't it?{w}Is this everyone's first time in the Narmant Trench?{w}How about it, care to hear a little about the trench?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hear about the trench?",
+  "kind": "data"
+ },
+ {
+  "en": "\"This trench is the deepest\nin all the Hestrio Continent.\"{w}{p}\"The waters around it are mostly shallows,\nso sail through and a shipwreck is guaranteed!{w}That's why sailors go around this trench.\"{w}{p}\"Now, deep, deep within this trench,\nat its very bottom, they say the Water Sage\nShirinmorin makes their home.\"{w}{p}\"Lately this trench has been rough as rough can be.{w}One theory even goes so far as to say Shirinmorin\nis angry... but what's the truth, I wonder?\"{w}{p}\"Surely, if you were ever to fall into the water,\nunless you had an alchemy item like an Air Fruit,\nthe whirlpools would swallow you and you'd just die.\"{w}{p}\"So, to make sure nothing goes wrong,\nyou'd all best leave a place like this right away.\"{w}{p}\"Eh? Aren't I in danger too, you ask?{w}Well, you can see what I am.{w}Ha ha haaaaaa!!\"{w}",
+  "kind": "msg",
+  "note": "Water Sage per glossary. 'their home' kept neutral although the glossary marks Shirinmorin female (the speaker doesn't say). New item name: kuuki no mi = 'Air Fruit'. 'You can see what I am' hints at his nature (he glides off in 2658) without inventing what it is."
+ },
+ {
+  "en": "The missionary glided off to who knows where.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then how about buying a pot?{w}This pot, you see, is a pot that can store up happiness...\"{w}",
+  "kind": "msg",
+  "note": "Answer to declining the explanation (2655)."
+ },
+ {
+  "en": "\"Y-you followed me all the way heeere?!{w}Nooo, I'm so scaaared!!\"{w}{p}\"I haven't done anything,\nso why are you being so mean to me?!{w}Waaah!!\"{w}",
+  "kind": "msg",
+  "note": "Sedna's panicky voice as in slice 006."
+ },
+ {
+  "en": "Sedna, in tears, heaved an ice floe overhead.{w}And then......{w}",
+  "kind": "msg",
+  "note": "furikaburu = raise overhead to swing/throw. Sedna's gender not established; no pronoun used."
+ },
+ {
+  "en": "Sedna Chase Point{w}",
+  "kind": "op096",
+  "note": "op096 label; other op096 rows are outcome/death-cause texts ('You got stranded.', 'Suffocated'), so this may be the wipe cause after Sedna's ice floe, or a debug label. oikomi = cornering/chasing. Use unverified."
+ },
+ {
+  "en": "Mermaid Queen",
+  "kind": "name"
+ },
+ {
+  "en": "\"...What is that child running around\nsquealing about, I wonder?\"{w}",
+  "kind": "msg",
+  "note": "'that child' = Sedna (the neighbouring script 29002), inferred."
+ },
+ {
+  "en": "There's an upward current. Go up to the surface?",
+  "kind": "data"
+ },
+ {
+  "en": "Captain Wanelly",
+  "kind": "name"
+ },
+ {
+  "en": "\"This is... my ship...{w}Our... ship...{w}I won't let... anyone touch iiit...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Could this be the captain's vengeful ghost?{w}You'd like to free that soul from the bottom\nof this cold sea, but...{w}",
+  "kind": "msg",
+  "note": "Subject restored as 'you' (party). Captain's gender unknown: 'that soul'."
+ },
+ {
+  "en": "\"What're you lot standin' around for!!{w}Don't flinch, fire!!{w}We've still got plenty of shot, so FIIIRE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suddenly you were grabbed and stuffed into a cannon barrel!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Here is one of the Wanelly's cannons.{w}",
+  "kind": "msg",
+  "note": "Wanelly-gou = 'the Wanelly' (glossary)."
+ },
+ {
+  "en": "Climb into the barrel?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Damn iiit...{w}I can't lose... I can't lose, dammit,\nthis is my turf... Where's the shot!?\"{w}",
+  "kind": "msg",
+  "note": "shima = turf (gang-style territory)."
+ }
+]

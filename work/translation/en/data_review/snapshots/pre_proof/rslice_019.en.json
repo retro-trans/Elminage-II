@@ -1,0 +1,322 @@
+[
+ {
+  "en": "Elem",
+  "max": 4
+ },
+ {
+  "en": "Slp",
+  "max": 4
+ },
+ {
+  "en": "Dth",
+  "max": 4
+ },
+ {
+  "en": "Attacks one enemy with fire.",
+  "max": 325
+ },
+ {
+  "en": "Dmg",
+  "max": 6
+ },
+ {
+  "en": "High chance to put one enemy to sleep.",
+  "max": 325
+ },
+ {
+  "en": "Attacks one enemy row with fire.",
+  "max": 325
+ },
+ {
+  "en": "Attacks one enemy with freezing cold.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to put one enemy row to sleep.",
+  "max": 325
+ },
+ {
+  "en": "High chance to inflict Poison on one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Strikes one enemy with lightning.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 325
+ },
+ {
+  "en": "High chance to petrify one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to petrify one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Attacks all enemies with a non-elemental explosion.",
+  "max": 325
+ },
+ {
+  "en": "High chance to silence one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Cures one ally of Poison.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to silence one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Cures one ally of Paralysis.",
+  "max": 325
+ },
+ {
+  "en": "High chance to instantly kill one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to instantly kill one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Identifies the trap on a treasure chest.",
+  "max": 325
+ },
+ {
+  "en": "High chance to confuse one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to confuse one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "High chance to charm one enemy.",
+  "max": 325
+ },
+ {
+  "en": "Restores all allies' items that were broken in battle.",
+  "max": 325
+ },
+ {
+  "en": "Has a chance to charm one enemy row.",
+  "max": 325
+ },
+ {
+  "en": "Destroys a cursed item.",
+  "max": 325
+ },
+ {
+  "en": "Safely disarms the trap on a treasure chest.",
+  "max": 325
+ },
+ {
+  "en": "Forms a contract with a monster.",
+  "max": 325
+ },
+ {
+  "en": "Sends back the summoned monster.",
+  "max": 325
+ },
+ {
+  "en": "Int",
+  "max": 8
+ },
+ {
+  "en": "Alch",
+  "max": 4
+ },
+ {
+  "en": "Effect",
+  "max": 445
+ },
+ {
+  "en": "Is petrified",
+  "max": 445
+ },
+ {
+  "en": "Duration",
+  "max": 10
+ },
+ {
+  "en": "Priestess",
+  "max": 10
+ },
+ {
+  "en": "Empress",
+  "max": 10
+ },
+ {
+  "en": "Emperor",
+  "max": 10
+ },
+ {
+  "en": "Hierophant",
+  "max": 10
+ },
+ {
+  "en": "Chariot",
+  "max": 10
+ },
+ {
+  "en": "Fortune",
+  "max": 10
+ },
+ {
+  "en": "Hanged Man",
+  "max": 10
+ },
+ {
+  "en": "Sets all HP to 1, ends turn",
+  "max": 28
+ },
+ {
+  "en": "Target",
+  "max": 6
+ },
+ {
+  "en": "Damage",
+  "max": 34
+ },
+ {
+  "en": "All",
+  "max": 6
+ },
+ {
+  "en": "Stones",
+  "max": 8
+ },
+ {
+  "en": "Ndl.",
+  "max": 4
+ },
+ {
+  "en": "PsnGas",
+  "max": 6
+ },
+ {
+  "en": "Ghosts",
+  "max": 10
+ },
+ {
+  "en": "Cobra Curse",
+  "max": 12
+ },
+ {
+  "en": "Demon Eye",
+  "max": 10
+ },
+ {
+  "en": "U.Box",
+  "max": 6
+ },
+ {
+  "en": "Goddess Kiss",
+  "max": 12
+ },
+ {
+  "en": "Loipes Cave",
+  "max": 16
+ },
+ {
+  "en": "B3F",
+  "max": 12
+ },
+ {
+  "en": "Highberry Forest",
+  "max": 16
+ },
+ {
+  "en": "Nerid Marshlands",
+  "max": 16
+ },
+ {
+  "en": "Surface",
+  "max": 12
+ },
+ {
+  "en": "Underground",
+  "max": 12
+ },
+ {
+  "en": "Anhimona Heights",
+  "max": 16
+ },
+ {
+  "en": "Dekor Ruins",
+  "max": 16
+ },
+ {
+  "en": "Blanc Desert",
+  "max": 16
+ },
+ {
+  "en": "South Side",
+  "max": 12
+ },
+ {
+  "en": "North Side",
+  "max": 12
+ },
+ {
+  "en": "Heerdahl",
+  "max": 16
+ },
+ {
+  "en": "Madrie Cemetery",
+  "max": 16
+ },
+ {
+  "en": "North 1F",
+  "max": 12
+ },
+ {
+  "en": "North B1F",
+  "max": 12
+ },
+ {
+  "en": "Flotban Snowfld",
+  "max": 16
+ },
+ {
+  "en": "Narmant Trench",
+  "max": 16
+ },
+ {
+  "en": "Baroque Fort",
+  "max": 16
+ },
+ {
+  "en": "Rubenburg",
+  "max": 16
+ },
+ {
+  "en": "Scorching Castle",
+  "max": 16
+ },
+ {
+  "en": "Churos Highlands",
+  "max": 16
+ },
+ {
+  "en": "North 2F",
+  "max": 12
+ },
+ {
+  "en": "South 2F",
+  "max": 12
+ },
+ {
+  "en": "South 1F",
+  "max": 12
+ }
+]

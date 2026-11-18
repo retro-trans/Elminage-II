@@ -1,0 +1,355 @@
+[
+ {
+  "en": "[Key Item]\nYou obtained ?Fourth Movement.{w}",
+  "kind": "msg",
+  "note": "Item name kept with its leading '?', as the source writes the four sheet-music items (?First..?Fourth Movement, slice 037). New name."
+ },
+ {
+  "en": "\"Oh, hello.{w}Stay as long as you like.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you reached the summit,\nthere was a gigantic owl waiting.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh ho, now there's a rare thing.{w}A tiny one has come calling from the world below.\"{w}{p}\"You've come to ask me about the disturbance at the Holy Foundation, Contrachio...\"{w}",
+  "kind": "msg",
+  "note": "Seikiso Contrachio per glossary note. The yes/no prompt follows as its own row."
+ },
+ {
+  "en": "\"That's about the size of it, eh?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"But as it happens, there's a great deal I don't understand myself.\nTo think there are things even I, Omshokopo, cannot see through.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Omshokopo let out a weary sigh.{w}",
+  "kind": "msg",
+  "note": "yareyare + sigh -> 'weary sigh'. No pronoun for Omshokopo (gender unknown)."
+ },
+ {
+  "en": "\"Do you know of the Four Sages of the Land?{w}The Wind Sage is me, Omshokopo.{w}The Fire Sage is Radrecht, in the Scorching Castle.\"{w}{p}\"The Water Sage is Shirinmorin, in the Narmant Trench.{w}And the Earth Sage is Raizam, of the Blanc Desert.{w}The four of us together are called the Four Sages.\"{w}{p}\"...Mind you, there's nothing very sage-like about any of us.{w}Fwah ha ha!!\"{w}{p}\"When the disturbance struck Contrachio,\nI... how shall I put it... came over a little strange...{w}Hmm... I fell into a very odd state of mind.\"{w}{p}\"The Kin of Darkness that appeared at Contrachio...{w}I had to lend them a hand -- I was gripped by that strange notion.\"{w}{p}\"It's a good thing the spirits brought me back to my senses. If I'd stayed like that, who knows what would have happened.\"{w}{p}\"What worries me is the other Sages.{w}I'm afraid they may all have gone strange too...\"{w}{p}\"The trouble is, beings with as great a presence as ours can't just go tramping about the land.\"{w}{p}\"Sorry to ask, but would you go and see how the other Sages are doing?{w}I'll think of some reward for you.\"{w}{p}\"Just do it along the way on your travels.{w}I'm counting on you.\"{w}",
+  "kind": "msg",
+  "note": "Glossary: Four Sages, Wind/Fire/Water/Earth Sage, Scorching Castle, Narmant Trench, Blanc Desert, Kin of Darkness. 'washira' (we beings of great presence) = the Sages."
+ },
+ {
+  "en": "\"What, that's not it?{w}Is there something else you need to worry about, setting that disturbance aside?\"{w}{p}\"Well, well...\nTiny ones have tiny horizons, too...\"{w}",
+  "kind": "msg",
+  "note": "'chikkoi mono wa shiya mo chikkoi' -- kept the small/small wordplay."
+ },
+ {
+  "en": "\"Radrecht... Shirinmorin...{w}Raizam...{w}I do hope they're all right...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How were the other Sages doing?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told Omshokopo how the three of them were doing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. In the Scorching Castle the spirits are running wild,\nand Shirinmorin has been overcome by it...{w}And Raizam is... moving house? Well, well...\"{w}{p}\"Well, I've got the gist of it.{w}Shirinmorin got off with no more than a fit of madness,\nso there's no need to act right away.\"{w}{p}\"Why Raizam would be thinking of moving house, though...\nthat does bother me a little...\"{w}{p}\"Now then, I owe you something for going to look into it for me.{w}Take this with you.\"{w}",
+  "kind": "msg",
+  "note": "'aterareta' = struck/overcome (as by a poison or an evil influence); read as overcome by the spirits' frenzy."
+ },
+ {
+  "en": "\"Perhaps...{w}things are about to get hectic.{w}You take good care of your lives, now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...{w}I have a feeling I've forgotten\nsomething important...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Omshokopo is lost in deep thought.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "In one corner of the temple, you found a spot\nwhere the ground had been unnaturally dug up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Search it?",
+  "kind": "data"
+ },
+ {
+  "en": "Something might be buried here.{w}You tried digging it up.{w}And then...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}               *  Strange Potato  *{0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; padding approximate, check in game."
+ },
+ {
+  "en": "Rubezahl",
+  "kind": "name"
+ },
+ {
+  "en": "\"How many tiiimes do I have to teeell youuu!!{w}Stop messing up people's turnip fields...{w}Hm? What's that potato?\"{w}{p}\"Impossible...{w}I sowed turnip seeds, and got potatoes...!!\"{w}{p}\"...A... a curse!!{w}It's the curse of the great Dekor!!{w}Wait, who the heck IS Dekor?!\"{w}{p}\"Somebody heeelp meee!!\"{w}",
+  "kind": "msg",
+  "note": "dakara stretched -> exasperated 'how many times'. Dekor-sama: no Lord/Lady (gender/nature unknown); 'the great Dekor' keeps the reverence so the 'who IS Dekor' joke works."
+ },
+ {
+  "en": "Rubezahl ran away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained a Toryoron Potato.{w}",
+  "kind": "msg",
+  "note": "Toryoron Potato as in slice 022."
+ },
+ {
+  "en": "\n{0E}                *  Giant Turnip  *{0F}{w}",
+  "kind": "msg",
+  "note": "Okina kabu: nod to the folk tale 'The Gigantic Turnip'. Centred banner; check in game."
+ },
+ {
+  "en": "\"HEY, YOOOU!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What kind of mischief are you up to in someone's field?!!{w}You damn braaats!!{w}Thieves! Somebody get over heeere!!\"{w}",
+  "kind": "msg",
+  "note": "kusogaki = 'damn brats'. nusutto read as plural (the party)."
+ },
+ {
+  "en": "You sent Rubezahl packing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dammit aaall!{w}I won't forget this, you damn braaats!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You left the spot.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "This spot has already been dug up.{w}Nothing will grow back here for a while.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*               Once a temple                *\n*             Now a turnip field             *\n*             Sometimes potatoes             *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign drawn as a box of asterisks; three lines padded to the source width (46 half-width columns). Proportional font: check alignment in game."
+ },
+ {
+  "en": "A mysterious thought spoke into your mind.{w}{p}'Beyond here lies the place where the heart of us, the Dekor, dwells.{w}Those who know not the letters granted by our mother,\nthe Earth Mother, shall not pass.'{w}",
+  "kind": "msg",
+  "note": "Telepathic speech in the source's double hook brackets -> single quotes per brief. 'haha naru chiboshin' -> 'our mother, the Earth Mother' (glossary Earth Mother)."
+ },
+ {
+  "en": "┐├└┯┫┫┗{w}",
+  "kind": "op096",
+  "note": "Pyroglyph sign, kept verbatim (box-drawing glyphs are drawn by the font; see slice 017 row 4214). The cipher is a letter substitution of ENGLISH: this reads BEDROOM. Do not translate."
+ },
+ {
+  "en": "A row of long, narrow rooms.{w}Each is just big enough for one person to lie down,\nwith a little room to spare.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┷┫┏┣├┷ ┰┫┗┌┳{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads TOILET WOMAN. Full-width space -> one ASCII space (slice 017 precedent)."
+ },
+ {
+  "en": "┷┫┏┣├┷ ┗┌┳{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads TOILET MAN."
+ },
+ {
+  "en": "There is a spring and a switch.{w}{p}The switch is weathered and doesn't seem to move.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Drink from the spring?",
+  "kind": "data"
+ },
+ {
+  "en": "┐┌┷┴┯┫┫┗{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads BATHROOM."
+ },
+ {
+  "en": "┗┌┳{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads MAN."
+ },
+ {
+  "en": "┰┫┗┌┳{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads WOMAN."
+ },
+ {
+  "en": "└┏┳┏┳┤ ┴┌┣┣{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads DINING HALL."
+ },
+ {
+  "en": "┛┏┷┘┴├┳{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads KITCHEN."
+ },
+ {
+  "en": "This seems to be a washing area.{w}",
+  "kind": "msg",
+  "note": "mizuba (place for water); 14014 sits with the BATHROOM sign rooms, so 'washing area'."
+ },
+ {
+  "en": "There are traces of a fire that once burned here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There are traces of a fire that once burned here.{w}Looking closely, the walls are heavily scorched.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┤┌┯┐┌┤├{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads GARBAGE."
+ },
+ {
+  "en": "It stinks terribly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Judging by the arrangement,\nthese look like chapel pews.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It looks like a chapel lectern.{w}",
+  "kind": "msg",
+  "note": "kyoudan = lectern/pulpit platform."
+ },
+ {
+  "en": "All sorts of stains are caked onto it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┿┳└┯├┨┨{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads UNDRESS (changing room)."
+ },
+ {
+  "en": "┿┳└├┯ ┘┫┳┨┷┯┿┘┷┏┫┳{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads UNDER CONSTRUCTION."
+ },
+ {
+  "en": "┘┴┌┻├┣{w}",
+  "kind": "op096",
+  "note": "Pyroglyph, verbatim; reads CHAPEL."
+ },
+ {
+  "en": "Written in Pyroglyph are the words\n'Hold both a good heart and an evil heart.'{w}",
+  "kind": "msg",
+  "note": "zenshin/akushin = good/evil heart (alignment), echoed by the next slice's 15008/15010 doors."
+ },
+ {
+  "en": "Written in Pyroglyph are the words\n'Let the Five Primal Races offer their prayers.'{w}",
+  "kind": "msg",
+  "note": "Glossary: Five Primal Races."
+ },
+ {
+  "en": "Before you stood a sacred beast, full of majesty.{w}With an overwhelming presence, it spoke to you.{w}",
+  "kind": "msg",
+  "note": "shinjuu = sacred/divine beast; 'it' for the Sphinx (a beast, gender not given)."
+ },
+ {
+  "en": "When the Sphinx stirred,\na fierce gust of wind tore through.{w}You were easily blown away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sphinx",
+  "kind": "name"
+ },
+ {
+  "en": "\"Seeker of truth, it has been a long time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well. You may pass.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see.\nSo you wish to search still deeper for the truth.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Sphinx swished its tail happily.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm. Just what I expect of one I have acknowledged. I am pleased.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It seems you still have far to go.\nIn the search for truth, there is no room for carelessness.\nStrive to improve, day by day.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A test of strength?{w}...............With me?{w}{p}{0E}\"A test of strength?\n...............With me? {0F}Why???{w}Hmm... I do not quite understand the reason.\"{w}{p}\"I do not understand, but if you wish it, I will face you.\nHowever...\"{w}",
+  "kind": "msg",
+  "note": "Page 2 re-shows page 1 inside {0E}..{0F} (as the source does) and adds 'Why???'."
+ },
+ {
+  "en": "\"I cannot hold back. Is that all right?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"It cannot be helped.\nIf that is your wish, I accept your challenge.{w}But I am... strong, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...It has been a while since I last fought.{w}Well, such things will happen.\"{w}",
+  "kind": "msg",
+  "note": "Likely the Sphinx's line on losing the bout (inferred from 'such things will happen')."
+ },
+ {
+  "en": "\"Indeed. I have no reason to fight you.{w}There is no need to do a thing that has no reason.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well.\nSeeker of truth, we shall meet again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You are leaving?{w}One with true eyes deserves my goodwill.{w}Should the chance arise, let us meet again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am the guardian of this land.{w}This place, Dekor, is a stairway of truth,\nguarded many times over under an ancient pact.\"{w}{p}\"In this land, only those who pursue the truth are worthy.\"{w}{p}\"I ask you this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you desire the truth?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"Oh? You say you do not.{w}Then there is nothing more to discuss. Begone.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then you will show me proof of it.{w}If you can answer my questions,\nI will permit you to enter the heart of Dekor.\"{w}",
+  "kind": "msg",
+  "note": "chuusuu = core/heart (central sanctum)."
+ },
+ {
+  "en": "\"Good. Then let us begin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well done.\nDekor gladly welcomes you.{w}Now, go forth.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fool.\nReturn to the place that befits you.\"{w}",
+  "kind": "msg"
+ }
+]

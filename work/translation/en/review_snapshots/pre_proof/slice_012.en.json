@@ -1,0 +1,355 @@
+[
+ {
+  "en": "Saines showed you a large wooden crate packed full of medicine.{w}",
+  "kind": "msg",
+  "note": "Recipient of 'showed' unstated; 'you' (the party), since the next line says the gift is for the player (anata)."
+ },
+ {
+  "en": "\"This is... from that old lady at the apothecary?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"She says it is a token of her gratitude to you, for rescuing her son Almite.\"{w}{p}\"However, it is more than this temple alone could ever use up... What shall we do?\"{w}",
+  "kind": "msg",
+  "note": "musuko = son: Almite (glossary gender 'unknown') is male. 'She' = the old lady (obaachan)."
+ },
+ {
+  "en": "\"In that case, why don't we leave it with the Kernel Shop?{w}Their selection's always been poor anyway, and they don't even stock medicine properly. It's a good opportunity.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. Let us do that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Kernel Shop stock up: Full Cure Potion\nKernel Shop stock up: Paralysis Cure\nKernel Shop stock up: Nightdew Lozenge{0F}{w}",
+  "kind": "msg",
+  "note": "List kept on separate lines. Item names are provisional (not in glossary; ITEM.CSV en empty): zenkai no kusuri, mahikeshi-gusuri, yotsuyu no nodoame. Align with the item table once it is translated."
+ },
+ {
+  "en": "{0E}Kernel Shop stock up: Calming Herb\nKernel Shop stock up: First-Love Crystal\nKernel Shop stock up: Stonecure Water{0F}{w}",
+  "kind": "msg",
+  "note": "Provisional item names (not in glossary): chinshin herb (cures confusion), hatsukoibana no kessho (cures charm), kaisekisui (cures petrification). Align with the item table."
+ },
+ {
+  "en": "\"Oh? Is this your first visit? I am Saines, the bishop here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome to the Temple of Orses. What Orses governs is the power of life.\"{w}{p}\"Within a life that may be called but a fleeting instant, we all strive to leave something behind, however small.{w}That is a precious and a lovely thing to do.\"{w}{p}\"I ask that you, too, burn that life of yours for someone, for something.\"{w}{p}\"Love directed at another will surely come back to you many times over.\"{w}",
+  "kind": "msg",
+  "note": "Orses' gender unknown: name repeated, no pronoun."
+ },
+ {
+  "en": "\"One of our duties is to show souls the right path, from life's creation to its dark oblivion.\"{w}{p}\"Life is born, grows, and dies.{w}It is a single path, and the souls that walk it to the end are led to the god of Dark Oblivion.\"{w}",
+  "kind": "msg",
+  "note": "somei kara anmetsu made: the two glossary title words used as process nouns (creation / dark oblivion). anmetsushin = glossary 'god of Dark Oblivion'. | Editorial: 'That exists as a single path' was stilted translationese; 'It is a single path' keeps the meaning."
+ },
+ {
+  "en": "\"At times, however, some stray from that path and become beings of the in-between, wandering between this world and the other side.\"{w}{p}\"Souls of the in-between that roam on even in death -- that is, evil spirits and the undead -- are said to be beings that have strayed from the law of life laid down by the god of Dark Oblivion.\"{w}{p}\"The act of guiding them onto their proper path is what you all know as Dispel.\"{w}",
+  "kind": "msg",
+  "note": "hazama no tamashii = glossary 'souls of the in-between'; hazama no sonzai -> 'beings of the in-between' to match."
+ },
+ {
+  "en": "\"Dispel is not a means of attack. It is an act of compassion that guides the souls of the in-between onto the holy path.{w}I ask that you never forget that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Exactly. Dispel is an act overflowing with love.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, Sigret.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rest assured.{w}Should your souls ever stray from the path, I will take you by the hand and guide you every step of the way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And then, through the act of love called Dispel, I will take your souls and once more...{w}",
+  "kind": "msg",
+  "note": "Opening fragment repeated inside {0E}/{0F} in SCDWMAP:3294; keep the two wordings identical. Ends on 'once more...' so the punchline in 3294 lands."
+ },
+ {
+  "en": "{0E}\"And then, through the act of love called Dispel, I will take your souls and once more...{0F}kill the hell out of them.\"{w}",
+  "kind": "msg",
+  "note": "bukkorosu: crude, violent 'kill' (Saines next scolds her for the language). Rendered 'fucking kill them' to keep the coarseness; 'once more' = kill the already-dead souls a second time. Softer fallback if the project prefers: 'kill them dead'. | ACC: bukkorosu is coarse slang but not a taboo swear word (common in all-ages manga); 'fucking' overshot it by a notch. 'kill the hell out of them' keeps the crude register and still earns Saines' 'such language' scolding. 3292 build-up unchanged and still matches."
+ },
+ {
+  "en": "\"As I keep telling you.{w}A sister must not use such language...\"{w}",
+  "kind": "msg",
+  "note": "Desukara (sentence-initial, exasperated) = 'as I keep telling you'."
+ },
+ {
+  "en": "\"Good luck with your adventures. Ufufufu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sigret left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly... Please do not think ill of her.{w}In her own way, she worries about all of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello, everyone. You look well.\"{w}{p}\"I am sorry to cut our greetings short, but I have patients to treat, so if you will excuse me for a moment.\"{w}{p}\"If you need anything, please ask Sigret.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "After Saines left, you looked toward the temple altar and saw Sigret offering a prayer to Orses.{w}",
+  "kind": "msg",
+  "note": "Subject of miru (looked) restored as 'you' (the party)."
+ },
+ {
+  "en": "What could she be praying for, and for whom?{w}Even from behind, you could sense how sincere Sigret's feelings were.{w}{p}Before you knew it, the bustle of the town had faded into the distance, and time was passing quietly...{w}",
+  "kind": "msg",
+  "note": "dare no nani o negatte iru = 'what, and for whom'. sono senaka kara ... tsutawatte kuru = her sincerity comes across from her back. | Editorial: tense aligned with the past-tense narration in the same row ('Before you knew it ... had faded') and in 3304/3308."
+ },
+ {
+  "en": "After a while, Saines came back.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you know what she is praying for?\"{w}{p}\"It may surprise you, but... Sigret is praying for the spirits of the dead.\"{w}{p}\"When she was still young, I taught her about the path of souls.\"{w}{p}\"When Sigret learned that souls of the in-between existed, she was terribly angry, and terribly sad.{w}'How pitiful,' she said.\"{w}{p}\"To that girl, even the spirits of the dead -- your enemies -- are someone to be saved.\"{w}{p}\"In fact, she even goes around saying that it is the spirits of the dead, above all, who truly must be saved.\"{w}",
+  "kind": "msg",
+  "note": "shiryo = 'spirits of the dead' (no glossary entry). ano ko = 'that girl' (Sigret is female). | Editorial: clumsy inverted word order ('are to that girl someone') reordered; meaning unchanged."
+ },
+ {
+  "en": "\"...It is just that her feelings run so deep, she blurts out the strangest things, which is really rather...\"{w}",
+  "kind": "msg",
+  "note": "Trailing nan to mo... kept unfinished."
+ },
+ {
+  "en": "Having finished her prayer, Sigret stood up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, Bishop Saines. Are you done with the treatments?\"{w}",
+  "kind": "msg",
+  "note": "Saines-sama from Sigret -> 'Bishop Saines' (his settled title) here and in 3341."
+ },
+ {
+  "en": "\"Yes. You retrieved them so quickly that everything went smoothly.\"{w}",
+  "kind": "msg",
+  "note": "anata no kaishu = Sigret's retrieval of the wiped-out party; 'them' = the patients."
+ },
+ {
+  "en": "\"Thank goodness... Well then, I have the next retrieval request to... Excuse me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sigret gave a little bow and hurried off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please take care, all of you, as well...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I hear Semnadoc is a town brimming with faith.{w}Apparently Archbishop Mersenne, who reached that rank so young, is most zealous.\"{w}{p}\"We must learn from their example.\"{w}",
+  "kind": "msg",
+  "note": "Mersenne-dono, wakakushite daishikyo -> 'Archbishop Mersenne'. minarawanakereba has no object; 'their example' covers the town and Mersenne. | Editorial: 'quite the zealous one' was flippant against the honorific source and Saines' formal voice."
+ },
+ {
+  "en": "\"I should not have told her after all...\"{w}{p}\"There is a bizarre thing called the Gate of the Underworld...{w}It is said that when its door is opened, a great many spirits appear.{w}Most likely they are magical creatures born of some evil will.\"{w}{p}\"A rumor reached us that a ritual to open the Gate of the Underworld is being performed beneath the Madrie Church Cemetery.\"{w}{p}\"I heard it from an adventurer myself, but Sigret pressed me for the details.{w}I thought I knew that girl...\"{w}",
+  "kind": "msg",
+  "note": "Source typo semararete shimaimaite read as shimaimashite. Saines is evidently explaining Sigret's departure to the party. | Editorial: per lead decision, pages 1-3 copied verbatim from slice_011 SCDWMAP:3203 (same Japanese; mahou seibutsu = the spirits, 'they are magical creatures'; 'told her'). Last page kept (its Japanese differs: ano ko no koto vs seikaku)."
+ },
+ {
+  "en": "\"Sigret...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We clergy uphold the teachings of the gods, but we also have the bad habit of leaving everything in the gods' hands.\"{w}{p}\"Among us, Sigret is a rare sister, one who studies the gods' teachings while thinking and acting for herself.\"{w}{p}\"Her conduct and attitude being... what they are, her reputation at other temples is not very good, but I am proud of her.\"{w}",
+  "kind": "msg",
+  "note": "kami read as plural 'the gods' (polytheist setting). are (euphemism) -> '... what they are'."
+ },
+ {
+  "en": "\"Welcome back, Sigret.{w}Are you keeping well?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. And I see you are as well as ever, Bishop Saines.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is little I can do, but I am praying that you and your friends travel safely.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You offered a prayer to Orses, god of life-creation.{w}",
+  "kind": "msg",
+  "note": "Somei-shin = glossary 'god of life-creation'. The gap after the name in the source is kept out (likely a fixed-width name field)."
+ },
+ {
+  "en": "Please guide us, children of the gods, the spirits and the land...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You wish to perform the Rite of Flux?\"{w}{p}\"......{w}I was told by my predecessor that this rite is not to be performed lightly.\"{w}{p}\"If you truly insist, I will perform it, but......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Rite of Flux randomly redistributes the divine relics and other items you have not yet obtained.{w}{p}The current state cannot be restored afterwards, so please be careful.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Perform the Rite of Flux?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Just to be sure, I must ask...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You truly want the Rite of Flux?\"",
+  "kind": "data",
+  "note": "Choice prompt, 34 chars incl. quotes (source 19 full-width chars); shortened from 'You truly wish to perform the Rite of Flux?'. Check fit. | Editorial: pro-drop rule: subject and finite verb restored in Saines' quoted question; same length (34 chars), in-game fit check still open."
+ },
+ {
+  "en": "\"Very well.{w}As the fee, I must ask for an offering of 100,000 GP.\"{w}",
+  "kind": "msg",
+  "note": "Source G.P. -> 'GP' per convention."
+ },
+ {
+  "en": "Will you pay?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Then let us perform the rite.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The divine relics you had not yet obtained scattered once again across the world.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"May this rite bring light to the road ahead of you all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, it seems your offering is... not quite enough.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. That may well be a wise decision.{w}Trials are not something to avoid, but something to face.\"{w}{p}\"May the blessing of Orses be upon you all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I cannot perform the rite...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Who will pay?",
+  "kind": "op093"
+ },
+ {
+  "en": "* Chosen: {0B:0003:0000}",
+  "kind": "op0fb",
+  "note": "op0fb label row (likely debug/status text); 'sentaku shita hito' = person chosen."
+ },
+ {
+  "en": "* Deal OK: {0B:0003:0000}",
+  "kind": "op0fb",
+  "note": "torihiki seiko = transaction succeeded."
+ },
+ {
+  "en": "* Deal failed: {0B:0003:0000}",
+  "kind": "op0fb",
+  "note": "torihiki shippai = transaction failed."
+ },
+ {
+  "en": "You don't have enough money.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What...? Lady Urna has been restored...!?{w}Ahh...!!{w}Thank goodness... Truly, thank goodness...\"{w}",
+  "kind": "msg",
+  "note": "saisei sareta -> 'restored' (regenerated); 'reborn' is the alternative. | ACC: Urna-sama -> 'Lady Urna' per lead convention (review_notes: 'Lady Urna ... stay'; glossary term 'Lady Urna'; 31 other corpus rows use it). Ragnastia is Urna's child and reveres her."
+ },
+ {
+  "en": "The queen, who is both a priestess of Fiona and a child of Urna, quietly closed her eyes and offered a prayer.{w}",
+  "kind": "msg",
+  "note": "shinkan -> 'priestess' (glossary position: priestess of Fiona; Ragnastia is female)."
+ },
+ {
+  "en": "\"When I heard a little while ago that the Four Sages had been making big moves here in town, in Semnadoc and elsewhere, I wondered if perhaps...\"{w}{p}\"Did Lady Urna seem well?{w}I see... A new land, with Raizam and the others...\"{w}{p}\"I have the deepest respect for Princess Leafa of Isfald.\"{w}{p}\"To think she could issue a royal command relying on nothing but faint memories.{w}So the blood of the elven royal family has flowed on unbroken after all.\"{w}{p}\"And the ogres and goblins, too, kept faithfully guarding the promised item all this time...{w}Nn... uuh...\"{w}",
+  "kind": "msg",
+  "note": "jokamachi = the town below the castle ('here in town'). chokumei -> 'royal command' (kept distinct from the Decree). Raizam-sama -> 'Raizam' (gender unknown). yakusoku no shina read as one item (the wine); could be plural. | ACC: Urna-sama -> 'Lady Urna' per lead convention (review_notes: 'Lady Urna ... stay'; glossary term 'Lady Urna'; 31 other corpus rows use it). Ragnastia is Urna's child and reveres her. | Editorial: 'bow my head to' was a literal calque of atama ga sagaru (deep respect/admiration), which reads oddly in English."
+ },
+ {
+  "en": "Perhaps the feelings she had held back were finally pouring out.{w}Tears were welling up in Ragnastia's eyes.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've felt so alone all this time...{w}Because I was the only one who knew the truth behind this great upheaval...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But everyone remembered, didn't they!{w}In different ways, but all of them were thinking of Lady Urna...\"{w}",
+  "kind": "msg",
+  "note": "ACC: Urna-sama -> 'Lady Urna' per lead convention (review_notes: 'Lady Urna ... stay'; glossary term 'Lady Urna'; 31 other corpus rows use it). Ragnastia is Urna's child and reveres her."
+ },
+ {
+  "en": "\"Thanks to you delivering the wine, my heart has been saved as well.{w}I don't know how to thank you enough...\"{w}{p}\"Oh, I know. Please take this.{w}As a token of my gratitude.\"{w}",
+  "kind": "msg",
+  "note": "budoshu = the wine (the Yuan Wine of the ogres, per glossary note)."
+ },
+ {
+  "en": "\"I think I'll try sending letters to Princess Leafa and King Montana.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To thank them, and to say I hope we'll keep getting along from here on.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ragnastia gave a warm smile.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How do you do. I am Queen Ragnastia, ruler of this city of Bistel.\"{w}{p}\"Thank you very much for taking an interest in the Decree.\"{w}{p}\"Ideally, I would have you search for the eight divine relics right away, but we have only a limited number of the tools needed to find them.\"{w}{p}\"So, though it is rather rude of me, we have prepared a test, and we give the tools only to those who pass it.\"{w}{p}\"The site of the trial is Loipes Cave. Hidden in this cave is an object called the Jewel Ring.\"{w}{p}\"If you can bring the Jewel Ring back from the cave, you pass the test.\"{w}{p}\"Please take this compass.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You received the Jewel Ring compass.{w}",
+  "kind": "msg",
+  "note": "jueru ringu no konpasu: compass tuned to the Jewel Ring; 'compass' lowercase per glossary."
+ },
+ {
+  "en": "\"This is a replica of the compass used to search for the eight divine relics, made so that it reacts to the Jewel Ring.\"{w}{p}\"The real search for the eight divine relics uses a compass too. You might call this a rehearsal for the relic hunt.\"{w}{p}\"Now, the compass cannot be used as it is. To make it work, you need something called Fame.\"{w}{p}\"Fame is something only those recognized by the gods can obtain.{w}For now, I will lend you four of my Fame.\"{w}",
+  "kind": "msg",
+  "note": "Fame counted as a unit ('four of my Fame', 'three or more Fame') as the source does (yottsu)."
+ },
+ {
+  "en": "Ragnastia lent you four Fame.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once you enter Loipes Cave, stay calm and steady, and set up camp.\"{w}{p}\"Once you have made camp, offer Fame to the compass I just gave you.\"{w}{p}\"If you put in three or more Fame, the compass will show you with light where the object you seek lies, so try following it.\"{w}{p}\"When you come near the Jewel Ring, the compass will show you its location with light.\"{w}",
+  "kind": "msg",
+  "note": "awatezu sawagazu = without panic or fuss -> 'stay calm and steady'."
+ },
+ {
+  "en": "\"Well then, I look forward to good results.{w}Do your best... Hm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, this may be an odd question, but... do you have an Angel's Window?\"{w}{p}\"Um, this item here.\"{w}{p}\"With one of these, the surrounding terrain is always displayed, so it's handy for not getting lost...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, is that so. You don't have one...{w}Hmm, what to do.{w}...Ah, I know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Someone. Is anyone there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Soldier",
+  "kind": "name"
+ }
+]

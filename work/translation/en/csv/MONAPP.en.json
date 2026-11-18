@@ -1,0 +1,408 @@
+[
+ {
+  "id": "MONAPP.CSV:2:3",
+  "en": "Area",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:2:21",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:2:22",
+  "en": "Difficulty",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:4:2",
+  "en": "(Reserve)",
+  "max": 30,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONAPP.CSV:4:3",
+  "en": "(Reserve)",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONAPP.CSV:4:25",
+  "en": "(Reserve)",
+  "max": 30,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "MONAPP.CSV:9:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:13:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:17:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:18:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:21:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:22:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:29:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:30:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:37:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:41:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:45:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:46:3",
+  "en": "Above Clouds",
+  "max": 12,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "MONAPP.CSV:46:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:49:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:50:3",
+  "en": "Above Clouds",
+  "max": 12,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "MONAPP.CSV:50:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:53:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:57:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:61:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:65:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:69:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:73:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:81:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:85:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:89:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:93:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:97:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:105:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:106:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:109:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:110:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:117:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:121:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:125:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:137:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:141:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:145:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:153:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:169:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:173:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:185:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:189:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:190:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:193:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:194:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:197:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:198:22",
+  "en": "***",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:201:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:202:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:203:3",
+  "en": "Above Clouds",
+  "max": 12,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "MONAPP.CSV:203:22",
+  "en": "****",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "MONAPP.CSV:209:22",
+  "en": "**",
+  "max": 12,
+  "used": true,
+  "status": "new"
+ }
+]

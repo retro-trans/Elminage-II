@@ -1,0 +1,368 @@
+[
+ {
+  "en": "\"Can you keep quiet? Can you keep a secret?\"",
+  "kind": "data",
+  "note": "Choice prompt (44 chars); repeats the question of 6249. Check prompt width in game."
+ },
+ {
+  "en": "\"Really? I'm counting on you, okay? What I'm about to tell you\nis a line of business that surely nobody\non this continent has ever tried.\"{w}",
+  "kind": "msg",
+  "note": "Yes branch of 6251."
+ },
+ {
+  "en": "\"...You're honest to the point of stupid.{w}At the very least, you're not cut out to be merchants.{w}But I like that. Come on, humor me for a bit.\"{w}",
+  "kind": "msg",
+  "note": "No branch of 6251: the party honestly admits they can't keep a secret. [JP] kept with its edge ('honest to the point of stupid')."
+ },
+ {
+  "en": "\"I've got some items that carry\nthe Caron brand name right in their names.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They should all perform pretty well, but between\nthe lack of advertising and them looking way too cute,\nyou adventurers won't give them a second look.\"{w}{p}\"I guess sweaty types like you\nwould rather have some rugged design, huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But a safe, run-of-the-mill design like you see everywhere\nwon't pass as my brand.{w}So I stopped making them for you lot.\"{w}{p}\"I figured I'd make them cuter and cuter\nand sell them as fashion items\nto the younger generation.\"{w}{p}\"And the place I set my sights on was Rubenburg.{w}That place is crawling with little brats, right?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'little brats'. [JP] = 'you lot' as in slice_029."
+ },
+ {
+  "en": "\"If I can just get the school store to stock them,\nthey're guaranteed to sell like crazy!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the school store' (Rubenburg's)."
+ },
+ {
+  "en": "\"But when I took the idea to them,\nthey told me, 'We cannot stock them\nunless their practicality is proven.'\"{w}",
+  "kind": "msg",
+  "note": "[JP] inside a quote -> single quotes."
+ },
+ {
+  "en": "\"And this proof of practicality? They said it means\nwearing Caron brand goods and fighting\nthat school's teachers -- and winning!\"{w}",
+  "kind": "msg",
+  "note": "[JP]...[JP] = reported speech; 'They said' restored."
+ },
+ {
+  "en": "\"Seriously, you've got to be kidding me!{w}They want a mere merchant to go fight?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"At first I thought it was just an excuse to turn down the contract,\nbut that vice principal said it with a straight face.{w}That makes it even worse!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Kathleen (named in 6279); no pronoun used."
+ },
+ {
+  "en": "\"So here's the favor I wanted to ask:\nI want you to go fight in my place.{w}Dressed head to toe in the Caron brand, of course.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Next time you come, don't bring any items at all.{w}Got it? You absolutely have to win, okay!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Looking good, looking good~{w}Even I'm smitten with how it turned out!\"{w}",
+  "kind": "msg",
+  "note": "♪ -> '~'. [JP] = 'Even I'm smitten with how it turned out'."
+ },
+ {
+  "en": "\"Now hurry up and go win!{w}Your target is the vice principal, Kathleen!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the vice principal, Kathleen' (glossary: Vice Principal Kathleen)."
+ },
+ {
+  "en": "\"Left your stuff behind? Looks like you're ready.\"{w}{p}\"Okay then,\nI'm handing over the Caron brand items.{w}Well, they're only prototypes, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, all equipped!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}      *    You've been cursed!    *      {0F}{w}",
+  "kind": "msg",
+  "note": "Centred system banner; padding approximates the source (check centring in game)."
+ },
+ {
+  "en": "\"What did you expect? They're prototypes.{w}Quit your grumbling and go win like that!{w}Your target is the vice principal, Kathleen!\"{w}",
+  "kind": "msg",
+  "note": "Source typo [JP] read as [JP]."
+ },
+ {
+  "en": "\"Hey, come on.{w}I told you to come empty-handed, didn't I?{w}Go on, hurry up and get ready!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome back! Looks like you pulled it off!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Vice Principal Kathleen came by just now\nand agreed to sign the contract!!{w}Yaaaaay!!\"{w}",
+  "kind": "msg",
+  "note": "Built to avoid a pronoun for Kathleen (gender unknown)."
+ },
+ {
+  "en": "\"And the finished version just got done, too.{w}Now my brand name will thunder across the land!!{w}Thank you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the finished version' (vs the prototypes)."
+ },
+ {
+  "en": "\"It's not much of a thank-you, but\nI'll let you lot buy Caron brand goods\ncheap.\"{w}{p}\"I've marked them down, so buy some before you go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, I'm beat...\"{w}{p}\"See, the Caron brand's a big hit.{w}Being a hit is great and all, but everyone\nkeeps nagging me to do this, do that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I'm happy about it, though!{w}Maybe I'll go tease that smelly shop\nto blow off some steam.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'that smelly shop'; which shop is meant is not stated (possibly a rival shop seen elsewhere). Kept literal."
+ },
+ {
+  "en": "\"Here at this Cathedral, for any worshippers who wish it,\nwe offer a variety of talks about the gods,\nthough they run a little long.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Would you like to hear one too?\"",
+  "kind": "data",
+  "note": "[JP] = 'Would you (all) like to hear one too?'"
+ },
+ {
+  "en": "\"Then, if you'll excuse me... Ahem.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have confirmed the names\nof six gods.\"{w}{p}\"The god who creates life -- Orses, god of life-creation.{w}The god of change and pleasure -- Sarijana, god of change.{w}The god of death and endings -- Rogera, god of Dark Oblivion.\"{w}{p}\"These are the gods who govern life.\nNext...\"{w}{p}\"The god who creates space -- Semnadoc, god of subspace.{w}The god who governs time -- Sinhanicol, god of time.{w}The god who governs existence -- Dehain, god of existence.\"{w}{p}\"These are the gods who govern\nthe order of things.\"{w}{p}\"Theologians surmise that among these six\nthere is one chief god.\"{w}{p}\"However, no decisive record remains\nof who that chief god actually is.\"{w}{p}\"Conjecture goes no further than\nthat it is either Orses or Dehain.\"{w}{p}\"Even so, it is thought that among the gods,\nthe one with the greatest authority\nis most likely Dehain.\"{w}{p}\"This is because everything in this world\nis said to be unable to exist\nwithout Dehain's approval.\"{w}",
+  "kind": "msg",
+  "note": "Titles from the glossary: god of life-creation, god of change, god of Dark Oblivion, [JP] = god of subspace, god of time, god of existence. 'The god who X -- Name, title' keeps both the gloss and the title the source gives. [JP] = 'the order of things'."
+ },
+ {
+  "en": "\"Would you like to hear more?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"Orses is the god of truly equal love.\nAs the god who brings forth life, Orses must pour\nunsparing love upon every created being.\"{w}{p}\"Sarijana, it seems, helped Orses in the work\nof creating life -- up to a point.\"{w}{p}\"I say 'up to a point' because at some point,\nSarijana seems to have begun acting against\nthe will of the world of the gods.\"{w}{p}\"What came of it\nhas not been handed down to our age.\"{w}{p}\"There is a research report suggesting\nthat Orses and Dehain\nwere in dispute over something.\"{w}{p}\"Whether Sarijana's turning against the gods\nstemmed from the conflict between those two gods,\nwe do not yet know.\"{w}{p}\"And then there is Semnadoc, whom this Cathedral reveres.\"{w}{p}\"Semnadoc is the god who governs space,\nand has left us many teachings to save our hearts,\nsuch as 'Let there be smiles upon the land.'\"{w}{p}\"I myself was moved by those teachings,\nand so, in this way, I have the honor of spreading\nSemnadoc's teachings to all of you.\"{w}",
+  "kind": "msg",
+  "note": "Names repeated instead of pronouns (gods' genders unknown). [JP] = 'turning against the gods'. [JP] = 'Let there be smiles upon the land.' [JP] = 'Semnadoc' (lead convention)."
+ },
+ {
+  "en": "\"Would you care to hear more?\"",
+  "kind": "data",
+  "note": "[JP] variant of 6317; slightly different wording to keep the rows distinct."
+ },
+ {
+  "en": "\"Now, as for those who belong to the demon world.{w}They are beings at the opposite pole from the gods, but...\"{w}{p}\"In truth, there are no records at all\nof where they come from\nor what they intend to do.\"{w}{p}\"Among what we call monsters are those born\nin this land just as we were, those that came\nfrom the demon world, and then...\"{w}{p}\"It is rumored that some of them\nmay even be messengers\nof the gods.\"{w}{p}\"It seems our imagination\ncan reach only so far.\"{w}{p}\"But that we live embraced\nby the love of the gods\nis surely an unshakable truth.\"{w}{p}\"Well,\nit seems that is all I can tell you.\"{w}{p}\"Now that you understand the gods more deeply,\nmay good fortune be with you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the demon world' (not in glossary)."
+ },
+ {
+  "en": "\"I understand.\nLet us save the talk for another time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for listening so attentively.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am Mersenne, and I serve\nas bishop of this Cathedral.\"{w}",
+  "kind": "msg",
+  "note": "Source says [JP] (bishop) here, though the glossary and 6342 make him an archbishop ([JP]). Kept 'bishop' as written; lead may prefer 'archbishop' for consistency."
+ },
+ {
+  "en": "\"This town has nothing but religion,\nbut I'm sure one stroll around it will leave you\nfeeling refreshed!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Many people visit this town,\nwhether as pilgrims or as sightseers.{w}The town prospers thanks to everyone's offerings.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By rights,\nwe should not be taking money at all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Faith and running a business --\nthat must be the eternal dilemma of the clergy.\"{w}{p}\"So, as what small service I can offer,\nI make a point of speaking directly\nwith everyone who visits the Cathedral.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do my oracles... come true?{w}Haha, forgive me for asking something so odd.\"{w}{p}\"I have been put on a pedestal as the foremost figure\nof the Semnadoc faith, but...\"{w}{p}\"Not one archbishop in history\nhas ever heard Semnadoc's voice directly.\"{w}",
+  "kind": "msg",
+  "note": "First question is put to the party. [JP] = 'oracle' as in slice_029. [JP] = 'archbishop in history'."
+ },
+ {
+  "en": "\"Of course, such miracles\nshould not happen all that often, but...{w}It's a lonely state of affairs, all the same.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm?{w}Then what are my oracles really, you ask?{w}Intuition. Spiritual intuition. Haha!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Intuition. Spiritual intuition.' ([JP] completes the noun)."
+ },
+ {
+  "en": "\"Say 'spiritual' and it sounds\nthe part, doesn't it?{w}Well, keep that under wraps. Under wraps.\"{w}",
+  "kind": "msg",
+  "note": "[JP] repeated as 'Under wraps.' twice."
+ },
+ {
+  "en": "\"They say Semnadoc is not only\nthe god of space but also the god of laughter.\"{w}{p}\"I'm not joking around, you know.{w}A life without smiles\nwould be sad, wouldn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No matter how hard things get, never forget to smile.{w}That is Semnadoc's teaching.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you know of the Edumo?{w}Being adventurers, I'm sure you do.\"{w}{p}\"I was attacked by them once myself,\nwhile I was out spreading the faith.\"{w}{p}\"I tried to fight them\nwith the help of Semnadoc's power, but...\"{w}{p}\"When I spoke Semnadoc's name,\none of the Edumo, an especially large one,\nlaughed at me with scorn.\"{w}{p}\"'...Semnadoc is retired now,'\nit said.\"{w}{p}\"It seems the seats of the gods have changed\nin many ways over time, and the six gods we know\nare different from those of today.\"{w}{p}\"Incidentally, I hear\nthe current god of space is one called Void.\"{w}",
+  "kind": "msg",
+  "note": "The large Edumo is a monster: 'it'. [JP] = 'is retired now'."
+ },
+ {
+  "en": "\"Our own Semnadoc has apparently already\nstepped down as god of space...{w}It is hard to believe.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Our own Semnadoc' (no honorific per lead)."
+ },
+ {
+  "en": "\"But faith is a funny thing.{w}Being told that our god has already retired\nmakes me long for our god all the more.\"{w}{p}\"I wonder, are my prayers being heard?\"{w}",
+  "kind": "msg",
+  "note": "[JP] repeated as 'our god' to avoid a pronoun for Semnadoc."
+ },
+ {
+  "en": "\"Forgive me for talking about such things.{w}But I felt that I could tell all of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You offered a prayer to Semnadoc, god of space.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'god of space' (glossary)."
+ },
+ {
+  "en": "\"An oracle, is it? Very well.{w}Then let us begin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh.........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Haaaaaaahhh--!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"May fortune be with you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Mersenne uses [JP] here, singular 'you' is fine in English."
+ },
+ {
+  "en": "Hisbert",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, my,\nsome cute little lambs\nhave wandered in.\"{w}{p}\"What shall I do?{w}Maybe I'll just send you right back...\"{w}{p}\"Hmmm...\"{w}{p}\"......\"{w}{p}{0E}\"......{0F}Oh well, never mind.\"{w}{p}\"This is Elminage.{w}And I am Hisbert. Nice to meet you.\"{w}",
+  "kind": "msg",
+  "note": "{0E}/{0F} kept around the second ellipsis as in the source. [JP] = 'cute little lambs' (glossary personality note)."
+ },
+ {
+  "en": "\"You came back again?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sigh...{w}Honestly, you hopeless children.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'you hopeless children' (fond exasperation)."
+ },
+ {
+  "en": "\"Hm?{w}What do I mean by 'again'?{w}Never mind, never mind. Don't worry about it.\"{w}{p}\"This is Elminage.{w}And I am Hisbert. Nice to meet you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Elminage is the place that records every event\nthat has ever happened in the worlds\nbrought forth by the gods.\"{w}{p}\"This may sound outlandish to you, but\nbesides Finas Rade, there exist\na great many other spaces and lands.\"{w}{p}\"My role is to organize\nthe information of Elminage.\"{w}{p}\"The information that drifts in is vast...\nEven as I look at you here before me\nand listen to your words,\"{w}{p}\"one of my eyes and one of my ears\nare constantly taking in infinite facts.{w}Even now, right here in this very place.\"{w}{p}\"From every war that has broken out in those spaces\nto the first person you ever fell in love with...\"{w}{p}\"Everything is recorded\nin Elminage, and converges here.\"{w}{p}\"Ufufu, surprised?{w}But don't worry.\nI'm merely an onlooker.\"{w}{p}\"The System is not permitted to interfere\nwith the physical world.{w}That is the law of Elminage.\"{w}{p}\"No matter what calamity or tragedy occurs,\nall I can do is watch.\"{w}{p}\"In exchange,\neven if the gods abandon you,\nI will never take my eyes off you.\"{w}{p}\"I'm always watching over you, you know.\"{w}{p}\"Now, shall we continue our talk?\nThere's a lot you want to ask, isn't there?\"{w}",
+  "kind": "msg",
+  "note": "Sentence split across pages 4-5 kept split (comma, then lower case). [JP] = 'the System' (Elm3: Elminage System). [JP] = 'the physical world'. [JP] read as plural 'the gods'."
+ },
+ {
+  "en": "\"A great being.{w}But not one I'd call your ally.\"{w}{p}\"You are allowed to exist\nbecause of 'a certain one's remorse.'\"{w}{p}\"I can't tell you any more than that. I'm sorry.\"{w}",
+  "kind": "msg",
+  "note": "Answer to a talk topic not in the script (keyword menu); the subject of [JP] cannot be verified, so no name or pronoun is added. [JP] = 'a certain one's remorse'."
+ },
+ {
+  "en": "\"The Kin of Darkness...{w}What makes someone Kin of Darkness is hard to say, but...\"{w}{p}\"They are those born of darkness\nand bound by fate to destruction.\"{w}{p}\"When a new world is born\nby the hands of the gods,\nthey come in full force to conquer it.\"{w}{p}\"Besides the Contrachio affair,\nyou must have seen plenty of other crises, right?\"{w}{p}\"Be on your guard.{w}Let it slip, and Void's hounds\nwill devour your land whole.\"{w}{p}\"...Though I believe that you\nwill surely overcome them.\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept ambiguous ('bound by fate to destruction': destined to destroy or to be destroyed). [JP] = 'Void' (no honorific). [JP] object read as the crises/threat ('them')."
+ },
+ {
+  "en": "\"A land young, yet old.{w}Over a mind-boggling span of time,\nyour land has come to exist.\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing punctuation before the first {w}; a period added."
+ },
+ {
+  "en": "\"Supported by much love and sincerity, mind you.{w}That's all I can tell you for now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Keep searching. For the traces of creation.{w}I believe that you can surely fulfill\nthe promise made so very long ago.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the traces of creation'."
+ },
+ {
+  "en": "\"......{w}Oh, right, I have to sort the books.\"{w}{p}\"Sorry,\nit looks like I don't have time to deal with you.{w}Some other time.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'sort the books' (also 6395)."
+ },
+ {
+  "en": "Will you watch Hisbert sort the books?",
+  "kind": "data",
+  "note": "Choice prompt, 38 chars; shorten to 'Watch Hisbert sort the books?' (29) if it does not fit."
+ },
+ {
+  "en": "You stepped away from Hisbert so as not to disturb her.{w}",
+  "kind": "msg",
+  "note": "'her' = Hisbert (female in glossary)."
+ },
+ {
+  "en": "As if ignoring you,\nHisbert began picking up books.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh. It's all jumbled up.{w}I need to put these in proper order.\"{w}{p}\"Let's see... control number... this one's unregistered.{w}Zefkaka: Urna. System: Rade 301.\"{w}{p}\"A land made by Orses, god of life-creation,\nwhere life arose, but which Dehain\ndid not approve. How nostalgic.\"{w}{p}\"And this one is control number 304972.{w}Zefkaka: Fiona. System: Noris 487.\"{w}{p}\"A land made by Dehain, god of existence.{w}It was approved, but\nlife never arose there.\"{w}{p}\"Well, of course -- it was made unilaterally\nafter a falling-out with the god of life-creation.\"{w}{p}\"Oh, the system changes partway through.{w}System: Rade 301.{w}There's a note saying it was rewritten.\"{w}{p}\"Why would it have been tampered with?\"{w}{p}\"Hmmm...\"{w}",
+  "kind": "msg",
+  "note": "Registry format: [JP] = 'System: Rade 301' (and 'Noris 487'), matching the decimal in 6405 (304972.301 / .487). [JP] = 'control number', [JP] = 'Zefkaka' (glossary). [JP] rendered 'made unilaterally' to avoid a pronoun for Dehain. Gods without honorific."
+ },
+ {
+  "en": "\"Ah, now I remember.\"{w}{p}\"New Land 304972... Orses and Sarijana,\nwho were trying to relocate life there...\"{w}{p}\"...forcibly fused it with Urna, the unregistered land.{w}They even revised its system so that life could live there.\"{w}{p}\"As a result, this land became control number 304972,\nof the Rade 301 system.\"{w}",
+  "kind": "msg",
+  "note": "One sentence split across pages 2-3: cut at the same point. [JP] = 'New Land' (glossary). [JP] = 'Orses and Sarijana' ([JP] read as 'and')."
+ },
+ {
+  "en": "\"Honestly, what a pain they caused.{w}They were even so considerate as to change\nthe land's name to Fiur Rade.\"{w}{p}\"Did they really think something like that\ncould fool the eyes of the System?\"{w}",
+  "kind": "msg",
+  "note": "[JP] is sarcastic: 'so considerate as to'."
+ },
+ {
+  "en": "\"Fiona Noris,\ncontrol number 304972.487...\"{w}{p}\"was fused with Urna Rade, the unapproved land,\nand changed to Fiur Rade,\ncontrol number 304972.301...\"{w}{p}\"So it was only natural that Orses, god of life-creation,\nand Sarijana, god of change, who caused all this trouble,\nwere sent to the event horizon.\"{w}{p}\"But Sarijana, never one to go quietly,\nscattered something called the Deplus factor\non the way out, as I recall.\"{w}{p}\"There were even claims that I'd let the spread\nof this factor slide on purpose, and the first\nno-confidence motion since Sabra's was raised.\"{w}",
+  "kind": "msg",
+  "note": "Sentence split across pages 1-2 kept split. [JP] = 'only natural that ... were sent'. [JP] = 'as I recall' (no pronoun for Sarijana). [JP] read as 'the first no-confidence motion since Sabra's' (Sabra = earlier librarian per glossary)."
+ },
+ {
+  "en": "\"Honestly, what an infuriating business!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...Why was that? Despite the words she spat out,\nHisbert's expression seemed fond, as if she were\nreminiscing about days long past.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This land's record is quite thick.{w}For a land so unstable, latently holding\na second Zefkaka, it sure lasted a long time.\"{w}{p}\"...But in the end, it came to an end after all.{w}End time: 61043891.\"{w}{p}\"Oh, how unusual.{w}There's a land with the exact same start time.{w}That land is control number 712612, system...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'a second Zefkaka' (glossary capital kept; glossary note allows lowercase for a common noun - lead's call). Deliberate trail-off kept."
+ },
+ {
+  "en": "\"No way, even the system's the same: 301!\"{w}{p}\"Back then... that was when Void, god of space,\nbecame chief god, and the plans for creating the Eld\nwere overhauled across the board.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'chief god' (as in 6316). [JP] = 'creating the Eld'."
+ },
+ {
+  "en": "\"A special land was planned for creating the Eld,\nand lands with little chance of producing the Eld\nwere weeded out, one after another.\"{w}{p}\"Among them was a land called Belnaf,\nof the Arana system.{w}A rare land, devout and peaceful...\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as singular ('A special land'); number not settled by the source. [JP] = 'Arana' (glossary: Belnaf Arana). [JP] = 'weeded out'."
+ }
+]

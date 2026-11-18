@@ -1,0 +1,348 @@
+[
+ {
+  "en": "\"Heh... heh-hee! Hee-hee-hee!{w}I... WIIIIIN!!\"{w}",
+  "kind": "msg",
+  "note": "Gloating giggle; [JP] rendered as a creepy 'heh-hee'."
+ },
+ {
+  "en": "\"I can't tell, so I'll go for both, nya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Too~ ea~sy~, nyaaa~n~{w}Muse has two little hands, nya!\"{w}{p}\"Gimme~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'naive/too easy', drawn out like the earlier [JP] / [JP] lines; ♪ -> ~. Muse speaks of herself by name."
+ },
+ {
+  "en": "{0E}\n                    * Whoa-whoa-whoa! *{0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; ASCII spaces approximate the full-width centring. Full-width [JP] -> *."
+ },
+ {
+  "en": "Before Benef could reel in the fish,\nMuse reached for both rods at once!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll start with this rod, nyaaaa!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Benef, I'm telling you for your own good:\njust give it up already.\"{w}",
+  "kind": "msg",
+  "note": "[JP] dropped: 'Mr.' would assign Benef a gender (glossary: no explicit gender)."
+ },
+ {
+  "en": "\"N-no...{w}I'm going to catch one, no matter what...{w}Waaaaaahhhhh!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = wailing sob."
+ },
+ {
+  "en": "\"By the way, adventurers.{w}Have you heard of something called catnip water?\"{w}{p}\"From what I hear, Werebeasts love catnip water more than anything.\"{w}{p}\"Even Muse could be stopped in her tracks if I had some catnip water.\"{w}",
+  "kind": "msg",
+  "note": "Muse = girl (glossary/Wikipedia [JP]), so 'her'."
+ },
+ {
+  "en": "\"So...{w}for the sake of my dinner, could you...{w}go and fetch me some catnip water!?\"{w}{p}\"Catnip water springs up underground in the Nerid Marshlands!\"{w}{p}\"I-I'm counting on you!{w}In fact, consider it asked -- I've asked!{w}I asked, all right!?\"{w}",
+  "kind": "msg",
+  "note": "Comic shift [JP] -> [JP]: Benef declares the request already made so the party can't refuse."
+ },
+ {
+  "en": "\"...Benef~ What are you talking about, nya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, Muse. Don't you worry about it. Heh heh heh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aren't you fishing today, nyan?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Who knows?\nWill I fish~? Won't I fish~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Muse has no use for a Benef who doesn't fish, nyan.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please, help me...{w}I'm begging you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Catnip water from the Nerid Marshlands...{w}Please, please, take pity on me...{w}I'm begging you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, at last...\nat last you've brought it to me!{w}Thank you, thank you so much!!\"{w}{p}\"Then I'll cast my line too!{w}Heh heh heh...{w}Hah hah hah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-this much!{w}Was fishing always this much fun!?{w}Fwahahahaha!!\"{w}{p}\"The fish goes and bites the bait!{w}And goes and tugs!{w}And theeeeeen!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here it comes, here it comes, here it comeeeees!\nMy dinner's on the hoooooook!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh-hee!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as the same gloating giggle as SCDWMAP:4722 (Benef has the catnip plan ready); could also be a startled squeak as Muse wakes."
+ },
+ {
+  "en": "\"I smell yummy fish, nya~{w}Benef, you're fishing for the first time in ages, nyan!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Muse remarks Benef is fishing again after a long break (Benef stopped while waiting for the catnip water)."
+ },
+ {
+  "en": "\"Muse... oh, Muse...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's been a long time.\nOver ten years since you came to this wharf...{w}It's been sooo looooong!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Benef, what's wrong, nyan?{w}Dunno what's going on, but\nI'll eat it for you, so hurry up and catch it, nyan.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (cat-ified [JP]) kept as casual 'Dunno'."
+ },
+ {
+  "en": "\"Then eat... THIIIIIIIS!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef sprinkled the catnip water all around!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyaaa?{w}What are you doing, nyan? What did you sprinkle, nyan?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well? Feels good, doesn't it!?{w}So good you can't even be bothered to move, eh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It really does, nya~ It feels so nice, nya~{w}Woozy... woozy...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, while I've got the chaaaance!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n                    * Got one! *{0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner, as SCDWMAP:4731."
+ },
+ {
+  "en": "\"I did it...{w}I DID IIIIIT!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now at last...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good for you, Benef!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you!\nAdventurers, thank you so very much!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Afterwards, I ate dinner with fish on the side\nfor the first time in over ten years.\"{w}{p}\"Who'd have thought a taste I'd forgotten could be so delicious...{w}For the first time in ages, I felt the will to live welling up!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? Landing Bahamut on a single line?\"{w}{p}\"...Oh-ho,\nso a request like that came in at Walmitt's?{w}I see, I see...\"{w}{p}\"You may not believe this, but when I was young,\nwith a Flame Rod, and Airy Vider Meat for bait...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = pole-and-line fishing, one fish on one line; rendered 'landing Bahamut on a single line'. The same phrase is a quest title in EVENT_TEXT.CSV:48:2 (untranslated) -- align with whatever that becomes. Accuracy: glossary spelling Airy Vider (was Airy Vider)."
+ },
+ {
+  "en": "\"...I once reeled in Bahamut, you know.\"{w}",
+  "kind": "msg",
+  "note": "Continues the sentence of 4817."
+ },
+ {
+  "en": "\"Sadly,\nmy rod snapped and it got away...{w}But it's my lifelong rival as an angler.\"{w}{p}\"I never thought I'd fish for it again, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Shall I give it another try?",
+  "kind": "data",
+  "note": "Choice prompt; kept under ~30 chars."
+ },
+ {
+  "en": "\"Well, there's no need to force it, after all.\"{w}",
+  "kind": "msg",
+  "note": "Answer to 'No'. [JP]: no need to push yourself to fish (for it)."
+ },
+ {
+  "en": "\"I see.\nThen could you get a Flame Rod ready for me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see.\nThen could you also get some Airy Vider Meat for me?\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: glossary spelling Airy Vider (was Airy Vider)."
+ },
+ {
+  "en": "\"The Flame Rod and the Airy Vider Meat --\nreceived, sure enough!{w}...Hyah!!\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: glossary spelling Airy Vider (was Airy Vider)."
+ },
+ {
+  "en": "The enormous bait was hurled into the sea!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Benef, what are you doing, nyan?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Flame Rod twitched!!{w}{p}...But Benef made no move to reel it in,\nand let the bite get away.{w}",
+  "kind": "msg",
+  "note": "[JP] (rod reacted) rendered 'twitched', a bite on the line."
+ },
+ {
+  "en": "\"Benef, why won't you reel it in, nyan!{w}You finally got a bite!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh. I'm out to land a big one.{w}That was just a fairly large fish...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A fairly large fish would be fine too, nyan...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Flame Rod twitched!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here it comes, nyan!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...That's not it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...Again Benef made no move to reel it in,\nand let the bite get away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Geez, why won't you reel it in, nyan!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't rush, Muse.{w}Fishing is something you take slowly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I never noticed with Muse always taking your fish,\nbut you're quite the angler, Benef.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, you just leave it to Benef here!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Benef refers to self by name; kept without adding age or gender."
+ },
+ {
+  "en": "\"...Benef's getting kinda cocky, nyan.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = getting cocky; phrased without a pronoun for Benef."
+ },
+ {
+  "en": "The Flame Rod twitched!!{w}The pull is stronger than ever before!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This feel on the line... I know it!{w}It's you! Come on! My... RIVAL!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef pulled on the rod...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bahamut",
+  "kind": "name"
+ },
+ {
+  "en": "\"GRAAAAAHHH!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n                    * Bahamut! *{0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner, as SCDWMAP:4731."
+ },
+ {
+  "en": "\"H-hey now!\nBenef, what on earth have you hooked!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nya-nya-nyaaa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Waaaatch cloooosely...{w}THIIIIS...{w}is how you land Bahamut on a single liiiiine!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A fighting spirit like never before\nburst forth from Benef's body!{w}",
+  "kind": "msg",
+  "note": "Source has [JP], a typo for [JP] (to burst forth)."
+ },
+ {
+  "en": "Super Benef",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ngh... RAAAAAAHHH!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Benef strained with every ounce of strength\nto haul Bahamut in!{w}...But there's no beating old age!!{w}",
+  "kind": "msg",
+  "note": "[JP] = no one can win against advancing years; phrased without a pronoun for Benef."
+ },
+ {
+  "en": "\"Damn it, quit thrashing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come on, hang in there, Benef!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Armitt urging Benef to hold firm."
+ },
+ {
+  "en": "\"Good adventurers...\nI'm sorry, but please lend me a hand!{w}You only need to wear it down!!\"{w}",
+  "kind": "msg",
+  "note": "Battle trigger; party fights Bahamut while Benef holds the line."
+ },
+ {
+  "en": "You beat Bahamut back.{w}",
+  "kind": "msg",
+  "note": "Subject = the party (post-battle narration); [JP] = routed/drove back, not killed (it is landed next)."
+ },
+ {
+  "en": "\"Give up, Bahamut!!\"{w}",
+  "kind": "msg"
+ }
+]

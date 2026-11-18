@@ -1,0 +1,374 @@
+[
+ {
+  "en": "Black Sheep",
+  "max": 14
+ },
+ {
+  "en": "Green Dragon",
+  "max": 16
+ },
+ {
+  "en": "Avenger",
+  "max": 12
+ },
+ {
+  "en": "Orc King",
+  "max": 12
+ },
+ {
+  "en": "Lizard King",
+  "max": 14
+ },
+ {
+  "en": "Cyclops",
+  "max": 12
+ },
+ {
+  "en": "Tentacles",
+  "max": 12,
+  "note": "Glossary form (slice 018 script: \"Tentacles\")."
+ },
+ {
+  "en": "Manticore",
+  "max": 12
+ },
+ {
+  "en": "Daimyo",
+  "max": 10,
+  "note": "Elm3 Ghost Daimyo."
+ },
+ {
+  "en": "High Ninja",
+  "max": 12,
+  "note": "Pattern of Elm3 High Bishop / High Sorceress."
+ },
+ {
+  "en": "Giant Zombie",
+  "max": 18
+ },
+ {
+  "en": "Ogre Crab",
+  "max": 12,
+  "note": "A giant crab (pincers, crab miso); the text says it has nothing to do with ogres."
+ },
+ {
+  "en": "Arch Summoner",
+  "max": 14,
+  "note": "Elm3 Arch Maid pattern for the arch- prefix."
+ },
+ {
+  "en": "Living Statue",
+  "max": 18,
+  "note": "MON_TEXT describes a living suit of armor; name kept literal."
+ },
+ {
+  "en": "Lich",
+  "max": 6
+ },
+ {
+  "en": "Damned",
+  "max": 6,
+  "note": "Scythe-wielding skeleton warrior. Exactly 6/6."
+ },
+ {
+  "en": "Dragon Zombie",
+  "max": 14
+ },
+ {
+  "en": "Poison Dragon",
+  "max": 16
+ },
+ {
+  "en": "Onmyoji",
+  "max": 12,
+  "note": "Romanized like Elm3 Ronin / Genin / Kannagi."
+ },
+ {
+  "en": "Flatwoods",
+  "max": 14,
+  "note": "Named after the Flatwoods Monster (mysterious giant)."
+ },
+ {
+  "en": "Arch Fairy",
+  "max": 16
+ },
+ {
+  "en": "Arch Renard",
+  "max": 14,
+  "note": "Renard = fox (swift forest animal). Reading uncertain."
+ },
+ {
+  "en": "Oreia",
+  "max": 24,
+  "note": "Mutilated devil who lost a Demon Duke power struggle. Romanization provisional."
+ },
+ {
+  "en": "Phoenix",
+  "max": 12,
+  "note": "Glossary."
+ },
+ {
+  "en": "Ifrit",
+  "max": 10,
+  "note": "Glossary."
+ },
+ {
+  "en": "Dhampir",
+  "max": 10,
+  "note": "Human-vampire half-breed."
+ },
+ {
+  "en": "Gold Dragon",
+  "max": 16
+ },
+ {
+  "en": "Behemoth",
+  "max": 8,
+  "note": "Exactly 8/8."
+ },
+ {
+  "en": "Phoenix Queen",
+  "max": 20,
+  "note": "Glossary."
+ },
+ {
+  "en": "Red Fiend",
+  "max": 16
+ },
+ {
+  "en": "Old Lord Branet",
+  "max": 18,
+  "note": "Glossary title form."
+ },
+ {
+  "en": "Godshade Ildraha",
+  "max": 18,
+  "note": "Godshade = Elm3 / monster-type form of the term; script uses \"Divine Shadow\" (too long here). Ildraha romanized."
+ },
+ {
+  "en": "Godshade Ashtel",
+  "max": 18,
+  "note": "Ashtel as in script slice 031."
+ },
+ {
+  "en": "Godshade Rogera",
+  "max": 16
+ },
+ {
+  "en": "Godshade Void",
+  "max": 14
+ },
+ {
+  "en": "Godshade Naru",
+  "max": 14
+ },
+ {
+  "en": "Godshade Dehain",
+  "max": 18
+ },
+ {
+  "en": "Godshade Orses",
+  "max": 16
+ },
+ {
+  "en": "Godshade Sarijana",
+  "max": 18
+ },
+ {
+  "en": "Godshade Semnadoc",
+  "max": 18
+ },
+ {
+  "en": "Godshade Sinhanicol",
+  "max": 20
+ },
+ {
+  "en": "Omshokopo",
+  "max": 12,
+  "note": "Glossary."
+ },
+ {
+  "en": "Radrecht",
+  "max": 10,
+  "note": "Glossary."
+ },
+ {
+  "en": "Shirinmorin",
+  "max": 12,
+  "note": "Glossary."
+ },
+ {
+  "en": "Raizam",
+  "max": 10,
+  "note": "Glossary."
+ },
+ {
+  "en": "Wind Zone Omsis",
+  "max": 24,
+  "note": "Taiiki = band/zone; short pattern used for all four so Water Zone Shirins fits 24."
+ },
+ {
+  "en": "Fire Zone Rades",
+  "max": 24
+ },
+ {
+  "en": "Water Zone Shirins",
+  "max": 24
+ },
+ {
+  "en": "Earth Zone Raizas",
+  "max": 24
+ },
+ {
+  "en": "Wisdom Demon Beldoll",
+  "max": 22,
+  "note": "Script (slice 023): \"Beldoll, the Demon of Wisdom\" (24 chars, over 22)."
+ },
+ {
+  "en": "Outer Demon-1",
+  "max": 24,
+  "note": "Full-width dash and digit as ASCII. Numbered variant (maybe internal)."
+ },
+ {
+  "en": "Spirit Lord Branet",
+  "max": 18,
+  "note": "Reikun, after Old Lord Branet (rokun). 18/18."
+ },
+ {
+  "en": "Spirit Lady Eril",
+  "max": 16,
+  "note": "Reijou; Eril is female (MON_TEXT uses kanojo). 16/16."
+ },
+ {
+  "en": "Dodo King",
+  "max": 14,
+  "note": "Glossary."
+ },
+ {
+  "en": "Sp. Advisor Kamikaze",
+  "max": 20,
+  "note": "Glossary Special Advisor Kamikaze is 24 chars; max 20."
+ },
+ {
+  "en": "Vice Principal Kathleen",
+  "max": 24,
+  "note": "Glossary."
+ },
+ {
+  "en": "Prof. Scheherazade",
+  "max": 20,
+  "note": "Glossary Professor Scheherazade is 22; Prof. as in Prof. Rombino."
+ },
+ {
+  "en": "Year Head McMahon",
+  "max": 18,
+  "note": "Glossary Head of Year McMahon is 20; max 18."
+ },
+ {
+  "en": "Principal",
+  "max": 10,
+  "note": "Glossary."
+ },
+ {
+  "en": "Bd. Chair",
+  "max": 10,
+  "note": "Glossary Board Chair is 11; max 10."
+ },
+ {
+  "en": "Undead Ogre",
+  "max": 16,
+  "note": "A former Ogre Lord (MON_TEXT)."
+ },
+ {
+  "en": "Undead Goblin",
+  "max": 18
+ },
+ {
+  "en": "Undead Kobold",
+  "max": 18
+ },
+ {
+  "en": "Animacie",
+  "max": 10,
+  "note": "Glossary."
+ },
+ {
+  "en": "Espel-Dex",
+  "max": 16,
+  "note": "Glossary."
+ },
+ {
+  "en": "Samanbeia",
+  "max": 12,
+  "note": "Demon Duke, \"the Grand Chancellor\". Romanization provisional."
+ },
+ {
+  "en": "Berry Dromea",
+  "max": 16,
+  "note": "Demon Duke \"Lady of Darkness\". Beri- read as Berry; romanization provisional."
+ },
+ {
+  "en": "Emperor Harold",
+  "max": 16,
+  "note": "Taitei; Demon Duke ruling all cats."
+ },
+ {
+  "en": "Abyssal Apasha",
+  "max": 18,
+  "note": "Shin-en = abyss; glossary Apasha."
+ },
+ {
+  "en": "Ixgoil",
+  "max": 12,
+  "note": "Dragon; romanization provisional."
+ },
+ {
+  "en": "Dantarius",
+  "max": 12,
+  "note": "Demon Duke; romanization provisional."
+ },
+ {
+  "en": "Princess Harz",
+  "max": 18,
+  "note": "Harz as in the Harz Crystal key item (script)."
+ },
+ {
+  "en": "Anti-World",
+  "max": 14,
+  "note": "Homunculus siblings Alba and Berta."
+ },
+ {
+  "en": "Nyoppurin",
+  "max": 12,
+  "note": "As in \"Nyoppurin's Pudding\" key item (script)."
+ },
+ {
+  "en": "Ira",
+  "max": 4,
+  "note": "As in \"Ira's True Crystal\" key item (script)."
+ },
+ {
+  "en": "Dalisiamarte",
+  "max": 14,
+  "note": "Glossary."
+ },
+ {
+  "en": "Light Fiend",
+  "max": 16
+ },
+ {
+  "en": "Proto Regiem",
+  "max": 16,
+  "note": "Regiem kept as written (not Requiem, which would be rekuiemu). Uncertain."
+ },
+ {
+  "en": "Ordmystica",
+  "max": 16,
+  "note": "Parallel to Tetramystica. Uncertain (Ordo- also possible)."
+ },
+ {
+  "en": "Dina",
+  "max": 8,
+  "note": "Romanization provisional (Deena also possible)."
+ }
+]

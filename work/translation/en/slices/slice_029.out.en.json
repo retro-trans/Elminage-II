@@ -1,0 +1,352 @@
+[
+ {
+  "en": "Mersenne",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ahh! Namina is right before my eyes!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Mersenneee!\"{w}",
+  "kind": "msg",
+  "note": "Namina's [JP] = 'Lord Mersenne' throughout, parallel to 'Lord Semnadoc' so the 'number one / number two' payoff lands."
+ },
+ {
+  "en": "\"Are you in good health, Namina?\"{w}",
+  "kind": "msg",
+  "note": "Mersenne addresses her by name as topic ([JP]); rendered as second person plus name."
+ },
+ {
+  "en": "\"Yes, I'm in good health!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Are you studying, Namina?\nAre you working hard?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, I'm studying and working hard!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And our happiness?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We owe it all to Lord Semnadoc!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And who is the most important one to us!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's Lord Semnadooc!\"{w}",
+  "kind": "msg",
+  "note": "[JP] elongation carried as a stretched vowel."
+ },
+ {
+  "en": "\"Hmm, splendid, Namina!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Just then, a Mersenne card fluttered\nout of Namina's sleeve.{w}",
+  "kind": "msg",
+  "note": "The souvenir woodblock card of Mersenne shown in slice_028 (6088)."
+ },
+ {
+  "en": "\"...Hm? What is that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, this?\nIt's a card of you, Lord Mersenne.\"{w}{p}\"They were selling them at the souvenir shop over there,\nand I just couldn't help buying one!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Lord Mersenne?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tell me,\ndo you truly revere Lord Semnadoc?\"{w}",
+  "kind": "msg",
+  "note": "[JP] as a pointed address: 'Tell me,'."
+ },
+ {
+  "en": "\"Y-yes...\nI do revere Lord Semnadoc... but...?\"{w}",
+  "kind": "msg",
+  "note": "Object restored by repeating the name: Semnadoc's gender is unknown in the glossary, so no 'him'."
+ },
+ {
+  "en": "\"You told me you wish to work\nat the Cathedral someday...{w}If you are merely a fan of mine, there is no need for you to come, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Wh-what's gotten into you all of a sudden!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is no need to go so far as taking\nthat grueling exam to work at the Cathedral.\nIf you come to pray, you can see me like anyone else.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: object read as Mersenne himself (follows 'merely a fan of mine'). Could conceivably mean meeting the god in prayer; flagged."
+ },
+ {
+  "en": "\"You would do well to think it over once more.{w}Think about whether you truly have a reason\nyou must work at the Cathedral.\"{w}",
+  "kind": "msg",
+  "note": "Second half is a dangling clause in JP ([JP]...[JP]); verb 'Think about' restored."
+ },
+ {
+  "en": "\"But, Lord Mersenne!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am not angry.{w}I am warning you for your own sake.{w}...Farewell!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Without so much as a glance at Namina as she chased after him,\nMersenne left for the Cathedral.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Mersenne...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maybe I really was\nstarry-eyed over Lord Mersenne...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = blinded/dazzled by him."
+ },
+ {
+  "en": "\"...What do I do?\"{w}{p}\"Am I okay the way I am?{w}Do I really need to work at the Cathedral...?{w}I just don't know anymore...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mersenne doesn't go easy\neven on those who are fond of him, eh.{w}Mind you, that rigidity is what makes him an archbishop...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = plain 'Mersenne' in Kine's old-woman voice."
+ },
+ {
+  "en": "\"Kine, I...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = plain 'Kine'."
+ },
+ {
+  "en": "\"Sorry, dearie, but I can't give you the answer.{w}That's for you to decide,\nfacing your own heart.\"{w}{p}\"If times weren't what they are, I'd tell you\nto go stand under Moonlight Falls.{w}Nothing beats a waterfall for training the spirit, you know.\"{w}",
+  "kind": "msg",
+  "note": "'dearie' added for Kine's old-woman register ([JP]); remove in editorial pass if unwanted."
+ },
+ {
+  "en": "\"...I'll go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm going to go stand under the falls!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't you talk such foolishness!{w}You of all people must know how dangerous\nthe land has become right now!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'you're not one who wouldn't understand' -> 'You of all people must know'."
+ },
+ {
+  "en": "\"But if things stay like this, I can't stand before\nLord Mersenne with my head held high!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But with the wicked ones\nso active right now...\"{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off kept."
+ },
+ {
+  "en": "\"It's fine! These adventurers here\nwill take care of them for me!{w}Right!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] addressed to the party."
+ },
+ {
+  "en": "\"Oh, I see! Now that's a fine idea!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You've been made her bodyguards\nwithout anyone asking you.{w}",
+  "kind": "msg",
+  "note": "[JP]; 'her' = Namina (female per glossary)."
+ },
+ {
+  "en": "\"Everyone, please go on ahead and wait for me!{w}Once I'm ready, I'll come to the basin\nbelow Moonlight Falls too!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the basin below Moonlight Falls' (new phrase, used consistently in 6172/6173/6175)."
+ },
+ {
+  "en": "Somehow you've ended up agreeing to meet her\nat the basin below Moonlight Falls.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, it's the basin below Moonlight Falls!{w}I'm counting on you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was just thinking of going\nto see Lord Mersenne.{w}Would you come with me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You followed Namina to the Cathedral.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Mersenne!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm. Namina.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Mersenne, I need to talk to you\nabout the other day!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well,\nthen please wait a little while.\"{w}{p}\"There is someone over there\nin need of an oracle,\nso I will see you after that.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'oracle'; [JP] completed as 'I will see you after that'."
+ },
+ {
+  "en": "You waited for Mersenne together with Namina.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "......{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for waiting.\nNow then, Namina.{w}Have you found some sort of answer?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes!\"{w}{p}\"I admired you so much, Lord Mersenne,\nthat I lost sight of the real reason\nI came to Semnadoc!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Please, go on.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I remembered.{w}The day you came to my village,\nLord Mersenne.\"{w}{p}\"You said smiles bring happiness...{w}That it's when times are hard\nthat a smile matters most...\"{w}{p}\"I longed to follow those teachings of Lord Semnadoc,\nso I came to this holy land.\"{w}",
+  "kind": "msg",
+  "note": "'You said' restored for the quoted teaching ([JP]...); the teaching is credited to Semnadoc in the last page."
+ },
+ {
+  "en": "Mersenne is nodding.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So the one who matters most to me is...{w}Lord Semnadoc!{w}Not you, Lord Mersenne!!\"{w}",
+  "kind": "msg",
+  "note": "Echoes 6111 ([JP])."
+ },
+ {
+  "en": "\"Gaaaaah!?\"{w}{p}\"N-Namina...{w}You would cast aside this Mersenne\nand call Lord Semnadoc number one...!?\"{w}{p}\"Am I not Namina's number one!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (shock sound, said aloud) -> 'Gaaaaah!?'. Mersenne's theatrical self-reference [JP] kept as 'this Mersenne'."
+ },
+ {
+  "en": "\"Yes! It's not you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"............Well done!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We of the clergy must devote ourselves\nto the gods and to the happiness of all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To serve is to wear away\none's own happiness and life.{w}Without that resolve, one cannot be a servant of the gods.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: [JP] read as plural to match [JP] in 6209."
+ },
+ {
+  "en": "\"You have realized this, and so,\nhere and now, you have taken\nyour first true step as a member of the clergy!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Mersenne...{w}Thank you for your guidance...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With tears welling in her eyes,\nNamina bowed to Mersenne.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, Lord Semnadoc!{w}Namina has chosen the right path!{w}Please, give her your praise!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Mersenneee!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The joyful voices of the two of them\nrang out through the Cathedral.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"When the new year comes, I'm going to take\nthe Cathedral's ordination exam.\"{w}{p}\"I probably won't pass on the first try,\nbut I'll keep trying again and again,\nand I will pass, you'll see.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'ordination exam' (exam to enter the priesthood); same exam as the [JP] in 6134."
+ },
+ {
+  "en": "\"Lord Semnadoc is number one.{w}",
+  "kind": "msg",
+  "note": "Source row has an opening quote and no closing one (fragment/alt version of 6227); kept as is."
+ },
+ {
+  "en": "{0E}\"Lord Semnadoc is number one.{0F}\nBut number two is Lord Mersenne!\nHehe~\"{w}",
+  "kind": "msg",
+  "note": "♪ -> '~'. {0E}/{0F} highlight kept around the first sentence."
+ },
+ {
+  "en": "Caron",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome!{w}Welcome to the Caron Main Store,\nrun by Caron!!\"{w}{p}\"Huh? You can't find a Caron Branch?{w}Ugh, quit nagging. That's still to come!\"{w}{p}\"From here on, I'm going to spread my brand\nand open stores in all sorts of cities!!{w}So you'd better buy plenty too, customer!!\"{w}",
+  "kind": "msg",
+  "note": "New name [JP] = 'Caron Branch'. [JP] = 'Ugh, quit nagging.' [JP] = 'customer' (matches Lunea's usage in slice_018). Caron's self-reference by name kept ('run by Caron')."
+ },
+ {
+  "en": "\"My shop carries goods that combine\nboth style and function.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'style and function'."
+ },
+ {
+  "en": "\"But just selling them off\ndoesn't make much of a profit.{w}Now, what should I do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Making new goods to match\neach season's trends --\nthat's my motto.\"{w}{p}\"I mean, every shop lines up\nthe same old stuff all year round.\nThere's nothing fun about it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why doesn't anyone notice, I wonder?{w}Now, what's the trend this season?\nIf there isn't one, I'll just make one myself!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm... reliability, huh...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'reliability' (Caron musing; leads into the practicality-proof request in slice_030)."
+ },
+ {
+  "en": "Caron is deep in thought,\narms folded.{w}",
+  "kind": "msg",
+  "note": "No pronoun needed; Caron's gender unknown."
+ },
+ {
+  "en": "\"Oh, welcome.{w}...I know, maybe I'll ask you lot?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'you lot'."
+ },
+ {
+  "en": "\"Hey, can you keep your mouth shut? Can you keep a secret?\nYou know, that confidentiality thing.\"{w}",
+  "kind": "msg"
+ }
+]

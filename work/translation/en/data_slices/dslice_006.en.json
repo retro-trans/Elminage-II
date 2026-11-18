@@ -1,0 +1,374 @@
+[
+ {
+  "en": "Harjiradam",
+  "max": 98
+ },
+ {
+  "en": "Caron Main Store",
+  "max": 12,
+  "note": "Glossary form (matches 97:9 'Go to the Caron Main Store.'). OVER max 12: the 12 comes only from ITEM.CSV:6:189, a spreadsheet column header (byte length of the JP); HELP_TEXT 97:7 allows 98 and the EBOOT town-menu label is not CSV-budgeted. Fitting fallback if required: 'Caron Store' (11)."
+ },
+ {
+  "en": "Semnadoc Cathedral",
+  "max": 98,
+  "note": "EBOOT eb@0895fac8 original slot is 17 bytes (this is 18 chars); relocation assumed."
+ },
+ {
+  "en": "Ask about the gods.",
+  "max": 158,
+  "note": "Label 99:7 is 'About the Gods' (Elm3)."
+ },
+ {
+  "en": "Offer a prayer.",
+  "max": 158
+ },
+ {
+  "en": "Colored Corridor",
+  "max": 98,
+  "note": "As in 104:9 (Elm3)."
+ },
+ {
+  "en": "Recorded History",
+  "max": 98,
+  "note": "As in 105:9 (Elm3)."
+ },
+ {
+  "en": "Inner Door",
+  "max": 98,
+  "note": "As in 106:9 and EL_TALK (Elm3)."
+ },
+ {
+  "en": "Small Talk",
+  "max": 98
+ },
+ {
+  "en": "Uncurse/Repair",
+  "max": 98
+ },
+ {
+  "en": "Sell",
+  "max": 98
+ },
+ {
+  "en": "Treat & Retrieve",
+  "max": 98,
+  "note": "Temple menu; matches 224:9 'Treat and retrieve characters.'"
+ },
+ {
+  "en": "Donate",
+  "max": 98
+ },
+ {
+  "en": "Offer a prayer to the god Orses.",
+  "max": 158,
+  "note": "Orses = deity (glossary); JP carries the god suffix."
+ },
+ {
+  "en": "Rite of Flux",
+  "max": 98
+ },
+ {
+  "en": "Treat",
+  "max": 98
+ },
+ {
+  "en": "Take Back",
+  "max": 98,
+  "note": "Take back a character left in the temple's care (236:9)."
+ },
+ {
+  "en": "Leave in Care",
+  "max": 98,
+  "note": "Leave a character in the temple's care (237:9)."
+ },
+ {
+  "en": "Seek Audience",
+  "max": 98
+ },
+ {
+  "en": "Seek an audience with Ragnastia.",
+  "max": 158,
+  "note": "JP has no title; 'Queen' not added."
+ },
+ {
+  "en": "View details of the items you have sold to the Kernel Shop.",
+  "max": 158,
+  "note": "Item Catalog I help line; phrasing follows 257:9 (Elm3)."
+ },
+ {
+  "en": "*Not quite ready yet*",
+  "max": 158,
+  "note": "Item Catalog II before Lunea's Shop opens; full-width asterisks -> '*'; light, cutesy tone of the JP kept."
+ },
+ {
+  "en": "View details of the 0 GP items you have sold to Lunea's Shop.",
+  "max": 158
+ },
+ {
+  "en": "Register",
+  "max": 98
+ },
+ {
+  "en": "List",
+  "max": 98
+ },
+ {
+  "en": "Delete",
+  "max": 98
+ },
+ {
+  "en": "The character roster is full. No more can be registered.",
+  "max": 158,
+  "note": "JP: the registered characters are full; the second sentence states the consequence."
+ },
+ {
+  "en": "Save",
+  "max": 16,
+  "note": "Category label (col 2), shared by 8 cells."
+ },
+ {
+  "en": "Events",
+  "max": 16
+ },
+ {
+  "en": "Options",
+  "max": 16,
+  "note": "Category label (col 2), shared by 33 cells."
+ },
+ {
+  "en": "Help Message Animation",
+  "max": 98
+ },
+ {
+  "en": "Conversation Message Speed",
+  "max": 98,
+  "note": "Matches 310:9 (Elm3) 'conversation message speed'."
+ },
+ {
+  "en": "Rename Spells",
+  "max": 98
+ },
+ {
+  "en": "Rename Enemy Spells Too",
+  "max": 98
+ },
+ {
+  "en": "Movement Animation",
+  "max": 98
+ },
+ {
+  "en": "Turns the place name display on or off.",
+  "max": 158,
+  "note": "Pattern of 328:9 (Elm3)."
+ },
+ {
+  "en": "Default",
+  "max": 98
+ },
+ {
+  "en": "General",
+  "max": 98
+ },
+ {
+  "en": "Btl",
+  "max": 4,
+  "note": "Abbrev. of 'Battle' for max 4 (limit set by SPELL.CSV:7:9, a column header). Shared with HELP col-2 category cells 357-366 and the Options label 335:7; if those can take more, 'Battle' is preferred."
+ },
+ {
+  "en": "Dungeon",
+  "max": 16
+ },
+ {
+  "en": "Compass",
+  "max": 16
+ },
+ {
+  "en": "Key Items",
+  "max": 98
+ },
+ {
+  "en": "Fame",
+  "max": 98
+ },
+ {
+  "en": "Save Progress",
+  "max": 98,
+  "note": "As in 109:9 (Elm3) 'save your progress'."
+ },
+ {
+  "en": "Suspend Adventure",
+  "max": 98,
+  "note": "As in 304:9 / 340:9 (Elm3)."
+ },
+ {
+  "en": "Leaves the current party waiting where it is and returns to Bistel.",
+  "max": 158
+ },
+ {
+  "en": "In Battle",
+  "max": 98
+ },
+ {
+  "en": "Treasure Chest",
+  "max": 16
+ },
+ {
+  "en": "Item List",
+  "max": 16,
+  "note": "Spreadsheet title cell; probably not shown in game."
+ },
+ {
+  "en": "Comp. Type 2",
+  "max": 12,
+  "note": "Column header: alchemy composition type."
+ },
+ {
+  "en": "Comp. Type 3",
+  "max": 12,
+  "note": "Column header."
+ },
+ {
+  "en": "Algn",
+  "max": 4,
+  "note": "Column header: alignment (as in HELP 293:9). Abbrev. for max 4."
+ },
+ {
+  "en": "Item Details",
+  "max": 16,
+  "note": "Column header group."
+ },
+ {
+  "en": "Rng",
+  "max": 4,
+  "note": "Column header: range. Abbrev. for max 4."
+ },
+ {
+  "en": "Material Type",
+  "max": 16,
+  "note": "Column header."
+ },
+ {
+  "en": "Grd",
+  "max": 4,
+  "note": "Column header: grade ('grade points' in HELP 155:9). Abbrev. for max 4."
+ },
+ {
+  "en": "Comp. Type 1",
+  "max": 12,
+  "note": "Column header."
+ },
+ {
+  "en": "Comp. Type 4",
+  "max": 12,
+  "note": "Column header."
+ },
+ {
+  "en": "[Arm] Phys Imm",
+  "max": 14,
+  "note": "Column header: armor nullifies physical attacks; [Arm] tag as in the EBOOT effect list."
+ },
+ {
+  "en": "[Wpn] No Rng Limit",
+  "max": 18,
+  "note": "EBOOT eb@0895ef5c has '[Wpn] No Range Limit' (20); shortened for max 18."
+ },
+ {
+  "en": "Uncurse",
+  "max": 8,
+  "note": "Column header: curse removal."
+ },
+ {
+  "en": "Status Cure Up (%)",
+  "max": 20,
+  "note": "Column header: status-recovery rate increase (%)."
+ },
+ {
+  "en": "No Align. Limit",
+  "max": 16,
+  "note": "Column header; EBOOT form '[All] No Alignment Limit'."
+ },
+ {
+  "en": "No Gender Limit",
+  "max": 16,
+  "note": "Column header."
+ },
+ {
+  "en": "No Race Limit",
+  "max": 16,
+  "note": "Column header; EBOOT form '[All] No Race Limit'."
+ },
+ {
+  "en": "Wpn SE",
+  "max": 8,
+  "note": "Column header: weapon sound effect."
+ },
+ {
+  "en": "Shop Order",
+  "max": 10,
+  "note": "Column header: shop listing order number."
+ },
+ {
+  "en": "Innocent",
+  "max": 10,
+  "note": "Column header flag for the Innocent series (Innocent Sword etc.)."
+ },
+ {
+  "en": "Tenro Sword",
+  "max": 6,
+  "note": "Glossary item name; this text is also the real item name ITEM.CSV:20:4, ITEM_HELP.CSV:17:1, ITEM_TEXT.CSV:12:2 (max 20) and the story item (slice 027). OVER max 6: the 6 comes only from ITEM.CSV:6:180, a spreadsheet column header. Fitting fallback 'Tenro' (5) would rename the shipped item."
+ },
+ {
+  "en": "Equip: Reborn Only",
+  "max": 22,
+  "note": "Column header: equippable only by reincarnated characters. 'Reborn' is a new term."
+ },
+ {
+  "en": "Stack Medicine",
+  "max": 14,
+  "note": "Column header: medicine-type items managed together (stacked)."
+ },
+ {
+  "en": "No-Alchemy Flag",
+  "max": 16
+ },
+ {
+  "en": "No Normal Spawn",
+  "max": 16,
+  "note": "Column header: do not appear normally."
+ },
+ {
+  "en": "Placemnt",
+  "max": 8,
+  "note": "Column header 'placement consideration'; abbrev. for max 8. debug?"
+ },
+ {
+  "en": "SameKind Rnd",
+  "max": 12,
+  "note": "Column header: randomize among the same kind; abbrev. for max 12."
+ },
+ {
+  "en": "Inf. Once Sold",
+  "max": 14,
+  "note": "Column header: stock becomes infinite once the item is sold to the shop."
+ },
+ {
+  "en": "Yora",
+  "max": 4,
+  "note": "Stock-count column header after the shop columns (Lunea, Bilente, Jela, Caron). Name not in glossary or script; romanized. New name."
+ },
+ {
+  "en": "Nepora",
+  "max": 6,
+  "note": "As 6:196. New name, romanized."
+ },
+ {
+  "en": "Coppero",
+  "max": 8,
+  "note": "As 6:196. New name, romanized."
+ },
+ {
+  "en": "Zoanne",
+  "max": 8,
+  "note": "As 6:196. New name, romanized."
+ }
+]

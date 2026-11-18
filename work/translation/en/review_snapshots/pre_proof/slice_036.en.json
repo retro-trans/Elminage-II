@@ -1,0 +1,357 @@
+[
+ {
+  "en": "\"I'm counting on you for that Rolfan~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"ROLFAAAAAN!!\"{w}",
+  "kind": "msg",
+  "note": "Her cry on seeing the flower; name stretched as in the source."
+ },
+ {
+  "en": "\"With this, I've become a perfect beauty of an enchantress!\nUfufu, I'll seduce this whole forest!{w}But before that--\"{w}{p}\"I have to thank you all.{w}Wait just a sec...{w}...Hup, there we go. Will this do?\"{w}{p}\"Here you go!\"{w}",
+  "kind": "msg",
+  "note": "bi-youjo = beautiful + enchantress (her glossary position is 'spider enchantress'). She hands over an item here."
+ },
+ {
+  "en": "\"See you again! Bye-bye!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"Let's meet again\" was a stiff calque for a casual goodbye."
+ },
+ {
+  "en": "Taranti went off in something like a skip.{w}",
+  "kind": "msg",
+  "note": "Editorial: tightened clumsy \"moving in\"; hedge \"something like\" kept."
+ },
+ {
+  "en": "Goblin",
+  "kind": "name"
+ },
+ {
+  "en": "\"Who the hell are you?!{w}All the trash around here\nbelongs to me, the great me!\"{w}{p}\"If you're that set on digging through the trash,\nhand over 1000 GP!!\"{w}",
+  "kind": "msg",
+  "note": "Source writes G.P. with dots; project convention GP. Editorial: nanda, temee wa = \"Who the hell are you?!\"; \"What ... are you\" read as asking what creature they are."
+ },
+ {
+  "en": "Dig through the trash?",
+  "kind": "data"
+ },
+ {
+  "en": "\"All right, dig away!{w}Root through it like the shameless scavengers\nyou are, till you've had your fill!!\"{w}",
+  "kind": "msg",
+  "note": "asamashiku = shamelessly / wretchedly, kept as an insult."
+ },
+ {
+  "en": "You picked up an item from the trash.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You couldn't pick up any trash.{w}",
+  "kind": "msg",
+  "note": "Literal; probably the no-room / nothing-found result."
+ },
+ {
+  "en": "Dig through some more?",
+  "kind": "data"
+ },
+ {
+  "en": "\"You don't have enough money!\nWhat are you even thinking?!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: dangling \"you?!\" (calque of trailing omae wa) replaced with natural emphasis."
+ },
+ {
+  "en": "\"No money, no trash!{w}Get lost!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Man, it STINKS, though!{w}It stinks so bad I could cry-y-y!!\"{w}{p}\"Hey, how about you take this thing off my hands?!{w}If this keeps up, I'm gonna die!!\"{w}",
+  "kind": "msg",
+  "note": "kore = an unnamed smelly item handed over next row."
+ },
+ {
+  "en": "\"No returns! Go dump it somewhere!{w}No, wait, don't dump it! It'll just end up back here!{w}Anyway, I gave it to you, so it's yours! Bleuuurgh\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you can't carry it?!{w}Damn it... Bleuuurgh\"{w}",
+  "kind": "msg",
+  "note": "mochikirenai = inventory full."
+ },
+ {
+  "en": "Rolfan flowers are in bloom.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's nothing here now.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a half-rotted signpost.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*           Ahead: the Nerid Marshlands           *\n*   Go on, no going back; fall, no climbing out   *\n*  Weep and wail, you'll only go round in circles *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign drawn with * borders as in the source; ASCII space padding only approximates the box in a proportional font. Check in-game. Nerid no Shicchitai -> Nerid Marshlands (glossary)."
+ },
+ {
+  "en": "Lunea's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Somebody~~~\nhe-e-elp meeee~~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "???{w}{p}Lunea's voice is coming from under your feet...???{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A kobold, a lizardman and an orc\nare enjoying some Sweet Ginger.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Orc",
+  "kind": "name"
+ },
+ {
+  "en": "\"This here's Sweet Ginger.\nGo on, have a lick.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lizardman",
+  "kind": "name"
+ },
+ {
+  "en": "\"Lemme see?{w}*lick*...{w}S-SO GOOOOD!!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: lizardman's umee/umai = \"so good\" throughout (2681, 2687, 2705 \"So... goo...\")."
+ },
+ {
+  "en": "Kobold",
+  "kind": "name"
+ },
+ {
+  "en": "\"M-me too! Me too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You ain't getting any!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dammit, if only I'd drawn the lot on the right back then!!\"{w}",
+  "kind": "msg",
+  "note": "They drew lots (kuji) for the ginger; see 2689/2691."
+ },
+ {
+  "en": "\"And then, you know that fish we grilled earlier?\nIf you put this on it like so...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is that smell?! I-it's irresistible!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Try eating them together~\"{w}",
+  "kind": "msg",
+  "note": "Source has a stretched vowel (tabete mi-); rendered with ~."
+ },
+ {
+  "en": "\"*chomp*...\n...GYAOOOOOOOH!!\nSo good! So good I could just die!!\"{w}",
+  "kind": "msg",
+  "note": "shinuru: archaic/comic form of 'die'. Editorial: umai = \"so good\", matching 2667/2687/2705."
+ },
+ {
+  "en": "\"Aaaargh, dammit!\nDAMMIIIT!!{w}...Huh? Who are you guys?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rare to see adventurers come this deep into the wilds.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hah, hah... S-so goooood~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oi oi oi!{w}I'm already in a foul mood from being denied\nmy share, y'hear!!\"{w}{p}\"And anyway, why's there gotta be a winner and a loser?!{w}Two winners and everybody's happy, right?!\"{w}",
+  "kind": "msg",
+  "note": "o-azuke kuratte = being made to wait like a dog for a treat. Atari/hazure = winning/losing lot. Accuracy: o-azuke kuratte here = being kept from the treat (he lost the draw for the ginger, 2673), not literally told to wait; 'told to sit and wait' implied someone ordered him."
+ },
+ {
+  "en": "\"Then there'd be no point in drawing lots.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I got it! If I turn you guys into ingredients...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmph... mmph-mmph...\"{w}",
+  "kind": "msg",
+  "note": "Chewing noises."
+ },
+ {
+  "en": "\"Seriously? Omnivore meat tastes awful, you know?\"{w}",
+  "kind": "msg",
+  "note": "zasshoku = omnivore; the party (humans etc.)."
+ },
+ {
+  "en": "\"Don't care! I'll eat 'em!{w}Right now I could eat anythiiing!!\"{w}",
+  "kind": "msg",
+  "note": "ii! = 'fine / don't care'. Editorial: carried the stretched shout (ze-e-e), as in his \"DAMMIIIT\"."
+ },
+ {
+  "en": "\"Gwoh?! D-dammit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Can't be helped. Guess we'd better clear out...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"Shall we scram\" mixed registers; casual self-suggestion."
+ },
+ {
+  "en": "\"So... goo... aheh, aheh...\"{w}",
+  "kind": "msg",
+  "note": "Trails off: u...ma... (umai) then dazed laughter."
+ },
+ {
+  "en": "You scattered the monsters.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Looking around, you found some Sweet Ginger\nthat hadn't been picked yet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Sweet Ginger.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                                 *\n*                     Dead End                    *\n*                                                 *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign box as in the source; space padding approximate in a proportional font, check in-game."
+ },
+ {
+  "en": "Deep in the forest was a ferocious-looking Cerberus.{w}Its eyes blazed, and blood was caked around its mouth.\nIt bared its fangs as if to warn you off.{w}{p}Behind the Cerberus lay a fallen adventurer.{w}He was already dead,\nand the knife driven deep into his belly was painful to see.{w}",
+  "kind": "msg",
+  "note": "Dead adventurer's gender is not settled in this slice ('they'); slice 037 calls them kare (he). Editorial: dead adventurer = he (slice 037 2815/2820 kare; 037 already uses him)."
+ },
+ {
+  "en": "Slay it?",
+  "kind": "data"
+ },
+ {
+  "en": "Cerberus",
+  "kind": "name"
+ },
+ {
+  "en": "\"GRAAAAAAHHH...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Letting out a terrible death cry,\nthe Cerberus collapsed onto the adventurer's corpse.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, looks like we were a little late, huh?\"{w}",
+  "kind": "msg",
+  "note": "??? speaker; one of the trio that appears next."
+ },
+ {
+  "en": "Suspicious adventurers appeared before you.{w}",
+  "kind": "msg",
+  "note": "Plural: three of them speak next."
+ },
+ {
+  "en": "Suspicious Mage",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, well.\nSending it to its grave in its master's embrace...\nHow very kind of you all.\"{w}",
+  "kind": "msg",
+  "note": "Sarcasm; go-shujin-sama = the Cerberus's master, the dead adventurer."
+ },
+ {
+  "en": "Suspicious Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "\"Yet they have robbed us of our prize,\nhave they not?\"{w}",
+  "kind": "msg",
+  "note": "de gozaru (archaic samurai speech) rendered with stiff formal English. Editorial: \"it seems ... have they not?\" was a broken tag; source has no hedge."
+ },
+ {
+  "en": "Suspicious Knight",
+  "kind": "name"
+ },
+ {
+  "en": "\"That's why I said we should have dealt with it ourselves\nthe moment we put the request in with Walmitt.\"{w}",
+  "kind": "msg",
+  "note": "Walmitt (glossary). Object of shimatsu read as the Cerberus: the trio posted the bounty, and the mage answers that killing it themselves would look suspicious."
+ },
+ {
+  "en": "\"Heh heh. That would only have made people suspicious.{w}Besides, these good people have yet to report\nthe job as done. In other words...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"folks\" broke the mage's mannered register (kono katagata)."
+ },
+ {
+  "en": "\"If we kill them here, the reward is ours.\nThat is what you mean, is it not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The path of evil is a hard one.\"{w}{p}\"Traitors must be dealt with, and when you put\na bounty on the monster the traitor sent out,\nsome other adventurer goes and snatches it from you.\"{w}",
+  "kind": "msg",
+  "note": "dashite kita monster = the Cerberus the traitor summoned (slice 037 confirms he was a summoner)."
+ },
+ {
+  "en": "\"What that one did hardly deserves so grand\na name as betrayal.{w}Merely a weak heart that could not dye itself fully black.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Save your prattle for later.{w}Come, let us be done with them quickly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Between adventurers, you must have been ready\nfor a fight like this, surely?{w}...Now, be so good as to die!!\"{w}",
+  "kind": "msg",
+  "note": "shinde morau = 'I'll have you die'; polite-menacing."
+ },
+ {
+  "en": "\"I never thought...{w}we would be... cut down in return...\"{w}",
+  "kind": "msg",
+  "note": "kaeriuchi = beaten by the ones you attacked."
+ },
+ {
+  "en": "You routed the adventurers who attacked you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Once you calm down, you notice something.{w}The Cerberus's mouth is covered in blood,\nbut the adventurer lying behind it died of a knife wound.{w}{p}In other words,\nit seems this Cerberus wasn't the one who killed him.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"the adventurer beyond\" unclear (oku no = lying further back); dead adventurer = he (slice 037)."
+ },
+ {
+  "en": "\"Grrrrrr...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Cerberus understands that you mean no harm,\nbut it still hasn't let its guard down.{w}",
+  "kind": "msg",
+  "note": "sen'i ga nai = no will to fight. Editorial: fixed tense clash (understood ... hasn't); present as in 2802."
+ },
+ {
+  "en": "\"Well, well.\nDid you also see Walmitt's request\nand come to slay this Cerberus?\"{w}",
+  "kind": "msg",
+  "note": "Walmitt-san: honorific dropped."
+ },
+ {
+  "en": "\"...I see. Then why not join us\nin slaying this Cerberus?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told them\nthat it didn't look like the Cerberus\nhad killed the adventurer.{w}",
+  "kind": "msg"
+ }
+]

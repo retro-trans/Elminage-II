@@ -1,0 +1,368 @@
+[
+ {
+  "en": "Please Find Me (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug? Title follows dslice_002 row 29:2; adjust if that row differs."
+ },
+ {
+  "en": "The oracle says Lunea is on the underground level of the Nerid Marshlands, toward the northeast. Do your best to rescue Lunea, then escort the shopkeeper back to the store.",
+  "max": 216,
+  "note": "Hint speaker = Archbishop Mersenne's oracle. Lunea's gender is not settled: name repeated / 'the shopkeeper' instead of a pronoun."
+ },
+ {
+  "en": "Leafa's Request",
+  "max": 24,
+  "note": "Series: Request / Request! / Requeeest~ mirrors the escalating JP titles."
+ },
+ {
+  "en": "You were ordered by Leafa, the elven princess, to obtain the Sweet Ginger said to grow in the Nerid Marshlands.",
+  "max": 202
+ },
+ {
+  "en": "Leafa's Request (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Sweet Ginger grows on the surface level of the Nerid Marshlands. Back in my training days, when I got lost and had nothing to eat, I often helped myself to a nibble of it too.",
+  "max": 216
+ },
+ {
+  "en": "Leafa's Request!",
+  "max": 24
+ },
+ {
+  "en": "The Sweet Ginger Knights were ordered by Leafa to win back the Moonlight Stone. The stone is said to be held by the Lunatic Demon that comes to the summit of Moonlight Falls.",
+  "max": 202
+ },
+ {
+  "en": "Leafa's Request! (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Apart from defeating the Lunatic Demon at the summit, there shouldn't be anything especially hard. Halfway up, though, you can't go on without finding a hidden door, so do be careful.",
+  "max": 216
+ },
+ {
+  "en": "Leafa's Requeeest~",
+  "max": 24,
+  "note": "JP stretches the word (onega~i) and ends with a note mark; note mark -> '~' per convention."
+ },
+ {
+  "en": "The Sweet Ginger Knights were ordered by Leafa to obtain the Holy Ember. The Holy Ember is said to be on the top floor of the Scorching Castle.",
+  "max": 202
+ },
+ {
+  "en": "Leafa's Requeeest~ (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "To reach the Scorching Castle's top floor, you may first have to settle the uproar in the basement. Then you can go up. The stones on 2F reveal 3F's invisible path, so it may help to walk every inch of 2F.",
+  "max": 216,
+  "note": "Lightly rephrased to fit 216 (2 sentences split): JP 'the invisible passage on 3F can be worked out from the row of stones on 2F, so it may be easier if you walk every corner of 2F'."
+ },
+ {
+  "en": "Leafa's Royal Command",
+  "max": 24,
+  "note": "Royal command = term used for [JP] in slice 019."
+ },
+ {
+  "en": "The Sweet Ginger Knights received a royal command from Leafa: find the savior of long ago and deliver the Yuan Wine to them. Who could this savior be...?",
+  "max": 202,
+  "note": "Savior's identity unknown at this point: singular 'them'."
+ },
+ {
+  "en": "Leafa's Royal Command (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "You'll likely be given the wine once you sort out all the trouble at Baroque Fort. After you uncover the truth of the Forsaken Painting, try going to see Raizam in the new land.",
+  "max": 216,
+  "note": "Raizam-sama: no honorific (gender not established, review_notes convention). 'the new land' as in slice 012."
+ },
+ {
+  "en": "Gregorio Is Missing",
+  "max": 24
+ },
+ {
+  "en": "Armitt's only son, Gregorio, has gone missing. Apparently he saw an arena-related request from Heerdahl at Walmitt's...",
+  "max": 202
+ },
+ {
+  "en": "Gregorio Is Missing (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "It seems Gregorio has gone and entered the arena. If you also head down to the basement of Heerdahl and fight in the arena, you may be able to meet him.",
+  "max": 216
+ },
+ {
+  "en": "My Dinner",
+  "max": 24,
+  "note": "Benef's voice (washi = old man's 'I'); title kept first person."
+ },
+ {
+  "en": "Benef fishes for his dinner, but Muse always steals the catch, so for years his meals have had no side dish. Apparently catnip water from the Nerid Marshlands could put Muse to sleep, but...",
+  "max": 202,
+  "note": "okazu (side dish) = side dish (fish to go with rice). Trailing '...but' kept."
+ },
+ {
+  "en": "My Dinner (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Catnip water is on the underground level of the Nerid Marshlands. But it's beyond a hidden door, so you'll need to watch your step. It's in the north-center of the underground level.",
+  "max": 216
+ },
+ {
+  "en": "Hungry Muse",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get a Toryoron Potato. Toryoron Potatoes can apparently be found in Dekor Temple.",
+  "max": 202,
+  "note": "JP here is [JP] (not [JP]): 'Dekor Temple'. Glossary has Dekor Temple Ruins / Dekor Ruins; align if the lead prefers the full name."
+ },
+ {
+  "en": "Hungry Muse (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Rubezahl grows turnips on 1F of Dekor Temple, but now and then a Toryoron Potato apparently sprouts instead. If you keep searching the turnip field, I think you'll get one.",
+  "max": 216
+ },
+ {
+  "en": "Hungry Muse * Seconds",
+  "max": 24,
+  "note": "Star mark -> '*' (ASCII only; convention for marks)."
+ },
+ {
+  "en": "Muse asked you to get a Sun Melon. Sun Melons apparently grow in the Blanc Desert.",
+  "max": 202
+ },
+ {
+  "en": "Hungry Muse * Seconds (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "The Sun Melon is on the north side of the Blanc Desert, in the northwest. Sandstorms are a nuisance to those who live near the desert, but for adventurers like you, they're a handy way to get around.",
+  "max": 216
+ },
+ {
+  "en": "Hungry Muse * 3rd Bowl",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get a Heerdahl Manju. Heerdahl Manju are apparently sold in Heerdahl.",
+  "max": 202
+ },
+ {
+  "en": "Hungry Muse * 3rd Bowl (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "I often buy Heerdahl Manju as a souvenir when I go golfing. They're delicious! Just go to 3F and buy some; it's not hard. Rumor has it the champion of the basement arena can use a passage straight to 3F.",
+  "max": 216,
+  "note": "Compressed: JP 'you can buy them by going to 3F normally, so there should be nothing especially difficult'."
+ },
+ {
+  "en": "Hungry Muse * Dessert",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get Shirinmorin's Leg. Shirinmorin's Leg can apparently be had from Shirinmorin in the Narmant Trench.",
+  "max": 202
+ },
+ {
+  "en": "Hungry Muse * Dessert (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Lady Shirinmorin of Water, one of the Four Sages. You could steal one of those honored legs, I suppose, but if you search around nearby, I think you'll find at least one lying about.",
+  "max": 216,
+  "note": "Lady Shirinmorin as in slice 048 (female per glossary). omi-ashi (honorific 'legs') -> 'those honored legs', playful."
+ },
+ {
+  "en": "Let's All Solve It!",
+  "max": 24
+ },
+ {
+  "en": "At Bilente's Shop, you were entrusted with a puzzle ring called the Beldoll. You'll have to go around looking for those who can solve it...",
+  "max": 202
+ },
+ {
+  "en": "Let's All Solve It! (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "In short, those who can solve it are... Kine, Raizam, the Mistress of Heerdahl, Montana, and the goddess at the center of the new land. Five in all. Sadly, it seems I can't. ...How annoying. May I borrow it a moment?",
+  "max": 216,
+  "note": "Kine-sama, Raizam-sama, Montana-sama: honorifics dropped (convention; Montana is king of Baroque Fort, 'King Montana' possible). [JP] = Mistress (glossary name). Goddess at the center of the new land = presumably Urna; kept unnamed as in JP. Compressed: 'unfortunately it seems I cannot solve it'."
+ },
+ {
+  "en": "Saimar's Grand Merchant",
+  "max": 24,
+  "note": "Unused event? All other columns are placeholders."
+ },
+ {
+  "en": "Saimar's Grand Merchant (event text)",
+  "max": 202,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Saimar's Grand Merchant (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Saimar's Grand Merchant (hint text)",
+  "max": 216,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "The Loipes Cave Bats",
+  "max": 24
+ },
+ {
+  "en": "Loads of giant Vampire Bats have moved into Loipes Cave. Please exterminate them.",
+  "max": 202,
+  "note": "Request voice kept (taiji shite hoshii). Vampire Bat: standard monster name; monster data not yet filled."
+ },
+ {
+  "en": "Down on B2 of Loipes Cave, see, a whole bunch of bats THIIIS big have moved in. It's dangerous as all get-out. Somebody do somethin' about it!",
+  "max": 194,
+  "note": "Requester posted at Walmitt's (rough speech)."
+ },
+ {
+  "en": "There are five Big Vanbats on B2 of Loipes Cave. Defeat them, and the request should be complete.",
+  "max": 216,
+  "note": "Big Vanbat as in slice 033."
+ },
+ {
+  "en": "Cure-All Unicorn Horn",
+  "max": 24
+ },
+ {
+  "en": "Someone needs a Unicorn Horn to cure their grandpa's illness.",
+  "max": 202,
+  "note": "Requester unnamed, gender unknown."
+ },
+ {
+  "en": "A Unicorn Horn, said to cure any illness... With one, I think Grandpa would get well again. Does anyone have one, by any chance?",
+  "max": 194
+ },
+ {
+  "en": "You can take a Unicorn Horn by force. But rumor has it that at the Unicorn Spring in the Churos Highlands, anyone the unicorns take a liking to is given one for free.",
+  "max": 216,
+  "note": "New term: Unicorn Spring ([JP])."
+ },
+ {
+  "en": "Relics of the Wanelly",
+  "max": 24
+ },
+ {
+  "en": "The Wanelly, sunk in the Narmant Trench, is said to attack passing ships and adventurers. If only you could gather its relics and set the souls aboard free...",
+  "max": 202
+ },
+ {
+  "en": "Captain Wanelly's a scary one. Even dead, the captain goes after anyone who sails close by. Let sleeping dogs lie, they say, but... can't somebody do somethin'? I can't do business like this.",
+  "max": 194,
+  "note": "Wanelly's gender not established: 'the captain' instead of he/she. Saying 'tatari-gami' -> 'let sleeping dogs lie'. Compressed slightly to fit 194."
+ },
+ {
+  "en": "Do you know how to herd Sedna? West, north, east, north, east, south, west, north, east, north, west, south, east, north. After that, things should take their course and let you dive into the Narmant Trench.",
+  "max": 216
+ },
+ {
+  "en": "Legendary Fundoshi",
+  "max": 24,
+  "note": "Fundoshi as in the ITEM data (slices use 'loincloth' in dialogue). Unused event? Other columns are placeholders."
+ },
+ {
+  "en": "Legendary Fundoshi (event text)",
+  "max": 202,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Legendary Fundoshi (consultation text)",
+  "max": 194,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Legendary Fundoshi (hint text)",
+  "max": 216,
+  "note": "placeholder row (dev filler: title + padding + label); likely never shown. debug?"
+ },
+ {
+  "en": "Saimar Orchestra",
+  "max": 24
+ },
+ {
+  "en": "The orchestra in Saimar is short of trumpets. If you get hold of a trumpet, deliver it to them.",
+  "max": 202
+ },
+ {
+  "en": "A trumpet, does anyone have a trumpet!? We don't have a trumpet and we're in a fix! The concert's coming up and we have to rehearse! Eeeeek!!",
+  "max": 194
+ },
+ {
+  "en": "Oh, they're short of trumpets? Of the ones adventurers can get hold of, how about a Startle Trumpet?",
+  "max": 216,
+  "note": "Startle Trumpet = ITEM data name of [JP]."
+ },
+ {
+  "en": "Raging Narmant Trench",
+  "max": 24
+ },
+ {
+  "en": "Someone apparently wants Shirinmorin of the Narmant Trench calmed down.",
+  "max": 202
+ },
+ {
+  "en": "Hasn't Lady Shirinmorin been acting a bit off lately? It's rare for the Narmant Trench to get this rough. Could somebody go and calm Lady Shirinmorin down?",
+  "max": 194
+ },
+ {
+  "en": "This one, you'll just have to dive into the trench and do your best. The door to Lady Shirinmorin's chamber opens with switches in the rooms past the secret doors. There are three switches!",
+  "max": 216,
+  "note": "Source says 3 switches; a slice 048 NPC says 4. Kept 3 (source)."
+ },
+ {
+  "en": "Bahamut on a Single Line",
+  "max": 24,
+  "note": "Glossary quest title (24 = max)."
+ },
+ {
+  "en": "Long ago, there was apparently a man who could land Bahamut on a single line.",
+  "max": 202
+ },
+ {
+  "en": "Hey, hey! My dad says he once saw an old guy landing a bahamut on a single line. Can you really catch one? If you land one, tell me!!",
+  "max": 194,
+  "note": "Child speaker writes bahamuto in hiragana: lowercase 'bahamut'. Compressed 'long ago' (mukashi) into 'once'."
+ },
+ {
+  "en": "For fishing, it has to be Benef. Bring a Flame Rod and some Aerivider Meat, and he may regain his old strength and show off his skill! ...Though something extra may come along with it.",
+  "max": 216,
+  "note": "Aerivider = glossary / slice 021 spelling; Elm3 monster data has 'Airy Vider' (conflict for the lead)."
+ },
+ {
+  "en": "The Cerberus of Nerid",
+  "max": 24
+ },
+ {
+  "en": "Please exterminate the killer Cerberus that has appeared in the Nerid Marshlands.",
+  "max": 202,
+  "note": "Request voice, as 42:6."
+ }
+]

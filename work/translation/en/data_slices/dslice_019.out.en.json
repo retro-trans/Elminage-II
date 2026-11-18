@@ -1,0 +1,26 @@
+[
+ {
+  "en": "To install the data,\n%dMB more is required.",
+  "max": null,
+  "note": "Same pattern as eb@08950e2c (save version)."
+ },
+ {
+  "en": "To install the data,\n%dKB more is required.",
+  "max": null,
+  "note": "Same pattern as eb@08950e2c (save version)."
+ },
+ {
+  "en": "%s was taken back.",
+  "max": null,
+  "note": "Temple: collecting a character left in the temple's care; matches HELP_TEXT 'Take back someone left in the temple's care.' / 'Taken back.'"
+ },
+ {
+  "en": "This game's save data will be initialized.\nInitializing it will erase all records.",
+  "max": null
+ },
+ {
+  "en": "Initializing save data...\nDo not remove the Memory Stick.",
+  "max": null,
+  "note": "Matches eb@08950c3c 'Saving...\nDo not remove the Memory Stick.'"
+ }
+]

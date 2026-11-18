@@ -1,0 +1,392 @@
+[
+ {
+  "en": "Northeast",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Southwest",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Southeast",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Surface",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Underground",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "South Side",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "North Side",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "North 1F",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "North B1F",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Castle Halls",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "North 2F",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "South 2F",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "South 1F",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Entrance",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Falls 1F",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Falls 2F",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Falls 3F",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Lukoje's Hall",
+  "len": 13
+ },
+ {
+  "en": "The Promised Land",
+  "len": 9
+ },
+ {
+  "en": "Wrath Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Mercy Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Hope Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Wisdom Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Center",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Harmony Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Courage Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Joy Hall",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Sorrow Hall",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Depths",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Wind Omsis",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Earth Raizas",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Fire Rades",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Water Shirins",
+  "len": 13,
+  "note": "prefill was the budget-forced \"Aqua Shirins\" (review_notes); string has references; matches Wind Omsis / Earth Raizas / Fire Rades. Align the monster/area tables"
+ },
+ {
+  "en": "Womb Sanctum",
+  "len": 13,
+  "note": "kept prefill; open lead item Womb Sanctum vs Creation Womb Palace (review_notes)"
+ },
+ {
+  "en": "Dream Border Realm",
+  "len": 7,
+  "note": "as dslice_025"
+ },
+ {
+  "en": "  Adventurer",
+  "len": 9,
+  "note": "debug? list tab; full-width space kept as two spaces"
+ },
+ {
+  "en": "Monster",
+  "len": 11,
+  "note": "debug? list tab"
+ },
+ {
+  "en": "Infinite Magic",
+  "len": 11,
+  "note": "effect list (37-43); what grants these effects is not settled by the neighbours"
+ },
+ {
+  "en": "Cure Level Drain",
+  "len": 21
+ },
+ {
+  "en": "Cure & Heal",
+  "len": 11
+ },
+ {
+  "en": "Enemy Loses Spell Resist",
+  "len": 21
+ },
+ {
+  "en": "Allies Fully Resist Spells",
+  "len": 21
+ },
+ {
+  "en": "Ally Evasion Up",
+  "len": 19
+ },
+ {
+  "en": "Enemy Teleport",
+  "len": 15
+ },
+ {
+  "en": "Mimic",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Strength",
+  "len": 3,
+  "note": "kept prefill; [JP] and [JP] both read Strength in this list, context unclear"
+ },
+ {
+  "en": "Intellect",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Strength",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Piety",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Vitality",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Agility",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Luck",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ice",
+  "len": 3
+ },
+ {
+  "en": "Lightning",
+  "len": 3
+ },
+ {
+  "en": "Holy",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Dark",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Low    ",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Med    ",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "High   ",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Always ",
+  "len": 7,
+  "note": "padded to 7 like Low/Med/High"
+ },
+ {
+  "en": "Sleep",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Poison",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Paralysis",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Silence",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Confusion",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Charm",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Petrification",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Curse",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Death",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ash",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Fear",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Flying Stones",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Poison Needle",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Magic Drain",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Poison Gas",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Bomb",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ghost Horde",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Cobra's Curse",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Demon's Eye",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Spell Blaster",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ }
+]

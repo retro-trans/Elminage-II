@@ -1,0 +1,260 @@
+[
+ {
+  "en": "Noble Lady's Eerie Wings"
+ },
+ {
+  "en": "Great Emperor's Crown"
+ },
+ {
+  "en": "Underworld Water"
+ },
+ {
+  "en": "Prayer to the Revered One"
+ },
+ {
+  "en": "Overlord Bull's Demon Horn"
+ },
+ {
+  "en": "Harz Crystal"
+ },
+ {
+  "en": "Half-Drawn Map"
+ },
+ {
+  "en": "Nyoppurin's Pudding"
+ },
+ {
+  "en": "Ira's True Crystal"
+ },
+ {
+  "en": "Party %2d"
+ },
+ {
+  "en": "No Memory Stick is inserted.\nTo install data, a Memory Stick with at least\n%dMB of free space is required."
+ },
+ {
+  "en": "To install the data,\n%dMB more is required."
+ },
+ {
+  "en": "To install the data,\n%dKB more is required."
+ },
+ {
+  "en": "%s was taken back."
+ },
+ {
+  "en": "This game's save data will be initialized.\nInitializing it will erase all records."
+ },
+ {
+  "en": "Initializing save data...\nDo not remove the Memory Stick."
+ },
+ {
+  "en": "Choose the icon to use."
+ },
+ {
+  "en": "Face Icons"
+ },
+ {
+  "en": "? ? ? ? ? ?"
+ },
+ {
+  "en": "Installing data...\nDo not remove the Memory Stick."
+ },
+ {
+  "en": "Please check the UMD."
+ },
+ {
+  "en": "The Memory Stick was removed.\nPlease reinsert the Memory Stick."
+ },
+ {
+  "en": "Failed to read data.\nPlease check the UMD."
+ },
+ {
+  "en": "Failed to write data.\nCheck the Memory Stick and reinsert it."
+ },
+ {
+  "en": "Not enough free space in internal memory."
+ },
+ {
+  "en": "The Memory Stick is write-protected."
+ },
+ {
+  "en": "Data installed successfully."
+ },
+ {
+  "en": "Data install failed.\n%s"
+ },
+ {
+  "en": "Preparing to install data..."
+ },
+ {
+  "en": "Per use: %6d GP"
+ },
+ {
+  "en": "No stats increased."
+ },
+ {
+  "en": "Start the game as is?",
+  "note": "accuracy: source is \"start the game as is\"; it follows the boot load-failure / no-save / corrupted-data messages, not only the install family, so \"without installing\" was dropped"
+ },
+ {
+  "en": " 1.Battle Test"
+ },
+ {
+  "en": " 4.Sound Test"
+ },
+ {
+  "en": " 5.New Game (Auto-load On)"
+ },
+ {
+  "en": " 6.Battle Test 2"
+ },
+ {
+  "en": " 7.Chest Test"
+ },
+ {
+  "en": " 8.Movie Test"
+ },
+ {
+  "en": " 9.Debug Switches"
+ },
+ {
+  "en": "10.Debug Chars"
+ },
+ {
+  "en": "11.RNG Test"
+ },
+ {
+  "en": "12.Macro Test"
+ },
+ {
+  "en": "14.Char Portrait Test"
+ },
+ {
+  "en": "15.Ending Test"
+ },
+ {
+  "en": "16.Load & Delete Save Data (Circle:Load, Triangle:Delete)"
+ },
+ {
+  "en": "[Normal Battle]"
+ },
+ {
+  "en": "Physical Tournament"
+ },
+ {
+  "en": "Spell Tournament"
+ },
+ {
+  "en": "(Test)"
+ },
+ {
+  "en": "Elminage Debug Menu %s"
+ },
+ {
+  "en": "Elminage Sound Test (WIP)"
+ },
+ {
+  "en": "Portrait Viewer"
+ },
+ {
+  "en": "Script error: RET without a CALL"
+ },
+ {
+  "en": "Problem with install data. Please reinstall."
+ },
+ {
+  "en": "This image can be\nimported."
+ },
+ {
+  "en": "Not a 256-color image.\nIf imported as is, it\nwill be auto-converted\nto the colors above."
+ },
+ {
+  "en": "The image is not\n48x48 pixels."
+ },
+ {
+  "en": "                         Elminage II"
+ },
+ {
+  "en": "          ~ Twin Goddesses and the Land of Destiny ~"
+ },
+ {
+  "en": "                    Director    Daisuke Komiyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                    Planning    Daisuke Komiyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                                Junichi Sogawa",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                 Game Design    Daisuke Komiyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                    Scenario    Daisuke Komiyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                 Programming    Opera House Inc."
+ },
+ {
+  "en": "                                Hiroyuki Fujiwara",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                                Makoto Ichinoseki",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                      Script    Daisuke Komiyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                 2D Graphics    Joko Ueno",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                                Satomi Onodera",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                                Sachiko Koriyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                                Tatsuya Higashisakihara",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                 3D Graphics    Yohei Matsuo",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                                Tomoyuki Hiyama",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "               Opening Movie    Shingo Magota",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                 Main Visual"
+ },
+ {
+  "en": "                   Monster &    Ken Miyauchi",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ },
+ {
+  "en": "                 Item Design"
+ },
+ {
+  "en": "            Sound Production    Basiscape"
+ },
+ {
+  "en": "              Elminage Theme    Hitoshi Sakimoto",
+  "note": "editorial: staff name in Western order (lead decision), same byte length and column."
+ }
+]

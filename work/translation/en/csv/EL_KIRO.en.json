@@ -1,0 +1,394 @@
+[
+ {
+  "id": "EL_KIRO.CSV:2:2",
+  "en": "Contents",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:2:6",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:4:2",
+  "en": "Supervisor Archelon",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:4:3",
+  "en": "Supervisor Archelon",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:5:2",
+  "en": "Donnelkral",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:5:3",
+  "en": "Nonhared",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:6:2",
+  "en": "Nonhared",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:6:3",
+  "en": "Donnelkral",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:7:2",
+  "en": "Escapra",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:7:3",
+  "en": "Escapra",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:8:2",
+  "en": "Urna",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:8:3",
+  "en": "Urna",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:9:2",
+  "en": "Zeshrom",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:9:3",
+  "en": "Zeshrom",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:10:2",
+  "en": "B.R. Mistress",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:10:3",
+  "en": "B.R. Mistress",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:11:3",
+  "en": "Ancient Evil & Dark Kin",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:12:2",
+  "en": "Urna-Zefkaka",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:12:3",
+  "en": "Urna-Zefkaka",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:13:2",
+  "en": "Silent Beast",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:13:3",
+  "en": "Silent Beast",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:14:2",
+  "en": "Angelo",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:14:3",
+  "en": "Angelo",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:15:2",
+  "en": "Underworld Gt.",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:15:3",
+  "en": "Underworld Gt.",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:16:2",
+  "en": "Outer Demon",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:16:3",
+  "en": "Outer Demon",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:17:2",
+  "en": "Dragon Centaur V",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:17:3",
+  "en": "Dragon Centaur V",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:18:2",
+  "en": "Lunatic Demon",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:18:3",
+  "en": "Lunatic Demon",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:19:2",
+  "en": "Gregorio, the Only Son",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:19:3",
+  "en": "Gregorio, the Only Son",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:20:2",
+  "en": "Beldoll",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:20:3",
+  "en": "Beldoll",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:21:2",
+  "en": "Big Vanbat",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:21:3",
+  "en": "Big Vanbat",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:22:2",
+  "en": "Captain Wanelly",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:22:3",
+  "en": "Captain Wanelly",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:23:2",
+  "en": "Lukoje",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:23:3",
+  "en": "Lukoje",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:24:2",
+  "en": "Rubenburg Teacher Union",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:24:3",
+  "en": "Rubenburg Teacher Union",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:25:2",
+  "en": "Head, Proud House Lenzer",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:25:3",
+  "en": "Head, Proud House Lenzer",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:26:2",
+  "en": "General Winter",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:26:3",
+  "en": "General Winter",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:27:2",
+  "en": "Dodo King",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:27:3",
+  "en": "Dodo King",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:28:3",
+  "en": "The Ancestors",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:29:2",
+  "en": "Rubenburg Principal",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:29:3",
+  "en": "Rubenburg Principal",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:30:2",
+  "en": "Rubenburg Board Chair",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:30:3",
+  "en": "Rubenburg Board Chair",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:31:2",
+  "en": "New Land Urna",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EL_KIRO.CSV:31:3",
+  "en": "New Land Urnas Rade",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ }
+]

@@ -1,0 +1,226 @@
+[
+ {
+  "id": "TRAP.CSV:2:3",
+  "en": "Effect",
+  "max": 56,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TRAP.CSV:2:4",
+  "en": "Target",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TRAP.CSV:2:6",
+  "en": "Damage",
+  "max": 34,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TRAP.CSV:2:7",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TRAP.CSV:4:2",
+  "en": "None",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:4:3",
+  "en": "None",
+  "max": 56,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:4:4",
+  "en": "None",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:4:5",
+  "en": "None",
+  "max": 22,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:5:2",
+  "en": "Flying Stones",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:6:2",
+  "en": "Poison Needle",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:7:2",
+  "en": "Magic Drain",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:7:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:8:2",
+  "en": "Poison Gas",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:8:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:9:2",
+  "en": "Bomb",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:9:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:10:2",
+  "en": "Ghost Horde",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:10:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:11:2",
+  "en": "Cobra's Curse",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:11:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:12:2",
+  "en": "Demon's Eye",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:12:3",
+  "en": "Is petrified",
+  "max": 56,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "TRAP.CSV:12:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:13:2",
+  "en": "Spell Blaster",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:14:2",
+  "en": "Priest Blaster",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:15:2",
+  "en": "Urashima's Box",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:16:2",
+  "en": "Counter Punch",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:17:2",
+  "en": "Goddess's Kiss",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:18:2",
+  "en": "Mimic",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:18:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "TRAP.CSV:19:2",
+  "en": "Teleporter",
+  "max": 20,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "TRAP.CSV:19:4",
+  "en": "All",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ }
+]

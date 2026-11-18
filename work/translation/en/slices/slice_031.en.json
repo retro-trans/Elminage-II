@@ -1,0 +1,357 @@
+[
+ {
+  "en": "\"...I was watching, you know. Her bitter regret too -- all of it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] is explicit in the source; the referent is the woman/goddess of the land discussed at the end of slice 030 (Bernaf?), not settled."
+ },
+ {
+  "en": "\"And the land weeded out at the same time was Fiur Rade.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the same 'sorting out / clearing' of low-potential lands as in 6414; kept neutral because Fiur Rade was re-registered, not destroyed. [edi] [JP] aligned with 6414 \"weeded out\" (same verb, same record) so the reader links the two lines; Fiur Rade was cleared out under that number and restarted as Finas Rade (6422-6424)."
+ },
+ {
+  "en": "\"Oh, there's an addendum.{w}It says views were exchanged between Void, who proposed disposing of it, and Dehain, who proposed keeping it.\"{w}{p}\"Do even gods have regrets, I wonder?{w}Ever since that incident, Dehain hasn't been the same.\"{w}{p}\"Life that had migrated there had already taken root, but Fiur Rade was unstable, holding two latent Zefkaka within it: Urna and Fiona.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'hasn't been the same' (no pronoun for Dehain)."
+ },
+ {
+  "en": "\"Let's see, according to the addendum...{w}So they brought out something called a Holy Foundation.\"{w}{p}\"It's a thing that guarantees a Zefkaka's sovereignty.{w}With it, Fiona's sovereignty was settled, the instability was resolved, and even Void was more or less satisfied.\"{w}{p}\"However, Urna was to be sealed away forever.{w}And this land was given a new control number and made to start over from the beginning.\"{w}",
+  "kind": "msg",
+  "note": "Subject of [JP] not stated; most likely Dehain (who argued for keeping the land), kept as 'they'."
+ },
+ {
+  "en": "\"...as Finas Rade.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Phew.{w}It's enough to make my head spin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That was a real ordeal back then. Re-registering the same land had never been done before.\"{w}{p}\"It turned into such an uproar that Naru personally went as far as tampering with the memories of the four old beasts that had been around since the days of Urna Rade.\"{w}{p}\"Ashtel was even saying they should just erase it altogether.\"{w}{p}\"Luckily a formal notice had been filed with the System, but if things had gone wrong, Dehain would have been sent to the Horizon too.\"{w}{p}\"...Well, the will of the god of existence can't be ignored, so it couldn't be helped.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Ashtel (new name, gender unknown). [JP] = 'the System' (Elm3 [JP] = Elminage System). [JP] = 'sent to the event horizon' to match the glossary [JP]. [JP] kept literal ('four old beasts' = the Four Sages, counted as animals). 'erase it' = the land, most likely. [acc] en already uses the glossary form \"sent to the Horizon\" ([JP], review_notes convention); the \"event horizon\" remark above is superseded."
+ },
+ {
+  "en": "\"And then!!\"{w}{p}\"On top of all that, now there's this incident with the Kin of Darkness reviving Urna!{w}Honestly, the Grand Chancellor really has done it this time!!\"{w}{p}\"Those kids... just how far do they mean to set themselves against the gods and the lands?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Grand Secretary' (new title, not in glossary; presumably the head of the Kin of Darkness / Espel-Dex side). [JP] is sarcastic. [acc] en already uses the glossary form \"the Grand Chancellor\" ([JP], review_notes convention); \"Grand Secretary\" above is superseded."
+ },
+ {
+  "en": "\"But thanks to all the commotion, some kids were saved, too.\"{w}{p}\"It really took so long.{w}But now both of them have finally become what they were meant to be.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = probably Urna and Fiona (or Urna and the land); not stated, left as 'both of them'."
+ },
+ {
+  "en": "\"...Oh my, what are you doing standing over there?{w}Hurry along that way, now. Hehe...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = toward the far door (next script)."
+ },
+ {
+  "en": "\"I'm sorry. That's something I can't tell you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Beyond that door, one princess and four retainers are fighting the Kin of Darkness.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you call yourselves adventurers, why not go and help them?{w}...I'm sure it has something to do with you, too.\"{w}",
+  "kind": "msg",
+  "note": "[edi] Double negative \"isn't unrelated\" read stiffly; [JP] rendered as a plain positive."
+ },
+ {
+  "en": "\"Cute. Very cute.\"{w}",
+  "kind": "msg",
+  "note": "Object of [JP] not stated (answer to an unseen choice); kept without a subject."
+ },
+ {
+  "en": "\"Who knows?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you're going. I won't stop you. Off you go. Go and see all sorts of things.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? Curious about the door at the back?{w}You want to go through?{w}Now then, what shall I do?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lady Hisbert.{w}I hear you made Urna-Zefkaka a New Land.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Lady Hisbert': Hisbert is female in the glossary and the speaker (Hevayur) is pointedly deferential. Drop 'Lady' if the lead prefers bare names for [JP]."
+ },
+ {
+  "en": "\"Yes. What of it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urna-Zefkaka is an illegitimate land by its very origins.\"{w}{p}\"Leaving it there for no good reason will only fatten up the Kin of Darkness.\"{w}{p}\"Should you not have taken this chance to dispose of it, I wonder?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's a provisional measure. If I left it unregistered, and the gods argued about it later and decided to register it after all, that would be a pain.\"{w}{p}\"Getting rid of something that already exists is easier than producing something that never was, isn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is that all there is to it?{w}I can't help feeling that some personal motive of yours is involved, Lady Hisbert.\"{w}{p}\"What is done with a Zefkaka is for the gods to decide.{w}Who knows what would happen if this reached Void's ears?\"{w}",
+  "kind": "msg",
+  "note": "[edi] \"What is to be made of\" read as \"how to interpret\"; [JP] = what is done with it."
+ },
+ {
+  "en": "\"Elminage's information is under my jurisdiction.{w}It's not the sort of thing I need to ask the gods' leave for.\"{w}{p}\"Besides, if the gods want to dispose of it, they can go ahead and do it themselves.{w}All I do is record it.\"{w}",
+  "kind": "msg",
+  "note": "[edi] \"Managing ... is my jurisdiction\" mismatched (an activity is not a jurisdiction); [JP] rephrased."
+ },
+ {
+  "en": "\"Come to think of it...{w}you've faced votes of no confidence a couple of times before, haven't you, Lady Hisbert?\"{w}{p}\"The Deplus factor affair.{w}And then, the Radiant Scales affair...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Both of them were voted down, weren't they?{w}My hands are clean. Or do you intend to dredge them up again?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, no, perish the thought.{w}It's only that... quite...\"{w}{p}\"Quite...{w}Void has been quite concerned about it, you know?\"{w}{p}\"Even if you are to go the same way as Sabra, I'll be in a bind unless you manage it a little more skillfully.\"{w}{p}\"It's too soon for me to become librarian...{w}There are various preparations I would like to make.{w}So until then, I do hope you'll take good care of yourself...\"{w}",
+  "kind": "msg",
+  "note": "The halting [JP]……[JP]…… is kept as 'quite... quite...'. The snide subtext (don't fall before I'm ready to replace you) is left implicit as in the source."
+ },
+ {
+  "en": "\"Well, thanks ever so much.{w}I'll keep doing my best until a good successor turns up.\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as dismissive/sarcastic."
+ },
+ {
+  "en": "\"I look forward to seeing how long that composure of yours lasts.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hevayur",
+  "kind": "name"
+ },
+ {
+  "en": "\"Pray do not forget that I, Hevayur, have already received Void's recommendation...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The figure departed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once again... I've ended up all alone, huh.{w}Zeshrom and the others aren't here either...\"{w}{p}\"Hisbert gave me a number, but it doesn't even have a start stamp on it...\"{w}{p}\"...There's nothing.{w}In the end, I lost everything...\"{w}{p}\"Starting over again from scratch...{w}And then having it taken away by them...{w}Is it going to be like this, over and over, forever...?\"{w}{p}\"Father... I'm so lonely...{w}Why did you ever bring someone like me into the world...?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'start stamp' (cf. [JP] 'start time' in 6410). [JP] = 'them' (the Kin of Darkness / those who took her land; not specified). [JP] kept as 'Father' (slice 007 uses 'Father'). [acc] Restored the subject (Urna) and the [JP] pause: [JP]……[JP] = once again, I ended up alone."
+ },
+ {
+  "en": "\"Princessss~~~!\"{w}",
+  "kind": "msg",
+  "note": "Source [JP]...[JP] marks four voices in chorus; collapsed to one pair of ASCII quotes."
+ },
+ {
+  "en": "\"Huh...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot -- how did you get all the way here!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We were all praying to the gods that you could rest in peace, Princess, mogu.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = pass on peacefully (as a dead soul); Urna's reply depends on it."
+ },
+ {
+  "en": "\"Wh-- Who said you could kill me off!?\"{w}",
+  "kind": "msg",
+  "note": "[edi] \"on your own\" could read as \"unaided\" (accuracy item); [JP] = without my say-so."
+ },
+ {
+  "en": "Shirinmorin",
+  "kind": "name"
+ },
+ {
+  "en": "\"And then we were whisked away to the most peculiar library.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Radrecht",
+  "kind": "name"
+ },
+ {
+  "en": "\"That beauty over there told us the Princess was past this door, so we came to take a look.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Hisbert. [edi] [JP] = \"the Princess\" capitalised as in slices 065/067; \"came to see\" lacked an object."
+ },
+ {
+  "en": "Omshokopo",
+  "kind": "name"
+ },
+ {
+  "en": "\"We did give the folk of Bistel and Semnadoc quite a fright, though.\"{w}",
+  "kind": "msg",
+  "note": "[edi] Fronted \"Though\" plus the repeated tag \"we did\" left the sentence without a clear main clause; [JP] = trailing \"though\"."
+ },
+ {
+  "en": "\"Ma, it's been forever, mogu! I want a big squeezy hug, moguuu!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Ma' (as Gregorio's [JP] in slice 020)."
+ },
+ {
+  "en": "\"I told you, don't call me Ma! Call me Princess!{w}Now hear this, We are...\"{w}",
+  "kind": "msg",
+  "note": "Urna's imperious [JP] rendered as the royal 'We' so the Sages' teasing in 6501-6513 has a word to pick on."
+ },
+ {
+  "en": "\"'We'?\"{w}",
+  "kind": "msg",
+  "note": "Royal 'We' (see 6499)."
+ },
+ {
+  "en": "\"She said 'We,' mogu...\"{w}",
+  "kind": "msg",
+  "note": "Proof: comma inside the quote, as in 6507/6509."
+ },
+ {
+  "en": "\"'We,' she says...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'We,' is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pfffft!{w}'We'! She's trying to act all cool, mogu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"S-sorry, Princess. I just can't help laughing at this one! Gyahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "[edi] Topicalised \"This, I just can't help laughing at\" was a calque; normal word order."
+ },
+ {
+  "en": "\"Sh-shut up!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Princess, a put-on front like that doesn't suit you one bit.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = forced, put-on feelings (the 'We' bravado)."
+ },
+ {
+  "en": "\"Yeah...{w}Seeing all your faces, I feel like I've gone back to the old days.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You don't need to push yourself anymore, mogu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Around us, you can just be yourself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Among the five of us, there is no need for bravado, nor for secrets.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed. First of all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Time we said you-know-what, eh?\"{w}",
+  "kind": "msg",
+  "note": "[edi] \"that thing\" was vague and stiff for Radrecht; [JP] = the phrase they all know (6537)."
+ },
+ {
+  "en": "\"Go on, Raizam.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then let's all say it together, mogu.{w}One, two...\"{w}",
+  "kind": "msg",
+  "note": "[edi] [JP] before a chorus: \"Ready, set\" sounds like a race start."
+ },
+ {
+  "en": "Four Sages",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome home, Princessss!!\"{w}",
+  "kind": "msg",
+  "note": "Four-voice chorus brackets collapsed (see 6481)."
+ },
+ {
+  "en": "\"I'm home...{w}Everyone, I'm hoooome!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've gotten quite strong, haven't you?{w}In that case...{w}how would you like to try something a little interesting?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Do as Hisbert says?",
+  "kind": "data"
+ },
+ {
+  "en": "\"I see...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then close your eyes...{w}That's it, good children...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Hisbert calls the party [JP] elsewhere; plural 'kids' for the party. [edi] \"good kids\" as an address read oddly; \"children\" matches Hisbert's address to the party in 6378 (\"you hopeless children\")."
+ },
+ {
+  "en": "\"It seems you've worked a little too hard.{w}What lies beyond is the realm of the gods. No human may set foot there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If the law falls into disorder and its rules are broken, I will have to close your world.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, go back.{w}Forget everything, and live your lives anew as humans.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"In return...{w}I'll cast a little charm on you, so that your journey will be more fun.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the New Game+ bonus (rare item rate, slice 032)."
+ },
+ {
+  "en": "\"It's almost time to say goodbye.{w}But this is also the beginning of a new story.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As long as you keep walking, we can meet any number of times.{w}We can talk together, again and again.\"{w}",
+  "kind": "msg",
+  "note": "[acc] [JP] = can meet any number of times; \"as many times as it takes\" added a goal the source lacks."
+ },
+ {
+  "en": "\"Let's meet again... someday.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?{w}You feel like we've met somewhere before?{w}Hmm, who knows? Ufufu.\"{w}",
+  "kind": "msg",
+  "note": "[edi] Hisbert's hiragana [JP] = \"Ufufu\", as in 030:6382 and the review_notes convention ([JP] stays \"Hehe\")."
+ },
+ {
+  "en": "\"Oh, I know -- since we've been lucky enough to meet again,{w}I'll give you this as a keepsake.\"{w}",
+  "kind": "msg",
+  "note": "[edi] \"gone and met again after all\" read as grudging; [JP]...[JP] = the welcome chance of meeting again."
+ },
+ {
+  "en": "\"This wand is something special.{w}I'm sure it will make you feel that your journey wasn't for nothing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear. You should keep your belongings in proper order.{w}I'll leave it here, so come back and pick it up.\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,345 @@
+[
+ {
+  "en": "\"So, you see, if you raise your spell resistance, you stand a chance of nullifying that entire school of spells outright.\"{w}{p}\"But if you fail to nullify it, you'll take the spell full on.{w}And don't forget elemental defense either, hmm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoaaaaa!{w}The demon geezer's giving us a lecture!!\"{w}",
+  "kind": "msg",
+  "note": "Source word is jijii (old geezer); kept as said by the students although Hess's gender is 'unknown' in the glossary."
+ },
+ {
+  "en": "\"Kyaaa! Grandpaaa!{w}Ooh, so distinguished!\nWhat a fine old geezeeer!!\"{w}",
+  "kind": "msg",
+  "note": "ojiichan / jijii in the source; kept as the students' words (see 3146)."
+ },
+ {
+  "en": "\"...Look, that's enough now, surely?{w}Master Mirco has gone and gotten himself lost. Have any of you seen him?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "*  Infirmary  *{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "School Nurse",
+  "kind": "name"
+ },
+ {
+  "en": "\"Raaaaaaaghhh!!!{w}Ah, ah, ah...{w}Hrooooaaarrgh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A giant dressed as a Priest appeared!{w}The giant took one look at you and came at you with a terrifying expression!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hnngh!!\"{w}",
+  "kind": "msg",
+  "note": "Effort grunt during the (violent) treatment; next row says the treatment is done."
+ },
+ {
+  "en": "Your treatment finished, you were kicked out of the room!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}            *  Snack Storage  *            {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner (oyatsu-ko = snack store room); check centring in game."
+ },
+ {
+  "en": "There is a small wooden box that looks like a safe.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is nothing of particular interest.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There was an unfamiliar sweet.{w}It was the Mont Blanc the Principal had been carrying.{w}{p}As you reached out for it, you felt a piercing gaze from behind.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...It was the School Nurse.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Without moving a muscle, the School Nurse is watching your fingertips.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take the Mont Blanc?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Myyyyy!!{w}Mont Blaaaaanc!!\"{w}",
+  "kind": "msg",
+  "note": "ore no...! / monburaaa...! split across the {w}: 'My...' / 'Mont Blanc' kept at the same cut."
+ },
+ {
+  "en": "You routed the School Nurse.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...You gave up on the Mont Blanc.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you closed the door, the School Nurse gave a single nod and went away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "\"Summoners like me get a bit of a cold shoulder at this school.{w}Just look at that -- the Magic Research Wing.\"{w}{p}\"Kathleen, the vice principal... being so keen on teaching is fine and all, but...{w}I just wish she'd pay the other departments a little more attention too.\"{w}{p}\"Hey, you lot, want me to tell you something interesting about Summoners?\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: source has Kathleen as the one who should look at the other departments (mo sukoshi dake hoka no gakka mo mite hoshii); subject restored (Kathleen female per glossary)."
+ },
+ {
+  "en": "Hear them out?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Good, good. Sure thing.\"{w}{p}\"See, summoned monsters, when you combine them with items, can be put to work in a couple of unexpected ways.\"{w}{p}\"The first is merging with an item.{w}For example, the Cloak of Corruption and a Succubus.\"{w}{p}\"If you've got both, try unleashing the Cloak of Corruption's hidden power while you've got a Succubus summoned.\"{w}{p}\"Something wonderful's bound to happen!\"{w}{p}\"The second is boosting an item's effect.\"{w}{p}\"For example, if you have a Unicorn Horn equipped while you've got a Unicorn summoned, it gets even more powerful.\"{w}{p}\"And it's not just the examples I gave here -- there seem to be all sorts, so if you've got a Summoner, go looking!\"{w}{p}\"..........{w}Maaan, it's been ages since I got to talk about this stuff.{w}Summoning really is the best!!\"{w}",
+  "kind": "msg",
+  "note": "Item names Cloak of Corruption (daraku no manto) and Unicorn Horn are provisional (not in glossary)."
+ },
+ {
+  "en": "\"Ugh...{w}F-fine, then...{w}So I get the cold shoulder here too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a bulletin board for the Magic Research Wing.{w}",
+  "kind": "msg",
+  "note": "Speaker field says Summoner but the row is narration (no quote brackets)."
+ },
+ {
+  "en": "{0E}*  Next Lecture: Practical Magic Strategy (2)      *\n*      Lecturer: Kathleen                          *\n*      Eligible: Past attendees; Year 2 completed  *{0F}{w}{p}Could it be a popular lecture?{w}{p}Further down there is a waiting list, with what look like students' names written across several pages.{w}{p}Looking closely, you see Soara's name at the top of the attendee list.{w}",
+  "kind": "msg",
+  "note": "Notice board kept as a 3-line * box; check width in game (longest line 51 chars)."
+ },
+ {
+  "en": "The grenade exploded!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed the Magic Research Wing door.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Year 3 Female Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Doesn't Kathleen piss you off?{w}Like, are Mages really such hot stuff? Give me a break.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Year 2 Male Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, sure, it's the star department of this school.\"{w}{p}\"But us in the Priest department, who save people's lives, and the Alchemy department, which is useful in everyday life -- they could give us a bit more support, couldn't they?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Miracles that borrow the power of the gods? Upset the gods and it's all over, isn't it?' -- that's what Kathleen said!\"{w}",
+  "kind": "msg",
+  "note": "datte sa (quoted speech) has no named subject; the quoted remark is Kathleen's (scene is about her, feminine ja nai). Name restored."
+ },
+ {
+  "en": "Year 1 Female Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Uh, uh, um, you two...{w}Maybe you shouldn't badmouth a teacher so much...{w}*fluster, fluster*...\"{w}",
+  "kind": "msg",
+  "note": "senpai-gata rendered 'you two' (speaking to the two older students)."
+ },
+ {
+  "en": "\"Maybe I'd have been better off going to Semnadoc instead.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Over there, though, there's the Archbishop, y'know...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, right.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'd love to knock Kathleen down a peg.{w}Isn't there some way...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*fluster, fluster*... *fluster, fluster*...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What if we got Professor Harmoni to blast the door of that oh-so-precious Magic Research Wing with a grenade... or something? How about it?\"{w}",
+  "kind": "msg",
+  "note": "Source says majutsu RENKIN-tou (Magic Alchemy Wing) here, but every other row (3245, 3249, 3294, 3300) is the Research Wing and the plan is carried out on that door; treated as a source slip. Accuracy check."
+ },
+ {
+  "en": "\"Even Professor Harmoni wouldn't do that for us, I bet.\"{w}{p}\"Maybe we get a grenade and set it ourselves...{w}Nah, Harmoni's pretty strict about that stuff.{w}Might not hand one over for free.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If we just handed over some sweets, Harmoni would jump at it, right?{w}Going, 'Yaaay, it's a Mont Blaaanc~~~!' and all!\"{w}",
+  "kind": "msg",
+  "note": "Subject (Harmoni) restored from 3274."
+ },
+ {
+  "en": "\"What the heck, that's a dead-on impression!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Use Prof. Harmoni's grenade?",
+  "kind": "data",
+  "note": "Choice prompt; 'Prof.' per glossary note to stay under ~30 chars (28)."
+ },
+ {
+  "en": "After making sure no one was around, you set Professor Harmoni's grenade on the door!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...{w}......{w}............Run!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the Magic Research Wing!{w}The castle of the Mages, led by our very own Vice Principal Kathleen!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Witch",
+  "kind": "name"
+ },
+ {
+  "en": "\"Have you met Professor Nambino, up in the northwest?{w}If you haven't yet, go on over!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Vice Principal Kathleen",
+  "kind": "name",
+  "note": "Glossary name box, 23 chars (over ~16); kept, needs width check."
+ },
+ {
+  "en": "\"Hello there.{w}I don't recognize your faces -- are you new students?{w}Do apply yourselves, won't you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So it seems some youngster blew up the entrance to the Magic Research Wing...\"{w}{p}\"If they had to, I'd at least have liked them to blow it up with {11:0001:0015}, not a grenade.\"{w}{p}\"...I hold every scrap of information in this school in my grasp without ever leaving my seat.{w}Every room except that person's.\"{w}{p}\"Who is doing what, and where -- I see it all, you know...?{w}Well, I understand how you feel. It does look like favoritism, doesn't it.\"{w}{p}\"Enlarging the Magic Research Wing and putting effort into the Mage classes doesn't mean we're neglecting the other disciplines.\"{w}{p}\"Mage spells alone can grow in power without limit, on nothing more than the caster's state of mind.{w}Unless you understand them properly and learn them right, they're dangerous.\"{w}{p}\"The more power someone holds, the hardest thing of all is restraining themselves.{w}That is why we nurture sound theory and a sound heart.\"{w}{p}\"And as I gathered all sorts of materials for that purpose, the building ended up this big.\"{w}{p}\"Yes, I suppose it's about time I gave you some instruction as well.\"{w}{p}\"...I'll teach you that there are things you ought to learn before you go playing with grenades.\"{w}{p}\"Rejoice. You get to take a special class from Kathleen, no less.\"{w}",
+  "kind": "msg",
+  "note": "ano kata ('that person', honorific) left unnamed - presumably the Board Chair. 'from Kathleen, no less' renders kono Kyasuriin kara (self-reference by name), kept gender-neutral; note Kamikaze calls Kathleen onago (woman) in slice 055 (3369) while the glossary says unknown."
+ },
+ {
+  "en": "Take the special class?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Lecture One.{w}The role of the spirits, and the truth about {11:0001:0015}.\"{w}{p}\"{11:0001:0015} -- famed as the strongest attack spell of us Mages.{w}It's commonly understood as a nuclear-blast spell.\"{w}{p}\"But in truth, this spell is not an explosion.{w}What it really is, in other words...\"{w}{p}\"{11:0001:0015} in the narrow sense is a space-control spell: 'a spell that prepares an environment where a High Mana Source can be created.'\"{w}{p}\"A flow of magic power surrounds our land.{w}It's fluid, like air pressure and the wind, and the Elementals and Fairies manage it.\"{w}{p}\"From here on, I'll call the Elementals and Fairies 'spirits' for short.\"{w}{p}\"They keep it in balance, so magic power doesn't pool in one spot and no place ends up extremely thin on it.\"{w}{p}\"That's why, when we cast a spell, we can always expect the same effect, without feeling any difference.\"{w}{p}\"Why do the spirits do this?{w}Apparently even they don't entirely know...\"{w}{p}\"The prevailing theory is that the gods told the spirits to even out magic power and cap it, so the land won't break in some accident... or so it's said.\"{w}{p}\"But every so often, through some fluke, released magic power exceeds the land's limit.{w}That is a High Mana Source.\"{w}{p}\"Making a High Mana Source is simple. Just set off several attack spells at once, in one spot.\"{w}{p}\"Do that, and the released magic powers interfere, and in no time an explosion beyond the limit breaks out.{w}But in reality, if you try it, it fizzles.\"{w}{p}\"Why is that?{w}Because the spirits disperse the magic power so it won't exceed the limit.\"{w}{p}\"Slipping past the spirits' watch to create a space where you can fire off as many spells as you like -- that is the truth about {11:0001:0015}.\"{w}{p}\"So in theory, even an intermediate Mage could bring the land to ruin, if the spirits weren't keeping watch.\"{w}",
+  "kind": "msg",
+  "note": "koumagen = 'High Mana Source', kakugeki = 'nuclear-blast' (new terms). {11:0001:0015} is the top nuclear spell insert.; compressed for the 2 KB message buffer"
+ },
+ {
+  "en": "\"Well, are you keeping up?{w}Shall I explain it once more?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hear the explanation again?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Then, shall we continue?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lecture Two.{w}How to cast {11:0001:0015}.\"{w}{p}\"In the broad sense, {11:0001:0015} breaks down into five spells.\"{w}{p}\"First, {11:0001:0015} in the narrow sense.{w}The high-tier fire spell {11:0001:000F};{w}the high-tier ice spell {11:0001:0012};\"{w}{p}\"the high-tier lightning spell {11:0001:0013};{w}and the teleport spell {11:0001:0016}.\"{w}{p}\"Into the place made with {11:0001:0015}, fire the three attack spells at once.{w}The more simultaneous, the greater the power.\"{w}{p}\"But {11:0001:0015} has one problem.{w}You can't pin down where it takes effect.\"{w}{p}\"It secures a High Mana Source site by slipping past the spirits' watch, so you can't just set it up wherever you please.\"{w}{p}\"Back when magic research was young, even that was a threat.\"{w}{p}\"If precision wasn't needed, as in wars between nations, it was practical enough.{w}A nuisance of a big move that hit friend and foe alike, though.\"{w}{p}\"So further research proposed combining it with {11:0001:0016}.\"{w}{p}\"The method: wherever the High Mana Source forms, swap the space with {11:0001:0016} and set it off where you like.\"{w}{p}\"At first, people laughed at the theory, since it used too much magic power.\"{w}{p}\"But once it was known to work in practice, not just on paper, and to go off wherever you liked, everyone studied how to optimize it.\"{w}{p}\"The result is the practical {11:0001:0015} we use today.\"{w}{p}\"Frankly, the spirits really hate it.\"{w}{p}\"But since mastering {11:0001:0016} was made a requirement, they've come to turn a blind eye.\"{w}{p}\"So, as for the order of learning Mage spells...\"{w}{p}\"leaving {11:0001:0016} until after {11:0001:0015} is not recommended at all.\"{w}{p}\"I mean, not being able to control where the explosion goes once it's set off -- that's far too scary, isn't it?\"{w}{p}\"This whole process -- lifting the limit on magic power to draw out a nuclear blast -- would never be allowed if it went through the gods.\"{w}{p}\"It's a spell only we Mages can cast, since we call on the higher world's power directly, not through the gods.\"{w}",
+  "kind": "msg",
+  "note": "kokuninshite kureru you ni natta: spirits are the subject ('came to tolerate it'); now rendered with the spirits as subject ('they've come to turn a blind eye').; compressed for the 2 KB message buffer; accuracy: note updated to match the en (no text change)."
+ },
+ {
+  "en": "\"Lecture Three.{w}A greater power: the Ultimate Mana Source.\"{w}{p}\"You understand how a High Mana Source works, yes?{w}Well, set off three {11:0001:0015} at once, and...\"{w}{p}\"you'd get a theorized Ultimate Mana Source.{w}It's a forbidden arcane experiment no one in this land has tried yet.\"{w}{p}\"You set all three {11:0001:0015} at the same coordinates at once.\"{w}{p}\"Picture {11:0001:0015}'s three attack spells all as {11:0001:0015} -- then you see its power, no?\"{w}{p}\"...Though I can't quite grasp how terrifying it is.{w}It's just too huge.\"{w}{p}\"There are several predictions of what follows.{w}Let's go through them one by one.\"{w}{p}\"The Waltames Conjecture.{w}Once one forms, a colossal blast engulfs the whole land and all turns to ash.\"{w}{p}\"...Researchers dislike it as far too simple.{w}It'd be sad if that solved a mystery so many years old, no?\"{w}{p}\"Minutes of the Fourth Magic Summit.{w}It can't sustain itself; it contracts sharply and vanishes with the magic power around it.\"{w}{p}\"Unresolved: can dense, contracted magic power really vanish at no cost?{w}Clear that, though, and the theory is complete.\"{w}{p}\"The Carnier Conjecture.{w}The gods erase the land 'the moment anyone tries to make' one.\"{w}{p}\"Carnier was a theologian, so: cross the gods' limits and of course they'll get angry.\"{w}{p}\"The Mittneil Hypothesis.{w}Its spatial destruction ends the spirits' hold on magic, so any spell can be cast endlessly in the land.\"{w}{p}\"Given {11:0001:0017}'s example, it's easy for us to accept.{w}It's the most supported one now.\"{w}{p}\"That's about it, I suppose?{w}Now, which theory do you believe?{w}Or will you propose your own?\"{w}{p}\"So, back to the start....{w}As you see, magic research goes hand in hand with danger.\"{w}{p}\"If a mistake only killed you, fine. What's scary is it could even collapse the land...\"{w}{p}\"So even if everyone hates it, I gather all the information and material I can. I want the students to know.\"{w}",
+  "kind": "msg",
+  "note": "New names: Ultimate Mana Source (gokumagen), Waltames, Carnier, Mittneil, Fourth Magic Summit. 'three {0015}' kept bare: the insert is a spell name, so no plural s.; compressed for the 2 KB message buffer; Accuracy: restored 'yet' (mada)."
+ },
+ {
+  "en": "\"And that's the end of the lecture.{w}Well? Want to hear it once more?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Phew...\"{w}{p}\"......\"{w}{p}\"Hee hee, I'm sorry.{w}I talked far too much in one go.{w}And I have a lecture coming up, too. What am I going to do?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Kathleen poured water from a pitcher into a cup and took a breather.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, that's about the gist of it.{w}Study hard, won't you.{w}If you don't understand, I'll teach you again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, is that so.{w}I look forward to seeing how far you get on your own.\"{w}{p}\"But life isn't long enough to rediscover everything from zero, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, you there.\nWhat's with that rather jolly getup?\"{w}{p}\"Goodness, it's cursed, isn't it?{w}That equipment is... from Caron's shop?{w}Hmm, so in other words... you've come to challenge us.\"{w}{p}\"Very well.{w}If you can defeat us, we will stock the Caron brand at the school store.\"{w}",
+  "kind": "msg",
+  "note": "gokigen na kakkou: the party is wearing Caron's cursed prototype gear (slice 030)."
+ },
+ {
+  "en": "Kathleen held up a crystal and called together the staff, from the vice principal on down!{w}Before long, the faculty came gathering.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it, Vice Principal?{w}And just when I was in the middle of a fun, fun remedial lesson, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Special Advisor Kamikaze",
+  "kind": "name",
+  "note": "Glossary name box, 24 chars (over ~16); kept, needs width check."
+ },
+ {
+  "en": "\"And what might you want with this Kamikaze?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Head of Year McMahon",
+  "kind": "name",
+  "note": "Glossary name box, 20 chars (over ~16); kept, needs width check."
+ },
+ {
+  "en": "\"Summoning the faculty? That hardly bodes well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you remember Caron, who came by the other day?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. The cute one from the item shop, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As I recall, the one who wanted to sell goods through our school store, or some such...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't remember!{w}I never carry memories past sundown!!\"{w}",
+  "kind": "msg",
+  "note": "Pun on the Edo saying yoigoshi no kane wa motanu (never keep money overnight)."
+ },
+ {
+  "en": "\"That child has come to challenge us.{w}Although it seems these young ones will be fighting on their behalf.\"{w}{p}\"If they can beat us, our school store will carry the Caron brand.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sounds interesting.{w}Let's put this Caron brand to the test and see what it's really worth.\"{w}",
+  "kind": "msg"
+ }
+]

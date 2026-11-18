@@ -1,0 +1,346 @@
+[
+ {
+  "en": "You beat your foe in a frenzy until they're a bloody mess, and before you know it, only a lump of meat lies there. Delighting in the slick feel of the weapon in your grip, you run your fingers over it endlessly, smiling. Do people create the Blood Hammer, or does the Blood Hammer change people?",
+  "max": 298
+ },
+ {
+  "en": "This tale tells of a boy raised as a girl and a girl raised as a boy. 'Torikaebaya' is said to be old Eastern for 'I wish I could swap such-and-such.' In the tale, it's the two children's sexes, but I don't think you can just swap those because you want to. A cultural difference, perhaps?",
+  "max": 298,
+  "note": "Item is the Torikaebaya Tale (Elm3 has 'Torikaebaya Tale II'). The source's double-circle placeholder rendered as 'such-and-such' (ASCII)."
+ },
+ {
+  "en": "Great Hestrio Hist.",
+  "max": 20,
+  "note": "Script (slice 010) says 'Great History of Hestrio' (24 chars, over max 20); abbreviated."
+ },
+ {
+  "en": "This shield holds holy power and is favored by those who serve the gods, such as Valkyries. Made of light iron, it is light and easy to handle. Light iron is said to break easily, but its durability is not low, perhaps thanks to divine blessing. If your Priest fights up front, give them one.",
+  "max": 298
+ },
+ {
+  "en": "A helm shaped like an upturned iron bucket. It covers the front down to about the nose and the back down to the nape, a reassuring design for defense. But it badly limits vision, so as a remedy, a horizontal slit is cut at eye level.",
+  "max": 298
+ },
+ {
+  "en": "Full-body armor made for knights, designed with mounted combat in mind. Knights in national service, except captains, are issued this armor. Its basic performance differs little from Plate Mail, but it is somewhat easier to move in.",
+  "max": 298
+ },
+ {
+  "en": "Raw meat of the giant creature Aerivider. The meat is so huge that to bring it back, you must either travel by magic or carry it on your back, roped to your body.",
+  "max": 298,
+  "note": "Aerivider per glossary and script; the Elm3-filled monster cells (MONRAW/MON_TEXT) spell it 'Airy Vider'."
+ },
+ {
+  "en": "A cloak dyed a refreshing blue. It has no special power, but its looks make it surprisingly popular. Some seasoned adventurers even wear this weak cloak on purpose, as a matter of taste.",
+  "max": 298
+ },
+ {
+  "en": "A tail yanked off a Tonafel. It protects its owner from sleep. It also serves as emergency rations: soak it in hot water and it will fill your belly a bit. But it is only emergency food; try as you might, it will never taste good.",
+  "max": 298
+ },
+ {
+  "en": "A large flower that blooms deep in the forest, rather eerie-looking for a flower. Yet it has long been an offering to the gods and, despite its looks, is highly prized. Rolfan pollen blocks other pollens and scents, said to be one reason it became an offering.",
+  "max": 298
+ },
+ {
+  "en": "An ember guarded by fire spirits; to obtain it, you must first win the spirits over. Elves can reportedly use this ember to craft special armor with high magic defense, a craft known only to elves.",
+  "max": 298
+ },
+ {
+  "en": "The gem on a Carbuncle's brow. Beautiful and resistant to all sorts of magic, it was once so popular that Carbuncles were overhunted, nearly to extinction. Things have calmed down now, but they still threaten fiercely when humans approach.",
+  "max": 298
+ },
+ {
+  "en": "Down of the Phoenix, famed as immortal. It strongly boosts and resists fire magic, but you must defeat a Phoenix to get it, so it's very rare. Beyond magic, it may stuff the pillows and quilts of the very rich: light and wonderfully warm, far beyond any common down quilt.",
+  "max": 298
+ },
+ {
+  "en": "This egg is a delicacy, on almost everyone's list of 'foods to try before I die.' To get one, just take an egg from an Emperor Bird's nest. But a parent guarding its young fights beyond its strength, so don't take it lightly.",
+  "max": 298
+ },
+ {
+  "en": "A jade ring famed for having no seam, a showcase of craftsmanship. With no seam, the gem's magic circulates almost forever, multiplying its power two- and threefold. Elves named this the 'Bole Effect,' and many rings use it. As armor, it wards off minor ailments.",
+  "max": 298,
+  "note": "Source 'boore kouka' romanized 'Bole Effect' (no established form found)."
+ },
+ {
+  "en": "A candy that soothes the throat. Suck one and your voice comes right back. It works wonders and tastes great, so you'll keep reaching for one when your mouth is bored. Watch out: they're often gone just when you need them! If you can't resist, let another adventurer carry them.",
+  "max": 298
+ },
+ {
+  "en": "An herb that calms the confused. Just tear off a leaf and let them smell it; the scent will restore their composure. But beware: let them sniff every leaf at once, and they'll go past calm into apathy.",
+  "max": 298
+ },
+ {
+  "en": "It cures charm. It's a genuine medicinal crystal, but who on earth gave it this name? Middle-aged adventurers find it rather embarrassing to buy.",
+  "max": 298,
+  "note": "Near-identical to an Elm3 line (one kanji differs); phrasing kept close to it."
+ },
+ {
+  "en": "A scroll holding a sleep spell. Use it to grant your foes a peaceful sleep. It is sometimes used as a cure for insomnia, too.",
+  "max": 298
+ },
+ {
+  "en": "A scroll holding a light spell. Use it to brighten even the darkest dungeon.",
+  "max": 298
+ },
+ {
+  "en": "A scroll that guides spirits and undead monsters to where they belong. Use it to break the curses on spirits and undead monsters and purify them.",
+  "max": 298
+ },
+ {
+  "en": "A scroll holding a levitation spell. Use it to float every member of your party in the air, letting you walk even where there is no floor.",
+  "max": 298
+ },
+ {
+  "en": "A scroll holding an escape spell. Use it and pure white smoke gushes from it, hiding the users from sight. The spell is magic, but the smoke is real: take the scroll out first! Use it lazily in your pocket and the air pressure will rip your clothes.",
+  "max": 298
+ },
+ {
+  "en": "A scroll holding the power of breath. Use it and flames burst from the scroll at your foes, as powerful as a dragon's breath. It is meant to breathe fire, but not if the user has a different breath element.",
+  "max": 298,
+  "note": "'It is meant to breathe fire': the scroll is designated fire-breath (its item name)."
+ },
+ {
+  "en": "A scroll holding a spell that briefly lifts range limits. Use it and your whole party's attack range becomes infinite, so now you can hit foes who felt safe out of reach.",
+  "max": 298,
+  "note": "Source infinity sign written as 'infinite' (ASCII)."
+ },
+ {
+  "en": "A scroll holding a spell that raises evasion to a set level. Use it, and even the clumsiest start nimbly dodging attacks.",
+  "max": 298
+ },
+ {
+  "en": "A scroll holding a spell that blocks level drain. Use it and a drain barrier appears before you, blocking an enemy drain attack once.",
+  "max": 298
+ },
+ {
+  "en": "A scroll holding a spell that blocks breath. Use it and a breath barrier appears before you, blocking an enemy breath attack once.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Fool' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Magician' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "Elm3 item name for this card is 'Mage'; the description uses the standard card name 'The Magician' (Elm3 EBOOT tarot list also uses 'The Magician')."
+ },
+ {
+  "en": "The 'The High Priestess' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Empress' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Emperor' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Hierophant' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Lovers' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Chariot' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'Justice' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Hermit' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'Wheel of Fortune' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'Strength' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Hanged Man' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'Death' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'Temperance' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Devil' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Tower' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Star' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Moon' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The Sun' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'Judgement' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "The 'The World' tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298
+ },
+ {
+  "en": "A wooden coin bank. It holds a little money, and you can also throw it to deal damage matching the money inside. Save a bit day by day, and when the time comes it may help you in an unexpected way.",
+  "max": 298
+ },
+ {
+  "en": "An iron coin bank. It holds more money than the wooden one, so throwing it promises more damage. But it hurts your wallet just as much, so don't throw it too often.",
+  "max": 298
+ },
+ {
+  "en": "Do you know the far end of time? The world after Edumo devoured it at divine command, without even space, a place that both is and is not. Last to come there is the Water of Return, returning all to nothing. Will the water in your hand someday wash all away? Swallowing joy, anger, sorrow, all.",
+  "max": 298,
+  "note": "'at divine command': number of gods not stated. Final fragment kept as a fragment, as in the source."
+ },
+ {
+  "en": "Tokoyo is eternity, the unchanging universal. Yet no universal matter escapes time's bonds; if one exists, it is essence, not matter. All things are said to be copies of essence; the copy is what exists as matter. Then is Tokoyo essence itself, the gods' blueprint, enfolding all like gauze?",
+  "max": 298,
+  "note": "Tokoyo (the eternal world) romanized in the text; item name Elm3 'Gauze of Eternity'; kaya = mosquito net, rendered 'gauze' to match the name."
+ },
+ {
+  "en": "Some idiot made a boomerang, which should be wood, out of iron. The iron made it heavier, so its odds of coming back even after hitting something shot up. Anyone could have seen that coming. Throw with care, or your allies will boo.",
+  "max": 298
+ },
+ {
+  "en": "Love with a spirit being rarely bears fruit, and vows to meet again are seldom kept. The snow woman is one such sad winter spirit. From the day she promises to meet again someday, she counts the falling snowflakes, awaiting her beloved.",
+  "max": 298
+ },
+ {
+  "en": "Love with a spirit being rarely bears fruit, but some overcome many obstacles and are united. A snow woman gives this dagger to the one she means to spend her life with. Within its cold blade, you can feel a passion hot enough to melt.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. But it uses tarot cards with no allegory, so don't expect much from it.",
+  "max": 298,
+  "note": "Opening sentence follows the filled Elm3 row 422. 'cards with no allegory' = the plain (chaff) cards."
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Swing it and petals scatter from the blade, filling the area with cherry blossoms in full bloom, a true 'Mi-Yoshino,' fair as Yoshino itself.",
+  "max": 298,
+  "note": "Pun 'mi=Yoshino' (mi = fair + Yoshino, the cherry-blossom hills; also the card's ribbon text). Sword name not in glossary; script uses 'Miyoshino'."
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Its edge is keener than Kasu's or Miyoshino's, with power worthy of the name 'Akayoroshi' (clearly splendid).",
+  "max": 298,
+  "note": "Sword names Kasu / Miyoshino / Akayoroshi follow the script (slice 026); not in glossary, and review_notes say hanafuda sword names should be translated. Align with the ITEM.CSV name slice."
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. It unites a boar's courage, a deer's gentleness and a butterfly's grace. A lucky sword, it is sometimes given as a gift.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Its three cards, Warbler & Plum, Crane & Pine and Curtain & Cherry, are said to depict the title of a play from the eastern land.",
+  "max": 298,
+  "note": "Card names follow script slice 026. The play is Sugawara Denju Tenarai Kagami (not named in source)."
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Collect all five rare tarot called Light cards and you get the Five Lights.",
+  "max": 298,
+  "note": "Glossary: Light cards, Five Lights (script slices 026/027 use Bright cards / Goko / Five Brights)."
+ },
+ {
+  "en": "A mace said to be favored by those called 'Master.' It has a wide range of uses: felling targets, repelling attackers, punishing sinners, and assorted other amusements.",
+  "max": 298,
+  "note": "'Master' (shujin) is ungendered; script slice 042 ties Belfana to 'Mistress'. Innuendo kept."
+ },
+ {
+  "en": "A reinforced ladle. Tougher than an ordinary ladle; smack someone with a snap of the wrist and it rings out with a satisfying sound.",
+  "max": 298
+ },
+ {
+  "en": "A rod popular for its girly design. Its basic shape and carved logo can't be changed, but the gem on the tip and such can reportedly be custom-ordered. So more than a few buy it as fashion rather than a weapon.",
+  "max": 298
+ },
+ {
+  "en": "The beard of Raizam, one of the Four Sages, ruler of the earth. Equip it, and even races without beards can feel what having one is like. But it seems itchy and unpleasant until you get used to it, so only a few oddballs wear it.",
+  "max": 298,
+  "note": "Raizam's gender unknown; no pronoun used."
+ },
+ {
+  "en": "Caron rarely wears hats, so this prototype was going to be scrapped. But Namina insisted it was cute, so it went on sale. Of course Namina bought one too, but she always wears a particular hat for training, so she hardly ever uses it.",
+  "max": 298,
+  "note": "Caron's gender unknown (no pronoun); Namina female per glossary."
+ },
+ {
+  "en": "Clothes made of light, sturdy cloth so even girls can adventure with aggressive moves. The ad copy: 'Even Cerberus can't bite through it!?' Nobody has tested it, though. Their claim: 'There's a ?, so it's no lie.' It is durable, at least.",
+  "max": 298
+ },
+ {
+  "en": "Glove-shaped, but woven inside with steel thread for decent durability and defense. Caron's pride and joy, yet Caron reportedly moped for three days after seeing a woman in a port town using them as pot holders, perhaps a gift from her child.",
+  "max": 298,
+  "note": "'a woman' = obasan (middle-aged woman); 'perhaps a gift from her child' is a hedged reading. Caron ungendered."
+ },
+ {
+  "en": "Shoes made hard and sturdy to withstand intense exercise. Very water-repellent too; rumor says a well-timed kick can even deflect a mage's ice spell. The drawback: they repel water so well that ordinary washing barely gets them clean.",
+  "max": 298
+ },
+ {
+  "en": "Yellowed fabric, peeling Emperor Bird embroidery and a strange, pungent smell all tell how old this blanket is. Anyone can see it's garbage, but to a certain someone it is apparently very precious.",
+  "max": 298,
+  "note": "The 'certain someone' is Queen Ragnastia (script slices 010-014); kept unnamed as in source."
+ },
+ {
+  "en": "This shell is said to swallow nearby sound, but the sound stops because it fixes the ambient magic, briefly stilling the air. Near it, mages can't cast spells. Strictly, they do cast, but new magic can't enter the fixed space, so it is canceled.",
+  "max": 298
+ },
+ {
+  "en": "In a certain library, a strange bookmark placed in --- pages, or pages one must not forget, is said to ---. --- this bookmark and when the time comes you can ---, and --- is also possible. But --- varies with your feelings when you placed it, and it may even ---.",
+  "max": 298,
+  "note": "Source deliberately redacts words with triple dashes; kept as '---' blanks in matching positions."
+ },
+ {
+  "en": "Treasure that Leprechauns are said to keep hidden. Found, it sells for a fair price, but its true worth is said to be clear only to those with a discerning eye.",
+  "max": 298
+ },
+ {
+  "en": "A nuisance of a banner handed out by the Dragon Lord in a certain town. Just carrying it earns you funny looks; equip it, and your social standing will plummet like a dragon descending from the heavens.",
+  "max": 298,
+  "note": "'a dragon descending from the heavens' (also an amakudari pun, not carried over)."
+ },
+ {
+  "en": "Rondelgius's Banner",
+  "max": 20,
+  "note": "Script slice 060 'Rondelgius's banner'; hata = banner per that slice."
+ },
+ {
+  "en": "A cute little silverwork accessory. It's sold as a pierced earring, but for those who'd rather not pierce their ears, they'll make it a clip-on.",
+  "max": 298
+ },
+ {
+  "en": "A pouch owned by Omshokopo, one of the Four Sages, master of wind. Just right for small items and well made, it would surely fetch a high price. But if an owner who got it from Omshokopo tries to part with it, it is said to turn into an owl and fly off.",
+  "max": 298,
+  "note": "'on the market' dropped to fit; meaning kept by 'fetch a high price'."
+ },
+ {
+  "en": "A cloak owned by Radrecht, one of the Four Sages, master of fire. It holds the power of fire, and they say even the power of spirits can hardly contain its heat.",
+  "max": 298
+ }
+]

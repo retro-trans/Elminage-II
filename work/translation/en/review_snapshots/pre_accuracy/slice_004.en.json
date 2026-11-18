@@ -1,0 +1,342 @@
+[
+ {
+  "en": "\"Where's Elpina?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I couldn't say. She's probably gone off hunting for junk again...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm right here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you've been up there all this time?!\"{w}",
+  "kind": "msg",
+  "note": "sonna tokoro = 'a place like that'; Elpina's reply (up top) settles it as 'up there'."
+ },
+ {
+  "en": "\"Yep. I was just napping up top. Didn't you notice?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't tell me... just now, you...\"{w}",
+  "kind": "msg",
+  "note": "Hess fears she overheard the talk with Gurtia (end of slice 003); kept as a trailing fragment, 'you' supplied."
+ },
+ {
+  "en": "\"Mmm... well, yeah.{w} More importantly, is this okay? There's a bunch of people who've been peeking at us from over there for a while now.\"{w}",
+  "kind": "msg",
+  "note": "yatsura = the player party; kept neutral ('a bunch of people')."
+ },
+ {
+  "en": "\"What?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, it's you guys!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You showed up at just the right time. Hey, Mirco! Show 'em what all that training got you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I shall wash away our last defeat with your blood!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...So, Sis, what are you gonna do? Just watch again today?\"{w}",
+  "kind": "msg",
+  "note": "nee-san (Elpina's name for Gurtia, not a blood relation) = 'Sis' throughout."
+ },
+ {
+  "en": "\"What?! I...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hate to admit it, but these guys are the kind we can't beat unless we go all out.{w} Won't you lend us a hand?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, please. With you here, our fighting strength would finally be on solid footing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gurtia!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Young master...\"{w}",
+  "kind": "msg",
+  "note": "bocchama = 'young master'."
+ },
+ {
+  "en": "\"I'm asking you too.{w} When you're by my side, Gurtia, I can fight without getting nervous.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, hey, Mirco?\"{w}",
+  "kind": "msg",
+  "note": "Mirco-kun: the kun is dropped (no natural English equivalent)."
+ },
+ {
+  "en": "\"What?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mirco, do you like Sis?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Yeah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you looove her?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course I do! ...W-why are you asking all of a sudden?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You heard him, Sis! Good for you!\"{w}",
+  "kind": "msg",
+  "note": "Music note dropped (ASCII only)."
+ },
+ {
+  "en": "\"Y-you are just...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's wrong with you two?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sis. Mirco is Mirco, you know?{w} Sure, even for me, just listening to it... that story makes me sick to my stomach.\"{w}",
+  "kind": "msg",
+  "note": "Elpina overheard Gurtia's grievance against House Lenzer (slice 003): Mirco is not to blame. munakuso warui kept strong."
+ },
+ {
+  "en": "\"???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I bet you've got feelings with nowhere to go.{w} But... being his wet nurse isn't all that bad for you either, is it?\"{w}",
+  "kind": "msg",
+  "note": "uba = wet nurse (glossary position for Gurtia). manzara demo nai = not as unwelcome as she claims."
+ },
+ {
+  "en": "\"When you're mending Mirco's clothes, or making those chocolate cornets he loves, Sis, you look like you're having a really great time~\"{w}",
+  "kind": "msg",
+  "note": "choco cornet = chocolate cornet (horn-shaped pastry)."
+ },
+ {
+  "en": "\"Or is that just my imagination?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's enough!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What have you two been talking about this whole time?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"See, see? You're confusing poor Mirco, Sis.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........{w} ...This will cost you dearly, Elpina.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hehe. If you need to vent, I'll listen as long as it takes!\"{w}",
+  "kind": "msg",
+  "note": "Elpina turns 'this will cost you' into an offer to hear Gurtia's grumbling."
+ },
+ {
+  "en": "\"Oh, that's right, Hess.{w} There is one thing I should tell you, so there is no misunderstanding.{w} A word in your ear...\"{w}",
+  "kind": "msg",
+  "note": "Hess-sama = 'Master Hess' (Gurtia's servant politeness); Mirco-sama = 'Master Mirco'."
+ },
+ {
+  "en": "\"What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(When I see something cute... I just can't help wanting to torment it and watch it squirm.){w}{p}(I do not think well of the House. However...{w} where Master Mirco is concerned, there is also a matter of personal taste...){w}{p}(So please do not let it trouble you too much.{w} ...Hee hee hee hee!!){w}",
+  "kind": "msg",
+  "note": "Whispered aside; parentheses kept. oie = House Lenzer."
+ },
+ {
+  "en": "(...Now I'm all the more worried.){w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gurtia took up her whip.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, let us clear away this unsightly trash quickly, shall we, young master?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks, Gurtia!{w} Alright, this time we're gonna beat 'em to a pulp!!\"{w}",
+  "kind": "msg",
+  "note": "kechon-kechon = thoroughly trounce."
+ },
+ {
+  "en": "\"N-not even all of us together can win...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch.\nWe've got ourselves one hell of a rival.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But it was the first time we all fought together!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed!{w} This sense of unity reminds me of my days in the knightly order!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You guys are really strong.{w} We lost again this time, but let's have a rematch someday! Next time, we'll win!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We meet again!{w} You know, I've actually started looking forward to fighting you guys.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Just like you've been growing, I've gotten stronger too! Now, have at you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow ow ow...\nI guess I really can't beat you that easily...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But I'm not giving up! Someday I'll overtake you, I swear!{w} Until then, don't you dare lose to anyone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm... where on earth are we?!{w} And those rascals are here as well.\"{w}",
+  "kind": "msg",
+  "note": "ayatsura = the player party (dream/bonus encounter)."
+ },
+ {
+  "en": "\"How very bizarre...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Feels kinda weird. Like I've got my five senses, but also like I don't...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I get it, this has gotta be a dream!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa...{w} Oh, I know!{w} If this is a dream, maybe we can win!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There you go again...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why not?{w} We can't avoid a fight either way, I'd imagine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright, let's go all out~!\"{w}",
+  "kind": "msg",
+  "note": "Music note replaced with ~ (ASCII only)."
+ },
+ {
+  "en": "\"We lost again...{w} But it's fine if it's a dream, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What kind of attitude is that?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's a dream.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'm the Hell Master, dream or not!!\"{w}",
+  "kind": "msg",
+  "note": "Riffs on Zephal's catchphrase 'I am the Hell Master!' (glossary)."
+ },
+ {
+  "en": "\"Eeeeek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dreaming that I'm in a dream with everyone...{w} How curious.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not to sound like Mirco, but is this one of those deals where we wake up and it's like none of it ever happened?\"{w}",
+  "kind": "msg",
+  "note": "Mirco ja nee kedo read as 'not to sound like Mirco' (asking a naive question)."
+ },
+ {
+  "en": "\"So we won't remember any of it either?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see, it won't stay in anyone's memory.{w} I seeee.{w} ...Heh heh heh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Zephal?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha ha ha, is that so! Nobody will remember!{w} Then it's fine for me to cut loose, isn't it!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-yeah. I guess it's fine, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh... heh heh heh...\"{w}{p}\"Fwahahaha! Then let us march to battllllle!{w} Follow me, follow meeeeee, you hear!{w} Smash it allllll! Woo-hoooooo!!\"{w}",
+  "kind": "msg",
+  "note": "Zephal switches from watashi to ore here (losing his composure); conveyed by the unhinged register."
+ },
+ {
+  "en": "Zephal ran off, swinging his sword around.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Z-Zephal... what's gotten into you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, just leave Zephal be~\"{w}",
+  "kind": "msg",
+  "note": "Drawled -o; Zapper is going strange too (see slice 005)."
+ }
+]

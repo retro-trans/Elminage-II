@@ -1,0 +1,341 @@
+[
+ {
+  "en": "A giant flying whale. It feeds by inhaling 'something' in the air, with suction so strong that, if unlucky, even an adult gets sucked in. Its size will knock you off your feet, but there is said to be a giant bird, the Wargle, that preys on Airy Viders.",
+  "max": 256,
+  "note": " | lead: Airy Vider (glossary/Elm3 monster name)."
+ },
+ {
+  "en": "Tyrant of the forest: a menace that runs about on its huge body, mowing down trees. It needs a long run-up to start \"running,\" but then won't stop, and is fairly fast. Meet one while camping and there's no time to save your gear: beat it or lose your gear.",
+  "max": 256
+ },
+ {
+  "en": "Emperor Birds are very intelligent and once had fairly friendly ties with people. But since their delicious eggs were hailed as one of the Three Great Delicacies, endless overhunting has soured relations. Their bonds are strong; a long fight is dangerous.",
+  "max": 256
+ },
+ {
+  "en": "It moves among the trees like the wind, too swift to ever be seen. It toys with adventurers with shifting attacks that could come from any side. A front row that senses trouble and turns around may well find the back row soaked in blood.",
+  "max": 256
+ },
+ {
+  "en": "You walk up thinking it's a bat, but it's a giant eyeball... that's an Eye Wing. Perhaps because of its huge eye, it tends to shun bright, dazzling places. It's no great threat, but its poison spells are a nuisance. Watch out when they come in groups.",
+  "max": 256
+ },
+ {
+  "en": "A lizard full of poison. If its claws merely graze you, venom seeps in and eats at your whole body. Keep your distance, then? When its claws can't reach, a Basilisk attacks with deadly poison breath. After the fight, you'll surely be drenched in poison.",
+  "max": 256
+ },
+ {
+  "en": "It takes the form of a winged serpent, and in some lands is revered as a messenger of the gods, or as a god itself. It swoops down from the sky without warning, so let your guard down and it will catch you napping.",
+  "max": 256
+ },
+ {
+  "en": "A monster fused from several animals. Each of its three heads attacks in its own way: the dragon with breath, the ox with spells, the lion with matchless fangs. Beating a Chimera is what separates novices from intermediate adventurers.",
+  "max": 256
+ },
+ {
+  "en": "Glittering wings and a gorgeous crest: a lavish mythical beast, yet it cannot fly. But who needs flight with an inborn power to petrify? Not just its attacks but its breath can turn you to stone. Take it lightly and you'll be a stone statue in no time.",
+  "max": 256
+ },
+ {
+  "en": "A monster that is part aged human, part magical beast. It understands human speech and is very clever. At times it speaks kindly to weary adventurers, coaxing them to give up. Facing a Manticore may test your resolve more than your strength.",
+  "max": 256,
+  "note": "acc: [JP] has no gender (glossary [JP] = Elder); 'old man' -> 'aged human'"
+ },
+ {
+  "en": "A demon beast writhing slickly amid water columns. With an allure only inhuman women have, it draws adventurers in, off guard, though they know it's a monster. Supple, mighty tentacles snare them, and the fanged lower mouth, not the upper, swallows them.",
+  "max": 256,
+  "note": "edi: \"draws adventurers in defenseless though\" did not parse"
+ },
+ {
+  "en": "A beauty with a snake's body. Intelligent, she seldom attacks people, but things like 'magic pools' can make her drunk and violent. Rumor says a child born of love with a Lamia will have rare magic and be able to command every mythical beast.",
+  "max": 256,
+  "note": "acc: source has [JP] -> single quotes (translation_brief)"
+ },
+ {
+  "en": "A sacred bird whose lifeblood is said to grant eternal life. Born in raging flames, it carries flame within, so it is hard to approach. Come near it carelessly for its blood, and that rash act will be atoned for in purging fire.",
+  "max": 256
+ },
+ {
+  "en": "A fox that lived long and gained mystic powers. Some take human form to beguile the powerful; others shun people in tiny mountain shrines. Angered, it calls heavenly winds and black clouds and strikes with eerie lightning. Proud, but fried tofu undoes it.",
+  "max": 256
+ },
+ {
+  "en": "A fearsome beast that would easily spawn a legend or two if it ever came to the surface. The blows of its giant body are all it has, but the simpler the attack, the less you can take it lightly.",
+  "max": 256
+ },
+ {
+  "en": "Queen of the Phoenixes, at the summit of the fire spirits. The flames the Phoenix Queen wears burn far hotter than a Phoenix's; they say that when she is angry, even Phoenixes are burned to death.",
+  "max": 256
+ },
+ {
+  "en": "A divine sea fish shining with holy light. Any beast this huge should be slow, yet maybe thanks to the light magic it wears, it races about at baffling speed. So adventurers keep dying, unable to keep their distance or thrown off their usual rhythm.",
+  "max": 256
+ },
+ {
+  "en": "A spirit of the dead, so to speak. It is a mere soul, so there's no need to mind it. But if you do mean to banish it, most weapons pass right through, so bring a Priest who can strike spirits, or a suitable weapon.",
+  "max": 256
+ },
+ {
+  "en": "A malicious, dangerous soul. It trails the adventurer it has marked, waiting for a chance to drag them into the afterlife. It's hard to hit with weapons, so if it looks dangerous, rely on Dispel.",
+  "max": 256
+ },
+ {
+  "en": "A ghost that loves pranks, from cute ones like flying plates or doors that open and shut, to dangerous ones like flying weapons and blades. Sometimes it wants someone to notice something, so if you scold it and hear it out, you might become friends.",
+  "max": 256
+ },
+ {
+  "en": "The ghost of a female adventurer who lost her companions on a journey and died alone. If you sense someone in the labyrinth and call out, and the same words come back, it's probably an Echo. Head toward the voice, and you'll become her new companion.",
+  "max": 256
+ },
+ {
+  "en": "She who heralds death. People think \"the Banshee brings death,\" but Banshees only appear where death is. They shed every tear to comfort fading lives. Classed as ghosts, they are really closer to spirits. Pray their tears are not meant for you.",
+  "max": 256,
+  "note": "acc: source has [JP] -> double quotes (translation_brief)"
+ },
+ {
+  "en": "Novice servants forever make clumsy blunders. Fine if you can laugh it off, but some cost a life. The Ghost Maid is one such soul. Unaware she died, she still busily cleans for her master. Rumor says an even clumsier maid hasn't noticed her coworker died.",
+  "max": 256
+ },
+ {
+  "en": "A ship that lost its master to storms or pirates and became undead after long years adrift. It takes in shipwreck victims and attacks merchant ships to gain crew. An old charm against it was to \"greet the sea,\" though now and then an Echo answered.",
+  "max": 256,
+  "note": "acc: source has [JP] -> double quotes (translation_brief)"
+ },
+ {
+  "en": "An odd spirit with a tube-shaped body whose end crosses into itself. Follow its outside with your eyes and you're inside; follow the inside and you're back outside. Normal to higher-dimensional beings, but if we try to grasp it, at worst we go mad.",
+  "max": 256
+ },
+ {
+  "en": "When a Valkyrie dies, her god normally calls her soul to its rightful place. But some, rejected for deeds in life like breaking commandments, wander with nowhere to go. A weak heart seeks a god's salvation, and is rejected for that weakness. How sad.",
+  "max": 256
+ },
+ {
+  "en": "A skull that swims through the air like a ray. Usually it glides lazily just above the ground, like a ray in the sea, but once it spots prey, it closes in on your feet at terrifying speed without a sound, then leaps up to strike all at once.",
+  "max": 256
+ },
+ {
+  "en": "A vengeful dog spirit made by the curse kodoku. Inugami are said to be passed down in certain bloodlines for generations, often cited as proof that ordinary people, animals and plants can be drawn into dark arts. How sad, to find no freedom even in death.",
+  "max": 256
+ },
+ {
+  "en": "King of the evil spirits. At this level, it no longer lingers in this world because it is lost, but by its own will. Spirits are everywhere, many of them souls with nowhere to go. The king summons such spirits as servants, making its position rock solid.",
+  "max": 256
+ },
+ {
+  "en": "A demon's arm sprouting from the ground. No one knows what lies at the other end.",
+  "max": 256
+ },
+ {
+  "en": "A cruel little demon. Alone it is a coward, but in a group it seems to grow bold and turns vicious. Watch out when a group of them attacks.",
+  "max": 256
+ },
+ {
+  "en": "One who walks the night. If you sense strange footsteps behind you in the dark, it may be a Night Stalker. Give it an opening, and in an instant you'll be dragged into the darkness and become Night Stalkers yourselves.",
+  "max": 256
+ },
+ {
+  "en": "A crafty, learned demon. It chants spells in a hoarse voice. Leave it alone and it becomes a nuisance, so let's ask Grandpa to retire early.",
+  "max": 256
+ },
+ {
+  "en": "A female knight who lives in darkness. One thrust of her matchless spear sends frail spellcasters to the grave. 'Valkyrie' means a battle maiden blessed by the gods, yet she is a demon Valkyrie. If even demons serve a god, what kind of being is their god?",
+  "max": 256,
+  "note": "edi: \"it\" had no clear referent; the question is about their god ([JP])"
+ },
+ {
+  "en": "A male dream demon flaunting a lewd symbol. Incubi would rather violate the mind with words than the body, digging up the desires prey can tell no one. Once in their arms, normal acts never satisfy you; you roam unfulfilled, devouring body after body.",
+  "max": 256,
+  "note": "edi: \"violating from within with words over the body\" was hard to parse"
+ },
+ {
+  "en": "A demon who leads adventurers astray with her bewitching form. Even veterans can't handle the Succubus, in more ways than one. Her level drain is a menace. And yet... having your hard-won experience sucked away in sweet dreams... isn't that a fine life?",
+  "max": 256
+ },
+ {
+  "en": "A demon in a pitiful state. Why it suffers so is unknown, but it is said it was reduced to this form after losing a power struggle among the Demon Dukes. Bound and unable to speak, it can still freeze your heart with muffled roars and a piercing glare.",
+  "max": 256
+ },
+ {
+  "en": "A savage she-demon smashing all with great claws. Famed for cruelty, she torments lovely prey hardest till it breaks. Ramming claws down the throats of pleading prey to force gags, peering at faces warped by terror, wet with tears and snot: her routine.",
+  "max": 256
+ },
+ {
+  "en": "A copper-skinned greater demon. Its name means \"calamity\" and \"evil,\" and it is said to hold every wicked thought. Its malice is so pure that even if you win, your heart will be deeply wounded. The wound festers, and one day you become the next Fiend.",
+  "max": 256,
+  "note": "acc: restored subject (the demon, not its name, holds every wicked thought); [JP] -> double quotes; opening folded to fit"
+ },
+ {
+  "en": "A demon embodying the underworld's flames. It holds 1,024 legions and leads Demon Valkyries and Hell Masters. Unusually for a demon, it wields priest spells calling down divine miracles. If the gods guarantee our justice, who proves the gods' justice?",
+  "max": 256
+ },
+ {
+  "en": "A monstrous woman whose gaze turns onlookers to stone with terror. Not only her petrifying spells but her normal attacks are fierce. Few have seen her, but they say that when she laid down her arms, her eyes held a sorrow, as if longing for days gone by.",
+  "max": 256
+ },
+ {
+  "en": "A small flying dragon, the most commonly seen kind. But it is not weak. Take it lightly, and the gale from its wings will blow you away.",
+  "max": 256
+ },
+ {
+  "en": "A dragon covered in copper scales. Unlike a Wyvern, it plants both feet on the ground to attack. It is probably the first truly dragon-like dragon you will meet.",
+  "max": 256
+ },
+ {
+  "en": "A green-bodied dragon. It lives in caves and high mountains and swoops down to the lands below for food. Even if Wyverns and Copper Dragons make you think you're used to dragons, a Green Dragon will teach you their terror all over again.",
+  "max": 256
+ },
+ {
+  "en": "A two-headed dragon whose tail is also a head. Strong against attacks from all sides, it assails adventurers with balanced offense and defense. The two heads get along well. Coiled up asleep with both heads side by side, it is surprisingly adorable.",
+  "max": 256
+ },
+ {
+  "en": "Poison coats it from fang to claw tip. Even a scratch will make you double over, but scarier still is its venomous breath. Weaker than other elemental breaths, it causes status ailments. If you meet one, hit it fast and wear it down.",
+  "max": 256
+ },
+ {
+  "en": "A dragon that hates having its back seen or being taken from behind. But it moves so sluggishly that it is always sad. All a Grannada can do is turn its head and glare bitterly with its one eye. The wistful nursery rhyme 'Behind the Grannada' is famous.",
+  "max": 256
+ },
+ {
+  "en": "A golden dragon clad in the power of lightning. Highly intelligent, it rarely attacks without warning, but once battle begins it will treat you to the full course of dragon terror, breath and claws alike. Even the Kin of Darkness are wary of it.",
+  "max": 256
+ },
+ {
+  "en": "A mighty wyvern clutching a natural emerald. Its magic is superb too: besides dragon attacks, it deftly showers foes with magic light amplified by the emerald. It prefers emeralds but may take diamonds or rubies. Some are seen fighting over one emerald.",
+  "max": 256
+ },
+ {
+  "en": "A samurai with no master. Origins vary: some lost their lord, others roamed alone as they pleased from the start. Wanderers they may be, but their skill is real. Take them lightly and you'll become \"rust on the katana,\" or whatever it is they call it.",
+  "max": 256,
+  "note": "acc: source has [JP] -> double quotes (translation_brief)"
+ },
+ {
+  "en": "An elf swordsman, most often in Isfald's service. Elves make up for their lack of brawn with disciplined strategy and tactics, and so crush warriors of other races who scatter and act tough. Then again, pick them off one by one and they fall easily.",
+  "max": 256
+ },
+ {
+  "en": "A warrior swallowed up by the feel of blood and flesh in battle. It rampages with tremendous strength and physical prowess, but there is no need to meet it head-on. Put it to sleep with a spell or the like.",
+  "max": 256
+ },
+ {
+  "en": "A swordsman baptized after swearing to fight for the gods. They kill and destroy for their doctrine, but with the gods' teachings, they never need to doubt or agonize. Only they know the worth of the 'peace of mind' they gave up their own lives to gain.",
+  "max": 256,
+  "note": "edi: [JP] in general = \"the gods\" (review_notes 040-049)"
+ },
+ {
+  "en": "Warriors who train their bodies to the limit and crush foes with their own strength. Their fighting ability is truly remarkable. Their well-built muscles seem a point of pride; if they're friendly, they'll show off their physique without holding back.",
+  "max": 256
+ },
+ {
+  "en": "A warrior fused with a chariot by alchemy. It turns tighter than it looks, and a head-on charge is hard to take well. Nor is fleeing easy: escape onto mountain trails or other unpaved roads, and it swaps its wheels for spiked ones and gives chase.",
+  "max": 256
+ },
+ {
+  "en": "A vicious warrior who appears with dash and flair to the brisk sound of galloping, then attacks. Like some ball game, it swings its hammer to knock adventurers' heads clean off. A small few of these warriors even dream of fighting on horseback.",
+  "max": 256
+ },
+ {
+  "en": "An avenger: one who exacts revenge. Broadly it is not limited to warriors, but usually means those who wield the sword for vengeance. They may have their own creed, but you have no reason to die for their satisfaction. Fight fair and drive them off.",
+  "max": 256
+ },
+ {
+  "en": "A samurai who has gained superior ability and leadership. At this rank they apparently come to hold lands of their own. They seem to enjoy having plenty of party members, and are often seen parading about in large groups.",
+  "max": 256
+ },
+ {
+  "en": "A female fighter who dearly loves to fight. Taking no lover, she sates every desire by driving her fists into others' bodies. Her whole body is a weapon; she excels at close combat. Want to writhe in agony from her passionate gut blow? Charge right in.",
+  "max": 256
+ },
+ {
+  "en": "A samurai with the honored duty of raising the war banner, the army's symbol, in battle. In peacetime they also advise on domestic affairs, so are rather intellectual. Perhaps from handling the real work, their skill reportedly beats their lord's at times.",
+  "max": 256
+ },
+ {
+  "en": "A lord of a land far east, on a stacked cushion called a 'zabutoon.' This lord crushes foes with political clout, not brawn, and lewdly calls women over when possible. Sweets set on gold coins somehow delight this lord, so bring some to get friendly.",
+  "max": 256
+ },
+ {
+  "en": "A samurai who has mastered the finest skills. In a master's hands even a nameless katana is deadly. Disarm it, and a lightning-fast dagger still slashes you deep in the side. A living legend of many tales. If you face it, show what today's living can do.",
+  "max": 256,
+  "note": "edi: \"In master hands\" -> \"In a master's hands\"; \"Take it away\" -> \"Disarm it\" to fit"
+ },
+ {
+  "en": "The doors of Rubenburg are open to all. Graduating, however, is no easy matter. Can you hold on to what you feel now, full of dreams and hope, until the very end?",
+  "max": 256
+ },
+ {
+  "en": "Students gather from all over, so their everyday clothes vary too. The school issues uniforms, but on days off everyone returns to their homeland's customs, and the school buildings apparently turn into a kind of international fashion show.",
+  "max": 256
+ },
+ {
+  "en": "Sorceresses among the Witches who mastered higher magic through further training. Maybe everyone gets this way with room to breathe, but High Sorceresses are generally refined. Leading junior Witches, they giggle as they toy with adventurers using magic.",
+  "max": 256
+ },
+ {
+  "en": "Wielders of more advanced alchemy, with a wider range of spells. At the intermediate level of alchemy, they begin to take an interest in 'the birth of life' as research. Creating life is dogged by 'bioethics,' but will that ever reach their ears?",
+  "max": 256
+ },
+ {
+  "en": "Third-years about to graduate, writhing in a storm of remedial classes. The school values tradition and pride, so without real skill you're soon held back. Some fake it with magic, but teachers usually see through it and hold them back. Plan your studies.",
+  "max": 256,
+  "note": "acc: [JP] = the school; 'Academy' is not a glossary name for Rubenburg"
+ },
+ {
+  "en": "Third-years about to graduate. Afterward, some will join the palace Magic Bureau, some will aid small farm villages as mages, others will seek deeper knowledge. What kind of mages will they become as they leave the nest? May happiness be theirs.",
+  "max": 256
+ },
+ {
+  "en": "One who has completed the full course of alchemical study. She has even created the artificial life 'Homunculus'; all that remains is the Philosopher's Stone. People with a goal seem full of life, and this old woman is no exception: she looks very spry.",
+  "max": 256
+ },
+ {
+  "en": "One who has trained as a Summoner and grown strong enough to bury an average adventurer single-handed. They summon one creature after another, as if building a wall of monsters.",
+  "max": 256,
+  "note": "edi: human class foes take \"they\" in this file (Ronin, Samurai, Avenger); \"it\" for a person"
+ },
+ {
+  "en": "A mage of unknown identity in a clown's guise. It loves death and decadent games, and once its curiosity is sated, it gives a shrill, strange laugh. All wonder at its true face; none has seen it. Popping in and out of nowhere, it may not even be human.",
+  "max": 256
+ },
+ {
+  "en": "A priestess directly under Sarijana, goddess of growth and carnal love. Her body, which enthralls man and woman alike, is a divine gift. But every rose has thorns. Master of Tarot, nuclear magic and barriers, she'll send you to heaven, body and soul.",
+  "max": 256
+ },
+ {
+  "en": "A battle maiden blessed by the gods and versed in the spear. With keen insight she reads her foes' moves and cuts them down with blinding speed. Her spear reaches even the back row. Be careful if you ever have to fight one.",
+  "max": 256
+ },
+ {
+  "en": "A priest who travels spreading the gods' teachings. So strong is their faith that at some point they learned to fly. When they find prey, they creep up without a sound, surround it with their comrades, and start talking about love.",
+  "max": 256,
+  "note": "edi: [JP] in general = \"the gods\" (review_notes 040-049); matches Crusader 186"
+ },
+ {
+  "en": "A shrine priest from a land far to the east. With strange paper and sticks, they fight undead monsters, spirits among them. But as foes, fear their 'Barrier': it reflects most spells, so a party that relies solely on spells will struggle.",
+  "max": 256,
+  "note": "edi: \"A priestly calling ... they fight\" described a profession, then a person"
+ },
+ {
+  "en": "Head maid of the labyrinth. With calm judgment and precise action, she meets her master's every wish; her planner holds their full schedule. Leave it to her and all is well, but she's inflexible, hence strict. In battle, her fierce kicks crush their foes.",
+  "max": 256,
+  "note": "acc: [JP] has no gender; 'his' -> 'their'"
+ },
+ {
+  "en": "An eastern Kannagi or Summoner, retained by royal houses and shoguns for prophecy, sorcery and divination. They usually perform all manner of rites, but when they sense a spirit, they command monsters called \"Shiki\" to drive the evil away.",
+  "max": 256
+ },
+ {
+  "en": "A battle maiden who mastered her path, she skewers foes on a holy spear as the gods teach. Stricter than Valkyries, she hates impurity of body and above all of soul: heart and faith. Such zeal may look comical, but have you found a faith that strong?",
+  "max": 256,
+  "note": "acc: [JP] = something you can believe in as much as they do ('a faith that strong'), not 'anything worth that faith'"
+ },
+ {
+  "en": "The strongest, most evil pontiff, who cast off self and gave his soul to evil. He asked his god to enslave his soul; his self is nearly gone, his deeds bound by doctrine. Never doubting, he seems a puppet. Perhaps this is a form of 'ultimate happiness.'",
+  "max": 256,
+  "note": "edi: \"He wished his soul his god's slave\" did not parse ([JP])"
+ },
+ {
+  "en": "A villain who prowls the labyrinth, using the dirty trick of ganging up on weakened adventurers. Individually, though, they are not very strong, so if you make full use of magic and the like, you should be able to fight them fairly safely.",
+  "max": 256
+ }
+]

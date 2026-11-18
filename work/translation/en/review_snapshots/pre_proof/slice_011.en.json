@@ -1,0 +1,366 @@
+[
+ {
+  "en": "\"I see. So you threw it away...{w}Threw it awaaay, threw it away... Costo threw it away...{w}Heh... Heh heh heh... Ufufufufufu!!\"{w}",
+  "kind": "msg",
+  "note": "Ragnastia snaps: stretched 'threw' (sute-u-ta) kept as 'awaaay'; laughter escalates as in the source. Editorial: hiragana ufufu laugh -> 'Ufufu' form per review_notes convention (Ragnastia uses 'Ufufu' in 014 3608)."
+ },
+ {
+  "en": "\"Um, Lady Ragnastia...{w}Are you, by any chance... angry?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of COURSE I aaaaam!!!!{w}Why did you go and throw it away!?{w}That's awful! That's just too cruel!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ragnastia crumpled to the floor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hahaha, you're overreacting.{w}What's the harm? We'll just buy a new one! All right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's no good... It's just no goooood...{w}It has to be that blanket...{w}The Emperor Bird one... the cute one...\"{w}{p}\"Uuu...{w}Sniff...{w}Waaaaaaaah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you're crying over this!? All right, all right, I get it!\"{w}{p}\"What was it... an Impala Boss? I'll have a blanket custom-made with embroidery that looks like it. That'll do, won't it?\"{w}",
+  "kind": "msg",
+  "note": "Costo garbles 'Emperor Bird' into inpara bancho (impala + delinquent gang boss). Rendered 'Impala Boss' to keep the wrong-name joke (rank word swapped like Emperor -> Boss). New term, not in glossary."
+ },
+ {
+  "en": "\"You don't get it!{w}Costo, you still don't understand what things are wooorth!!\"{w}",
+  "kind": "msg",
+  "note": "yappari = 'still / just as I thought': echoes the Queen's earlier order that Costo learn the value of money."
+ },
+ {
+  "en": "\"No, no, no! If anyone doesn't, Lady Ragnastia, it's you...\"{w}",
+  "kind": "msg",
+  "note": "Ragnastia-sama koso... is cut off; rendered as Costo turning the charge back on her, left trailing."
+ },
+ {
+  "en": "\"You're fired! Fired all over again!!\"{w}",
+  "kind": "msg",
+  "note": "koutetsu = dismissal from a post; sai-koutetsu = dismissed again (he had just been reinstated)."
+ },
+ {
+  "en": "Costo got the axe!{w}",
+  "kind": "msg",
+  "note": "Pun: kubi wo haneta is the Wizardry-style decapitation battle message, and kubi also means being fired. 'Got the axe' keeps both senses."
+ },
+ {
+  "en": "\"Whaaat!?\"{w}{p}\"B-but I only got back the day before yesterday...{w}Look, I've just finished moving all my things in, and I was finally about to get back to my official duties...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Starting tomorrow, you go back to the Kernel Shop and train some more!\"{w}",
+  "kind": "msg",
+  "note": "shugyou = training/apprenticeship; his shop posting is framed as a lesson."
+ },
+ {
+  "en": "\"No way, that's absurd!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now listen to me, Costo.{w}This is not my anger as the Queen. This is my own, personal anger!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Um, so in other words, that's abuse of power...\"{w}",
+  "kind": "msg",
+  "note": "Interrupted by the next row; left unfinished."
+ },
+ {
+  "en": "\"Shut uuuuup!! Idiot Costoooooo!!{w}Don't you come back until you get it baaaack!!\"{w}",
+  "kind": "msg",
+  "note": "baka Kosuto = 'Idiot Costo' per glossary title."
+ },
+ {
+  "en": "\"What are you, a child!? Are you a CHILD!?\"{w}",
+  "kind": "msg",
+  "note": "anta: rude address, said after she has stormed off."
+ },
+ {
+  "en": "\"Sigh...{w}Honestly, I just can't make sense of the world anymore...\"{w}{p}\"I doubt it's anywhere anymore, but... if it's been thrown away somewhere, would you find it and bring it to Lady Ragnastia for me?\"{w}",
+  "kind": "msg",
+  "note": "sekai ga mien yo (lit. 'I can't see the world'): despair, rendered as losing all sense of things. Page 2 is identical to SCDWMAP:3055 (slice 010); keep both renderings the same. Editorial: page 2 aligned word for word with SCDWMAP:3055 as reworded by the slice 010 editorial pass (same source)."
+ },
+ {
+  "en": "\"And who are you?{w}...A customer, you say? Not a face I've seen around here.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'I don't know your face' unidiomatic for mikaken kao."
+ },
+ {
+  "en": "\"I see, so you're the new adventurer Miria mentioned. I am Costo. See that you remember it.\"{w}",
+  "kind": "msg",
+  "note": "Miria-kun rendered plain 'Miria' as in slice 008."
+ },
+ {
+  "en": "\"By the way, if you're a rookie, have I got just the thing for you!{w}Here it is: the Flamberge!!\"{w}{p}\"Word is it's a seriously awesome weapon! Just for you, I'll sell it for 500,000 GP.{w}Buy to your heart's content!\"{w}",
+  "kind": "msg",
+  "note": "'seriously awesome' matches SCDWMAP:2736 (same iketeru line). Editorial: trailing 'you know?' read oddly; salesman phrasing."
+ },
+ {
+  "en": "\"...Hm? What's that puzzled look for?{w}Expensive? It's only 500,000 GP, you know?\"{w}",
+  "kind": "msg",
+  "note": "da zo? = incredulous: to Costo 500,000 GP is small change (cf. 2744), so 'only' made explicit."
+ },
+ {
+  "en": "\"Hahaha, you pauper! In that case... half price, 250,000 GP will do.{w}Buy it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you still won't buy it? Then how much WILL you pay!?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: question punctuation."
+ },
+ {
+  "en": "By chance, you spot a document left lying carelessly on the counter: something called the Bistel Commerce Guild Price Agreement.{w}{p}Under the entry for the Flamberge, it says 15,000 GP...{w}",
+  "kind": "msg",
+  "note": "Commerce Guild Price Agreement per glossary; 'Bistel' prefixed as in the source."
+ },
+ {
+  "en": "\"Well, fine. If you insist I sell it at this price, I suppose I'll make a special exception and sell it to you...{w}Otherwise Miria will nag me again, after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, my selection is poor?{w}Ah, it is a bit thin, yes.{w}...So, what do you want me to do about it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...???{w}Ah, don't tell me you lot...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you're expecting me to go and build up my stock, you're sorely mistaken!{w}Who'd bother with something that tedious!? Bwahaha!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: '!?' on a flat assertion read as confusion; 'build up my stock' matches 3150."
+ },
+ {
+  "en": "\"Who do you think I am? The Director of the Bistel Administration Bureau -- in other words, a minister! ...Well, for certain reasons I'm running an item shop, but still.\"{w}{p}\"So I am under no obligation to stock arms and armor for your sake, and I have no intention whatsoever of building up my stock through trade either! Not one biiit!\"{w}",
+  "kind": "msg",
+  "note": "kyokuchou = Director (parallel to Magic Bureau Director); daijin = minister. naaai stretched -> 'Not one biiit!' (added tag carries the drawn-out negation)."
+ },
+ {
+  "en": "\"Bwahahahaha! Are you suitably awed!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Well, I do feel a little like stocking all sorts of things for you, but it's dangerous out there right now.\"{w}{p}\"For wound salves and such -- the things the people's lives depend on -- I've worked things out with all the relevant parties so supplies stay secured...{w}Anything beyond that isn't at zero, but there's not much of it.\"{w}",
+  "kind": "msg",
+  "note": "kizugusuri = generic 'wound salves', not an item name here."
+ },
+ {
+  "en": "\"Well, you adventurers take care of everything yourselves, don't you? Works out nicely, then. Bwahahaha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...But, you know, I must say...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Costo leafed through the price agreement.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You people have been living with prices like these?{w}By my standards, it's unthinkable...{w}Hmmm... Well, well...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Pfft. Commoners.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Munch munch... Look at all this bread!{w}Your prices were so amusing that I took a walk around... munch... the castle town.\"{w}{p}\"And then, munch... I found a shop selling bread this delicious for ridiculously cheap!!{w}I couldn't help buying... munch... a whole lot.\"{w}",
+  "kind": "msg",
+  "note": "Source typo soshita na for soshitara; translated as intended."
+ },
+ {
+  "en": "\"I can't eat it all. I got a little carried away...{w}What am I supposed to do... munch...{w}It's tasty... no, it's truly delicious, but...\"{w}{p}\"...Can't be helped, munch... I'll go hand it out to some brats around here.{w}What's with that face? Don't tell me you want some?\"{w}",
+  "kind": "msg",
+  "note": "gaki = 'brats', kept rough."
+ },
+ {
+  "en": "\"You fool! You lot... munch... can earn your own money, so take your wallets and go buy it yourselves.{w}The place is... there, across from the tavern.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Say.{w}Have you lot ever been to Saimar?{w}You know, that place swarming with merchants.\"{w}{p}\"Would you go there and get me a booklet called 'The Saimar Merchant's Companion'?\"{w}{p}\"The thing is, you people... and by that I mean ordinary folk, not adventurers...\"{w}{p}\"I've gotten curious how your economy actually works.{w}I want to use Saimar's methods as a reference.\"{w}",
+  "kind": "msg",
+  "note": "New item name: Saimar shounin no tomo -> 'The Saimar Merchant's Companion' (handbook title; recurs as a [Key Item] in slices 023-024). omae-tachi on page 3 = commoners in general, as Costo clarifies."
+ },
+ {
+  "en": "\"...A reward?{w}Greedy, aren't you. Well, I'll think about it. I'm counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, still struggling with it?{w}Hurry up and bring it! You're not some second-rate bureau clerk...\"{w}",
+  "kind": "msg",
+  "note": "niryuu kyokuin ja arumaishi = 'it's not as if you were a second-rate bureau staffer'; left trailing like the source."
+ },
+ {
+  "en": "\"Oh, you got it! Well done!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"With this, I should have a good clue to how you people live.\"{w}{p}\"Oh yes, your reward, wasn't it? I gave it a lot of thought, and I believe this is best.{w}Don't be shy, take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...My one-million-GP smile~\"{w}",
+  "kind": "msg",
+  "note": "Music note -> '~' per convention."
+ },
+ {
+  "en": "\"No, wait! That was only half a joke!{w}I'll think of something properly, I'll think about it, okay!?\"{w}",
+  "kind": "msg",
+  "note": "'only half a joke' keeps the source's unintended admission that half of it was serious."
+ },
+ {
+  "en": "\"Anyway, I'll be taking this for now.{w}...Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well? Are you managing halfway decent adventures yet?\"{w}{p}\"Not that I can't pretty much tell how you're doing just by watching the stock here build up!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: clunky phrasing smoothed; 'stock build up' matches 3148/3150."
+ },
+ {
+  "en": "\"Wait, Sigret!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't know anything about this Gate of the Underworld or whatever it is, but disturbing the peaceful sleep of the dead like that...! I can't allow it!!\"{w}{p}\"I'm going...!!\"{w}",
+  "kind": "msg",
+  "note": "ikasete moraimasu = firm 'I will be going', against Saines's order to wait. Editorial: 'is or isn't' unidiomatic for da ka nan da ka."
+ },
+ {
+  "en": "Shaking off Saines's words, Sigret ran out of the temple.{w}{p}Whatever she'd heard must have been serious.{w}She didn't even seem to notice you at the entrance.{w}",
+  "kind": "msg",
+  "note": "Sigret is female per glossary. yohodo no hanashi datta no darou ka rendered as narration's guess."
+ },
+ {
+  "en": "\"I should not have told her after all...\"{w}{p}\"There is a bizarre thing called the Gate of the Underworld...{w}It is said that when its door is opened, a great many spirits appear.{w}Most likely they are magical creatures born of some evil will.\"{w}{p}\"A rumor reached us that a ritual to open the Gate of the Underworld is being performed beneath the Madrie Church Cemetery.\"{w}{p}\"I heard it from an adventurer myself, but Sigret pressed me for the details.{w}And I thought I knew what that child is like...\"{w}",
+  "kind": "msg",
+  "note": "ano ko = 'that child' (Saines raised her, cf. 3249)."
+ },
+ {
+  "en": "\"I am sorry to ask such a thing of you, but would you bring Sigret back?\"{w}{p}\"Sigret must have headed down beneath the Madrie Church Cemetery.\"{w}{p}\"I believe you can still catch up. Please, I ask for your help.\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: mukatta hazu = inference (\"she must have headed there\"); \"should have gone\" read as obligation/regret in English."
+ },
+ {
+  "en": "\"Sigret!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bishop Saines...\"{w}",
+  "kind": "msg",
+  "note": "Saines-sama from Sigret rendered 'Bishop Saines' throughout this scene (his title per glossary); 'Master'/'Lord' would misread."
+ },
+ {
+  "en": "\"Welcome back, Sigret.{w}I am so glad you made it back safely.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Saines speaks without contractions (slices 009/012)."
+ },
+ {
+  "en": "\"I saw something terrible.{w}Can that truly be the judgment of the gods...?\"{w}",
+  "kind": "msg",
+  "note": "kami no gohandan: kami is unmarked for number; 'the gods' chosen for a polytheistic setting."
+ },
+ {
+  "en": "\"...You saw inside the Gate of the Underworld?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Gate of the Underworld wasn't what I'd thought -- something that calls the souls of the departed back to this world.\"{w}{p}\"It was a prison of souls, holding the souls of the in-between captive...{w}The Wraith and the old lord who sought to open the Gate of the Underworld were trying to save the souls inside it.\"{w}{p}\"And all I did was watch...\"{w}",
+  "kind": "msg",
+  "note": "rouku (old lord) = Branet per glossary; not named in the source, so left as 'the old lord'. Wraith = the named wraith (glossary). Editorial: avoids 'were trying ... were trying' in one sentence."
+ },
+ {
+  "en": "\"...Simply not looking away from that reality is admirable enough.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bishop Saines, do you know of something called Apasha?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, I have never heard of it.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Saines without contractions."
+ },
+ {
+  "en": "\"The Wraith and the others said that if I truly want to save those souls, I should go after Apasha...\"{w}",
+  "kind": "msg",
+  "note": "reisu-tachi ga ... to: read as the Wraith's group speaking to Sigret (Saines's reply warns against listening to evil spirits). Who 'wants to save souls' is not stated; 'I' (Sigret) inferred. Alt. reading: '...if the Wraiths truly want to save souls, they should pursue Apasha'."
+ },
+ {
+  "en": "\"Sigret. Lending an ear to the words of evil spirits is not a good thing, you know.\"{w}",
+  "kind": "msg",
+  "note": "jarei = evil spirit, as in glossary 'ancient evil spirit'."
+ },
+ {
+  "en": "\"I know that!{w}But it didn't seem like they were trying to deceive me...\"{w}{p}\"That Wraith, too, doesn't seem to be just some king of evil spirits...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bishop Saines. I can't forget what lies on the other side of that door.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"May I go out into the world as an adventurer?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That I can't just leave things as they are... that there might be something I can do... That's how I've been feeling.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You never were one for being kept waiting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Why, even at breakfast, if I am the least bit late, you skip the prayer and, my word, go right ahead and gobble it up...\"{w}",
+  "kind": "msg",
+  "note": "asage = morning meal; mah = Saines's mock-scandalised aside; teasing, confirmed as a joke two rows later. Editorial: Saines without contractions."
+ },
+ {
+  "en": "\"Th-that was... B-Bishop Saines!?\"{w}",
+  "kind": "msg",
+  "note": "Sigret flustered at being teased."
+ },
+ {
+  "en": "\"Heh heh. I am only joking.{w}Leave the temple to me, and go.{w}Follow your heart -- your wish to 'save them'.\"{w}",
+  "kind": "msg",
+  "note": "sukuitai in single quotes for the source's corner brackets; object 'them' (the souls) added for English. Editorial: Saines without contractions; 'and the wish' read as two separate things to follow."
+ },
+ {
+  "en": "\"Bishop Saines, I will never forget the kindness you showed in taking me in when I had no one to turn to.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is your home too.{w}If ever you grow weary of your travels, you can always come back.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'Whenever ... anytime' redundant."
+ },
+ {
+  "en": "\"Thank you... Bishop Saines...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}  * Sigret registered at the Training Hall *  {0F}{w}",
+  "kind": "msg",
+  "note": "System banner; full-width asterisks -> '*', padding kept as in earlier banners."
+ },
+ {
+  "en": "\"Oh yes, that reminds me. This was delivered here for you.\"{w}",
+  "kind": "msg",
+  "note": "Addressed to Sigret; the next rows (slice 012) show the gift is thanks to her, so 'for you' is supported."
+ }
+]

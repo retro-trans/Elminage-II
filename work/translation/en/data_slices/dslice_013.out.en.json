@@ -1,0 +1,359 @@
+[
+ {
+  "en": "Potrif",
+  "max": 8,
+  "note": "Romanized; spirit with a lore record (MON_TEXT 364). New name."
+ },
+ {
+  "en": "Meraden",
+  "max": 10,
+  "note": "Romanized; new name."
+ },
+ {
+  "en": "Wemlicht",
+  "max": 12,
+  "note": "Romanized (German-looking -licht); new name."
+ },
+ {
+  "en": "Shining Tusk",
+  "max": 18,
+  "note": "Katakana tasuku read as 'tusk' (monster-name convention); could be 'Task'."
+ },
+ {
+  "en": "Entropha",
+  "max": 12,
+  "note": "Romanized; new name."
+ },
+ {
+  "en": "Berte",
+  "max": 6
+ },
+ {
+  "en": "Costo",
+  "max": 8
+ },
+ {
+  "en": "Father Saines",
+  "max": 24,
+  "note": "Source title here is shinpu (Father); the script's shikyo is 'Bishop Saines'. Kept faithful; align if the lead prefers one title."
+ },
+ {
+  "en": "Sigret",
+  "max": 10
+ },
+ {
+  "en": "Rosetta",
+  "max": 8
+ },
+ {
+  "en": "Ragnastia",
+  "max": 14
+ },
+ {
+  "en": "Lord Volms",
+  "max": 16,
+  "note": "Glossary; script name box."
+ },
+ {
+  "en": "Rondelgius",
+  "max": 14
+ },
+ {
+  "en": "Lunea",
+  "max": 6
+ },
+ {
+  "en": "Haleorat",
+  "max": 12
+ },
+ {
+  "en": "Armitt",
+  "max": 10
+ },
+ {
+  "en": "Benef",
+  "max": 8
+ },
+ {
+  "en": "Muse",
+  "max": 8
+ },
+ {
+  "en": "Super Benef",
+  "max": 16,
+  "note": "Script name box (slice 021)."
+ },
+ {
+  "en": "Bilente",
+  "max": 8
+ },
+ {
+  "en": "Gary",
+  "max": 8
+ },
+ {
+  "en": "Jeratan",
+  "max": 10,
+  "note": "Hiragana name of the magic puppet; script 'Jeratan'."
+ },
+ {
+  "en": "Jera",
+  "max": 6
+ },
+ {
+  "en": "Tarmeet",
+  "max": 10
+ },
+ {
+  "en": "Garian",
+  "max": 8
+ },
+ {
+  "en": "Tris",
+  "max": 6
+ },
+ {
+  "en": "Caron",
+  "max": 8
+ },
+ {
+  "en": "Namina",
+  "max": 8
+ },
+ {
+  "en": "Quasimon",
+  "max": 10
+ },
+ {
+  "en": "Mersenne",
+  "max": 10,
+  "note": "Bare name in source (no Lord)."
+ },
+ {
+  "en": "Kine",
+  "max": 4
+ },
+ {
+  "en": "Harmoni",
+  "max": 24
+ },
+ {
+  "en": "Warmoni",
+  "max": 24
+ },
+ {
+  "en": "Analis",
+  "max": 8
+ },
+ {
+  "en": "Shantiba",
+  "max": 14,
+  "note": "Romanized; called daimakou (great demon duke) in MON_TEXT 364. New name."
+ },
+ {
+  "en": "Ochimusha",
+  "max": 10,
+  "note": "Nickname of the 'fallen samurai' monster. 'Fallen Samurai' (item ITEM 'Fallen Samurai Armor') is 14 > max 10, so romanized. Name cell 6:32 is in another slice; align."
+ },
+ {
+  "en": "Shadow\r\nSize",
+  "max": 28,
+  "note": "Data-table column label (designer sheet), likely never shown. debug?"
+ },
+ {
+  "en": "Rubenburg 1st-Year",
+  "max": 24,
+  "note": "Student monster; script 'first-years'."
+ },
+ {
+  "en": "Rubenburg 2nd-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year",
+  "max": 24
+ },
+ {
+  "en": "Director Archelon",
+  "max": 22,
+  "note": "Glossary name box."
+ },
+ {
+  "en": "Wind Omsis",
+  "max": 12,
+  "note": "Script form 'Omsis of Wind' (13) exceeds max 12; reordered. Same English used for name and nickname cells."
+ },
+ {
+  "en": "Fire Rades",
+  "max": 12,
+  "note": "Script 'Rades of Fire' (13) > 12; reordered to match the set."
+ },
+ {
+  "en": "Aqua Shirins",
+  "max": 12,
+  "note": "Script 'Shirins of Water' (16); 'Water Shirins' is 13 > 12, so 'Aqua'."
+ },
+ {
+  "en": "Earth Raizas",
+  "max": 12,
+  "note": "Script 'Raizas of Earth' (15) > 12; reordered."
+ },
+ {
+  "en": "Miyuki",
+  "max": 6
+ },
+ {
+  "en": "Goblin Prince",
+  "max": 16
+ },
+ {
+  "en": "Saines",
+  "max": 8
+ },
+ {
+  "en": "Leafa",
+  "max": 8
+ },
+ {
+  "en": "Prof. Harmoni",
+  "max": 16,
+  "note": "Glossary 'Professor Harmoni' is 17 > max 16; abbreviated."
+ },
+ {
+  "en": "Prof. Warmoni",
+  "max": 16,
+  "note": "Glossary 'Professor Warmoni' is 17 > max 16; abbreviated."
+ },
+ {
+  "en": "Mirco Lenzer",
+  "max": 16,
+  "note": "Full-width = separator dropped, as in slice 003."
+ },
+ {
+  "en": "Gurtia",
+  "max": 10
+ },
+ {
+  "en": "Hess",
+  "max": 4
+ },
+ {
+  "en": "Zephal",
+  "max": 8
+ },
+ {
+  "en": "Elpina",
+  "max": 10
+ },
+ {
+  "en": "Zapper",
+  "max": 8
+ },
+ {
+  "en": "Raizam-1",
+  "max": 14,
+  "note": "Full-width minus/one kept as -1 (variant id)."
+ },
+ {
+  "en": "Shadow of Ildraha",
+  "max": 18,
+  "note": "Nickname of the Divine Shadow of the life-creation god. Ildraha is a new name (romanized)."
+ },
+ {
+  "en": "Shadow of Ashtel",
+  "max": 18,
+  "note": "Ashtel as in slice 031."
+ },
+ {
+  "en": "Shadow of Rogera",
+  "max": 16
+ },
+ {
+  "en": "Shadow of Void",
+  "max": 14
+ },
+ {
+  "en": "Shadow of Naru",
+  "max": 14
+ },
+ {
+  "en": "Shadow of Dehain",
+  "max": 18
+ },
+ {
+  "en": "Memory of Orses",
+  "max": 16,
+  "note": "Source says kioku (memory), not kage, for this second group; kept."
+ },
+ {
+  "en": "Memory of Sarijana",
+  "max": 18
+ },
+ {
+  "en": "Memory of Semnadoc",
+  "max": 18
+ },
+ {
+  "en": "Memory of Sinhanicol",
+  "max": 20
+ },
+ {
+  "en": "Director Archelon",
+  "max": 22,
+  "note": "Kana nickname of the same title; same English as the name."
+ },
+ {
+  "en": "New Land Urnas Rade",
+  "max": 22,
+  "note": "Kana nickname reads 'New Land Urna' (cut to fit the Japanese budget); English gives the full name of 6:28 as in the script ('The New Land, Urnas Rade'), which fits max 22."
+ },
+ {
+  "en": "Wind Omsis",
+  "max": 14,
+  "note": "Same as name cell 6:33."
+ },
+ {
+  "en": "Fire Rades",
+  "max": 12,
+  "note": "Same as name cell 6:34."
+ },
+ {
+  "en": "Aqua Shirins",
+  "max": 14,
+  "note": "Same as name cell 6:35."
+ },
+ {
+  "en": "Earth Raizas",
+  "max": 14,
+  "note": "Same as name cell 6:36."
+ },
+ {
+  "en": "Wisdom Demon Beldoll",
+  "max": 22,
+  "note": "Script 'Beldoll, the Demon of Wisdom' (slice 023) is too long for 22."
+ },
+ {
+  "en": "Gregorio the Only Son",
+  "max": 24
+ },
+ {
+  "en": "Old Lord Branet",
+  "max": 18,
+  "note": "Glossary."
+ },
+ {
+  "en": "Spirit Lord Branet",
+  "max": 18,
+  "note": "reikun: spirit (rei) + lord (kun), pun on roukun. Exactly 18."
+ },
+ {
+  "en": "Spirit Lady Eril",
+  "max": 16,
+  "note": "reijou: pun on 'young lady' with rei = spirit. Exactly 16."
+ },
+ {
+  "en": "Nether Gate",
+  "max": 14,
+  "note": "Glossary/script 'Gate of the Underworld' (22) and 'Underworld Gate' (15) exceed max 14."
+ }
+]

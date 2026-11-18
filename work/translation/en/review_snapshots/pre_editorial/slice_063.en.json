@@ -1,0 +1,343 @@
+[
+ {
+  "en": "Just as you were about to give up, you found a second, smaller stone tablet.{w}It's pretty shabby compared with the first one.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Your promise to Urna.{w}The Yuan Wine.{w}The wishes of those who lived long, long ago.{w}{p}What can you, who live in the present, do?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Carve Mother Earth's name.",
+  "kind": "data",
+  "note": "Prompt for the name entry (cf. 2657 'carve Urna's name'). 'Mother Earth' as in slice 039 for the same phrase."
+ },
+ {
+  "en": "Touch the stone tablet",
+  "kind": "data"
+ },
+ {
+  "en": "Touch the small stone tablet",
+  "kind": "data"
+ },
+ {
+  "en": "You left the stone tablet alone.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elf's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"This land, though it has no name, is a land filled with pure and beautiful hearts.\"{w}{p}\"We, the people of Urna, facing our destruction tomorrow, are reveling in one last feast.\"{w}{p}\"We leave today's words here,{w}to be handed down to the generations to come,{w}and our great Earth Mother's...\"{w}",
+  "kind": "msg",
+  "note": "Final clause is cut off by the Human's Voice; rendered as a trailing fragment. | Accuracy: 'so that' added a purpose clause absent from the source (a chain of continuative verbs); changed to 'and'."
+ },
+ {
+  "en": "Human's Voice",
+  "kind": "name",
+  "note": "New name box, patterned on glossary 'Elf's Voice'."
+ },
+ {
+  "en": "\"Oh?{w}Is that the thing you were talking about the other day, the one that records voices? You finished it!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Isfald",
+  "kind": "name"
+ },
+ {
+  "en": "\"Indeed. At this very moment, I am giving the greeting on everyone's behalf.{w}Ahem. ...O our descendants, who live in the ages to come!{w}My name is Isfal... What is it, Kubet!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Kubet",
+  "kind": "name"
+ },
+ {
+  "en": "\"Whoa, awesome! Elves are sooo awesome!{w}Everybody, come look! Isfald's doing something fun!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Domanaya",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, no fair, keeping it all to yourself!{w}I'm the Queen of the Ogres!{w}I'm Domanayaaaa-hoooo!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Euratia",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hiii, this is Euratia.{w}Hey, humans, you haven't gone extinct, have you?{w}Just kiddiiing! I got my voice in there~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mundamis",
+  "kind": "name"
+ },
+ {
+  "en": "\"Say Semnadoc is great!{w}Say 'Semnadoc is great' ten times!!{w}And the next greatest is this here Mundamis...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up, all of you!!{w}We've only got so much recording time!{w}It'd be a waste, wouldn't it? Huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then just set out more of 'em!\"{w}",
+  "kind": "msg",
+  "note": "Kubet suggests setting out more recording devices; Isfald's reply (2689: can only make one or two) settles it."
+ },
+ {
+  "en": "\"We're short on Vectraim right now, so we can only make one or two -- how many times do I have to tell you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Some Old Geezer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, Granny, the Elf King's up to somethin'!{w}Looks like fun!\"{w}",
+  "kind": "msg",
+  "note": "'The Elf King' = source title for Isfald ([JP]). Glossary keeps Isfald's gender unknown; 'King' is the source word, not inferred from the name."
+ },
+ {
+  "en": "\"Now, now, don't get mad. You can just record it again, can't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's one take only! It's already getting all of this down, y'know!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't be so uptight. It'll last till about tomorrow morning, won't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It won't last anywhere near that long!{w}Look, this is all that's left!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That short!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now that's a problem!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Elves are useless...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You bastaaard!{w}You dare insult the magical research of us elves!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Some Baby",
+  "kind": "name"
+ },
+ {
+  "en": "\"Waaaaaaaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Some Mama",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh my, oh my, what's wrong, sweetie?{w}Come on, let's go beddy-bye over here. There, there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Granny!{w}Them taters can wait -- hurry, hurry!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Forget it -- can you hear me!?{w}O our descendants, who live in the ages to come! I am...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I, Mundamis, am the one whooo!{w}took up the great Semnadoc's teachings and whatnot, and set 'em down in books and whatnot!\"{w}",
+  "kind": "msg",
+  "note": "Source uses the playful listing form (-no, -no); rendered with 'and whatnot'."
+ },
+ {
+  "en": "\"I told you to shut up!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, honestly, what's gotten into this child!?{w}Ooh, there, there. Everyone, I'm so sorr--\"{w}",
+  "kind": "msg",
+  "note": "Source breaks off mid-word (sumimase); kept cut."
+ },
+ {
+  "en": "\"Ohh, honored Four Sages!!{w}Perfect timing -- please shut these people up for me!\"{w}",
+  "kind": "msg",
+  "note": "Isfald addresses the Four Sages, who arrive and speak one after another; read as plural."
+ },
+ {
+  "en": "\"Radrecht heeeeere!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Some Old Hag",
+  "kind": "name"
+ },
+ {
+  "en": "\"Tater-washin' Old Hag heeeeere!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "'E-Euratia's, like,{w}so pretty, and so nice, and sooo cute, y'know.{w}I'm totally falling head over heels, man~'{w}",
+  "kind": "msg",
+  "note": "Source uses the double-bracket quote: Euratia fakes a male voice (Kubet, 2733). Kept single quotes per brief. | Accuracy: removed 'her': Euratia's gender is unknown in the glossary (the source has no object for horechau)."
+ },
+ {
+  "en": "\"Geez, you... what're you doing, sneaking that in during all the chaos? You even changed your voice...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm cute too!{w}I'm a pretty young girl with cute muscles! Ooh-hnnngh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, so it keeps our voices, does it?{w}La~ la~ la~~ The tentacles dance~~{w}And as they dance, the Elf King~~\"{w}",
+  "kind": "msg",
+  "note": "Song lines; the last line is an unfinished object ('the Elf King ...'), kept as a fragment. Note sign -> '~'."
+ },
+ {
+  "en": "\"My words to posterity...!?{w}Wh-- Lady Shirinmorin, not there!{w}D-don't touch... Hii... Ahh!!\"{w}",
+  "kind": "msg",
+  "note": "Shirinmorin is female in the glossary, so 'Lady' kept for sama."
+ },
+ {
+  "en": "\"Now, you lot, stop getting in the way and...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, there, there...{w}there, there...{w}Ahh, enough already! {11:0001:0002}!!\"{w}",
+  "kind": "msg",
+  "note": "{11:0001:0002} is a runtime insert, probably a spell name; the next rows show Isfald falling asleep (a sleep spell)."
+ },
+ {
+  "en": "\"To posterity... pos... zzz... zzz...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, Isfald, Your Majesty!?{w}Do pardon me! Ohohohohoho!!\"{w}",
+  "kind": "msg",
+  "note": "Isfald-sama: no gendered honorific (glossary gender unknown); 'Your Majesty' used since he is called the Elf King. | Accuracy: Isfald's gender stays unknown (glossary); 'Your Majesty' rests on the title Elf King, not on gender."
+ },
+ {
+  "en": "\"And I'm her husband, the Old Geezer, heeeeere!!{w}...Will that do? Is my voice gettin' recorded!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mogu wants to say something too, mogu! Um, um...\"{w}",
+  "kind": "msg",
+  "note": "Raizam refers to themself as 'Mogu' here (Domanaya replies 'Mogu-sama'). No pronouns."
+ },
+ {
+  "en": "\"Oh my, my, dear Mogu! What a cute little nose you've got!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mogeeeee!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm amaaazing!{w}I'm greaaat!{w}Himuuuuun!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-Isfald, Your Majesty! Please wake up!{w}There's no time left!!\"{w}",
+  "kind": "msg",
+  "note": "Same honorific choice as 2749."
+ },
+ {
+  "en": "\"Wha-at... I'm sleepyyy. Me... crunchy bread crusts... Huh!?\"{w}",
+  "kind": "msg",
+  "note": "Sleep-talk fragment kept fragmentary (childish boku = 'Me')."
+ },
+ {
+  "en": "\"Ummm, my specialty is bitter melon marinade!{w}I'm surprisingly domestic, y'know~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We all made the Yuan Wine together!{w}And Lady Urna said it was delicious!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How could this happeeen!{w}There's no time left...{w}Ah... Whoa-whoaaaa~!?\"{w}",
+  "kind": "msg",
+  "note": "Final cry (ara-aaa~) rendered as a startled 'Whoa'; the script does not show what startles Isfald (Urna speaks next)."
+ },
+ {
+  "en": "\"Hahaha, you guys are the best!{w}It's fine, forget it. It's our last night -- let's just let loose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Riiight! I love you, Lady Urna~~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"B-but!{w}Depending on how things turn out, these could end up being our last words, you know!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're way too stiff!{w}...Why not just tell them the truth: that we all had fun and were happy, right up to the end?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Lady Urna!{w}If our voices are going in anyway, why don't we sing that one?{w}Let's pass that song on to our descendants!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh! Great idea!{w}So... are there any instruments left?{w}Ah, that one, that one! Bring it here~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I shall take the Healing Tuning Fork.\"{w}",
+  "kind": "msg",
+  "note": "Item name ITEM.CSV 314 (new name)."
+ },
+ {
+  "en": "\"I'll do the maracas!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll take the Earthsplit Drum!\"{w}",
+  "kind": "msg",
+  "note": "Item name ITEM.CSV 312 (Elm3 name). 2795's 'split' joke refers to it. | Accuracy: item name aligned with ITEM.CSV 312 / ITEM_HELP / ITEM_TEXT ('Earthsplit Drum', Elm3)."
+ },
+ {
+  "en": "\"Hey, Domanaya!{w}You're not supposed to split anything, are you!? Right, Lady Urna?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry!{w}Then I'll do maracas too!!{w}I'll shake 'em with all my might! Hnngaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll take the Kagura Bells!\"{w}",
+  "kind": "msg",
+  "note": "Item name ITEM.CSV 309 (new name)."
+ },
+ {
+  "en": "\"You're ALL on percussion!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well...{w}the time for you to teach us about instruments... we never...\"{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off (no time left before the destruction); kept unfinished."
+ },
+ {
+  "en": "\"...Euratia.\"{w}",
+  "kind": "msg"
+ }
+]

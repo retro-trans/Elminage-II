@@ -1,0 +1,391 @@
+[
+ {
+  "en": "Rarity",
+  "max": 10,
+  "note": "Header row label."
+ },
+ {
+  "en": "Attack Sound Effect",
+  "max": 54,
+  "note": "Header row label for col 202."
+ },
+ {
+  "en": "12345678901234567890",
+  "max": 20,
+  "note": "debug? Width ruler row. Source is 10 full-width digits = 20 bytes; 20 ASCII digits mark the same 20-byte slot."
+ },
+ {
+  "en": "Slash",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Slamming sound",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Dagger",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Partisan",
+  "max": 20
+ },
+ {
+  "en": "Hammer",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Club",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Sound of shattering glass",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "A sharp 'thunk!', like a blowdart striking",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Shpaan! (a crisp, supple whip crack)",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Weapon",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT. Source is hiragana 'buki' (misc. weapons, also enemy natural weapons)."
+ },
+ {
+  "en": "Whirrrr of a boomerang in flight",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "The Changelings",
+  "max": 20,
+  "note": "Torikaebaya Monogatari, the classical Japanese tale of a brother and sister raised as each other's sex; 'The Changelings' is its published English title. Alternative if a romanized title is preferred: 'Torikaebaya Tale' (16)."
+ },
+ {
+  "en": "Great Hestrio Hist.",
+  "max": 20,
+  "note": "Script and glossary form 'Great History of Hestrio' is 24 chars (max 20); abbreviated like 'Encyc. of All Things'."
+ },
+ {
+  "en": "Sallet",
+  "max": 20
+ },
+ {
+  "en": "Hat",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Aerivider Meat",
+  "max": 20,
+  "note": "Glossary/script spelling Aerivider (slice 021). The monster tables (MONRAW/MONSTER1/MON_TEXT) currently read 'Airy Vider'."
+ },
+ {
+  "en": "Cloak",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Belt",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Blue Cloak",
+  "max": 20
+ },
+ {
+  "en": "Tonafel Tail",
+  "max": 20,
+  "note": "Monster name Tonafel from MONRAW/MON_TEXT."
+ },
+ {
+  "en": "Amulet",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Enchanting Rolfan",
+  "max": 20,
+  "note": "Rolfan (glossary). 'Enchanting' follows 'Enchanting Lute' for the same Japanese word; 'flower' dropped for length (full: 'Rolfan, the Enchanting Flower')."
+ },
+ {
+  "en": "Holy Ember",
+  "max": 20,
+  "note": "Glossary / script slice 019."
+ },
+ {
+  "en": "Carbuncle Jewel",
+  "max": 20,
+  "note": "Monster name Carbuncle (MONRAW)."
+ },
+ {
+  "en": "Phoenix Down",
+  "max": 20,
+  "note": "Literal: phoenix down feathers (description: used in rich people's pillows and futons)."
+ },
+ {
+  "en": "Emperor Bird Egg",
+  "max": 20,
+  "note": "Emperor Bird (glossary)."
+ },
+ {
+  "en": "Ring",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Jade Ring",
+  "max": 20
+ },
+ {
+  "en": "Ankh",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Scroll",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Scroll of Sleep",
+  "max": 20,
+  "note": "Scroll series uses 'Scroll of X' (all fit in 20)."
+ },
+ {
+  "en": "Scroll of Light",
+  "max": 20
+ },
+ {
+  "en": "Erod: Light",
+  "max": 54,
+  "note": "Spell the scroll casts (col 202 reused); spell name from SPELL.CSV."
+ },
+ {
+  "en": "Scroll of Exorcism",
+  "max": 20,
+  "note": "Same word as the Exorcism Talisman."
+ },
+ {
+  "en": "Scroll of Floating",
+  "max": 20,
+  "note": "Casts Sosareo (party floats)."
+ },
+ {
+  "en": "Sosareo: Party floats",
+  "max": 54,
+  "note": "Spell the scroll casts; spell name from SPELL.CSV."
+ },
+ {
+  "en": "Scroll of Escape",
+  "max": 20
+ },
+ {
+  "en": "Mahamaha: Escape",
+  "max": 54,
+  "note": "Spell the scroll casts; spell name from SPELL.CSV."
+ },
+ {
+  "en": "Scroll of Firebreath",
+  "max": 20,
+  "note": "Breath attack (fire unless the user has another breath element)."
+ },
+ {
+  "en": "Pomedoon: Breath magic",
+  "max": 54,
+  "note": "Spell the scroll casts; spell name from SPELL.CSV."
+ },
+ {
+  "en": "Scroll of Long Range",
+  "max": 20,
+  "note": "Grants Inf Range."
+ },
+ {
+  "en": "Yuniwa Coat: Inf Range",
+  "max": 54,
+  "note": "Source has the infinity sign; 'Inf Range' is the established status name (ITEM_HELP/SPELL_TEXT)."
+ },
+ {
+  "en": "Scroll of Iron Wall",
+  "max": 20,
+  "note": "Casts Robukand (one ally's AC to -20)."
+ },
+ {
+  "en": "Robukand: VL",
+  "max": 54,
+  "note": "VL kept as in the source (full-width VL): read as the 'very low' AC display; Robukand sets one ally's AC to -20."
+ },
+ {
+  "en": "Scroll of Evil Ward",
+  "max": 20,
+  "note": "Casts Psi Drain (barrier against one drain attack)."
+ },
+ {
+  "en": "Scroll of Windbreak",
+  "max": 20,
+  "note": "Casts Psi Breath (barrier against one breath attack)."
+ },
+ {
+  "en": "Instrument",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Misama: Sleep 1",
+  "max": 24,
+  "note": "Spell the instrument casts (col 203); spell name from SPELL.CSV."
+ },
+ {
+  "en": "Robuti: Weaken Defense",
+  "max": 24,
+  "note": "Raises one enemy's AC."
+ },
+ {
+  "en": "Bells jingling: shan, shan, shan...",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Harias: Holy Weapons",
+  "max": 24,
+  "note": "Holy element on weapons."
+ },
+ {
+  "en": "Pinto: Charm 1",
+  "max": 24
+ },
+ {
+  "en": "Bifei: Draw Attacks",
+  "max": 24,
+  "note": "Source 'concentrate': draws enemy attacks onto one ally (SPELL_TEXT)."
+ },
+ {
+  "en": "Argeiss: Fissure",
+  "max": 24
+ },
+ {
+  "en": "Ramialf: Clear Effects",
+  "max": 24,
+  "note": "Clears added effects (stat changes made in battle)."
+ },
+ {
+  "en": "Mirror Eyes: Party Cure",
+  "max": 24,
+  "note": "Source 'all members, light recovery' (cures minor ailments for all allies); 'light' dropped for the 24-byte slot."
+ },
+ {
+  "en": "Fierce plinking strum, then energy implodes & bursts",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Ziakalad: Lightning 1",
+  "max": 24
+ },
+ {
+  "en": "Tarot Card",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Alchemy Material",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT. Col 5 uses the shorter ?Material."
+ },
+ {
+  "en": "Other",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Alchemy Item",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "A rising whine (vweeeen) of energy charging up",
+  "max": 54,
+  "note": "Dev note in the attack-sound column (ITEM.CSV col 202); probably never shown in game."
+ },
+ {
+  "en": "Mystic Item",
+  "max": 16,
+  "note": "Item-type label in the data-entry helper column (col 2); matches the established unidentified name ?X in col 5 / EBOOT."
+ },
+ {
+  "en": "Counting Snow",
+  "max": 20,
+  "note": "Script slice 047 form."
+ },
+ {
+  "en": "C. Snow: First Frost",
+  "max": 20,
+  "note": "Full form 'Counting Snow: First Frost' (script slice 047) is 26 chars; max 20."
+ },
+ {
+  "en": "Chaff",
+  "max": 20,
+  "note": "Hanafuda chaff card (kasu, also 'trash'); serves both the katana (425) and the tarot card (496). Translated per the hanafuda convention; script slice 026 still romanizes (Kasu)."
+ },
+ {
+  "en": "Fair Yoshino",
+  "max": 20,
+  "note": "Hanafuda poetry ribbon 'mi-yoshino' (praise of Yoshino); sword 426 and tarot 497. Script slice 026 still romanizes (Miyoshino)."
+ },
+ {
+  "en": "Clearly Splendid",
+  "max": 20,
+  "note": "Hanafuda poetry ribbon 'akayoroshi', glossed by ITEM_TEXT as 'clearly good'; sword 427 and tarot 498. Script slice 026 still romanizes (Akayoroshi)."
+ },
+ {
+  "en": "Boar-Deer-Butterfly",
+  "max": 20,
+  "note": "Glossary."
+ },
+ {
+  "en": "Front Sugawara",
+  "max": 20,
+  "note": "Hanafuda hand Omote-Sugawara (plum-warbler, pine-crane, cherry-curtain; named for the play Sugawara). Script slice 026 still romanizes (Omote-Sugawara)."
+ },
+ {
+  "en": "Five Lights",
+  "max": 20,
+  "note": "Glossary; matches Rainy Four Lights. Script slice 027 has 'Five Brights'."
+ },
+ {
+  "en": "Belfana",
+  "max": 20,
+  "note": "Script slice 042 spelling (Mistress's mace)."
+ },
+ {
+  "en": "Caron Rod",
+  "max": 20,
+  "note": "Caron (glossary)."
+ },
+ {
+  "en": "Raizam's Whiskers",
+  "max": 20,
+  "note": "Raizam (glossary) is a giant mole; whiskers rather than beard."
+ },
+ {
+  "en": "Caron Hat",
+  "max": 20
+ },
+ {
+  "en": "Caron Vest",
+  "max": 20
+ }
+]

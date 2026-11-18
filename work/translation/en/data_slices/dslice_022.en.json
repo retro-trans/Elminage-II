@@ -1,0 +1,97 @@
+[
+ {
+  "en": "Choose the icon to use.",
+  "max": null,
+  "note": "Icon picker prompt; pairs with \"Class Icons\" / \"Face Icons\"."
+ },
+ {
+  "en": "Face Icons",
+  "max": null,
+  "note": "Icon set tab next to \"Class Icons\" (eb@08954120)."
+ },
+ {
+  "en": "? ? ? ? ? ?",
+  "max": null,
+  "note": "Unknown/hidden value shown as full-width ? marks; rendered as ASCII ? with single spaces (11 chars vs 12 columns). Shop/menu family (Nothing for sale, Yes, --)."
+ },
+ {
+  "en": "Installing data...\nDo not remove the Memory Stick.",
+  "max": null,
+  "note": "Memory Stick trademark glyph dropped, as in the existing save messages."
+ },
+ {
+  "en": "Please check the UMD.",
+  "max": null,
+  "note": "Quote marks around UMD dropped (trademark styling in the Japanese)."
+ },
+ {
+  "en": "The Memory Stick was removed.\nPlease reinsert the Memory Stick.",
+  "max": null
+ },
+ {
+  "en": "Failed to read data.\nPlease check the UMD.",
+  "max": null
+ },
+ {
+  "en": "Failed to write data.\nCheck the Memory Stick and reinsert it.",
+  "max": null
+ },
+ {
+  "en": "Not enough free space in internal memory.",
+  "max": null,
+  "note": "PSP internal storage (PSP Go)."
+ },
+ {
+  "en": "The Memory Stick is write-protected.",
+  "max": null,
+  "note": "Same wording as eb@08962944."
+ },
+ {
+  "en": "Data installed successfully.",
+  "max": null
+ },
+ {
+  "en": "Data install failed.\n%s",
+  "max": null,
+  "note": "%s = error detail line (one of the messages above)."
+ },
+ {
+  "en": "Preparing to install data...",
+  "max": null
+ },
+ {
+  "en": "Per use: %6d GP",
+  "max": null,
+  "note": "Alchemy Storage fee line; GP per review_notes convention."
+ },
+ {
+  "en": "No stats increased.",
+  "max": null,
+  "note": "Level-up result when no stat rose (follows \"HP increased by %4d\")."
+ },
+ {
+  "en": "Start the game without installing?",
+  "max": null,
+  "note": "Japanese is \"start the game as it is?\"; read as continuing without the data install (install-data family). If it also shows elsewhere, \"Start the game as is?\" is the safe fallback."
+ },
+ {
+  "en": " 1.Battle Test",
+  "max": null,
+  "note": "debug? Debug menu item; leading space kept."
+ },
+ {
+  "en": " 4.Sound Test",
+  "max": null,
+  "note": "debug? Debug menu item; leading space kept."
+ },
+ {
+  "en": " 5.New Game (Auto-load On)",
+  "max": null,
+  "note": "debug? Debug menu item: start from the beginning, with autoload; leading space kept."
+ },
+ {
+  "en": " 6.Battle Test 2",
+  "max": null,
+  "note": "debug? Debug menu item; leading space kept."
+ }
+]

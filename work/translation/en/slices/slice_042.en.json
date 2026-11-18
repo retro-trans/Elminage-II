@@ -1,0 +1,354 @@
+[
+ {
+  "en": "\"I-it went in...?{w}YEEEAAAHHH!!\"{w}{p}\"Lucky punks, I'll let you off today!!{w}See ya, so long!!\"{w}",
+  "kind": "msg",
+  "note": "The doll is the golfer and the party is the \"ball\" (3228/3074 pun), so it cheers its own birdie putt sinking, then lets the party go. yatsu me read as the party (plural). Editorial: dropped the added \"HELL YEAH\" (one stretched shout in the source)."
+ },
+ {
+  "en": "The clown doll crumpled to the floor as if it had never moved at all, and didn't so much as twitch.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"as if its moving had been a lie\" smoothed (idiom); lowercase \"clown doll\" in narration as in slice 041 (3062/3064)."
+ },
+ {
+  "en": "As you walked through the bunker, a sudden dizziness came over you.{w}But sand or no sand, this was no desert -- there was no reason for you to feel dizzy.{w}{p}Looking around, you saw that the scenery looked warped.{w}That dizziness just now had come from stepping into a distortion in space!{w}{p}You knew you had to get out fast, but inside the warped space you couldn't move the way you wanted.{w}Before long, the one who had created the distortion appeared.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"saw the scenery warped\" was ambiguous."
+ },
+ {
+  "en": "It didn't seem to have much power, but its seasoned bearing was more than enough to fill a foe with dread.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed the Outer Demon.{w}",
+  "kind": "msg",
+  "note": "Outer Demon = new name (monster, not in glossary)."
+ },
+ {
+  "en": "Then the distortion around the Outer Demon grew violent and carried it off to a land infinitely far away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you stood there dumbfounded, you spotted the clown doll over by the green, looking for you...{w}",
+  "kind": "msg",
+  "note": "Editorial: lowercase in narration as in slice 041."
+ },
+ {
+  "en": "That's right -- you were still in the middle of a round of golf!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A beastfolk girl is sadly digging at the ground with a knife.{w}{p}When she noticed you, she tottered toward you, as if to cling to you for help.{w}",
+  "kind": "msg",
+  "note": "Glossary title Beastfolk Girl; lowercase in narration. Editorial: page 2 is an event: past tense (scene state present, events past, as 041 3062/3064); \"as if clinging\" while walking was illogical."
+ },
+ {
+  "en": "Beastfolk Girl",
+  "kind": "name"
+ },
+ {
+  "en": "\"Um, I... I have a grandma who's sick...\"{w}{p}\"She could go any day now...{w}*sob*... And to save her...{w}the doctor said the only way is to play golf...\"{w}",
+  "kind": "msg",
+  "note": "sensei read as the doctor treating the grandmother."
+ },
+ {
+  "en": "\"Will you please golf with me?\"",
+  "kind": "data",
+  "note": "Yes/no prompt; kept near 30 chars."
+ },
+ {
+  "en": "The beastfolk girl muttered a small \"Tch,\" and went back to digging at the ground.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"BOOOO!{w}It was meeee all alooong~~~!!\"{w}{p}\"From here on, I make the rules.{w}And you can't go against me, got it?\"{w}{p}\"Oh, right, right. I forgot to tell you!{w}The 'balls' are you lot!{w}Gyahahahahahaha!!\"{w}{p}\"Now, aim for the goal in the south center!{w}First, your opening shot!\"{w}",
+  "kind": "msg",
+  "note": "The beastfolk girl was the Clown Doll in disguise. Pages 2-4 repeat SCD07:3074 (slice 041) word for word in the source; align the two renderings. tama = ball, with a crude double meaning; \"balls\" keeps both. Editorial: pages 2-4 now use the English of SCD07:3074 (slice 041) verbatim, same Japanese; keep the two in sync. | lead: page 2 re-synced with 041:3074 after its editorial pass."
+ },
+ {
+  "en": "Sentry",
+  "kind": "name"
+ },
+ {
+  "en": "\"You want to go up to the next floor?{w}Heh heh heh. If we press the switch at the back, the gate opens and you can pass.\"{w}{p}\"But you see, lately...{w}our pockets have been feeling a bit empty... you know?\"{w}{p}\"You came here to play with a pile of money, didn't you?{w}In that case... how about sparing a little something for us... eh!!\"{w}",
+  "kind": "msg",
+  "note": "Whose pockets is unstated; \"our\" follows watashitachi / watakushidomo in the same speech."
+ },
+ {
+  "en": "\"I-I'm so sorry!{w}P-p-please, just spare my liiife!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The sentry ran away.{w}",
+  "kind": "msg",
+  "note": "Glossary title Sentry; lowercase in narration."
+ },
+ {
+  "en": "Organizer",
+  "kind": "name"
+ },
+ {
+  "en": "\"There's an arena over here, too!\"{w}{p}\"Just how far will your strength get you against Professor Rombino?{w}Anyone who wants in, step up one at a time!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will you enter?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Hahaha, they're scared!{w}Scared of Professor Rombino's adorable little looooks!!\"{w}",
+  "kind": "msg",
+  "note": "Third-person mockery of the party (bibitte yagaru), likely played to the onlookers."
+ },
+ {
+  "en": "\"And by the way, these are the winners from last time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, go on in, one at a time!!{w}Give it all you've got -- GO!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, you're pretty damn good!{w}You won -- you're the champ, the CHAMP!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fuhahahaha!\nThat's nowhere near good enough!\"{w}{p}\"Don't you go underestimating Professor Rombino!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come back and play again sometime!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you were about to leave, Professor Rombino was chewing away right in front of you.{w}{p}Something stick-shaped was poking out of the professor's mouth.{w}",
+  "kind": "msg",
+  "note": "Rombino's gender is unknown; name repeated instead of a pronoun. Editorial: avoids repeating the full name in consecutive sentences (still no pronoun)."
+ },
+ {
+  "en": "Prof. Rombino",
+  "kind": "name",
+  "note": "Glossary note: name box \"Prof. Rombino\" (Elm3)."
+ },
+ {
+  "en": "\"Gyuuu\"{w}",
+  "kind": "msg",
+  "note": "Creature noise (gyuu, a squeeze/squeal); romanized, meaning unclear without the choice that leads here."
+ },
+ {
+  "en": "\"Buuu\"{w}",
+  "kind": "msg",
+  "note": "Creature noise (buu, a pouting boo); romanized. Leads to Rombino leaving."
+ },
+ {
+  "en": "Professor Rombino went away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guri-guri-guri-guri-guri-guri...\"{w}",
+  "kind": "msg",
+  "note": "guri-guri = grinding/nuzzling sound; romanized."
+ },
+ {
+  "en": "Professor Rombino went away, looking displeased.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Arena Manager",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, well, a walk-in challenger?\"{w}{p}\"This arena welcomes walk-in entrants with open arms!{w}The winner's prize is 400,000 GP!{w}Why not join in and earn yourself a little pocket money?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear? Now's not a good time?{w}I see. Well, come back again sometime! I'll be waiting!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then let's have the name of your representative.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Who will give their name?",
+  "kind": "op093"
+ },
+ {
+  "en": "\"{0A:0003:001C}, is it?{w}Right, got it.\"{w}{p}\"Enemies will come out five times, and if you beat every last one of them, you win.{w}Simple, right?\"{w}{p}\"Only, Heerdahl has a rule, you see.{w}By 'beat'... I mean kill. You understand, right?\"{w}{p}\"Don't go telling me you're scared now, okay?{w}There's a big crowd waiting!{w}HEEEEE-HEE-HEE-HEE!!\"{w}{p}\"If you're lucky enough to catch Mistress's eye, even more prizes await you!{w}Now, fight like your life depends on it!!\"{w}{p}\"And now, Round 1... BEGIN!!\"{w}",
+  "kind": "msg",
+  "note": "Source writes shouhin (goods) for shouhin (prize); read as \"prizes\". {0A} = the representative's name."
+ },
+ {
+  "en": "\"That's the match!{w}The winner: {0A:0003:001C}!\"{w}{p}\"Well, if you didn't win at least once, you couldn't even die in peace, could you?{w}Hee hee hee!!\"{w}{p}\"Next up, Round 2... BEGIN!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the match!{w}The winner: {0A:0003:001C}!{w}You sure are hard to kill!\"{w}{p}\"Want to survive that badly, do you?{w}Living a long life won't bring you a single good thing!{w}Hee hee hee!\"{w}{p}\"Next up, Round 3... BEGIN!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the match!{w}The winner: {0A:0003:001C}!{w}...You lot, it's about time you read the room, okay?\"{w}{p}\"This arena has no use for heroes who keep on winning.{w}What we want to see is how people die! Hee hee hee!\"{w}{p}\"Next up, Round 4... BEGIN!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the match!{w}The winner: {0A:0003:001C}!{w}...Just hurry up and croak already.\"{w}{p}\"Next up, Round 5... BEGIN!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the match!{w}The champion: {0A:0003:001C}!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At once, disgruntled voices erupted from the stands!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, ladies and gentlemen! My deepest apologies!!{w}These things do happen, I suppose.{w}Rules are rules, so we will hand over the prize money.\"{w}{p}\"...However.{w}They have not yet paid their entry fee.\"{w}{p}\"Walk-ins are welcome... but...{w}we never said entry was free.{w}The entry fee is... 399,500 GP!!\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the audience (minasama)."
+ },
+ {
+  "en": "Cheers and laughter rang out from the stands!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And so, the winner's prize is yours.{w}Here you are...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, we'll collect that entry fee.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That leaves you with 500 GP!{w}Go eat something tasty with it on your way home!!{w}HEEEE-HEE-HEE-HEE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the match!{w}The winner: {0A:0003:001C}!{w}...Just hurry up and croak already.\"{w}{p}\"Next up, Round 5... Hm?{w}Hey, what's the holdup? Where's the next opponent!?{w}The audience is waiting!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems the next contestant doesn't want to fight.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Geez, you lot kept winning, and now your opponent's lost their nerve.{w}Tch!!\"{w}",
+  "kind": "msg",
+  "note": "Opponent is Gregorio, but not yet revealed; \"their\" kept."
+ },
+ {
+  "en": "\"Don't screw with meeee!{w}Killin' people? There's no way, dammiiiit!\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Gregorio (named two rows later). Gregorio's stretched-vowel voice from slice 020."
+ },
+ {
+  "en": "It's a voice you've heard before!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Don't go makin' trouble for other folks!'{w}That's what Ma taught meeee!!\"{w}",
+  "kind": "msg",
+  "note": "kaachan = \"Ma\", as in slice 020."
+ },
+ {
+  "en": "\"Ahaha, you get one every so often -- somebody who signs up without listening properly to the killing rule,{w}then kicks up a big fuss.\"{w}{p}\"The customers of this arena just love contestants like that.{w}Well, well, what kind of whining will we get to hear!\"{w}{p}\"HEEEEE-HEE-HEE-HEE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm quittiiing!{w}I ain't doin' this, nooo waaay!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm afraid that is not possible.{w}You have already signed a contract with our arena, after all.\"{w}{p}\"Come, come, your opponent is waiting.\"{w}",
+  "kind": "msg",
+  "note": "anata-sama: polite \"you\"; no \"sir\" (gender not inferred from the honorific)."
+ },
+ {
+  "en": "\"I-I was gonna win the prize moneyyy{w}and get Ma a new oven mitt...\"{w}{p}\"Huh, you punks!?{w}We met back in Saimar, riiight!{w}Long time no seeee!!\"{w}",
+  "kind": "msg",
+  "note": "nabetsukami = pot holder / oven mitt. temeera = \"you punks\" (his crude address, friendly tone here). tashika = \"didn't we?\" Editorial: tashika...yonaaa was split into a question plus a stray \"Yeaaah\"; one stretched tag, his usual pattern."
+ },
+ {
+  "en": "\"Oho, now this is unexpected.{w}Why, it seems these two know each other!\"{w}",
+  "kind": "msg",
+  "note": "Announced to the crowd; \"these two\" = Gregorio and the party's representative (karera = they)."
+ },
+ {
+  "en": "The stands went wild in an instant!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heeeey!{w}These people are nuts, maaan!!{w}Let's quit this fightin' stuuuff!!\"{w}",
+  "kind": "msg",
+  "note": "koitsura read as the crowd and the arena staff, not the party."
+ },
+ {
+  "en": "\"Oh my, I won't allow any such thing, you know?\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Mistress (greeted two rows later)."
+ },
+ {
+  "en": "\"Well, well, if it isn't Mistress!{w}Welcome, so good of you to come!{w}Hee hee hee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You two know each other?{w}Then I simply must have you fight!\"{w}{p}\"But the prize money as it stands isn't enough for you, is it?{w}So as an extra prize, I'll g-i-v-e you this!\"{w}",
+  "kind": "msg",
+  "note": "a-ge-ru spelled out teasingly -> \"gi-ve\". anatatachi = the two fighters. Editorial: syllable-by-syllable tease spelled letter by letter as in her slice 040 line (2792 \"m-o-r-e~\")."
+ },
+ {
+  "en": "\"Ohh, that's Belfana!{w}The very mace Mistress is said to love using!!\"{w}",
+  "kind": "msg",
+  "note": "Belfana = new item name (ITEM.CSV:440, untranslated); romanized."
+ },
+ {
+  "en": "\"This one's well broken in, you know.{w}You want it, don't you?{w}I'll give it to whichever of you fights and survives!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The excitement in the stands reached fever pitch!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Noooo!{w}I don't wanna kill nobody, noooo!\"{w}{p}\"Let's quit, huh? Let's ditch this and go find some more peaceful work together, yeaaah!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will you fight?",
+  "kind": "data"
+ },
+ {
+  "en": "The cheering in the stands turned into disgruntled voices!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is this?{w}How boring...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The stands were engulfed in disgruntled voices!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Phew, thank goodneeess!{w}Next time I'm gonna find a better joooob!!{w}Bye-byeeeee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You... you threw cold water on the whole thing...{w}You've gone and ruined our show!{w}Enough -- get the hell out of here!!\"{w}",
+  "kind": "msg",
+  "note": "tonda mizuiri (sumo: a bout halted midway) rendered as \"threw cold water on\". kisama = harsh \"you\"."
+ },
+ {
+  "en": "\"Wh-- no waaay!?{w}This can't be happeniiing!!{w}I don't wanna kill anybody, maaan!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hahaha, then just die!\"{w}",
+  "kind": "msg",
+  "note": "Likely to Gregorio, who refuses to fight."
+ },
+ {
+  "en": "\"Wonderful!{w}Friends killing each other!{w}Ah, what a life, with no going back!!\"{w}",
+  "kind": "msg",
+  "note": "torikaeshi no tsukanai jinsei: the survivor's life is now beyond undoing; kept close to literal. Editorial: smoothed the dash restatement; still no owner of the life stated."
+ }
+]

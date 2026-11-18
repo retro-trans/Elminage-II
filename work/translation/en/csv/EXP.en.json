@@ -1,0 +1,366 @@
+[
+ {
+  "id": "EXP.CSV:3:2",
+  "en": "Human",
+  "max": 42,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:3",
+  "en": "Elf",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:4",
+  "en": "Dwarf",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:5",
+  "en": "Gnome",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:6",
+  "en": "Hobbit",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EXP.CSV:3:7",
+  "en": "Fairy",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:8",
+  "en": "Werebeast",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:9",
+  "en": "Dragonewt",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:10",
+  "en": "Devilish",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:11",
+  "en": "Puppet",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:3:12",
+  "en": "Ogre",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:3:13",
+  "en": "Goblin",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:2",
+  "en": "Fighter",
+  "max": 42,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:3",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:4",
+  "en": "Priest",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:5",
+  "en": "Thief",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:6",
+  "en": "Alc",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:6:7",
+  "en": "Servant",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:8",
+  "en": "Bishop",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:9",
+  "en": "Ranger",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:10",
+  "en": "Gladiator",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:11",
+  "en": "Bard",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:13",
+  "en": "Summoner",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:14",
+  "en": "Val",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:6:15",
+  "en": "Lord",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:6:17",
+  "en": "Nin",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:26:2",
+  "en": "Human",
+  "max": 42,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:3",
+  "en": "Elf",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:4",
+  "en": "Dwarf",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:5",
+  "en": "Gnome",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:6",
+  "en": "Hobbit",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EXP.CSV:26:7",
+  "en": "Fairy",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:8",
+  "en": "Werebeast",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:9",
+  "en": "Dragonewt",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:10",
+  "en": "Devilish",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:11",
+  "en": "Puppet",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:26:12",
+  "en": "Ogre",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:26:13",
+  "en": "Goblin",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:2",
+  "en": "Fighter",
+  "max": 42,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:3",
+  "en": "Mage",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:4",
+  "en": "Priest",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:5",
+  "en": "Thief",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:6",
+  "en": "Alc",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:29:7",
+  "en": "Servant",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:8",
+  "en": "Bishop",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:9",
+  "en": "Ranger",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:10",
+  "en": "Gladiator",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:11",
+  "en": "Bard",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:13",
+  "en": "Summoner",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:14",
+  "en": "Val",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "EXP.CSV:29:15",
+  "en": "Lord",
+  "max": 6,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EXP.CSV:29:17",
+  "en": "Nin",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ }
+]

@@ -1,0 +1,341 @@
+[
+ {
+  "en": "\"Kine...\"{w}",
+  "kind": "msg",
+  "note": "Tarzen says Kine-sama. Rendered as the plain name (cf. the Hess convention); 'Master'/'Lady' avoided: Tarzen dropped 'Master' in 5943 (slice 027) and Kine's gender is not fixed by the script. Align with slice 027's choice for 5943."
+ },
+ {
+  "en": "\"Well, you've come all this way.{w}If that's what you want, I'll expel you right here, today.\"{w}{p}\"Tarzen, you are...{w}",
+  "kind": "msg",
+  "note": "Hamon = expulsion from master's school; 'expel' used throughout (slice 027 has the same word). Last page is cut mid-sentence and resumes in 5970."
+ },
+ {
+  "en": "{0E}\"Tarzen, you are...{0F}\nEXPELLEEEEED!!\"{w}",
+  "kind": "msg",
+  "note": "The {0E}..{0F} part re-shows the end of 5968 verbatim, as in the source."
+ },
+ {
+  "en": "\"Th-thank you very much...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, by the waaay...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Kine sidled up to the disciple with a leering grin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-yes, what is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heerdahl's a place full of all sorts of fun grown-up amusements, ain't it?\"{w}{p}\"Well? Any pretty girls there?{w}Isn't there some girl you're sweet on?{w}Eh? Ehhh~~~~???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"C-come on, does it matter?! Stuff like that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Press: \"The woman who was next to you?\"",
+  "kind": "data",
+  "note": "Choice prompt; the party presses Tarzen about a woman seen beside Tarzen (in Heerdahl). Tarzen's gender is not settled, so no pronoun."
+ },
+ {
+  "en": "\"H-hey, you idiot!\"{w}",
+  "kind": "msg",
+  "note": "Tarzen to the party, who just raised the woman."
+ },
+ {
+  "en": "\"There is!? There is, isn't there!?\nWhy, you lucky dog!!{w}Kyeeeeeeeh!!\"{w}",
+  "kind": "msg",
+  "note": "Kine's trademark shriek kieee rendered 'Kyeeeh'; keep consistent with slice 027."
+ },
+ {
+  "en": "Tarzen has gone red all the way to the ears.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They each have their own reasons for working there, but...\nthey're all good girls.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see, I see.{w}Hyeh hyeh hyeh~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Kine watched Tarzen with a gentle smile.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now I've no regrets left...\"{w}{p}\"But that evil spirit of Contrachio...{w}No matter what, I just can't sense any truly evil will from that one.\"{w}{p}\"If anything, that one seems full of rage and sorrow, like a vengeful god...\"{w}",
+  "kind": "msg",
+  "note": "kiyatsu = 'that one' (neutral; Kine does not know who the spirit is). tatari-gami = 'vengeful god'. Subject restored in the last page."
+ },
+ {
+  "en": "\"Kyeeeeeh!!\nNow that's an interesting-looking toy you've got!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Kine seems interested in your Beldoll.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why not let me have a go at it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Kine set to work on the Beldoll...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Kine is working at it...{0F}{w}",
+  "kind": "msg",
+  "note": "Build-up sequence: each row's {0E}..{0F} part repeats the previous row's full text, then adds a new tail. English keeps that exact chaining for all five challengers."
+ },
+ {
+  "en": "{0E}Kine is working at it...{0F}...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Kine is working at it......? {0F}...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Kine is working at it......? ...{0F}...!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Beldoll came partly undone!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How's that, young one?{w}I've still got it! Hyeh hyeh hyeh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Raizam",
+  "kind": "name"
+ },
+ {
+  "en": "\"Mogu?{w}That looks like a fun toy you've got there, mogu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Raizam seems interested in your Beldoll.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lend it to me for a sec, moguuu!\"{w}",
+  "kind": "msg",
+  "note": "Source uses mogu as Raizam's first-person word here (mogu ni kasu = lend it to Mogu); rendered 'me' to avoid reading 'Mogu' as another character. Alternative: 'Lend it to Mogu'."
+ },
+ {
+  "en": "Raizam set to work on the Beldoll...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Raizam is working at it...{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Raizam is working at it...{0F}...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Raizam is working at it......? {0F}...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Raizam is working at it......? ...{0F}...!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I did it, moguuu!{w}That's one of the Four Sages for you! Impressed, moguuu!?\"{w}",
+  "kind": "msg",
+  "note": "Shiken-ja, osoreitta ka: Raizam (Earth Sage) boasting."
+ },
+ {
+  "en": "Goblin Prince",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hm?{w}That looks like an interesting toy you've got, huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin Prince seems interested in your Beldoll.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here, let me have a go at it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin Prince set to work on the Beldoll...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Goblin Prince is working at it...{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Goblin Prince is working at it...{0F}...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Goblin Prince is working at it......? {0F}...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Goblin Prince is working at it......? ...{0F}...!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I did iiiit!{w}Don't you look down on Goblins!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my?{w}What an interesting toy you have there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mistress seems interested in your Beldoll.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Won't you let me do it too?\"{w}",
+  "kind": "msg",
+  "note": "Katakana yarasete carries a sexual double meaning; 'let me do it' keeps it. Mistress's gender is not stated: no pronouns."
+ },
+ {
+  "en": "Mistress set to work on the Beldoll...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Mistress is working at it...{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Mistress is working at it...{0F}...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Mistress is working at it......? {0F}...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Mistress is working at it......? ...{0F}...!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How was that?{w}There's no toy that can hold out against my fingerwork, you know. ...Tee-hee.\"{w}",
+  "kind": "msg",
+  "note": "yubi-zukai = finger technique; innuendo kept."
+ },
+ {
+  "en": "Mistress slid those silky fingertips lightly across your cheeks.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?{w}What's that you've got in your hand?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna seems interested in your Beldoll.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, a puzzle ring!? Looks like fun!{w}Gimme, gimme! I wanna try toooo!!\"{w}",
+  "kind": "msg",
+  "note": "chie no wa = puzzle ring (the Beldoll is one)."
+ },
+ {
+  "en": "Urna set to work on the Beldoll...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Urna is working at it...{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Urna is working at it...{0F}...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Urna is working at it......? {0F}...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Urna is working at it......? ...{0F}...???{w}",
+  "kind": "msg",
+  "note": "Urna's attempt ends in '...???' (confusion) instead of '...!!', as in the source."
+ },
+ {
+  "en": "\"...What the heck is this!{w}Screw this!!\"{w}",
+  "kind": "msg",
+  "note": "fuzakenna: kept at full strength."
+ },
+ {
+  "en": "Urna slammed the Beldoll into the ground!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uh... huh?{w}......{w}H-hmph! How d'you like THAT!!!\"{w}",
+  "kind": "msg",
+  "note": "The slam apparently solved it; Urna bluffs."
+ },
+ {
+  "en": "\n{0E}  *  The Beldoll changed to +4!!  *  {0F}{w}",
+  "kind": "msg",
+  "note": "Item names in eboot: Beldoll +5 ... +1, Beldoll. Full-width asterisks and centring spaces become ASCII."
+ },
+ {
+  "en": "\n{0E}  *  The Beldoll changed to +3!!  *  {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}  *  The Beldoll changed to +2!!  *  {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}  *  The Beldoll changed to +1!!  *  {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}     *   The Beldoll has been solved!!   *     {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello! Welcome to Semnadoc!\"{w}{p}\"My name's Namina. My dream is to train here in this town and become a fine Priest!\"{w}",
+  "kind": "msg",
+  "note": "souryo = Priest (glossary class term)."
+ },
+ {
+  "en": "\"And then, once I'm a fine Priest, I'll work at Semnadoc Cathedral, and me and Lord Mersenne... ehehe~\"{w}",
+  "kind": "msg",
+  "note": "Mersenne-sama -> 'Lord Mersenne' (male per glossary, script evidence). Deliberately trails off."
+ },
+ {
+  "en": "\"Lord Mersenne became Archbishop at such a young age, you know!\nLook, look at this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Namina showed you a multicolor woodblock-print card depicting Mersenne.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It was made for tourists, but it's my treasure!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, hello, everyone. Lovely weather again today!{w}Adventuring is full of danger, isn't it?{w}I stay inside the town, so I'm safe, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you were talking with Namina, Mersenne passed by on the way to the cathedral.{w}",
+  "kind": "msg"
+ }
+]

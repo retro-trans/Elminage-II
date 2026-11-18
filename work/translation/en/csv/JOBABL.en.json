@@ -1,0 +1,219 @@
+[
+ {
+  "id": "JOBABL.CSV:2:7",
+  "en": "Dispel",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:2:13",
+  "en": "Maid Recover",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:2:14",
+  "en": "Bank",
+  "max": 6,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:16",
+  "en": "Appr",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:17",
+  "en": "1st",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:18",
+  "en": "Purs",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:20",
+  "en": "Lower AC",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:2:22",
+  "en": "Clean Hit",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "JOBABL.CSV:2:23",
+  "en": "Tarot",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:2:25",
+  "en": "Barr",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:34",
+  "en": "Stl.",
+  "max": 4,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:35",
+  "en": "Strip",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:40",
+  "en": "Strafe",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:42",
+  "en": "Fate Alt",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:2:45",
+  "en": "Exorcism",
+  "max": 8,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "JOBABL.CSV:2:49",
+  "en": "Hew",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "JOBABL.CSV:2:50",
+  "en": "Note",
+  "max": 28,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "JOBABL.CSV:6:3",
+  "en": "Fighter",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:7:3",
+  "en": "Mage",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:8:3",
+  "en": "Priest",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:9:3",
+  "en": "Thief",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:10:3",
+  "en": "Alc",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:11:3",
+  "en": "Servant",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:12:3",
+  "en": "Bishop",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:13:3",
+  "en": "Ranger",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:14:3",
+  "en": "Gla",
+  "max": 8,
+  "used": true,
+  "status": "fit"
+ },
+ {
+  "id": "JOBABL.CSV:15:3",
+  "en": "Bard",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:17:3",
+  "en": "Summoner",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:18:3",
+  "en": "Valkyrie",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:19:3",
+  "en": "Lord",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "JOBABL.CSV:21:3",
+  "en": "Ninja",
+  "max": 8,
+  "used": true,
+  "status": "elm3"
+ }
+]

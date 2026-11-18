@@ -1,0 +1,348 @@
+[
+ {
+  "en": "Item",
+  "len": 5,
+  "note": "battle command"
+ },
+ {
+  "en": "Equip",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Guard",
+  "len": 5,
+  "note": "battle command"
+ },
+ {
+  "en": "Run",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Ambush",
+  "len": 5,
+  "note": "battle command offered when the party gets a surprise round"
+ },
+ {
+  "en": "Inspect",
+  "len": 7,
+  "note": "treasure chest menu"
+ },
+ {
+  "en": "Disarm",
+  "len": 11
+ },
+ {
+  "en": "Portal",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "High Portal",
+  "len": 13,
+  "note": "spell name (SPELL 80)"
+ },
+ {
+  "en": "Open",
+  "len": 7
+ },
+ {
+  "en": "Leave",
+  "len": 9
+ },
+ {
+  "en": "Can't use Quick Strike",
+  "len": 17,
+  "note": "[JP] = Quick Strike (JOBABL 4-byte form '1st')"
+ },
+ {
+  "en": "No Quick Strike uses left",
+  "len": 25
+ },
+ {
+  "en": "The Empress tarot prevents physical attacks.",
+  "len": 41
+ },
+ {
+  "en": "No weapon to attack with",
+  "len": 27
+ },
+ {
+  "en": "Spells can't be used on this floor.",
+  "len": 35
+ },
+ {
+  "en": "Can't use spells",
+  "len": 17
+ },
+ {
+  "en": "Can't cast spells due to \"Silence\"",
+  "len": 29
+ },
+ {
+  "en": "The Hierophant tarot prevents skills.",
+  "len": 41
+ },
+ {
+  "en": "No usable skills.",
+  "len": 31
+ },
+ {
+  "en": "No items.",
+  "len": 23
+ },
+ {
+  "en": "You can't run from this battle.",
+  "len": 37
+ },
+ {
+  "en": "Can't use Dispel",
+  "len": 23
+ },
+ {
+  "en": "Lost sight of the enemy",
+  "len": 17
+ },
+ {
+  "en": "Can't use Hide",
+  "len": 19
+ },
+ {
+  "en": "Can't use Steal",
+  "len": 17
+ },
+ {
+  "en": "Can't use Strip",
+  "len": 21
+ },
+ {
+  "en": "Can't use Tarot",
+  "len": 21
+ },
+ {
+  "en": "Can't use Barrier",
+  "len": 17,
+  "note": "[JP] = Barrier (menu label 'Barr')"
+ },
+ {
+  "en": "This race can't use Breath.",
+  "len": 37
+ },
+ {
+  "en": "Can't use Breath",
+  "len": 19
+ },
+ {
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat",
+  "len": 73,
+  "note": "source says Square (HELP_TEXT 357 says Triangle): check in game"
+ },
+ {
+  "en": "Choose a target to attack",
+  "len": 23
+ },
+ {
+  "en": "Choose a spell type",
+  "len": 25,
+  "note": "[JP] = kind of spell"
+ },
+ {
+  "en": "Choose the spell's target",
+  "len": 25
+ },
+ {
+  "en": "Choose a skill",
+  "len": 21
+ },
+ {
+  "en": "Choose an item to use",
+  "len": 31
+ },
+ {
+  "en": "Choose the equipment slot to change",
+  "len": 27
+ },
+ {
+  "en": "Choose who to guard",
+  "len": 23
+ },
+ {
+  "en": "Choose the Dispel target",
+  "len": 31
+ },
+ {
+  "en": "Choose who to steal from",
+  "len": 23
+ },
+ {
+  "en": "Choose who to strip",
+  "len": 29
+ },
+ {
+  "en": "Choose a tarot card",
+  "len": 27
+ },
+ {
+  "en": "Choose the Breath target",
+  "len": 27
+ },
+ {
+  "en": "Choose the Quick Strike target",
+  "len": 25
+ },
+ {
+  "en": "Choose who to use the item on",
+  "len": 29
+ },
+ {
+  "en": "Choose equipment",
+  "len": 21
+ },
+ {
+  "en": "Choose a command",
+  "len": 23
+ },
+ {
+  "en": "Who will inspect the trap?",
+  "len": 23,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Who will cast %s?",
+  "len": 23
+ },
+ {
+  "en": "Who will disarm the trap?",
+  "len": 23,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Who will open the chest?",
+  "len": 25
+ },
+ {
+  "en": "Choose a trap",
+  "len": 17
+ },
+ {
+  "en": "Mag",
+  "len": 3,
+  "note": "spell-school abbreviation (Mage)"
+ },
+ {
+  "en": "Pri",
+  "len": 3,
+  "note": "Priest"
+ },
+ {
+  "en": "Alc",
+  "len": 3,
+  "note": "Alchemy"
+ },
+ {
+  "en": "Sum",
+  "len": 3,
+  "note": "Summon"
+ },
+ {
+  "en": "Can't use Command Repeat",
+  "len": 29
+ },
+ {
+  "en": "  The current contract will be cancelled\n",
+  "len": 24
+ },
+ {
+  "en": "Cannot summon",
+  "len": 15
+ },
+ {
+  "en": "  Cannot summon\n",
+  "len": 18
+ },
+ {
+  "en": "No monster summoned",
+  "len": 17
+ },
+ {
+  "en": "  No monster summoned\n",
+  "len": 20
+ },
+ {
+  "en": "Unequipped",
+  "len": 17
+ },
+ {
+  "en": "Can't unequip",
+  "len": 17
+ },
+ {
+  "en": "You've been cursed!",
+  "len": 13,
+  "note": "[JP]: equipping a cursed item | accuracy: [JP] = the character was cursed (passive), not 'the item is cursed'"
+ },
+ {
+  "en": "Can't equip",
+  "len": 15
+ },
+ {
+  "en": "No items.\n",
+  "len": 24
+ },
+ {
+  "en": "Hide",
+  "len": 7,
+  "note": "skill command"
+ },
+ {
+  "en": "Steal",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese; replaces prefill 'Stl.' (JOBABL 4-byte cell); this slot has refs and the menu already uses 5-letter labels (Strip, Tarot)"
+ },
+ {
+  "en": "Strip",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Tarot",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Breath",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Quick",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese; replaces prefill '1st' (JOBABL 4-byte cell; reads as a ranking here); [JP] = Quick Strike"
+ },
+ {
+  "en": "Enemy Front",
+  "len": 7,
+  "note": "spell range labels"
+ },
+ {
+  "en": "All Enemies",
+  "len": 7
+ },
+ {
+  "en": "Can't be cast right now",
+  "len": 27
+ },
+ {
+  "en": "Enemy Back",
+  "len": 7
+ },
+ {
+  "en": "Ally Front",
+  "len": 9
+ },
+ {
+  "en": "Ally Back",
+  "len": 9
+ }
+]

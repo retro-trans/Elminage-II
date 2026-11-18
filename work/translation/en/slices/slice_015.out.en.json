@@ -1,0 +1,350 @@
+[
+ {
+  "en": "\"I FOUND A RELIIIIIC!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? Is that true?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But it got STOLEEEEEN!! Those little brats-s-s!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What is the meaning of this, Zeshrom?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It seems Donnelkral found the relic, then ran into some adventurers.{w}There was a fight, and I'm told the relic was taken.\"{w}",
+  "kind": "msg",
+  "note": "Subject of the pro-drop clause made explicit as Donnelkral (the one who found it, row 3734); 'they' would be read as the adventurers."
+ },
+ {
+  "en": "\"...And I hear Nonhared had one taken as well, did I not?\"{w}",
+  "kind": "msg",
+  "note": "Refers back to slice_014 row 3716-3720 (Nonhared lost a relic). No pronoun for Nonhared."
+ },
+ {
+  "en": "\"Yes, my deepest apologies.{w}Most likely it was the same people this time, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What dependable subordinates you have.\"{w}",
+  "kind": "msg",
+  "note": "Sarcasm, answered by Donnelkral's 'Is that a dig!?'."
+ },
+ {
+  "en": "\"Is that a dig!? You are SO damn annoyiiing!! If I'd just had a bellyful of meat, those punks would've been NOTHING!!\"{w}{p}\"GRGAAAAAAH! This is so frustratiiiiiing!! I'll rip the lot of you to shreds, GOGAAAAAH!!\"{w}",
+  "kind": "msg",
+  "note": "Shout-voice kept with stretched vowels. 'omaera goto' = 'all of you along with them', rendered 'the lot of you'."
+ },
+ {
+  "en": "\"Enough, shut up! A loser has no right to speak!!{w}You're confined to quarters until further notice!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"HIGYAAAAAAHN!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good-for-nothing...{w}Forgive the disturbance, Lady Urna.\"{w}",
+  "kind": "msg",
+  "note": "Urna-sama from Zeshrom = 'Lady Urna' (Urna is female per glossary; Zeshrom is courtly toward her)."
+ },
+ {
+  "en": "\"You said adventurers. Why can some common riffraff track down a relic? Do they have something that surpasses my own senses?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"About that... The truth is...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To think we've had this many relics taken from us...\"{w}",
+  "kind": "msg",
+  "note": "New scene: Zeshrom alone, Escapra arrives."
+ },
+ {
+  "en": "\"Starting to panic now, of all times?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Escapra. What of your relic search...{w}Don't tell me -- you too!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pretty much. Those adventurers, you know the ones? I saw the light of that compass thing of theirs, so I tailed them, and out popped a relic.\"{w}{p}\"What the hell is going on? Wasn't the whole idea that we'd have the edge in the search, with a materialized Urna right there with us?\"{w}",
+  "kind": "msg",
+  "note": "'Ittai dou natte iru n da' given as 'What the hell is going on?' to match Escapra's coarse voice."
+ },
+ {
+  "en": "\"...That was how it was supposed to go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Can't we use one ourselves? Those adventurers we toyed with a while back had something like it, didn't they?\"{w}",
+  "kind": "msg",
+  "note": "'one' = a compass (row 3776 answers about the compass)."
+ },
+ {
+  "en": "\"Galling as it is, it seems the compass can't be used unless the gods have acknowledged you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, so that's how it is. Doesn't miss a trick, this Dehain or whatever.{w}By the way...\"{w}",
+  "kind": "msg",
+  "note": "Dehain's gender unknown; phrased without a pronoun."
+ },
+ {
+  "en": "\"...What?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You haven't forgotten, have you?{w}If the plan succeeds, we set Urna up as Zefkaka, make this land ours, and that's that.\"{w}{p}\"If it fails, we dump Urna and take the power, at the very least.\"{w}{p}\"Even if it's only a quarter of its original strength, we'd still be getting our hands on a Zefkaka's power.{w}We could run even wilder than we do now.\"{w}",
+  "kind": "msg",
+  "note": "Zefkaka kept capitalized per glossary even in role use ('set Urna up as Zefkaka', 'a Zefkaka's power'); see report."
+ },
+ {
+  "en": "\"...Hmph. And here I wondered what you'd say.{w}That is the contract, so that is how it will go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kukuku... Let's hope so.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've got no interest in you yourself.{w}...But we agreed to split the reward down the middle. You understand that?\"{w}{p}\"If you're thinking of setting us up, I'm free to get rid of you.{w}Don't you forget that, hmm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And don't you forget the contract made between us of Espel-Dex and Animacie. It's your master who'll be in trouble.\"{w}",
+  "kind": "msg",
+  "note": "New name: Animacie (Animashie in Hepburn; Escapra's master). '-dono' dropped rather than guessing Lord/Lady; gender unknown."
+ },
+ {
+  "en": "\"The part about helping you look for relics? You never said we actually had to get them, right?{w}We've helped plenty already.\"{w}",
+  "kind": "msg",
+  "note": "'shingu nyuushu no zehi wa towanai' = whether the relics are obtained is not a condition."
+ },
+ {
+  "en": "\"There's still the clause that you lend us your strength if the worst happens.\"{w}{p}\"You may do as you please for a while, but if it comes to that, you will be coming back.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha! Go say that to that thrill-seeking woman of yours.\"{w}",
+  "kind": "msg",
+  "note": "'douraku onna' (pleasure-seeking/dilettante woman) in Zeshrom's camp; most likely Mistress (who runs arena games for fun), not named here. Source says woman (onna)."
+ },
+ {
+  "en": "\"...You failed again?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, Lady Urna.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry 'bout that. It's been the same since Nonhared's go: we're always a step behind.\"{w}{p}\"Honestly. A certain Zefkaka only meets two of the conditions -- how unprepared can you get?\"{w}{p}\"Nothing in her head but wrath and vengeance? And she calls herself the Earth Goddess. What a joke.{w}Kakakaka!!\"{w}",
+  "kind": "msg",
+  "note": "'dokozo no Zefkaka' = a veiled jab at Urna, so 'a certain Zefkaka'; 'her' used since the referent is Urna (female). 'daichi no megami ga kiite akireru' = 'calls herself the Earth Goddess -- what a joke'. Conditions = the relics held (2)."
+ },
+ {
+  "en": "\"...Hm? Wrath and vengeance?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You wretch. One more insolent word and I, Zeshrom, will not let it pass.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, scary, scary!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't quite follow, but I do know that every last one of you is useless.{w}Next time, I'll go myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it would be best not to.{w}What do you intend to do if you run into humans or elves?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, I'll leave the rest to youuu.{w}Kukuku...{w}...Zeshrom, don't go getting any funny ideas, hmm?\"{w}",
+  "kind": "msg",
+  "note": "'yoroshiku na-' drawn-out vowel rendered as 'youuu'."
+ },
+ {
+  "en": "\"Funny ideas?{w}Hahaha, what's this, Zeshrom? Are you going to betray me too?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-Never! Please, forget anything Escapra said!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It was a joke. ...Well. A joke, I suppose.\"{w}",
+  "kind": "msg",
+  "note": "Deliberately uncertain repeat kept."
+ },
+ {
+  "en": "\"...Lady Urna.{w}About the earlier matter... I will go, so please, wait here.\"{w}{p}\"I don't believe there is any need for you to have further dealings with the people of this land...\"{w}",
+  "kind": "msg",
+  "note": "'the earlier matter' = Urna's 'Next time, I'll go myself' (row 3812)."
+ },
+ {
+  "en": "\"Are you worried? That I'll have a change of heart?\"{w}{p}\"According to Contrachio, my heart has no forgiveness in it -- no compassion.{w}So there's nothing to worry about, is there?\"{w}{p}\"I, Urna, am not so soft as to show mercy to traitors.{w}Yes... perhaps I'll bring back their heads.\"{w}",
+  "kind": "msg",
+  "note": "'jiai' = 'compassion', matching Shield of Compassion. Contrachio judges a zefkaka's conditions, so 'According to Contrachio'."
+ },
+ {
+  "en": "\"But...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tell me something, Zeshrom.{w}Which relics remain in my hands? Name them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Sword of Wrath and... ...an earring. Those two.\"{w}",
+  "kind": "msg",
+  "note": "Zeshrom hesitates to name the earring."
+ },
+ {
+  "en": "\"An earring of what?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is... well...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The tentacle woman said something odd just now. Haven't you told them properly?{w}About the relics that remain with me.\"{w}",
+  "kind": "msg",
+  "note": "'shokushu onna' = Escapra. 'them' = the other hunters."
+ },
+ {
+  "en": "\"I did... explain it...{w}But I told them that what you hold is the Sword of Wrath and...{w}the Earring of Vengeance.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Why did you tell them a lie?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Because wherever one goes...{w}there are those who delight in rubbing salt into others' wounds...{w}base, vulgar sorts...\"{w}",
+  "kind": "msg",
+  "note": "Sentence cut at the same points as the source; 'yue' (because) moved to the front for English order."
+ },
+ {
+  "en": "\"...Don't tell me you were protecting me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I overstepped my place.{w}I apologize.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh... I'm not angry. I don't mind it.{w}...But spare me your needless concern.{w}If they want to sneer, let them.\"{w}",
+  "kind": "msg",
+  "note": "'warukunai' rendered 'I don't mind it' (she is pleased)."
+ },
+ {
+  "en": "\"...I believe that you, and no other, are worthy of being the Earth Goddess.\"{w}{p}\"That is precisely why we must win this battle, so that under your protection, the Kin of Darkness may flourish...\"{w}",
+  "kind": "msg",
+  "note": "Interrupted by Urna; trailing kept."
+ },
+ {
+  "en": "\"Ugh, enough.{w}I've heard that speech countless times!{w}...I'm going. Hold the fort while I'm gone.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Should I really just let her go like this...{w}...Nngh.{w}Honestly, what am I even doing?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn it! Damn it...!! Them... they bit the hand that fed them... Damn it all...!!\"{w}",
+  "kind": "msg",
+  "note": "Scene after Urna's own failed outing. 'aitsura' = the adventurers / people of this land. 'on wo ada de kaesu' = repay kindness with harm, rendered with the English idiom."
+ },
+ {
+  "en": "\"I can only imagine how you must feel...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up!{w}What could any of you know about me... what could you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... Lady Urna!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up! Don't follow me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Got a minute?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...That makes four of the six relics already in their hands.\"{w}{p}\"Mistress isn't here, but{w}if Mistress screwed up too, the fifth is theirs as well.\"{w}{p}\"If it comes to that... you know what happens, right?\"{w}",
+  "kind": "msg",
+  "note": "'aitsu' = Mistress; name repeated instead of a pronoun (gender not stated). 'moshimo no toki' = the fallback plan in row 3782 (dump Urna, take the power)."
+ },
+ {
+  "en": "\"...I'll go next.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? You?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. Partly to take responsibility, too.{w}I'll kill every last one of them.{w}Then all the relics will be ours.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh ho...{w}Then let's see what you can do.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So even you couldn't do it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"At this point, it may be best to lie in wait for them at Contrachio.\"{w}",
+  "kind": "msg",
+  "note": "'mukaeutsu' (written with a variant kanji) = intercept / meet the attack."
+ },
+ {
+  "en": "\"Damn them... They won't rest until I'm...\"{w}",
+  "kind": "msg",
+  "note": "Trailing source ('dou atte mo watashi wo...' = no matter what, me...) kept unfinished; English shaped as 'won't rest until I'm...'."
+ },
+ {
+  "en": "\"Let us make the deepest level of Contrachio our base.{w}We will summon the mightiest forces that we of Espel-Dex can muster, and... Lady Urna?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I won't forgive them... I will never forgive them...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I cannot lose this battle.{w}Even if it costs me my life, I will be victorious!!\"{w}{p}\"Come, then, you ungrateful traitors...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "note": "Matches slice_000 'You obtained an item...' pattern."
+ },
+ {
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ }
+]

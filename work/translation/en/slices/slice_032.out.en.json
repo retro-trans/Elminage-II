@@ -1,0 +1,356 @@
+[
+ {
+  "en": "{0E}\n      *  Rare items now appear more often  *      {0F}{w}",
+  "kind": "msg",
+  "note": "Centred system banner (Hisbert's charm). Check centring in game."
+ },
+ {
+  "en": "{0E}\n   *  Rare items now appear much more often  *   {0F}{w}",
+  "kind": "msg",
+  "note": "Centred system banner; [JP] = 'much more often'."
+ },
+ {
+  "en": "\"The path you've walked...{w}You can't take it back with you as it is, but would you like to at least remember the map on your way home?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*   If you carry over the map, it won't count   *\n*  as explored, but you will be able to see the  *\n*      terrain of the areas you filled in.      *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line system box, kept as three bordered lines. [JP] = 'count as explored' (map completion). Check box width in game."
+ },
+ {
+  "en": "Carry over the map?",
+  "kind": "data"
+ },
+ {
+  "en": "\"This is your memory.{w}Everything you have experienced is recorded here.\"{w}{p}\"If you wish, you can retrace this memory once more.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Want to retrace this memory?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"I see. That's fine, either way.\"{w}",
+  "kind": "msg",
+  "note": "Reply to declining the retrace."
+ },
+ {
+  "en": "\"All right.{w}Off you go, then. Into your own memories.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, good work.{w}How was it? Did you get anything out of it?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'get anything out of it' (any gains)."
+ },
+ {
+  "en": "There is a signpost bearing the crest of the Bistel Magic Bureau.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Read it?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}*      To all of the adventurer class      *{0F}{w}{p}{0E}*        First, check your equipment.        *\n*    Are your swords and armor equipped?    *\n*  Get medicine and such at the Kernel Shop  *{0F}{w}{p}{0E}*  A mage is useless without a Magic Seal.  *\n*    If you have a mage among your party,    *\n*   get one at the Kernel Shop as well.   *{0F}{w}{p}{0E}*    Next, pour Fame into your compass.    *\n*   Merely carrying it gets you nowhere.   *\n*      Open camp and use the compass.      *{0F}{w}{p}{0E}*  To know the way, make an Angel's Window.  *\n*  Your odds of getting lost drop sharply.  *\n* No need for thread or breadcrumbs to get home! *{0F}{w}{p}{0E}*   East, then north at the end: Abi.   *\n*       West: a spring that restores HP.       *\n*     Beyond the light: the Jewel Ring.     *{0F}{w}{p}{0E}\n*        We wish you all good fortune.        *{0F}{w}",
+  "kind": "msg",
+  "note": "Bureau signpost, kept as bordered three-line pages. [JP] = 'Magic Seal' (Elminage III glossary; not yet in the Elm2 glossary). [JP] = HP. [JP] = 'thread or (bread)crumbs' (Ariadne / Hansel-and-Gretel). Check line widths in game."
+ },
+ {
+  "en": "There is a signpost.{w}You could probably read it from the front.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a marble statue of a young man.\nThe brass nameplate nailed to its pedestal reads \"Abi.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'young man' (source word)."
+ },
+ {
+  "en": "Touch it?",
+  "kind": "data"
+ },
+ {
+  "en": "When you touch it gently, the statue suddenly starts to move!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Abi",
+  "kind": "name"
+ },
+ {
+  "en": "\n{0E}              *  Hello!  *              {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner."
+ },
+ {
+  "en": "Before you is a spring brimming with blue water.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'spring' throughout 01005."
+ },
+ {
+  "en": "Drink from it?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will drink?",
+  "kind": "op093"
+ },
+ {
+  "en": "{0A:0003:0000} drank the water.{w}{p}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} recovered HP.{w}",
+  "kind": "msg",
+  "note": "[JP] = HP."
+ },
+ {
+  "en": "Before you is a spring brimming with red water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} took damage.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you is a spring brimming with green water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} was poisoned.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you is a spring brimming with silver water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} was decapitated.{w}",
+  "kind": "msg",
+  "note": "[JP] = decapitated (Wizardry-style instant death)."
+ },
+ {
+  "en": "Before you is a spring brimming with shining water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:000F} was fully healed.{w}",
+  "kind": "msg",
+  "note": "Insert is {0A:0003:000F} (not 0000); may be a whole-party insert. Followed slice 006 (941), which used singular 'was' with the same code."
+ },
+ {
+  "en": "Adventurer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Whoa!?\"{w}{p}\"Y-y-youuuu! Don't go warping in out of nowhere! ...You scared me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mage",
+  "kind": "name"
+ },
+ {
+  "en": "\"Why won't it open!? We've got you, a thief, so the door's supposed to open, right!? Hurry up!\"{w}",
+  "kind": "msg",
+  "note": "Mage is female by script evidence (speech, and the Thief calls her [JP] in 3692)."
+ },
+ {
+  "en": "Thief",
+  "kind": "name"
+ },
+ {
+  "en": "\"Like I keep telling you! This door's got a special kind of lock on it. No matter how much I click-clack at it, it's no good.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'click-clack' (fiddling with lockpicks)."
+ },
+ {
+  "en": "\"Isn't it that you're just not putting enough guts into it!? You haven't even tried a thousand times yet! Come on, hurry!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Like guts are gonna fix this! This is a mechanism that's separate from the lock!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Like I'm saaaying! Just go tweak-tweak... on that mechanism, then!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'tweak-tweak'; echoed by the Thief in 3682."
+ },
+ {
+  "en": "\"What the hell is 'tweak-tweak'!? Are you making fun of a thief's work!?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Priest",
+  "kind": "name"
+ },
+ {
+  "en": "\"N-now, now. Quit the infighting, you two. No infighting.\"{w}",
+  "kind": "msg",
+  "note": "Repetition of [JP] kept."
+ },
+ {
+  "en": "\"To begin with.{w}You're the one who said, 'Let's ask a thief to come alooong~!', aren't you?\"{w}",
+  "kind": "msg",
+  "note": "Aimed at the Priest (he answers in 3688). [JP] inner quote -> single quotes; ☆ dropped, [JP] kept as '~' (no ☆ rule given)."
+ },
+ {
+  "en": "\"Huh!? That was for locked doors, wasn't it?{w}And anyway, I didn't say it in such a dumb-sounding way...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Take responsibility. You don't have to come back to town until you get it open.{w}{11:0001:0016}!!\"{w}",
+  "kind": "msg",
+  "note": "{11:0001:0016} is presumably a spell name she casts to leave (the Thief says she bolted in 3692); [JP] absorbed into '!!'."
+ },
+ {
+  "en": "\"Whaaat!? She calls me all the way out here and then she just bolts, that bitch!? Are her brains crawling with maggots or what!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'that bitch', kept at source strength. [JP] rendered with its maggot imagery."
+ },
+ {
+  "en": "\"Can't be helped. She'll be back soon enough. Let's look for the mechanism in the meantime.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You're okay with that!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We've been teamed up for over a year now. Call it getting used to her? Call it reaching a state of total resignation!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't go getting used to that kind of thing...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you stand before the door, it begins to open with a ground-shaking rumble.{w}",
+  "kind": "msg",
+  "note": "Narration; the `speaker` field is stale from 01008."
+ },
+ {
+  "en": "There is a tightly shut door. You can't see anything that looks like a keyhole, either.{w}",
+  "kind": "msg",
+  "note": "Narration; stale `speaker` field."
+ },
+ {
+  "en": "\"Hm... Who goes there?{w}Oh ho, that compass... I see. So someone has actually made it this far in one piece.\"{w}",
+  "kind": "msg",
+  "note": "??? = Archelon (named in 3715)."
+ },
+ {
+  "en": "\"Well? Did you get a taste of adventure?{w}...I'm sure it was great fun.\"{w}{p}\"But take one step out into the world, and nothing but a harsh, painful journey awaits you there. There is no such thing as a fun adventure, anywhere.\"{w}{p}\"All the more so when this Decree bears the fate of the land itself.{w}It is not something a half-hearted person can see through.\"{w}{p}\"...Many adventurers who passed this trial before you, your seniors, so to speak, have already lost their lives.\"{w}{p}\"The Queen makes every effort to act cheerful, but each time she hears of an adventurer's death, the look on her face...\"{w}{p}\"I don't know whether it's gold you want or glory, but this is not an adventure you need to undertake. Leave this to us of the Magic Bureau and just do as you're told: go home.\"{w}{p}\"Otherwise, I shall have to make you understand, even if it means burning you to ashes myself...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Decree. [JP] = the Queen (Ragnastia, female per glossary). [JP] = 'just do as you're told: go home'."
+ },
+ {
+  "en": "\"You would do well to turn back quietly.\"",
+  "kind": "data",
+  "note": "Choice prompt (yes = turn back)."
+ },
+ {
+  "en": "\"Yes, that's right. I have no liking for fools. I'm glad you turned out to be people I could reason with.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......Honestly.{w}So adventurers are a pack of fools after all. Then I'll just have to beat it into you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'beat it into you' (teach physically)."
+ },
+ {
+  "en": "Director Archelon",
+  "kind": "name",
+  "note": "Glossary form; 17 chars, glossary already flags name-box width."
+ },
+ {
+  "en": "\"I am Archelon, Director of the Bistel Magic Bureau. Fear not, I'm well used to dealing with fools.{w}...Prepare yourselves!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh...!{w}Adventurers these days, every last one of them, refuse to heed the advice of their elders.\"{w}{p}\"The Jewel Ring lies ahead. If you want it, take it.{w}...But.\"{w}{p}\"From the moment you take the Jewel Ring in hand, your fate will be tossed about by great surging waves. Like a leaf swept away by a river.\"{w}{p}\"You must take responsibility for your own choices. Once you have made up your mind, go on to the room ahead.\"{w}{p}\"...I'll at least go so far as to wish you luck. Farewell!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the advice of their elders' (keeps Archelon's gender open). [JP] (singular) here; 'your' covers it."
+ },
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elderly Adventurer",
+  "kind": "name",
+  "note": "Glossary form (18 chars; over the ~16 guide)."
+ },
+ {
+  "en": "\"Oh? Granny isn't here, eh?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Granny'; does not settle the speaker's gender or relation."
+ },
+ {
+  "en": "Nun",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, you're right. Did she get separated from us?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Old Woman's Voice",
+  "kind": "name",
+  "note": "Glossary form (17 chars)."
+ },
+ {
+  "en": "\"I'm right heeere~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where's that~? Where would 'here' be, now~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Just a voice...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, there she is.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha-! Wh-where did you just come from!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Old Woman Adventurer",
+  "kind": "name",
+  "note": "Glossary form (20 chars; over the ~16 guide). Check name-box width."
+ },
+ {
+  "en": "\"I went and found it, you see~{w}A seee-cret do-or~\"{w}",
+  "kind": "msg",
+  "note": "Hiragana [JP] [JP] rendered as drawn-out syllables; ♪ -> '~'."
+ },
+ {
+  "en": "\"Well now, that's quite a find you've made. Heaps and heaps of gold coins, d'you suppose~?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (folk-tale treasure phrase) -> 'heaps and heaps of gold coins'."
+ },
+ {
+  "en": "\"I see. So that's why we couldn't get any farther. So, where is it? This secret door.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, where could it beee~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, she vanished!? Granny? Hello!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Granny', same as [JP]."
+ },
+ {
+  "en": "\"Well, I'll be, Granny~. Where's that seee-cret door, now~?\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,354 @@
+[
+ {
+  "en": "\"Mogu~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jera's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, y'see, if you can't pay the fee, I figured I'd have you pay with your body...{w}is what I was thinking!\"{w}",
+  "kind": "msg",
+  "note": "Innuendo kept at source strength; the 'payment' turns out to be whiskers (4275)."
+ },
+ {
+  "en": "Raizam's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"What are you going to do, mogu?{w}N-no, stop it, moguuu!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come on, hold... STILL!!\"{w}",
+  "kind": "msg",
+  "note": "Source splits shinasai mid-word with effort; English splits the command the same way."
+ },
+ {
+  "en": "\"GYAAAAAH!!{w}O-ow! Ow! That hurts, moguuu!!{w}What are you thinking, moguuu!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hyah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eek!? You animal!{w}You ani... MOGEEEEEEH!?{w}H-hewp--\"{w}",
+  "kind": "msg",
+  "note": "tashuke = slurred, cut-off tasuke(te); kept as a slurred, interrupted 'help'."
+ },
+ {
+  "en": "\"Just... give UUUUP!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"MOGEEEH!{w}No, mogu!! Nooo, pweeease!?\"{w}",
+  "kind": "msg",
+  "note": "rameee = slurred dame; rendered as slurred 'please' after 'No'."
+ },
+ {
+  "en": "Before long, Jera came back out from the depths, beaming with satisfaction.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ufufu, so cuuute~{w}So anyway, here's my fee. I got myself some whiskers!\"{w}",
+  "kind": "msg",
+  "note": "Raizam's gender unknown: no pronoun for the whiskers' owner."
+ },
+ {
+  "en": "\"S-so cruel... So cruel, mogu...{w}My precious whiskers and all... *sniff*\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The leak in the cave was fixed.{w}",
+  "kind": "msg",
+  "note": "No subject in source (Jera did the repair); passive used."
+ },
+ {
+  "en": "\"Mmm, so comfy, mogu!{w}She was kind of a you-know-what in lots of ways, but she sure knows her stuff, mogu!\"{w}",
+  "kind": "msg",
+  "note": "Are na hito = 'a you-know-what'; Jera picks the word up in 4282. Jera is female per glossary."
+ },
+ {
+  "en": "\"And what's a 'you-know-what'~?\"{w}",
+  "kind": "msg",
+  "note": "Jera overhears Raizam."
+ },
+ {
+  "en": "\"MOGEH!?{w}Th-th-that means... um...{w}A w-wonderful lady, mogu!!\"{w}",
+  "kind": "msg",
+  "note": "onee-san (Jera's self-reference) -> 'lady'."
+ },
+ {
+  "en": "\"That's more like it~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Digging onward, you came out into a somewhat open space.{w}The cool air felt pleasant.{w}{p}It seemed surprisingly comfortable to live in.{w}...Especially for, say, a mole.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Greedy-Looking Thief",
+  "kind": "name",
+  "note": "Glossary form; 20 chars, over the ~16 name-box guide. Check fit in game."
+ },
+ {
+  "en": "\"Damn it, I can't find him...{w}Hey, you lot!\nHave you seen a Leprechaun?\"{w}{p}\"He's an old geezer of a fairy...\nand he's got treasure stashed away.{w}I heard he was somewhere around here.\"{w}{p}\"If you spot him, tell me!{w}We'll split the treasure down the middle!\"{w}",
+  "kind": "msg",
+  "note": "Leprechaun = 'him' (jijii, glossary male)."
+ },
+ {
+  "en": "\"Damn, where'd he go...{w}Hey! If you see him, you'd better tell me, got it!?\nDon't you dare go behind my back!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Leprechaun",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh dear, oh dear, oh dear...{w}This has turned into a terrible mess...\"{w}{p}\"Eek!?\"{w}{p}\"Wh-why, you gave me a fright.{w}If you folks see a greedy-looking thief,\ndon't tell 'em where I am...\"{w}",
+  "kind": "msg",
+  "note": "Trails off: the thief interrupts (2662). Thief's gender unknown -> 'em."
+ },
+ {
+  "en": "\"Found ya~~~!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Give it up, old man!{w}Old maaa~~~an!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-help me, I beg ya~...{w}Let me go, won'tcha~~~!!\"{w}",
+  "kind": "msg",
+  "note": "Rustic old-man speech (kunro) kept as folksy contractions."
+ },
+ {
+  "en": "\"No can do~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"G-good adventurers! Save me, please~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh, now that I know where the Leprechaun is,\nI've got no more use for you lot.{w}Alright, you dogs! Get 'em!!\"{w}",
+  "kind": "msg",
+  "note": "yaro-domo (gang address) rendered 'you dogs' to keep the roughness without assigning gender."
+ },
+ {
+  "en": "You routed the thieves.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gwah!?{w}Damn it, you'll pay for this!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The thieves ran off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"G-good adventurers, you've done right by me!{w}I'll be in your debt for the rest of my liiiife~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, that's right, I must give you something as thanks.{w}Hmmm...{w}Then how about I share some of my treasure?\"{w}{p}\"I can't give you all of it, but just a little bit...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My prized statue's in there too,\nso take a good long look at it later.{w}...Heh heh heh.\"{w}{p}\"Well then, take care of yourselves...\"{w}",
+  "kind": "msg",
+  "note": "mufufu = sly chuckle -> 'Heh heh heh' (cf. old-man statue in slice 023)."
+ },
+ {
+  "en": "The Leprechaun left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear, oh dear, oh dear...{w}This has turned into a terrible mess...\"{w}{p}\"Eek!?\"{w}{p}\"Wh-why, you gave me a fright.{w}If you folks see a greedy-looking thief,\ndon't tell 'em where I am, would ya?\"{w}",
+  "kind": "msg",
+  "note": "Full (uninterrupted) version of 2660."
+ },
+ {
+  "en": "\"Oh dear, oh dear, oh dear...{w}This has turned into a terrible mess...\"{w}{p}\"Eek!?\"{w}{p}\"Wh-why, you gave me a fright.{w}Y'see, right now a friend of mine who's got treasure\ngot marked by thieves and is being chased...\"{w}",
+  "kind": "msg",
+  "note": "Interrupted version (cf. 2771). Friend's gender unknown: no pronoun."
+ },
+ {
+  "en": "\"W-wait, I don't have any treasure!\"{w}{p}\"I'm a dummy!{w}A dummy geezer!!{w}You picked a dud, better luck next tiiime!!\"{w}",
+  "kind": "msg",
+  "note": "hazure, zannen deshita = carnival 'you lose' patter."
+ },
+ {
+  "en": "\"Huh?{w}Hmph... now that you mention it,\nyour beard does sit kinda different, huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-right?{w}Riiight~~~!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fine...{w}In that case,\nyou can take me to the one who's got the treasure!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"L-like I'd ever do that~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! Damn, he got away!{w}Can't be helped, I'll try somewhere else...{w}You lot better keep looking too, got it!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The thief left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear, oh dear, oh dear...{w}This has turned into a terrible mess...\"{w}{p}\"Eek!?\"{w}{p}\"Wh-why, you gave me a fright.{w}Y'see, right now a friend of mine who's got treasure\ngot marked by thieves and is being chased.\"{w}{p}\"If you folks see a greedy-looking thief,\ndon't tell 'em where my friend is, would ya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Honey",
+  "kind": "name"
+ },
+ {
+  "en": "\"Guld~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Guld",
+  "kind": "name"
+ },
+ {
+  "en": "\"Honey~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There were two people, happily poking each other's cheeks\nand playing around.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guld~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honeyyy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gullld~~~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honeyyyyy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You left the spot so as not to spoil the moment.{w}",
+  "kind": "msg",
+  "note": "Source has the common miswriting [JP] for [JP] (spoil the mood)."
+ },
+ {
+  "en": "There was a Werebeast, head hung low.{w}As you quietly watched to see what was wrong...{w}...your eyes met!{w}",
+  "kind": "msg",
+  "note": "Guld (gender unknown): no pronoun."
+ },
+ {
+  "en": "\"Y-you guys!{w}Waaah, waaah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Guld came to you in tears.{w}",
+  "kind": "msg",
+  "note": "nakitsukareta: subject restored as Guld (speaker of 2788/2791)."
+ },
+ {
+  "en": "\"P-please teach me Strafe Pursuit~{w}Then I'll be totally smitten with Honey...{w}...Huh? Well, anyway, the forest will be at peace!\"{w}",
+  "kind": "msg",
+  "note": "Kept Guld's muddle as written (boku ga Honey ni meromero = I am smitten with Honey; he notices it came out wrong)."
+ },
+ {
+  "en": "Teach Strafe Pursuit?",
+  "kind": "data"
+ },
+ {
+  "en": "\"No! Don't!\nDon't be so mean to me!\"{w}",
+  "kind": "msg",
+  "note": "Reply to 'No'."
+ },
+ {
+  "en": "\"I knew you'd say that!\"{w}",
+  "kind": "msg",
+  "note": "Reply to 'Yes'."
+ },
+ {
+  "en": "Who will teach it?",
+  "kind": "op093"
+ },
+ {
+  "en": "\"Oh, no!{w}This one doesn't have Strafe Pursuit!\"{w}",
+  "kind": "msg",
+  "note": "kono hito -> 'this one' (selected party member, gender unknown)."
+ },
+ {
+  "en": "\"Thank you! Lesson time, lesson-sson!\"{w}",
+  "kind": "msg",
+  "note": "ressun-sun: playful reduplication; kept as a stutter-pun."
+ },
+ {
+  "en": "You taught Guld Strafe Pursuit!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright! Now I'm a Strafe Pursuit user too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You learned Strafe Pursuit!\nYou're wonderful, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks, Honey! Everyone!{w}Now I'm a full-fledged High Master Ranger too!\"{w}",
+  "kind": "msg",
+  "note": "High Master (Elm3/glossary note), Ranger = Elm3 glossary value for kariudo; no class entry in the Elm2 glossary."
+ },
+ {
+  "en": "\"Oh, look! The Rampaging Elephants are coming!\"{w}",
+  "kind": "msg",
+  "note": "Plural: the elephants answer in a chorus (2816)."
+ },
+ {
+  "en": "\"Come on, let's go, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Turn to poison~ Turn to poison~\nPoison-poison~ FLAAAAASH!!\"{w}",
+  "kind": "msg",
+  "note": "Chant: line break kept."
+ },
+ {
+  "en": "Rampaging Elephant",
+  "kind": "name",
+  "note": "Glossary form; 18 chars, over the ~16 name-box guide. Check fit in game."
+ },
+ {
+  "en": "\"BMOOOH!\" \"BMOOOH!\" \"BMOOOH!\"{w}",
+  "kind": "msg",
+  "note": "Source nests three quote brackets (several elephants at once); rendered as three overlapping cries."
+ },
+ {
+  "en": "\"Now, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Take this! Strafe Pursuit!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Rampaging Elephants were scattered.{w}",
+  "kind": "msg",
+  "note": "No subject in source (Guld attacks, party may fight); passive used."
+ }
+]

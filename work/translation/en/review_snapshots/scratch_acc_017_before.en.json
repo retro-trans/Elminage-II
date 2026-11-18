@@ -1,0 +1,345 @@
+[
+ {
+  "en": "\"......!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fine. That's enough.{w}...I'm going to Rubenburg.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"F-fine, go, then!\nJust try not to come crawling back\nwith your tail between your legs!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're the one who'd better not end up blubbering later, Miria.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Blubbering?\nWhy would I ever blubber over you, Soara... As if!\nI-I don't even get what you're saying!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...No, I bet you don't.{w}",
+  "kind": "msg",
+  "note": "First half of a line that 4077 repeats inside {0E}..{0F}; the repeated English must stay identical."
+ },
+ {
+  "en": "{0E}\"...No, I bet you don't.{0F}\nBecause you're an IDIOT!!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} wraps the repeat of 4075; kept the source line break so the punchline lands on the next line as in 4075's {w}."
+ },
+ {
+  "en": "\"Wh-whoever calls someone an idiot is the real idiot!\nFine, don't you EVER come back! Bye-bye!!\"{w}",
+  "kind": "msg",
+  "note": "Children's retort (baka tte itta hou ga baka) kept as a literal schoolyard comeback."
+ },
+ {
+  "en": "\"Fine, goodbye! Fare thee well!!\"{w}",
+  "kind": "msg",
+  "note": "otassha de is an old-fashioned farewell; 'Fare thee well' keeps the fogeyish ring that Miria mocks in 4083."
+ },
+ {
+  "en": "\"Wh-what's with 'fare thee well'... You sound like an old granny!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up, four-eyes!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soara's strong-willed, and once she's said something,\nshe won't listen to anyone...\"{w}{p}\"A few days after that talk, she'd moved out all on her own\nand gone off to Rubenburg...{w}It was a real shock...\"{w}{p}\"And that's when I realized.{w}Because of my position, I thought I had to make a Training Hall\nwhere everyone felt at home...\"{w}{p}\"But Soara wasn't part of that 'everyone'...\"{w}{p}\"I should have listened to her more...{w}I regret it a bit... No, I regret it a lot... you know.\"{w}{p}\"If you ever go to Rubenburg,\ncould you go and see how Soara's doing?\"{w}",
+  "kind": "msg",
+  "note": "Back to the present: Miria to the party. 'she' for Soara per glossary (female)."
+ },
+ {
+  "en": "\"Is your adventure going well?{w}Knowing when to pull back matters too, so be careful!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Just a little while ago,\nSoara went off to the Magic Bureau to give her regular report!{w}She looked so happy!\"{w}{p}\"Soara's dream came true, and I'm really, really happy for her!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soara, how's it feel to be adventuring again after so long?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's going pretty great!{w}Look at this map.{w}The world, you know... it's so much bigger than I ever thought!\"{w}",
+  "kind": "msg",
+  "note": "daichi (the land/the continent) rendered 'the world' for the sense of discovery; literal: 'the land was this vast'."
+ },
+ {
+  "en": "\"Ooh!\"{w}{p}\"I wonder what kind of town Semnadoc is...{w}My parents took me to Isfald and Gandra\nwhen I was a kid, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Then, maybe on our next day off or something...\nthe two of us could... go there together.{w}There's this cute shop called the Caron Main Store, too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really!? Let's go, let's go! It's a promise!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, it's a promise!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rondelgius",
+  "kind": "name"
+ },
+ {
+  "en": "\"I am Rondelgius.{w}Sovereign of dragons -- in other words, the Dragon Lord!\"{w}{p}\"I hear you lot are rather capable.{w}...However!{w}Can you overcome MY trials?\"{w}{p}\"Come! If you wish to grow even stronger,\nthen take up my trials!\"{w}{p}\"You can do it!\nI know you can do it!!\"{w}",
+  "kind": "msg",
+  "note": "Hot-blooded coach parody voice (wagahai, 'hajikete miro'); kept loud and earnest."
+ },
+ {
+  "en": "Take the challenge?",
+  "kind": "data"
+ },
+ {
+  "en": "\"That's the spirit!{w}Then here is the first trial!{w}The trial ground is... the Flotban Snowfield!!\"{w}{p}\"Flotban is a land of bitter cold.{w}Without protection against the cold,\nyou'll freeze just walking around!\"{w}{p}\"Bring me back the Ice Strawberries\nthat are said to grow there!!\"{w}",
+  "kind": "msg",
+  "note": "kori ichigo = 'Ice Strawberry' (item name; also the strawberry shaved-ice flavour, which pays off in 4123-4127). Not in glossary."
+ },
+ {
+  "en": "\"I shall await your return here.{w}I pray for your success.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a spineless coward!{w}I thought better of you, you wretch!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's the matter!\nYour power can't be\nthis feeble!\"{w}{p}\"Go and get the Ice Strawberries\nthat grow wild on the Flotban Snowfield!\"{w}{p}\"Go! Go out there and cut loose!!\"{w}",
+  "kind": "msg",
+  "note": "Refrain 'Ike! Itte, hajikete miro!' = 'Go! Go out there and cut loose!!' used identically in 4131, 4141, 4145, 4157."
+ },
+ {
+  "en": "\"Very good, well done!{w}So my will got through to you.\nThat makes me glad!\"{w}{p}\"Now, if you'll excuse me, I'll dig right in...{w}Crunch... crunch... Whoooa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmmmmmm~~~!{w}",
+  "kind": "msg",
+  "note": "First half of 4127 (repeated inside {0E}..{0F}); savouring/brain-freeze groan."
+ },
+ {
+  "en": "{0E}\"Mmmmmmm~~~! {0F}That's GOOD!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, I shall hand down the next trial!{w}The next trial ground is... Heerdahl!!\"{w}{p}\"They say an unknown apparition appears\nin a bunker on the golf course there!{w}Challenge that apparition and beat it!\"{w}{p}\"Now go, adventurers!{w}Your hot blood, your very soul!\nLet them come bursting out!!\"{w}{p}\"I shall await your return here.{w}I pray for your success.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's the matter!\nYour power can't be\nthis feeble!\"{w}{p}\"Go and defeat that unknown apparition\nthat appears in Heerdahl!\"{w}{p}\"Go! Go out there and cut loose!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Magnificent!{w}Your power is nothing ordinary!!\"{w}{p}\"That anomaly in that space\nwill surely never happen again!!\"{w}{p}\"I have no grounds for it,\nbut I am certain of it!!\"{w}",
+  "kind": "msg",
+  "note": "sono kuukan no ihen: literal 'the anomaly of that space' (the bunker haunting); kept vague as in the source."
+ },
+ {
+  "en": "\"But how will you fare in the final trial?\"{w}{p}\"A true hero must know the power of nature,\nand be able to conquer it!!\"{w}{p}\"The stage: the Churos Highlands.{w}At the very top, there's a spot\nwhere a flag can be planted!!\"{w}{p}\"I shall give you this flag!{w}Plant the flag and conquer the Churos Highlands!\nDo that, and the power of nature will be yours!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hm!?{w}You don't have any free space for items!?{w}No, no, that won't do! It has to be this flag!\"{w}{p}\"Go and make some room for items, then come back.\"{w}",
+  "kind": "msg",
+  "note": "dougu ni aki = free inventory slot; match the item-menu term once the UI is translated."
+ },
+ {
+  "en": "\"What's the matter!\nYour power can't be\nthis feeble!\"{w}{p}\"Plant the flag on the Churos Highlands\nand claim the power of nature!\"{w}{p}\"Go! Go out there and cut loose!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I have flags aplenty!{w}No need to hold back -- come on, take one!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go! Go out there and cut loose!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh... Ohhh...!{w}What heroism! What spirit!!\"{w}{p}\"No one has ever succeeded at my trials,\nand yet you have overcome every last one!\"{w}",
+  "kind": "msg",
+  "note": "nanto iu yuusha, nanto iu tamashii: rendered as abstract nouns so the party's number stays open."
+ },
+ {
+  "en": "\"By the way, can you feel it?{w}The abominable power sleeping in the Churos Highlands.\"{w}{p}\"It seems to have been slumbering until now,\nbut because you planted that flag...{w}...it's trying to wake up!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm. Even someone as great as I\nnever imagined anything like this.{w}Well now, this is a problem...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......\"{w}{p}\"Right, you lot!{w}Go and find out what that presence really is.\"{w}{p}\"That is my ultimate trial for you!{w}The finest-grade transmission of the soul! Be heroes, all of you!!\"{w}",
+  "kind": "msg",
+  "note": "saikoukyuu no tamashii no dendou: 'dendou' (conduction) may be a pun on dendou (preaching); kept as 'transmission of the soul'. nanji, yuusha tare: archaic 'thou, be a hero' -> 'Be heroes, all of you!!'."
+ },
+ {
+  "en": "\"What's the matter?\nYour power can't be\nthis feeble!\"{w}{p}\"Go and do something about\nthat abominable power in the Churos Highlands!\"{w}{p}\"Go! Go out there and cut loose!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So the Churos Highlands have settled down!{w}Well done, truly well done!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But still,\nthis Dragon Centaur V or whatever --\njust who could it be, I wonder?\"{w}",
+  "kind": "msg",
+  "note": "Dragon Centaur V (doragon kentaurosu 5-sei): the monster at the Churos summit; not in glossary. 'V' for the regnal 5-sei."
+ },
+ {
+  "en": "\"...Now that the danger has passed,{w}I'll look into at least that much\nmyself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How are you doing, my dear disciples!{w}I'm in fine form, as always!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Haleorat",
+  "kind": "name"
+ },
+ {
+  "en": "\"Come on, come on, any song requests?{w}Classics, folk songs, nursery rhymes --\nHaleorat here will play them for you!\"{w}{p}\"A song from your hometown, that old tune you miss,\nwhatever you like!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What I'm proud of is that once I've heard a song,\nI remember it and can play it right away.\"{w}{p}\"Thanks to all my wandering,\nthere's not a song I can't reproduce these days.\"{w}{p}\"...Although sometimes I slip up\nand end up memorizing some drunk old guy's\nhumming instead.\"{w}{p}\"Had an awful time of it in Gandra....{w}And in the end, there weren't even any girls.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"When you travel, you get to hear all sorts of songs:\nold tales about the place, legends, hero sagas.{w}Sometimes you even brush up against hidden history!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! Wasn't there a hero saga about ME!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nope, old man. Get lost.\"{w}{p}\"New songs are nice too, but old songs\nare packed with the feelings of the people who came before.\nMan, the romance of it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're traveling all over this land, right?\nActually, I've got a little\nfavor to ask -- would that be okay?\"{w}{p}\"When I visited the goblins at Baroque Fort,\nI heard the folks over at Anhimona\nhave the sheet music for an old song.\"{w}{p}\"I really, really wanted it,\nbut I never got to meet whoever has the sheet music.\"{w}{p}\"If your travels ever take you\nto Anhimona,\ncould you look for that old sheet music while you're at it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you find it,\nI'll perform it for you as thanks!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That sheet music...!?{w}Huh, it's not all here...{w}Sorry, but I can't sing it like this.\"{w}{p}\"Come back again once you've got all of it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So this is the sheet music\nfor the song handed down in Anhimona...!?{w}You finally got it -- thank you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The four pieces of sheet music became the Ancient Song!{w}",
+  "kind": "msg",
+  "note": "inishie no uta = 'Ancient Song' (key item); not in glossary. EVENT_TEXT quest title is 'yomigaere, inishie no uta' (suggest 'Revive the Ancient Song')."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the ?Ancient Song.{w}",
+  "kind": "msg",
+  "note": "Source puts a full-width '?' before the item name (possibly an 'unidentified' marker); kept as '?' -- check against the item menu."
+ },
+ {
+  "en": "\"Wait, but... Hm?{w}That's weird... what language is this?{w}It isn't Spirit Script either... I can't read this.\"{w}{p}\"Maybe this sheet music was written\nlong, long before we'd ever imagine.\"{w}{p}\"Even the oldest folk songs I know\ndon't use letters or words like these.{w}Isn't there anyone who could decipher it...\"{w}",
+  "kind": "msg",
+  "note": "seirei moji = 'Spirit Script' (seirei = Spirit per glossary); not in glossary."
+ },
+ {
+  "en": "\"Fuhahahaha! It seems this is my moment to shine!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nobody called you.{w}...Uh, hey, Lord Volms.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lord Volms",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hm. What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ever seen writing like this before?{w}You've got antiques and all kinds of stuff, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmmmmm... What rare letters these are.{w}And yet, I feel I've seen them somewhere...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, no, no, wait just a MOMENT!!\"{w}{p}\"Whyyy is some lowly huuuman heeere~~!!\nDo not flaunt that vulgar faaace\nbefore meee~! Be GONE!!\"{w}",
+  "kind": "msg",
+  "note": "Volms notices the party mid-conversation; drawn-out sneering delivery kept. Same insult recurs in 4268 (slice 018)."
+ },
+ {
+  "en": "\"Wait.{w}These may be the same letters as on that Forsaken Painting.\"{w}",
+  "kind": "msg",
+  "note": "haiga = 'Forsaken Painting' (coined term; lit. discarded/ruined painting); not in glossary, recurs in slices 018/039/046."
+ },
+ {
+  "en": "\"Forsaken Painting?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I bought an old painting from a peddler, you see.\nIt is called the Forsaken Painting 'Morning of Ruin'.\"{w}{p}\"An ominous name, is it not?{w}I wanted to know what sort of history lies behind it.\"{w}{p}\"I have had all manner of people look into it...{w}and in that painting were the very same letters as these.\"{w}{p}\" ┤┯├┌┷ ┗┫┷┴├┯ ┿┯┿┳┌\n\n   That is what it says. Rather similar, wouldn't you say?\"{w}",
+  "kind": "msg",
+  "note": "Horobi no Asa = 'Morning of Ruin' (new name). The box-drawing glyphs are the unreadable Pyroglyph text and are kept verbatim (only the full-width spaces became ASCII); they are NOT ASCII -- the build must render them from the font or the orchestrator must swap in an ASCII stand-in."
+ },
+ {
+  "en": "\"Where did you get that painting?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Unfortunately, I know nothing of who the peddler was.{w}But they did say this script was called Pyroglyph.\"{w}",
+  "kind": "msg",
+  "note": "Peddler's gender unknown -> 'they'."
+ },
+ {
+  "en": "\"Pyroglyph? Never heard of it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I know of it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Rondelgius, is that true?\"{w}",
+  "kind": "msg",
+  "note": "Rondelgius-dono -> 'Lord Rondelgius' (Volms's courtesy; matches his Dragon Lord title)."
+ },
+ {
+  "en": "\"...If you're lying, I'll smack you, old man.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am not lying!{w}Pyroglyph is the oldest script of all, of unknown origin --\nit even remains in the Dekor Temple Ruins!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seriously!?\nThen you can read it, old man!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Show me!{w}...Fuhahaha, I can't read it at all!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you can't read it, quit getting our hopes up like that...\"{w}",
+  "kind": "msg"
+ }
+]

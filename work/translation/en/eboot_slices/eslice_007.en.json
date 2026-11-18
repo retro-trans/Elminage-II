@@ -1,0 +1,370 @@
+[
+ {
+  "en": "[All] Fire Attack       ",
+  "len": 22,
+  "note": "element labels padded to 24 (longest + 1)"
+ },
+ {
+  "en": "[All] Ice Attack        ",
+  "len": 22
+ },
+ {
+  "en": "[All] Lightning Attack  ",
+  "len": 22
+ },
+ {
+  "en": "[All] Holy Attack       ",
+  "len": 22
+ },
+ {
+  "en": "[All] Dark Attack       ",
+  "len": 22
+ },
+ {
+  "en": "[All] Fire Defense      ",
+  "len": 22
+ },
+ {
+  "en": "[All] Ice Defense       ",
+  "len": 22
+ },
+ {
+  "en": "[All] Lightning Defense ",
+  "len": 22
+ },
+ {
+  "en": "[All] Holy Defense      ",
+  "len": 22
+ },
+ {
+  "en": "[All] Dark Defense      ",
+  "len": 22
+ },
+ {
+  "en": "[Wpn] No Main/Sub Limit",
+  "len": 27,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "[Wpn] No Range Limit          ",
+  "len": 27,
+  "note": "ITEM.CSV header has the budget-forced \"No Rng Limit\"; full form here; padded to 30 like this group (dslice_025)"
+ },
+ {
+  "en": "[All] Uncurse                 ",
+  "len": 27,
+  "note": "CSV term Uncurse"
+ },
+ {
+  "en": "[Wpn] Slay Arcane             ",
+  "len": 28,
+  "note": "monster types as the CSV tables (Arcane, Undead, Spirit, Insect, Animal, Mythic, Beastkin, Giant, Godshade); padded to 30"
+ },
+ {
+  "en": "[Wpn] Slay Undead             ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Spirits            ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Insects            ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Animals            ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Mythic Beasts      ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Ghosts             ",
+  "len": 28,
+  "note": "Ghost as slice 010 (keeps it apart from Spirit)"
+ },
+ {
+  "en": "[Wpn] Slay Demons             ",
+  "len": 28,
+  "note": "CSV monster-type cell reads \"The Devil\" (an Elm3 tarot match, likely wrong); Demon used here"
+ },
+ {
+  "en": "[Wpn] Slay Dragons            ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Fighters           ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Mages              ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Priests            ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Thieves            ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Beastkin           ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Giants             ",
+  "len": 28
+ },
+ {
+  "en": "[Wpn] Slay Godshades          ",
+  "len": 28
+ },
+ {
+  "en": "[All] Status Recovery Rate Up ",
+  "len": 27,
+  "note": "as dslice_025 (Elm3 label), padded to 30"
+ },
+ {
+  "en": "[All] No Alignment Limit      ",
+  "len": 27
+ },
+ {
+  "en": "[All] No Gender Limit         ",
+  "len": 27
+ },
+ {
+  "en": "[All] No Race Limit           ",
+  "len": 27
+ },
+ {
+  "en": "Bistel",
+  "len": 11
+ },
+ {
+  "en": "Berte's Tavern",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Rosetta's Inn",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Alchemy Storage",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Kernel Shop",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Temple of Orses",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Bistel Castle",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Training Hall",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Isfald",
+  "len": 13
+ },
+ {
+  "en": "Agres Plaza",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Lunea's Shop",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Oldaim",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Port Saimar",
+  "len": 13
+ },
+ {
+  "en": "Yotel Wharf",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Bilente's Shop",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese; accuracy: prefill 'Bilente's' dropped the shop ([JP]); glossary place name is Bilente's Shop; refs > 0, so the longer form can move"
+ },
+ {
+  "en": "Grand Merchant's Office",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Gandra Mine",
+  "len": 13
+ },
+ {
+  "en": "Canteen",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Jera's General Store",
+  "len": 15
+ },
+ {
+  "en": "Blast Furnace",
+  "len": 7,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Semnadoc",
+  "len": 11
+ },
+ {
+  "en": "Harjiradam",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Caron Main Store",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Semnadoc Cathedral",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Elminage",
+  "len": 15
+ },
+ {
+  "en": "World Map",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Loipes Cave",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Highberry Forest",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Nerid Marshlands",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Anhimona Heights",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Dekor Temple Ruins",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese; accuracy: glossary and script (slices 017/049) give Dekor Temple Ruins for this Japanese (Dekor Ruins is the shorter form without 'temple'); TREASURE.CSV:42:2 still says Dekor Ruins"
+ },
+ {
+  "en": "Blanc Desert",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Heerdahl",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Madrie Church Cemetery",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese; accuracy: glossary and script (slices 011/012) give Madrie Church Cemetery; the prefill dropped Church; TREASURE.CSV:72:2 still says Madrie Cemetery"
+ },
+ {
+  "en": "Flotban Snowfield",
+  "len": 17,
+  "note": "prefill was the budget-forced \"Flotban Snowfld\"; this string has references, so the full form is used"
+ },
+ {
+  "en": "Narmant Trench",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Baroque Fort",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Rubenburg",
+  "len": 15,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Scorching Castle",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Churos Highlands",
+  "len": 13,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Moonlight Falls",
+  "len": 9,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "In a Dream",
+  "len": 11,
+  "note": "childlike hiragana area name; as dslice_025"
+ },
+ {
+  "en": "Reiblair",
+  "len": 11,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Contrachio",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Urnas Rade",
+  "len": 17,
+  "note": "prefilled from the existing English for the same Japanese"
+ },
+ {
+  "en": "Not Set",
+  "len": 9,
+  "note": "fallback area label; as dslice_025"
+ },
+ {
+  "en": "Northwest",
+  "len": 5,
+  "note": "prefilled from the existing English for the same Japanese"
+ }
+]

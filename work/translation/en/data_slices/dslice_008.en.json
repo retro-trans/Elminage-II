@@ -1,0 +1,363 @@
+[
+ {
+  "en": "Caron Mittens",
+  "max": 20
+ },
+ {
+  "en": "Caron Shoes",
+  "max": 20
+ },
+ {
+  "en": "Pitiful Blanket",
+  "max": 20,
+  "note": "zannen na = sorry/pitiful; a different item from glossary 'Dirty Blanket'. Description: Ragnastia's old Emperor Bird blanket."
+ },
+ {
+  "en": "Banner: Rondelgius",
+  "max": 20,
+  "note": "'War Banner: Rondelgius' (22) over max 20; dropped 'War'. Siblings use 'War Banner: Wasabi/Blitz'."
+ },
+ {
+  "en": "Caron Earring",
+  "max": 20,
+  "note": "piasu = earring, as in glossary 'Earring of Sorrow'."
+ },
+ {
+  "en": "Omshokopouch",
+  "max": 20,
+  "note": "pun Omshokopo + pouch kept."
+ },
+ {
+  "en": "Royal Wings of Flame",
+  "max": 20,
+  "note": "Radrecht's cloak (ITEM_TEXT 484). Exactly 20."
+ },
+ {
+  "en": "Urna's Sprout",
+  "max": 20
+ },
+ {
+  "en": "Sweet Bun",
+  "max": 20,
+  "note": "amashoku = sweet bun, as in script slices 025/026."
+ },
+ {
+  "en": "Boar & Bush Clover",
+  "max": 20,
+  "note": "hanafuda tarot names as fixed in script slice 026."
+ },
+ {
+  "en": "Deer & Maple",
+  "max": 20
+ },
+ {
+  "en": "Butterfly & Peony",
+  "max": 20
+ },
+ {
+  "en": "Warbler & Plum",
+  "max": 20
+ },
+ {
+  "en": "Crane & Pine",
+  "max": 20
+ },
+ {
+  "en": "Curtain & Cherry",
+  "max": 20
+ },
+ {
+  "en": "Moon & Pampas",
+  "max": 20
+ },
+ {
+  "en": "Michikaze & Willow",
+  "max": 20
+ },
+ {
+  "en": "Phoenix & Paulownia",
+  "max": 20
+ },
+ {
+  "en": "Knife Hand",
+  "max": 20,
+  "note": "shuto (karate chop); monster attack item."
+ },
+ {
+  "en": "Flame Beak",
+  "max": 20
+ },
+ {
+  "en": "Antique Armor",
+  "max": 20
+ },
+ {
+  "en": "Crusade Armor",
+  "max": 20
+ },
+ {
+  "en": "Brass Robe",
+  "max": 20
+ },
+ {
+  "en": "Evil Wedding Garb",
+  "max": 20,
+  "note": "jakon-i: garment for a dark/cursed wedding."
+ },
+ {
+  "en": "Heartbreaker",
+  "max": 20
+ },
+ {
+  "en": "Extreme",
+  "max": 20
+ },
+ {
+  "en": "While Tega",
+  "max": 20,
+  "note": "romanized; 'while' likely a loop pun (text: slashes again and again). Unverified."
+ },
+ {
+  "en": "Bleed Naira",
+  "max": 20,
+  "note": "romanized; 'neira' could also be 'Nailer'. Unverified."
+ },
+ {
+  "en": "Lonely Binding Sash",
+  "max": 20,
+  "note": "literally 'sealing sash of swirling loneliness', condensed."
+ },
+ {
+  "en": "Handy Crescent",
+  "max": 20
+ },
+ {
+  "en": "Pumpty Robe",
+  "max": 20,
+  "note": "pumpkin-shaped robe; romanized as written."
+ },
+ {
+  "en": "Dth.Tentacle",
+  "max": 12,
+  "note": "script 'Death Tentacle' (14) over max 12 (MONSTER3 name slot); abbreviated. Shared with MONRAW/MON_TEXT name cells."
+ },
+ {
+  "en": "Nyoppun Slap",
+  "max": 20,
+  "note": "Nyoppurin's slap (glossary/script Nyoppurin)."
+ },
+ {
+  "en": "Demon Axe Baltagias",
+  "max": 20
+ },
+ {
+  "en": "Carnival Sword",
+  "max": 20,
+  "note": "carnival/cannibal pun in source; name kept literal."
+ },
+ {
+  "en": "Savage Fiend's Garb",
+  "max": 20,
+  "note": "literally 'battle garb of the savage fiend', condensed."
+ },
+ {
+  "en": "Chart-Topper Sword",
+  "max": 20,
+  "note": "butchigiri ('way out in front') pun on buttagiri = 'Chopper Sword'; Chopper -> Chart-Topper."
+ },
+ {
+  "en": "Samariel's Scythe",
+  "max": 20,
+  "note": "cf. filled 'Samael's Scythe'."
+ },
+ {
+  "en": "Student Handbook",
+  "max": 20,
+  "note": "literally 'Magic School Student Handbook' shortened to fit 20."
+ },
+ {
+  "en": "Shortbread",
+  "max": 20
+ },
+ {
+  "en": "Chocolate Cornet",
+  "max": 20,
+  "note": "as in script slice 004."
+ },
+ {
+  "en": "Mont Blanc",
+  "max": 20
+ },
+ {
+  "en": "Beldoll Last Theorem",
+  "max": 20,
+  "note": "Fermat pun; 'Beldoll's Last Theorem' (22) over max, dropped 's."
+ },
+ {
+  "en": "Missing Ring",
+  "max": 20,
+  "note": "missing-link pun; a chakram."
+ },
+ {
+  "en": "Dark Kingcraft",
+  "max": 20,
+  "note": "teiogaku = education in rulership; the dark art of ruling."
+ },
+ {
+  "en": "Tsakaro's Evil Eye",
+  "max": 20,
+  "note": "as in script slice 000."
+ },
+ {
+  "en": "Celebration",
+  "max": 20,
+  "note": "celeb pun in source; kept literal."
+ },
+ {
+  "en": "Catnip Chalice",
+  "max": 20
+ },
+ {
+  "en": "Call of the Abyss",
+  "max": 20
+ },
+ {
+  "en": "Vengeful God's Roar",
+  "max": 20
+ },
+ {
+  "en": "Cannon Axe",
+  "max": 20
+ },
+ {
+  "en": "Harz Crystal",
+  "max": 20,
+  "note": "as in script slice 000 (Harz Crystal)."
+ },
+ {
+  "en": "Lukoje's Umbrella",
+  "max": 20,
+  "note": "glossary Lukoje."
+ },
+ {
+  "en": "demon swd baltagias",
+  "max": 20,
+  "note": "hiragana (childish) spelling of the next row's name; lower case marks the difference. 'Demon Sword' abbreviated to fit 20."
+ },
+ {
+  "en": "Demon Swd Baltagias",
+  "max": 20,
+  "note": "'Demon Sword Baltagias' (21) over max 20; abbreviated."
+ },
+ {
+  "en": "Sword of Wrath",
+  "max": 20,
+  "note": "glossary."
+ },
+ {
+  "en": "Earring of Sorrow",
+  "max": 20,
+  "note": "glossary."
+ },
+ {
+  "en": "Shirinmorin's Leg",
+  "max": 20,
+  "note": "as in script slice 022."
+ },
+ {
+  "en": "Caron P Rod",
+  "max": 20,
+  "note": "P kept literal; text says it is under development at the Caron Main Store, so P probably = Prototype ('Caron Proto Rod' fits too)."
+ },
+ {
+  "en": "Caron P Hat",
+  "max": 20
+ },
+ {
+  "en": "Caron P Vest",
+  "max": 20
+ },
+ {
+  "en": "Caron P Mittens",
+  "max": 20
+ },
+ {
+  "en": "Caron P Shoes",
+  "max": 20
+ },
+ {
+  "en": "Caron P Earring",
+  "max": 20
+ },
+ {
+  "en": "Text",
+  "max": 62,
+  "note": "column header label of ITEM_HELP (debug?)"
+ },
+ {
+  "en": "Cures one ally of Sleep.",
+  "max": 62
+ },
+ {
+  "en": "Cures one ally of Silence.",
+  "max": 62
+ },
+ {
+  "en": "Cures one ally of Confusion.",
+  "max": 62
+ },
+ {
+  "en": "Cures one ally of Charm.",
+  "max": 62
+ },
+ {
+  "en": "Cures one ally of Petrification.",
+  "max": 62
+ },
+ {
+  "en": "Cures one ally of Sleep, Silence, Confusion and Charm.",
+  "max": 62,
+  "note": "source has a run of full-width spaces before Charm (layout only); dropped."
+ },
+ {
+  "en": "Gives light; hidden devices are easier to spot. No time limit.",
+  "max": 62,
+  "note": "spell version 'Lights the dungeon so hidden mechanisms are easier to find. No time limit.' is 74 > 62; condensed."
+ },
+ {
+  "en": "Lifts the curse on spirit and undead monsters.",
+  "max": 62,
+  "note": "same wording as the instrument version (ITEM_HELP 303)."
+ },
+ {
+  "en": "Instantly kills one demon-type monster.",
+  "max": 62,
+  "note": "shared with SPELL.CSV / SPELL_TEXT (Elnam)."
+ },
+ {
+  "en": "<-  16  ->\n1234567890123456",
+  "max": 256,
+  "note": "layout ruler in the header row (debug?); converted to ASCII."
+ },
+ {
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2",
+  "max": 35,
+  "note": "line-number ruler column (debug?); converted to ASCII digits."
+ },
+ {
+  "en": "A sword adventurers dream of. Even at low levels it delivers steady power. But that isn't its only draw: the blade is charged with magic, and one stroke sends a wave of flame rushing at the foe. Once it's yours, the danger to watch for may be not the monsters but your own complacency.",
+  "max": 298
+ },
+ {
+  "en": "A legendary sword said to unleash more power the older its wielder is. Its wooden blade looks flimsy at first glance, but an unseen force lets it cut even through iron.",
+  "max": 298
+ },
+ {
+  "en": "A long spear with a large triangular head. Built to excel at slashing and thrusting, the functions no weapon can do without, it is a spear made purely for attack. The blade makes up nearly all its weight, so slashes that carry that weight are extremely effective.",
+  "max": 298
+ },
+ {
+  "en": "There are many kinds of axe, and their shapes have changed to suit how they were used. In the orthodox sense, 'axe' means a weapon like this hand axe: a wooden haft fitted with a metal blade.",
+  "max": 298
+ }
+]

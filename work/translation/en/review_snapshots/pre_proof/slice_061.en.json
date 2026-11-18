@@ -1,0 +1,353 @@
+[
+ {
+  "en": "\"Dummy. It's you alone against all of us.\"{w}",
+  "kind": "msg",
+  "note": "Answers Montana's 'we outnumber you' (SCD14:2802, slice 060)."
+ },
+ {
+  "en": "\"Heyyyy!?{w}W-well, they're just old folks, so if it's one on two, I can manage somehow...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'my opponents are old folks' read stiffly."
+ },
+ {
+  "en": "\"I shall join in as well, I shall!{w}Back of the blade, back of the blade! And sometimes for real!!\"{w}",
+  "kind": "msg",
+  "note": "mineuchi (striking with the blunt back of the blade) = 'back of the blade', Babis's running gag; set up so the double-edged joke in 2830 works."
+ },
+ {
+  "en": "\"Like I said, you've got nothing to do with this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And so, c'mere, you~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, stop, nooooo!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Playtime with my grandson, after all these yeeears!{w}Uhee, uhee-hee-hee-hee~\"{w}",
+  "kind": "msg",
+  "note": "Montana is male (glossary), so 'grandson'. | Editorial: the trailing 'aaah' read as a separate cry; the drawn-out vowel moved onto the last word."
+ },
+ {
+  "en": "\"This'll be a treat, eh, Ubogenya!{w}Fo-fo-fo!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-hewp meeee!?\"{w}",
+  "kind": "msg",
+  "note": "Source slurs 'help' (tasukete -> tashukete)."
+ },
+ {
+  "en": "\"Come on, come on! What's wrong, what's the matter!\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: doushita (kou shita) is a taunt 'what's wrong?', not 'what's this'."
+ },
+ {
+  "en": "\"Kya-kya-kya!\"{w}",
+  "kind": "msg",
+  "note": "Star symbol after the laugh dropped (ASCII only, no convention for it)."
+ },
+ {
+  "en": "\"It looks like the back of the blade, but...{w}'tis the back of the blade after all!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'feint with the back of the blade' obscured the fake-out joke (looks like X, and it is X); 'tis as in Babis's 2774."
+ },
+ {
+  "en": "\"Hngyaaaah!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You damn samuraiiii...!{w}A double-edged blade doesn't even HAVE a back to hit with!\"{w}",
+  "kind": "msg",
+  "note": "Source: no mineuchi with a double-edged blade (no blunt back). | Editorial: 'You' added for a natural spoken insult; kept 'damn' for kuso (standard strength, not softened)."
+ },
+ {
+  "en": "\"Oh, well done, well done!{w}You've got guts!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've grown up, Montana!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"From this day forth, you too walk the way of the back of the blade!\"{w}",
+  "kind": "msg",
+  "note": "Nonsense in the source too ('from today you too are mineuchi')."
+ },
+ {
+  "en": "\"Hah, hah...{w}Jeez, what an ordeal that was...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Montana triumphed over his ancestors!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's right,\nonce you're dead, you'll have to do this at least once too, y'hear?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: stacked modifiers reordered for clarity."
+ },
+ {
+  "en": "\"For real?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As long as the mission isn't over, anyway.{w}Well, that'll be a long way off, I'd wager.\"{w}",
+  "kind": "msg",
+  "note": "The 'mission' is the important duty of Baroque Fort's ruler from slice 060 (SCD14:2788)."
+ },
+ {
+  "en": "\"Well then, I suppose it's time we passed on.\"{w}",
+  "kind": "msg",
+  "note": "Source writes 'go' with the kanji for dying (pun); rendered as 'passed on'."
+ },
+ {
+  "en": "\"A thrilling ascent to heaven, so it is!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Take care.{w}The future is made by you, the living.{w}Don't you ever forget that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, old hag!\"{w}",
+  "kind": "msg",
+  "note": "babaa is rude ('old hag'); Montana's habitual address for Ubogenya, kept at full rudeness. | Editorial: a is Montana calling her back as she leaves; 'Hey' (accuracy suggestion)."
+ },
+ {
+  "en": "\"What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry, I know this is a bad time, but I...{w}I can eat bitter melon now!\"{w}",
+  "kind": "msg",
+  "note": "bitter melon as in slices 024/025. | Editorial: 'Sorry, at a time like this' was unidiomatic."
+ },
+ {
+  "en": "\"Well, well, is that so!{w}Then next up, it's Gasaram greens!\"{w}",
+  "kind": "msg",
+  "note": "New name: Gasaram greens (romanized vegetable name). | Editorial: doubled sou kai sou kai as a grandmotherly 'Well, well' instead of a stiff repeated question."
+ },
+ {
+  "en": "\"Nah, those are...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No being picky!{w}If you don't eat properly, I'll come back to haunt you, y'know?{w}Hmmm~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...S-seriously?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seriously.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I shouldn't have said anything.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha ha ha, Montana! Give everyone my regards!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The forebears' spirits entrusted the future to Montana and faded away.{w}",
+  "kind": "msg",
+  "note": "Editorial: sendai aligned with slice 060 SCD14:2800 'forebears'; 'rulers' also wrongly covered Babis."
+ },
+ {
+  "en": "\"Well, I guess that means I finally get to be king.{w}Thanks for helping me out, everyone.\"{w}{p}\"I'll be at my usual spot in Baroque Fort, so if you ever need advice, come by anytime!\"{w}{p}\"...But Gasaram greens are the one thing I can't help you with.{w}Just so you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Montana left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Now there is no one here.{w}{p}...Or so you'd think!{w}",
+  "kind": "msg",
+  "note": "Editorial: tense clash with the present 'there is no one here'."
+ },
+ {
+  "en": "\"We came back, we did!\"{w}",
+  "kind": "msg",
+  "note": "Babis speaks for all three ghosts (they return together); 'We' chosen from the next two rows."
+ },
+ {
+  "en": "\"Turns out we just couldn't let go!\"{w}",
+  "kind": "msg",
+  "note": "mirendaradara = dripping with lingering attachment."
+ },
+ {
+  "en": "\"Since we're here anyway,\nwe thought we'd stick around a little longer, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And now, the moment you've all been waiting for:\nback-of-the-blade time, it is!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sent the undead trio flying.{w}",
+  "kind": "msg",
+  "note": "Subject (the party) restored."
+ },
+ {
+  "en": "\"Argh, I am defeated, I aaam!{w}Just kidding, just kidding!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Young'uns really are strong, aren't they!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hee hee hee, maybe we oughta try some training too, eh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suddenly, a voice echoed in the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Do not look.{w}Do not touch.{w}Do not become involved.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "And then, your bodies were hurled out of the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come as two.\"{w}",
+  "kind": "msg",
+  "note": "2-nin de maire: likely an entry condition (a party of exactly two). Kept terse and literal."
+ },
+ {
+  "en": "In the darkness was a grotesque monster.{w}{p}The monster was bound in chains, but the chains had rusted until they were mere ornaments.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Why does it look like this?{w}Why is it in chains?{w}Why is it in a place like this?{w}{p}All of it was a mystery, but judging by the fist raised to strike at you this very moment,{w}{p}it seems fair to say that he (or she) is, at the very least, not a welcome presence for you, wouldn't you agree?{w}",
+  "kind": "msg",
+  "note": "'he (or she)' is in the source (the gender joke is the narrator's own)."
+ },
+ {
+  "en": "The grotesque monster sank into the darkness, along with its many mysteries.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a strange altar.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Perhaps some kind of qualification is needed to make it work?{w}In the end, nothing happened.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There are Unicorns here.{w}The Unicorns seem to welcome your visit.{w}",
+  "kind": "msg",
+  "note": "Plural: 3042 says 'one of the Unicorns'."
+ },
+ {
+  "en": "You gave the Unicorns the message from the adventurer waiting below, and offered them the Great Tree Staff.{w}",
+  "kind": "msg",
+  "note": "Editorial: word order made 'to the Unicorns' dangle."
+ },
+ {
+  "en": "After a while, one of the Unicorns stepped forward and took the Great Tree Staff in its mouth and carried it off.{w}{p}Was that the Unicorn that saved her?{w}",
+  "kind": "msg",
+  "note": "'her' = the adventurer of 47001; the narration calls her kanojo (3065, 3068, 3071). | Accuracy: kuwaete itta = took it in its mouth and went off; the leaving was dropped."
+ },
+ {
+  "en": "An adventurer called out to you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm sorry to bother you out of nowhere.{w}I'm in some trouble... Would you please be willing to help me...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will you help?",
+  "kind": "data"
+ },
+ {
+  "en": "\"I used to be an alchemist, but...{w}I got lost here in the Churos Highlands.\"{w}{p}\"I was out of items and spells, and ready to die, but by sheer luck, I was saved by a Unicorn living on the plateau to the south of here.\"{w}{p}\"It lent me this Great Tree Staff, and saw me safely back to town.\"{w}{p}\"After that, I gained some experience, and grew into an adventurer myself.\"{w}{p}\"I came here to return the Great Tree Staff along with my thanks for that day, but...{w}...no matter what I do, it won't see me.\"{w}{p}\"In the southern lands, there's an altar that guides you to the spring where the Unicorns live, but it won't guide me, and I don't know what I'm doing wrong.\"{w}{p}\"At the very least, I want to entrust this Great Tree Staff to someone, and thank it for that day, even if only through someone else!\"{w}{p}\"Please, would you return this Great Tree Staff to the Unicorn, and tell it how grateful I am...?\"{w}",
+  "kind": "msg",
+  "note": "Does not say why the altar refuses her; nothing added. | Editorial: 'for that time' -> 'for that day' (also 3070); 'whatever is wrong with me' clarified; 'how grateful I was' calque -> 'I am' (also 3060)."
+ },
+ {
+  "en": "\"Oh, everyone...{w}It seems your packs are full...{w}What a shame. I'll ask someone else...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm sorry to ask this of you, but I'm counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Right, of course.{w}I'm sorry. I'll ask someone else...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please, return the Great Tree Staff to the Unicorn...{w}And tell it how grateful I am...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: as 3052, 'how grateful I am'."
+ },
+ {
+  "en": "\"You were able to meet the Unicorn!{w}And you returned the Great Tree Staff for me...{w}Thank you so much.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I wanted to see it, even just one more time...{w}No, no, I mustn't wish for more than this.\"{w}{p}\"Thank you for everything.{w}I pray your adventures are blessed with good fortune.{w}Farewell...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Just as she was about to leave, a single Unicorn appeared from deep in the forest, atop the plateau far in the distance.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "She and the Unicorn quietly gazed at each other.{w}It was the final farewell between two who could never touch.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Unicorn...!{w}Thank you so much for that day!!{w}I'll treasure the life you saved...!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: as 3052, 'for that day'."
+ },
+ {
+  "en": "As she waved, the Unicorn gave a single cry and vanished into the depths of the forest.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I got to see it one last time...{w}I'm so glad... So truly glad...{w}Everyone, thank you so much.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The adventurer bowed deeply toward the highlands where the Unicorns live, and left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a signpost, damp and glistening with moisture.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                                   *\n*  Ahead: Purification Falls   West: Silent Forest  *\n*                                                   *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign box: full-width spacing rebuilt in ASCII, three equal-width lines. New names: Purification Falls, Silent Forest (the Silent Beast's forest, 48002)."
+ },
+ {
+  "en": "Suddenly, a beast appeared before you without a sound.{w}{p}'Without a sound' is no figure of speech: your ears truly cannot hear even the rustle of the grass parted by its claws.{w}",
+  "kind": "msg",
+  "note": "Editorial: smoother word order."
+ }
+]

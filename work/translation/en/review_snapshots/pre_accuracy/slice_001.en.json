@@ -1,0 +1,350 @@
+[
+ {
+  "en": "\"Go on, go on! All... by... your... self!\"{w}",
+  "kind": "msg",
+  "note": "[JP] is spelled out syllable by syllable for teasing emphasis; rendered as spaced-out words."
+ },
+ {
+  "en": "\"H-hey, wait! Stop pushing me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come now, young master, show your dear Gurtia\nhow brave you are!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(And then he'll get stomped on and beaten black and blue,\nand come crying to me for help, sobbing his eyes out!{w} Ahh, I can't wait... Hee hee hee hee!!){w}",
+  "kind": "msg",
+  "note": "Parentheses = Gurtia's inner thought, kept. Gurtia's laugh [JP] rendered \"Hee hee hee\" throughout the slice (142, 239, 285)."
+ },
+ {
+  "en": "Elpina",
+  "kind": "name"
+ },
+ {
+  "en": "\"Yikes, Sis! Your eyes look sooo dangerous~!\"{w}",
+  "kind": "msg",
+  "note": "Elpina calls Gurtia [JP]: \"Sis\"."
+ },
+ {
+  "en": "\"But I'm the leader...\nSomehow... doesn't this seem kinda unfair???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whatever do you mean, young master?{w} Everyone is doing this precisely because\nthey want you to grow.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course.{w} Besides, you look wonderful when you're\ntrying your best!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-really? ...Hehe!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nice one, Sis.{w} You actually got Mirco of all people fired up!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"Mirco, of all people\"."
+ },
+ {
+  "en": "\"Okay, I'll go beat them!\nGurtia, watch me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes! I'll be watching closely!\nOff you go, now!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go get 'em, Mirco!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If this is your first battle,\nallow me, Zephal, to offer you some advice.\"{w}{p}\"Young master, you lack speed, strength, wits,\nskill and guts. You must devise tactics that\ncover for those shortcomings.\"{w}",
+  "kind": "msg",
+  "note": "Insult kept at full force: Zephal lists five things Mirco lacks."
+ },
+ {
+  "en": "\"Cover...?\nUm... so what ARE my strong points?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you have any, I'd like to know myself!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Young master!\nYour strong point is being cute!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uh-huh.{w} Like how happy-go-lucky you are -- you're\nsuch fun to mess with!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aw, shucks... You're making me blush!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zapper",
+  "kind": "name"
+ },
+ {
+  "en": "\"Youuu little-- Quit playing dumb!{w} If you come back a loser, you'll answer to me!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered \"you'll answer to me\"."
+ },
+ {
+  "en": "\"I won't lose!{w} I've got the demon sword Baltagias\nthat my uncle gave me!\"{w}",
+  "kind": "msg",
+  "note": "The sword name is written in hiragana ([JP]), set off by spaces, a childish proud emphasis; glossary spelling Baltagias kept, no special casing."
+ },
+ {
+  "en": "\"Ah, Master!\nAt last, the young master's first battle is here!\nTo think this day would come...\"{w}",
+  "kind": "msg",
+  "note": "Hess addresses the absent [JP] (later revealed as the uncle Dalisiamarte, slice 002): \"Master\"."
+ },
+ {
+  "en": "\"Here I come!\nI'm gonna beat you to a pulp!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gyaaah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed Mirco.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, young master~ You look positively battered!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: painful to look at; Gurtia is gloating."
+ },
+ {
+  "en": "\"What kind of stance was that?!{w} Didn't I teach you that's not how you hold a sword?!\"{w}{p}\"And you don't commit when you step in!{w} Your hips should be more like this! Like THIS!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"D-don't yell at me!\nIf you nag me like that,\nnone of it goes in!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, Mirco's an idiot, after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm not an idiot!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, you're going too far.{w} Please don't pick on the young master so much.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gurtia~!\"{w}",
+  "kind": "msg",
+  "note": "♪ (happy tone) rendered as \"~!\" since the output is ASCII only."
+ },
+ {
+  "en": "\"The young master is just a little pitiful\nin the head, you see. Could you treat him\nwith a bit more pity?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = his head (brains) is pitiful; the \"defence\" is a worse insult, kept at full strength."
+ },
+ {
+  "en": "\"What are you saying?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's right!\nSorry, Mirco, you half-baked little greenhorn.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = half-boiled and unripe: \"half-baked little greenhorn\"."
+ },
+ {
+  "en": "\"Don't apologize!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My apologies, Master Mirco.\nTo hound one already defeated in battle\nwas an act contrary to chivalry.\"{w}",
+  "kind": "msg",
+  "note": "[JP] from Zephal = \"Master Mirco\"."
+ },
+ {
+  "en": "\"Heyyy!!!{w} I tried my best too, you know?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. What a splendid defeat it was!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mean. You're all so mean...{w} Hess...\nAm I really that hopeless?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eh?! Well, that's... um...{w} R-right, the young master is, er, one of those...\na late bloomer, wouldn't you say?!\"{w}",
+  "kind": "msg",
+  "note": "[JP] seeks agreement from the others; \"wouldn't you say\" so that Mirco's retort in 219 lands."
+ },
+ {
+  "en": "\"'Wouldn't you say'? Who are you asking to agree?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"He may be like this now, but someday\nhe will become a fine lord who carries\nHouse Lenzer on his shoulders\"{w}",
+  "kind": "msg",
+  "note": "Source ends without punctuation (trails on [JP]); kept without a final period. [JP] = \"lord\" (also the Lord class)."
+ },
+ {
+  "en": "\"I just got called 'like this'!\"{w}",
+  "kind": "msg",
+  "note": "Hess's gender is unknown in the glossary, so the retort avoids \"he/she said\"."
+ },
+ {
+  "en": "\"For now, young master...{w} let's cure your bed-wetting. Everything starts there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaaaaaahhhhh!\nDon't tell theeeem!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"you mustn't say it\"; \"Don't tell them\" fits the scene (the party and the others are listening)."
+ },
+ {
+  "en": "\"What, bed-wetting?!{w} Young master, don't tell me you still wet the bed?!\nYou did?! Surely not, at your age?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You promised... you wouldn't tell...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I'm so sorry. It just slipped out!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-this old servant is mortified...\"{w}",
+  "kind": "msg",
+  "note": "[JP] (old retainer's self-reference) rendered \"this old servant\", gender-neutral."
+ },
+ {
+  "en": "\"It stiiinks!\nI can smell it all the way over here!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The young master washing his own soiled things,\nso miserable and so lovely~! Hee hee hee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuuuuugh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-you...{w} You pants-wetting little brat!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: [JP] is coarse; \"pants-wetting little brat\" keeps the insult. Could go harsher (\"bastard\") if the lead prefers."
+ },
+ {
+  "en": "\"Yowch?!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: yelp at being hit."
+ },
+ {
+  "en": "\"H-here now! Zephal!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pardon me. I apologize for hitting you.\nBut still, how pathetic...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Surely it was just a fluke.{w} The young master is no child, after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Actually, this morning made three days in a row!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaaaaat?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-hey, wait, Gurti\"{w}",
+  "kind": "msg",
+  "note": "Cut off mid-name ([JP]); kept unfinished with no dash, as in the source."
+ },
+ {
+  "en": "\"Th-that does it! I am the Hell Master!!\"{w}",
+  "kind": "msg",
+  "note": "Glossary catchphrase \"I am the Hell Master!\"."
+ },
+ {
+  "en": "\"Fwooooooaaaaargh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eek, eeeeek?! Zephal's gotten ma...\"{w}",
+  "kind": "msg",
+  "note": "Cut off mid-word ([JP]……); kept unfinished."
+ },
+ {
+  "en": "\"Not content with once or twice...\nTHREE TIMES?!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hwaaagh?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pardon me. I apologize for hitting you.\"{w}",
+  "kind": "msg",
+  "note": "Same wording as the first sentence of 249, as in the source."
+ },
+ {
+  "en": "\"Y-yoo... yoo're nod sowwy ad all, are yoo\"{w}",
+  "kind": "msg",
+  "note": "Mirco speaks through a swollen face: [JP] = \"You have no intention of apologizing, do you\". Rendered as mangled but readable English."
+ },
+ {
+  "en": "\"Sigh... There's a limit to how pathetic one can be!{w} At this rate, how can I ever face the master...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, young master, let's treat your wounds.{w} Here's some salve. Hold still for me~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow! Ow, it stings, Gurtia!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's medicine, after all. It can't be helped.{w} See, it hurts. There! And therrre~!\"{w}",
+  "kind": "msg",
+  "note": "Gurtia presses the salve on deliberately (see 283)."
+ },
+ {
+  "en": "\"Ow, I said it hurts! You're doing this on purpose, aren't you?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hee hee hee hee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-well, I'll let you off with this for today!\nNext time, I'll beat you for sure!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Let him go?",
+  "kind": "data",
+  "note": "Choice prompt after Mirco's defeat; Mirco is male per glossary."
+ },
+ {
+  "en": "\"Urk...\"{w}{p}\"I-if you bully me,\nmy uncle won't stand for it!{w} My uncle is a Demon Duke, you know!\"{w}",
+  "kind": "msg",
+  "note": "Glossary: [JP] = Demon Duke."
+ }
+]

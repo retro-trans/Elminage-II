@@ -1,0 +1,382 @@
+[
+ {
+  "en": "A killer Cerberus has appeared in the Nerid Marshlands. Could someone please hurry and go kill it?",
+  "max": 194,
+  "note": "Col 7 (header Walmitt) = the requester's plea as posted on Walmitt's request board (story SCD03: 'Walmitt's request')."
+ },
+ {
+  "en": "A killer Cerberus? If you mean something like that, I saw one on the surface, in the southeast of the Nerid Marshlands...",
+  "max": 216,
+  "note": "chijou nantou = the overground map, southeast part."
+ },
+ {
+  "en": "Doppelganger in Clouds",
+  "max": 24,
+  "note": "Literal 'The Doppelganger in the Clouds' is 26 > 24; article dropped."
+ },
+ {
+  "en": "A Doppelganger has apparently appeared above the clouds at Moonlight Falls.",
+  "max": 202
+ },
+ {
+  "en": "Th-there's a Doppelganger above the clouds at Moonlight Falls! It looks just like me, and it even has my ugly mannerisms! Dammit! Someone, beat that Doppelganger for scarring my heart!!",
+  "max": 194,
+  "note": "Compressed to fit 194: 'not only the looks, even the ugly bearing is the same as mine'."
+ },
+ {
+  "en": "The clouds at Moonlight Falls must be the ones on the 2nd floor. If you ride the force of the water down from the 3rd floor, you might land right on top of them.",
+  "max": 216
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover",
+  "max": 24,
+  "note": "Story (slice 024) has 'Tarmeet the Alchemy Lover' (25 > 24); comma form keeps the wording."
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover      Event text",
+  "max": 202,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover      Hint text",
+  "max": 216,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Devoured by Nightmares",
+  "max": 24
+ },
+ {
+  "en": "Ever since Gary brought an umbrella out of a dream, he's been plagued by nightmares. You got stuck with the umbrella, which gives you nightmares if you sleep somewhere with a pillow.",
+  "max": 202,
+  "note": "Gary male (glossary)."
+ },
+ {
+  "en": "Devoured by Nightmares      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Somewhere with a pillow? In Bistel, Rosetta's Inn should do. Ah, but not the Stables. Economy at the very least. Sleep with the umbrella and you should reach the dream world.",
+  "max": 216,
+  "note": "Stables / Economy = inn room names (glossary / EBOOT)."
+ },
+ {
+  "en": "More Frying Pans",
+  "max": 24
+ },
+ {
+  "en": "The ladle and frying pan Tris uses have broken. Tris would like you to bring back a new ladle and frying pan from the Scorching Castle.",
+  "max": 202,
+  "note": "Tris's gender not set: name repeated instead of a pronoun."
+ },
+ {
+  "en": "More Frying Pans      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "If I remember right, the 2nd floor of the Scorching Castle is a little smithy. As I recall, Rida was good at ladles, and Yahite at frying pans.",
+  "max": 216
+ },
+ {
+  "en": "Dreaming of the Far East",
+  "max": 24,
+  "note": "Omoi wa haruka touhou no kuni (lit. 'My thoughts are on the far eastern land'); 24/24."
+ },
+ {
+  "en": "Jera of Gandra Mine loves the land far to the east and is hunting for items tied to it. Jera wants \"Hundred Bamboo Edge\", \"Chihaya Benizakura\", \"Yasha Princess\" and \"Mikaboshi\".",
+  "max": 202,
+  "note": "Item names per glossary / ITEM.CSV (Elm3)."
+ },
+ {
+  "en": "Dreaming of the Far East      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Isn't Jera lovely! Like a lone flower blooming in Gandra Mine! If you get \"Hundred Bamboo Edge\", \"Chihaya Benizakura\", \"Yasha Princess\" or \"Mikaboshi\" on your adventures, take them to her.",
+  "max": 216,
+  "note": "Jera female (glossary)."
+ },
+ {
+  "en": "You Are Kasu (Junk)",
+  "max": 24,
+  "note": "Pun on the sword name Kasu = 'junk'; story slice 026 glosses it the same way."
+ },
+ {
+  "en": "Garian handed you \"Kasu\", a hopelessly junky sword. You were told to bring a tarot card so it can be tempered, but...",
+  "max": 202
+ },
+ {
+  "en": "You Are Kasu (Junk)      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "For a tarot card of Eastern origin, give sweets to Jeratan at the general store and win at rock-paper-scissors. I hear a chocolate cornet gives the best odds of a good one.",
+  "max": 216,
+  "note": "Wording from story slice 025 (Jeratan, sweets, rock-paper-scissors) and 004 (chocolate cornet)."
+ },
+ {
+  "en": "Tenro Sword Legend",
+  "max": 24,
+  "note": "'Legend of the Tenro Sword' is 25 > 24."
+ },
+ {
+  "en": "Quasimon seems to want the Tenro Sword.",
+  "max": 202
+ },
+ {
+  "en": "Tenro Sword Legend      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "I've heard the Tenro Sword can be found in the north and south of the Blanc Desert. A sword that's half become legend... I hope you find it.",
+  "max": 216
+ },
+ {
+  "en": "Kine's Disciple",
+  "max": 24
+ },
+ {
+  "en": "It's been a long time since Kine's disciple Tarzen disappeared. Kine has no wish to bring Tarzen back, but worries whether Tarzen is doing all right.",
+  "max": 202,
+  "note": "Tarzen's gender open (review_notes): name repeated, no pronoun."
+ },
+ {
+  "en": "Kine's Disciple      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "I saw an attendant named Tarzen at the footbath in Heerdahl. Could that be the one?",
+  "max": 216,
+  "note": "hooru booi ('hall boy', hotel staff) rendered 'attendant' to match the story's Footbath Attendant and keep Tarzen's gender open."
+ },
+ {
+  "en": "Train at Moonlight Falls",
+  "max": 24,
+  "note": "24/24; the source's emphatic '...no da' has no room."
+ },
+ {
+  "en": "Namina was aiming to work at the cathedral, but is losing sight of why she wants to work there. She wants to train at Moonlight Falls to clear away her doubts, but...",
+  "max": 202,
+  "note": "Namina female (glossary)."
+ },
+ {
+  "en": "Train at Moonlight Falls      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Do your best, Namina! May fortune smile on you!!",
+  "max": 216
+ },
+ {
+  "en": "Please Support Caron!",
+  "max": 24,
+  "note": "Lit. 'Caron Main Store, please treat us well' (shop slogan). 'Caron Main Store, Please!' alternative."
+ },
+ {
+  "en": "Caron, who runs the Caron Main Store, wants to sell the Caron brand in Rubenburg. It seems all you need to do is dress head to toe in the Caron brand and beat Vice Principal Kathleen, but...",
+  "max": 202,
+  "note": "Caron's gender not set in glossary: no pronoun."
+ },
+ {
+  "en": "Please Support Caron!      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Talk to Caron while carrying nothing, and Caron will outfit you head to toe in Caron Series prototypes. Dressed like that, go see Vice Principal Kathleen on Rubenburg 2F.",
+  "max": 216,
+  "note": "'Caron Series' kept as a name (prototype item line)."
+ },
+ {
+  "en": "It's Mersenne!",
+  "max": 24,
+  "note": "Mersenne desu-tt: cheerful self-introduction."
+ },
+ {
+  "en": "It's Mersenne!      Event text",
+  "max": 202,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "It's Mersenne!      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "It's Mersenne!      Hint text",
+  "max": 216,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "No Leaks, Please",
+  "max": 24,
+  "note": "Mizumore wa iya = 'I hate leaks'."
+ },
+ {
+  "en": "Raizam got moved in safely, but is now plagued by a water leak. The girl at the general store in Gandra Mine can apparently fix it, but...",
+  "max": 202,
+  "note": "Raizam's gender unknown: no pronoun."
+ },
+ {
+  "en": "No Leaks, Please      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "The girl at the general store in Gandra Mine... that'd be Jera. If you can somehow get on good terms with Jera, you might be able to bring her along and fix it.",
+  "max": 216
+ },
+ {
+  "en": "Leprechaun Treasure",
+  "max": 20,
+  "note": "Shared with ITEM / ITEM_HELP / ITEM_TEXT names (max 20): 'Leprechaun's Treasure' is 21."
+ },
+ {
+  "en": "A thief is apparently after the Leprechaun's treasure in Highberry.",
+  "max": 202,
+  "note": "Singular thief per story slice 034 ('greedy-looking thief')."
+ },
+ {
+  "en": "Leprechaun Treasure      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "The Leprechaun's treasure is famous, isn't it? Well, taking it by force isn't impossible... But you could also help them out of some trouble and have them hand it over.",
+  "max": 216,
+  "note": "'them' = the leprechaun(s) holding the treasure (story: a leprechaun's friend has it)."
+ },
+ {
+  "en": "Guld, a phony hunter, wants to win Honey's heart. And to keep the forest at peace, Guld is also looking for someone to teach Ranger skills.",
+  "max": 202,
+  "note": "'phony hunter' as in story slice 035; class 'Ranger' for the skill (story 034: 'High Master Ranger'). Guld's gender not set."
+ },
+ {
+  "en": "Forest Warden      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "If it's Ranger skills Guld wants to learn, the quickest way is to bring along a High Master Ranger.",
+  "max": 216,
+  "note": "Subject restored as Guld (the requester in 63:6)."
+ },
+ {
+  "en": "The Wind Sage's Errand",
+  "max": 24,
+  "note": "tsukai = errand / messenger: the party carries news between the Sages."
+ },
+ {
+  "en": "Omshokopo the Wind Sage is concerned about fellow Four Sages Radrecht, Shirinmorin and Raizam. They're said to be in the Scorching Castle, Narmant Trench and Blanc Desert, respectively, but...",
+  "max": 202
+ },
+ {
+  "en": "The Wind Sage's Errand      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "So even the Four Sages worry about how their friends are doing. Once you've met the other three, why not go back and tell Omshokopo how they are?",
+  "max": 216,
+  "note": "'tell Omshokopo' restored (who to report to)."
+ },
+ {
+  "en": "The Earth Sage's Move",
+  "max": 24
+ },
+ {
+  "en": "Raizam the Earth Sage asked you to help with a move. The very bottom of Loipes Cave would be best, apparently, but...",
+  "max": 202
+ },
+ {
+  "en": "The Earth Sage's Move      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "There's no path to the deepest part of Loipes Cave. You'll just have to dig your way through the hidden doors.",
+  "max": 216
+ },
+ {
+  "en": "Revenge on the Mirage",
+  "max": 24
+ },
+ {
+  "en": "An adventurer met a mysterious death in the Blanc Desert. You'd like to avenge her, but...",
+  "max": 202,
+  "note": "kanojo = 'she' in the source. munen wo harasu = avenge / lay her regret to rest."
+ },
+ {
+  "en": "Revenge on the Mirage      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Search every corner of the northern Blanc Desert and you'll meet a strange beast. Actually, I met it once myself while spreading the teachings. What did I do when I met it? ...Well, I'll tell you sometime.",
+  "max": 216,
+  "note": "Hint-giver is a cleric ('spreading the teachings'). kikai ga areba = 'sometime / if I get the chance'."
+ },
+ {
+  "en": "At the Heerdahl Martial Arts Tourney, you can even fight Professor Rombino! Will something good happen if you win?",
+  "max": 202
+ },
+ {
+  "en": "Martial Arts Tourney      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "This one's all about strength. Strength! Rombino can take it, so go all out!!",
+  "max": 216,
+  "note": "ano kata = Professor Rombino (named to avoid a pronoun)."
+ },
+ {
+  "en": "Mistress's Invitation",
+  "max": 24,
+  "note": "sasoi = invitation / temptation (matches the hint's 'strange temptations')."
+ },
+ {
+  "en": "On the top floor of Heerdahl, Mistress challenged you to a game played with coins, a glass and water.",
+  "max": 202
+ },
+ {
+  "en": "Mistress's Invitation      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "It's a pure battle of wits. No cheating at all. So do your best. ...And don't be swayed by any strange temptations, all right? By the way, they say this game has a sure-fire way to win...",
+  "max": 216
+ },
+ {
+  "en": "Skunk Girl's Job Hunt",
+  "max": 24
+ },
+ {
+  "en": "Analis the Skunk Girl is having trouble finding work. Getting back the bell stolen from the priest of Madrie Church would apparently land Analis a job, but...",
+  "max": 202,
+  "note": "Analis's gender not set in glossary: no pronoun. Priest male (glossary)."
+ },
+ {
+  "en": "Skunk Girl's Job Hunt      Request desk text",
+  "max": 194,
+  "note": "debug? Placeholder cell in the source (event title + padding + column label); translated plainly."
+ },
+ {
+  "en": "Follow Analis's lead, then search the nearby walls at the end and you should find a hidden door. The thief is inside, so do your best to get the bell back.",
+  "max": 216,
+  "note": "'the bell' restored as the object of torikaesu."
+ }
+]

@@ -1,0 +1,350 @@
+[
+ {
+  "en": "\"Yes, Your Majesty.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If I remember right, we had loads of Angel's Windows in the storehouse, didn't we?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, we did... but they were all sold off to cover the shortfall in military spending.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm... So they were. Thank you, you may go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, Your Majesty. By your leave.\"{w}",
+  "kind": "msg",
+  "note": "hatt. shitsurei itashimasu: a soldier's crisp acknowledgement and exit; \"Your Majesty\" restored from the address in row 3422."
+ },
+ {
+  "en": "\"Hmm.\"{w}{p}\"By the way, I'm afraid that my... I can't give you this window of mine.\"{w}",
+  "kind": "msg",
+  "note": "Ragnastia owns an Angel's Window herself; the halting \"my...\" is kept as in the source."
+ },
+ {
+  "en": "\"It's not as if it's some Royal Window with special features or anything...\"{w}{p}\"It's just that without it, I'd, um... be in trouble, you see. The castle is fairly big.\"{w}",
+  "kind": "msg",
+  "note": "Implies the queen would get lost in her own castle (fits her private, childish side); kept as hinted, not spelled out."
+ },
+ {
+  "en": "\"Hmm... hmmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh! I've had an idea.\"{w}{p}\"Someone. Is anyone there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do we have any Dvel Soft Steel and Frozen Elven Iron?\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the soldier who answered her call (reply in row 3444)."
+ },
+ {
+  "en": "\"One moment, please. I'll go and check.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you all know about alchemy? With an alchemist, you can make alchemy items out of ore materials.\"{w}{p}\"The Angel's Window was an alchemy item to begin with. If you gather the materials and ask an alchemist, they should be able to make you an Angel's Window.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We had Dvel Soft Steel and Frozen Elven Iron in the storehouse, Your Majesty. Here they are.\"{w}",
+  "kind": "msg",
+  "note": "\"Your Majesty\" added for the soldier's register (sentence is addressed to the queen; the polite gozaimashita / kochira ni narimasu carries it)."
+ },
+ {
+  "en": "\"Wonderful, now we have the materials for an Angel's Window. You should be able to make one at the Alchemy Storage at Rosetta's Inn. Here, please take these.\"{w}",
+  "kind": "msg",
+  "note": "renkin souko = \"Alchemy Storehouse\" (new term, not in glossary; a facility at Rosetta's Inn, see slice 010 rows 2955-3007)."
+ },
+ {
+  "en": "\"Well then, it's time I brought this audience to a close.{w}Do your best. I'll be waiting for good news.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, everyone! Have you found the Jewel Ring?{w}Oh... I see. You haven't found it...\"{w}{p}\"No matter how many times you come to me, there's nothing I can do for you without the Jewel Ring.\"{w}{p}\"I'll be waiting for good news.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, everyone! Have you found the Jewel Ring?{w}...! You managed to get it!\"{w}{p}\"May I take a look at it...?{w}Yes, this is the Jewel Ring, without a doubt.{w}Perhaps I can ask this of you, of all people.\"{w}{p}\"It pains me to say this to you just as you're setting out on your journey...{w}...but the situation is grave.\"{w}{p}\"As you may know, this land has prospered under the protection of the goddess Fiona.\"{w}{p}\"Fiona keeps her sovereignty over this land by having her name carved into the Holy Foundation, Contrachio.\"{w}{p}\"However, an ancient... one that had lain in a deep slumber...\"{w}",
+  "kind": "msg",
+  "note": "Last page is cut off mid-phrase in the source and completed in row 3458; English cut at the same point."
+ },
+ {
+  "en": "\"An ancient evil spirit has risen again, and erased Fiona's name from the Holy Foundation, Contrachio.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The evil spirit has joined forces with the Kin of Darkness, and intends to seize this land by carving its own name into Contrachio.\"{w}{p}\"There are rumors lately of Kin of Darkness being sighted. That too is because we've lost Fiona's protection.\"{w}{p}\"If sovereignty over the land changes hands, the land will be overrun and destroyed by the Kin of Darkness, and we will lose everything.\"{w}",
+  "kind": "msg",
+  "note": "\"its own name\" for the evil spirit: Ragnastia is speaking of it as an unnamed spirit here (public version of events), so no gendered pronoun."
+ },
+ {
+  "en": "\"To regain Fiona's protection, her name must be carved into the Holy Foundation, Contrachio, once more.\"{w}{p}\"For that, the approval of the eight divine relics is needed. They are relics that symbolize the eight virtues a guardian of the land is meant to possess. Namely...\"{w}{p}\"The Sword of Wrath\nThe Shield of Compassion\nThe Tiara of Hope\"{w}{p}\"The Breastplate of Intellect\nThe Bracelet of Harmony\nThe Shoes of Courage\"{w}{p}\"The Anklet of Joy\nThe Earring of Sorrow\"{w}",
+  "kind": "msg",
+  "note": "Relic list kept as a list with \\n breaks, one item per line as in the source."
+ },
+ {
+  "en": "\"Of these, I'm told the Sword of Wrath and the Earring of Sorrow have already fallen into the evil spirit's hands.\"{w}{p}\"I need you to obtain the remaining six, whatever it takes.\"{w}{p}\"This is the compass for finding the divine relics. It works the same way as the one for the Jewel Ring. Please, take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You received the Divine Relic Compass.{w}",
+  "kind": "msg",
+  "note": "Key item name shingu no konpasu = \"Divine Relic Compass\" (new item name; parallels jueru ringu no konpasu = \"Jewel Ring Compass\" in slice 012). Item-get narration addressed to the party as \"you\"."
+ },
+ {
+  "en": "\"Is there any Fame left over from what I gave you for the Jewel Ring search? If there is, please return it to me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"From now on, you must obtain Fame with your own hands. Earn the right to the divine relics yourselves.\"{w}{p}\"First, go around the towns...{w}Look into the faces of the people living on the land you stand on. Talk with all kinds of people, connect with them, get involved.\"{w}{p}\"When you take their feelings and wishes to heart and accomplish something worthy of them, Fame will surely come to you.\"{w}{p}\"If you keep gathering Fame, you're bound to reach the divine relics.\"{w}{p}\"The compass I gave you will surely show you the way.\"{w}{p}\"But the evil spirit and the Kin of Darkness are also searching for the relics, desperate to find them.\"{w}{p}\"Even when you find a lead, please don't let your guard down.\"{w}{p}\"And then... Oh yes, let me explain the Monster Alerts.\"{w}{p}\"To help with your investigations, I've had the strength of the monsters on each dungeon's entrance floor looked into.\"{w}{p}\"When you head somewhere new, please do use it as a guide.\"{w}",
+  "kind": "msg",
+  "note": "machi wo meguru read as \"go around the towns\" (Fame comes from helping people across the land). monsutaa keihou = \"Monster Alert\" (new term, not in glossary; likely a UI feature, check UI label). shirabete okimashita rendered \"I've had ... looked into\" since a queen would have it done."
+ },
+ {
+  "en": "\"...Huh?{w}Why only the first floor...?{w}Well... I'm terribly sorry.\"{w}",
+  "kind": "msg",
+  "note": "She echoes the party's unspoken question."
+ },
+ {
+  "en": "\"There was a man named Costo, whom I once appointed Minister of Finance...\"{w}{p}\"He squandered the taxes you all paid with your blood and sweat, and our war chest ran dry.\"{w}",
+  "kind": "msg",
+  "note": "zaimu daijin = \"Minister of Finance\" (new title, not in glossary; Costo's glossary entry says ex-head of the Administration Bureau). Costo male per batch-1 convention."
+ },
+ {
+  "en": "\"He's sharp, but being of noble birth, you see...{w}his sense of money is, how should I put it, a little off...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I removed Costo from his post, and told him sternly to learn the value of money by running a business.\"{w}{p}\"...Um, that shop, the Kernel Shop -- please do give it your custom, if you like.\"{w}{p}\"Not that I mean to favor any particular shop, but it is also the only shop in town that does business with adventurers.\"{w}{p}\"And also... I know this may be rude of me, but as some small help, at least...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You received 3000 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Promise me you will come back alive, no matter what. The mission is important, but your lives matter more than anything.\"{w}{p}\"It may sound strange from the one who issued such a dangerous Decree... but I mean both of those things, truly.\"{w}",
+  "kind": "msg",
+  "note": "ofure (kana spelling) (spelled differently from ofure (kanji spelling)) still rendered \"Decree\" to match the batch-1 convention for the queen's call."
+ },
+ {
+  "en": "\"I look forward to seeing you again with smiles on your faces.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm so glad you're safe. Don't rush and push yourselves too hard, now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"With this, all six divine relics have been gathered, apart from the two that fell into the evil spirit's hands.\"{w}{p}\"All that's left is to take these relics to Contrachio, defeat the evil spirit, take back the other relics, and carve Fiona's name.\"{w}{p}\"...Please, I beg you. Restore Fiona's sovereignty in my place.\"{w}",
+  "kind": "msg",
+  "note": "shingu wo torimodoshi read as reclaiming the two relics the evil spirit holds (\"the other relics\")."
+ },
+ {
+  "en": "Will you accept?",
+  "kind": "data"
+ },
+ {
+  "en": "\"...Leave us.\"{w}",
+  "kind": "msg",
+  "note": "hitobarai wo = she orders the attendants out (narration in row 3490 confirms the guards leave). \"Leave us\" is addressed to the guards."
+ },
+ {
+  "en": "At Ragnastia's command, the guards left the room, though they exchanged puzzled looks as they went.{w}Now there is no one here but you and Ragnastia.{w}",
+  "kind": "msg",
+  "note": "kubi wo kashigenagara = puzzled, cocking their heads; \"exchanged puzzled looks\" keeps the sense. Second sentence keeps the source's present tense (ima)."
+ },
+ {
+  "en": "\"So you've touched it.{w}You know now.{w}The history hidden in this land.\"{w}{p}\"What I am about to do is a despicable betrayal.{w}I know that. But...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"She must be struck down.\"{w}",
+  "kind": "msg",
+  "note": "utaneba narimasen has no object; the next rows settle it as Urna (female per glossary), so \"She\". Who strikes is left open by the passive, as in the source (the party is about to be asked)."
+ },
+ {
+  "en": "The queen drew a small breath, as if to steady herself.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To celebrate Urna's return...{w}would mean losing Fiona's land, and starting everything over again.\"{w}{p}\"If such a cataclysm were to happen, our lives would not come through it unscathed.\"{w}{p}\"All that we have built up until today.{w}Our culture, our wealth, our memories, and the safety of our very lives...{w}We would have to throw all of it away.\"{w}",
+  "kind": "msg",
+  "note": "Urna-sama rendered plain \"Urna\" (no \"Lady\"; same rule as Fiona-sama and Void-sama in the glossary). Her honorific is still felt in the tone."
+ },
+ {
+  "en": "\"...I am the Queen of Bistel, and also the priestess of this land... of Fiona.{w}I have a duty to protect everyone's lives and property.\"{w}{p}\"Even knowing everything, even if it is an act of ingratitude, I must give the order to strike down Urna!\"{w}",
+  "kind": "msg",
+  "note": "minasan no inochi ya zai read as the people's lives and property in general (\"everyone's\"), since she speaks as queen. miko = \"priestess\" (glossary position for Ragnastia)."
+ },
+ {
+  "en": "\"I have no intention of begging Urna's forgiveness.{w}This betrayal was by my command...{w}Tell Urna that, please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the decision of Ragnastia, priestess of Fiona and Queen of Bistel!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Her words were strong, but tears were welling in Ragnastia's eyes.{w}{p}Her clenched fists trembled faintly.{w}Right now, perhaps the only thing holding Ragnastia up was the heavy responsibility of being queen.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I will take all of the responsibility.{w}If your spirit is about to break, remember the faces of the people of this town, and of the people in other towns.\"{w}{p}\"You are the only ones who can protect them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"In truth, I meant to send the army, but if we moved with our present strength, we would most likely be cut down and have the relics taken from us.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You are the only ones I can rely on now. It isn't right to ask this of you, who as adventurers should be free to live as you please...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I know I'm asking the impossible, but I beg you. Would you entrust your strength and your lives to me, Ragnastia?\"{w}{p}\"The doors of Contrachio must already be open.\"{w}{p}\"Please save this land.{w}And then, once more... come back safely, and show me your smiles.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please, I pray... may Fiona's blessing be upon you all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Please find the remaining relics as well. I'll be praying for your safety from here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the Anklet of Joy!{w}You did well to find it. Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Joy is something we find in the eyes of a friend who faces us.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"May this anklet protect the smiles reflected in your eyes, in mine, and in everyone's...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the Shoes of Courage!{w}You did well to find them. Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Courage is the strength to acknowledge things as they are, and to accept them.\"{w}{p}\"Not running away, not giving up, not throwing it all aside. That's exactly why we can take a step forward, I suppose.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"True courage... Yes.{w}That may still be hard for me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the Bracelet of Harmony!{w}You did well to find it. Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Harmony is a heart that shares what is lacking. A heart that can give up the only one there is.\"{w}{p}\"I believe it's a heart everyone has. Even if it usually can't be seen, it must surely have taken root in Fiona's land.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the Breastplate of Intellect!{w}You did well to find it. Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Intellect is a miraculous child, born out of our struggles.\"{w}",
+  "kind": "msg",
+  "note": "nayami (worry, agonizing over a question) rendered \"struggles\"; the next row is about seeking answers that do not exist."
+ },
+ {
+  "en": "\"Searching for something that has no answer is far more important, and far harder, than guessing something whose answer was there from the start...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Be a person of deep thought.' I feel as if that wish of Fiona's is reaching me.\"{w}",
+  "kind": "msg",
+  "note": "shiryobukaki hito de are set off in single quotes as Fiona's implied precept."
+ },
+ {
+  "en": "\"That's the Tiara of Hope!{w}You did well to find it. Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hope is a light that descends only on those who keep believing.\"{w}{p}\"No matter what hardships we face, as long as the land remains, dawn will surely come.\"{w}{p}\"This tiara you gathered for us will surely shine, too, so that we can take back tomorrow.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the Shield of Compassion!{w}You did well to find it. Thank you so much!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Compassion is forgiveness.\"{w}{p}\"Even if one should stray from the path, as long as one has a heart that prays, the land will surely bring the morning sun.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone! I've been waiting for you! You've carved Fiona's name into the Holy Foundation, Contrachio, once more!\"{w}{p}\"...I can feel the land regaining its strength. On Fiona's behalf, I thank you. Thank you, truly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh yes, I promised to give you whatever reward you wished. Please, accept this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You received 1,000,000 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Can you hear the stir outside? Word of your great deed has already spread through the town. Now, please, this way!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Join the victory parade?",
+  "kind": "data",
+  "note": "gaisen pareedo = \"victory parade\"; choice prompt kept under 30 chars."
+ },
+ {
+  "en": "\"...You can't bring yourselves to feel joyful?{w}I feel the same...{w}...is not something I have any right to say, is it?\"{w}",
+  "kind": "msg",
+  "note": "Source splits \"watashi mo, onaji desu... {w} nante iu shikaku wa arimasen yo ne\" across a pause: she says \"me too\", then takes it back. English keeps the turn at the same {w}."
+ },
+ {
+  "en": "\"If you truly don't want to, there's no need to force yourselves to make a triumphant appearance.{w}Instead...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Together with me...{w}...nn... would you... cry... with me...?\"{w}",
+  "kind": "msg",
+  "note": "Sobbing broken line; the small-tsu sob rendered \"...nn...\". \"with me\" repeated at the end to keep the plea readable after the break."
+ },
+ {
+  "en": "\"Bearing the sin...{w}I don't mind that. It's just... it's all so...{w}I keep wondering... what am I doing...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Clawing at her chest, Ragnastia broke down in tears.{w}{p}The clamor of the town, which should have been celebrating the heroes' triumphant return.{w}{p}To you and the queen now, it was nothing but angry voices condemning your betrayal.{w}{p}Powerlessness.{w}{p}You sensed the presence of a far greater current flowing around the land.{w}{p}Within that current, you and the queen were no more than leaves floating on the water.{w}{p}Is there nothing left for you now but to live out your days with sorrow and regret locked in your hearts?{w}",
+  "kind": "msg",
+  "note": "mune wo kakimushiri = clawing at her chest (kept at full force). eiyuu read as the party (plural \"heroes\")."
+ },
+ {
+  "en": "\"I'll follow you there shortly...\"{w}",
+  "kind": "msg",
+  "note": "Likely the line if the party chooses to join the parade (row 3556)."
+ },
+ {
+  "en": "\"Hello. You all look well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh yes, everyone. I heard an interesting story from Archelon a little while ago.\"{w}{p}\"Apparently, there are six altars in this land, each tied to one of the six gods.\"{w}{p}\"And whoever finds every one of those altars and offers prayers at them can catch a glimpse of the world of the gods, it seems.\"{w}{p}\"Apparently Archelon took up the challenge back when they were young.\"{w}",
+  "kind": "msg",
+  "note": "Archelon's gender is unknown in the glossary, so \"they\"."
+ },
+ {
+  "en": "\"And would you believe it, about those altars!{w}It seems one of them was the Temple of Orses!{w}Isn't that amazing!!\"{w}",
+  "kind": "msg"
+ }
+]

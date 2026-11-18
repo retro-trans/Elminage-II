@@ -1,0 +1,395 @@
+[
+ {
+  "en": "A seed you can receive from the Earth Goddess of a certain New Land. As long as you hold it and do nothing to grieve the land, the goddess's protection should keep you safe from every calamity.",
+  "max": 298,
+  "note": "Urna's Sprout (ITEM 493). The goddess of that New Land is left unnamed, as in the source."
+ },
+ {
+  "en": "A flat baked sweet. It is fairly easy to make and anyone can buy it cheaply, so it is very popular. It is also a staple on every bakery's menu.",
+  "max": 298,
+  "note": "Amashoku; 'sweet bun' as in slices 025/026."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. There are several curious designs unique to that land. Meaning could probably be found in each, but some cards honestly carry no allegory at all. That, in short, is what Chaff is.",
+  "max": 298,
+  "note": "Kasu card = 'Chaff' (slice_026 reviewed)."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. 'Miyoshino' is a phrase praising one region of a far eastern land; strictly speaking it is written 'Mi-Yoshino'. On the Tarot it is written in red on certain cards, which are said to be worth a fair amount.",
+  "max": 298
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. This card looks as if it could be read 'Anoyoroshi', but the correct reading is 'Akayoroshi'. Akayoroshi is said to mean 'clearly excellent'.",
+  "max": 298,
+  "note": "The joke: the cursive 'ka' looks like 'no'. Kept as a reading note."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. It shows bush clover and a boar. Unlike the deer and butterfly cards, nobody actually knows why the boar card is paired with bush clover. One theory says the leftovers were simply put together. Poor Mr. Boar.",
+  "max": 298,
+  "note": "Boar & Bush Clover."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. Look closely: the deer is looking away, as if ignoring you. In the East this card seems to stand for the tenth month, and the deer's pose gave rise to a word: 'ignore someone = deer of ten = shika-tou = shikato'.",
+  "max": 298,
+  "note": "Deer & Maple. Pun on shikato (to give the cold shoulder); 'tenth month' for 10th 'setsu'."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. An old Eastern tale says a butterfly that visits a peony turns to gold if you catch it. If that really happened, alchemists would go pale, but it's a tale full of dreams.",
+  "max": 298,
+  "note": "Butterfly & Peony."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. Rumor has it a strange spell works only on people from the East. Chant 'Ume-ni-uguisu?' at one, and odds are they can't help answering 'Hoh-hokekyo!?' What kind of curse is it?",
+  "max": 298,
+  "note": "Warbler & Plum. Hoh-hokekyo = the bush warbler's song."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. The design pairs a crane with a pine, but cranes' feet are not built to perch on pine branches, so some say the model was actually a stork, not a crane.",
+  "max": 298,
+  "note": "Crane & Pine."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. Is someone holding a blossom-viewing party? Beyond the hanging curtain, the cherry trees are in full bloom. The storm of petals is inviting you, so why not drop in for a while?",
+  "max": 298,
+  "note": "Curtain & Cherry."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. A full moon shines beautifully over a field of pampas grass. It is elegant, yet somehow makes you feel lonely. Is this what they call wabi-sabi? Still, the dumplings are tasty enough to make you smile.",
+  "max": 298,
+  "note": "Moon & Pampas."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. The figure on it was apparently named Ono no Michikaze, but what this person did (or did wrong) has not come down to us. The gaze on the frog is oddly intent, so some guess the figure was a frog lover or scholar.",
+  "max": 298,
+  "note": "Michikaze & Willow. No pronoun for Michikaze (BASE_RULES)."
+ },
+ {
+  "en": "A card Jeratan made, copying the Tarot from the far East. Is the 'houou' what our world would call a phoenix? If so, it looks a bit too much like a chicken.",
+  "max": 298,
+  "note": "Phoenix & Paulownia; houou kept romanized so the question makes sense."
+ },
+ {
+  "en": "A fang that drains a foe's life force, favored by the Kin of Night. Its power is not the point: the 'act' of draining life force holds special meaning for them. They also love to enslave their prey, so many end up in their thrall.",
+  "max": 298,
+  "note": "Drain Fang. 'Kin of Night' = Elm3 term for yoru no kenzoku."
+ },
+ {
+  "en": "Among the moves derived from the Fist is the Umeboshi, which came from the eastern land. You make fists with both hands and grind them into both of the foe's temples. On children, it is said to work wonders.",
+  "max": 298,
+  "note": "Fist +1."
+ },
+ {
+  "en": "A move: make a blade of your hand and bring it down on the foe's crown with a 'Hi-yah!' Done badly, it's just a chop, but they say a master's can take off a head. How is it unlike a bare-handed attack? Ask a master and you'll get 'Fool! It's different, totally different!!' So beware.",
+  "max": 298,
+  "note": "Hand Blade (shuto)."
+ },
+ {
+  "en": "A beak imbued with the power of flame. If its owner wishes, whatever it pecks turns to ash. Focus flame into the beak and charge, and you can launch an attack just like a firebird.",
+  "max": 298,
+  "note": "Flame Beak."
+ },
+ {
+  "en": "A vintage suit of armor. Zombie knights and armor given false life sometimes wear it, and collectors drool over it. A living suit of armor is fine, but beware a zombie knight: if one stands before you wearing this, every challenger before you has fallen.",
+  "max": 298,
+  "note": "Antique Armor."
+ },
+ {
+  "en": "Armor for baptized knights of a church or temple. Its hardness as armor is mediocre, but as holy armor it wields evil-banishing power against spirits, the undead and demons. Some diehards, charmed by that power, ignore finer gear and wear Crusade Armor all their lives.",
+  "max": 298,
+  "note": "Item name assumed 'Crusade Armor' (ITEM 620 not yet translated)."
+ },
+ {
+  "en": "A robe trimmed with brass. Brass amplifies lightning magic, so wearing this robe raises the power of lightning spells. Watch out when a mage is wearing this robe.",
+  "max": 298,
+  "note": "Brass Robe."
+ },
+ {
+  "en": "Garb for a dark wedding. Kin of Darkness rarely wear it among themselves; it is mostly used in cursed weddings of a Kin of Darkness and a child of the land blessed by the gods. Wearing it means defying the gods and forsaking the light. If you ever do, think of a loved one's face and reconsider.",
+  "max": 298,
+  "note": "Unholy wedding garb. 'think it over once more' compressed to 'reconsider'."
+ },
+ {
+  "en": "'Heartbreak' means lost love. This sword seduces and tames a foe, then finishes off that love with treatment so cruel it shatters the heart. A terrifying weapon that deals huge mental damage.",
+  "max": 298,
+  "note": "Heartbreaker."
+ },
+ {
+  "en": "A robe of daring, skin-baring design that stirs lewd, extreme urges in all who see it and makes them act on instinct. Chaos reigns around the wearer, who will suffer too. Yet once tasted, that decadent feast of madness can never be forgotten, and is craved again and again.",
+  "max": 298,
+  "note": "Extreme."
+ },
+ {
+  "en": "A terrifying dagger that slashes again, and again, and again, and again, and again, until the foe falls in a sea of blood. It is highly lethal and highly accurate.",
+  "max": 298,
+  "note": "Five repetitions of 'again' kept."
+ },
+ {
+  "en": "An assassin's blade. Its accuracy is low, but a mere graze can deal a fatal wound, which makes it gear for experts. A novice flailing it about is no threat, but when a veteran draws it, never take your eyes off their hands.",
+  "max": 298
+ },
+ {
+  "en": "The loneliness swirling in a heart, given form. Binding the body with a sash, something other than oneself, lets one feel that one is truly here. Loneliness never filled craves an ever tighter bind. This sealing sash will never tear, however tightly it binds.",
+  "max": 298,
+  "note": "Sealing sash (fuutai)."
+ },
+ {
+  "en": "A great scythe that bears the name of the crescent moon. It is said to be sharp enough to slice even the stars in the night sky. Its edge is so keen that when it is swung swiftly, it takes a moment before you notice you've been cut.",
+  "max": 298,
+  "note": "Handy Crescent."
+ },
+ {
+  "en": "Cute clothing shaped like a pumpkin. It is all fluffy, and is said to show its full power when worn by a small child.",
+  "max": 298,
+  "note": "Pumpty Robe."
+ },
+ {
+  "en": "The tentacles so far were their owners' own reinforced flesh, born with them, but this Death Tentacle is different. It has a clear will of darkness; its very existence must not be allowed. If one ever appears on your land, take it as a clear sign of invasion by the Kin of Darkness.",
+  "max": 298,
+  "note": "Death Tentacle(s) as in slice_058."
+ },
+ {
+  "en": "Thwack, thwack! The merciless slap of Demon Duke Nyoppurin. Take one and watch out: the backhand brings a second. But don't be amazed yet. Nyoppurin can also spin with arms spread wide and deliver a tornado of slaps that leaves you no time to breathe.",
+  "max": 298,
+  "note": "Nyoppurin as in slice_000 (key item Nyoppurin's Pudding)."
+ },
+ {
+  "en": "The most famous axe among the Kin of Darkness. The name Baltagias was fairly well known before, but it grew far more famous once Dalisiamarte, the current head of the house, won many feats of arms with this axe.",
+  "max": 298,
+  "note": "Demon Axe Baltagias."
+ },
+ {
+  "en": "Cannibalism is humans eating human flesh; in a broad sense, any eating of one's own kind. This is a ceremonial sword used to commit that cursed act. Ceremonial or not, its shape is ideal for butchering a human body, and so it is highly lethal as well.",
+  "max": 298,
+  "note": "Item name 'Carnival Sword' puns on cannibal; the pun is the source's."
+ },
+ {
+  "en": "Battle garb made more to fire up the spirit than to protect. In a trance of blood and slaughter, you won't even mind the blows you take. In fact, you will likely feel joy and pleasure even at the blood spurting from your own body.",
+  "max": 298
+ },
+ {
+  "en": "A Chopper Sword, custom-made to order, that succeeded in gaining even more attack power. Its power is off the charts, its edge is off the charts, everything about it is off the charts.",
+  "max": 298,
+  "note": "Butchigiri ('off the charts') puns on butagiri (Chopper Sword); the item name is not settled here."
+ },
+ {
+  "en": "The scythe of the librarian Samariel, who looks very much like Samael. Librarians take the forms of creatures that live on the lands, the Wastelands included. Why is unknown, but as befits Samael's likeness, its scythe is just as sharp. One sweep can take every head in the front row.",
+  "max": 298,
+  "note": "librarian / Wastelands = Elm3 terms (raiburarian, haichi)."
+ },
+ {
+  "en": "Water resists hard, so the fish swimming in it are surprisingly strong. This is the deadly move they devised: deftly using tail and fins, they knock a foe up, then smack the falling body sideways. Fishermen know its power; with a green captain, you'll see them pop off the deck one after another.",
+  "max": 298
+ },
+ {
+  "en": "Buster Fingerling",
+  "max": 20,
+  "note": "Name pun: buster + fin + gyo (fish); 'fingerling' = young fish. Elm3's similar item is a different name (Fish Buster)."
+ },
+ {
+  "en": "The student handbook issued at Rubenburg. It sets out a mage's precepts in three scripts: Common, Ritual Magic and Spirit. Students learn the scripts year by year in class, and read the precepts their power calls for. The forebears clearly knew too strict or too lax won't do.",
+  "max": 298,
+  "note": "Spirit Script as in slice_017."
+ },
+ {
+  "en": "A simple baked sweet made of flour, butter, salt and sugar. Sometimes lemon or cocoa is added. Add a cup of black tea, and a little tea party begins.",
+  "max": 298,
+  "note": "Shortbread."
+ },
+ {
+  "en": "Sweet bread: dough rolled into a spiral shell and baked, then filled with chocolate or cream. Whether to eat it from the wide open end or from the narrow tip depends on the person. At the Magic School it is a common sample topic in debate class.",
+  "max": 298,
+  "note": "Chocolate cornet (slice_004)."
+ },
+ {
+  "en": "A cake devised by someone named Mont Blanc. It uses chestnuts: whipped cream on a cupcake, then chestnut cream squeezed round and round on top. When squeezing it out, try to keep the line as thin as you can. An odd thickness will kill everyone's appetite.",
+  "max": 298,
+  "note": "Source's joke etymology kept. 'neri-neri' rendered 'squeezed round and round'."
+ },
+ {
+  "en": "The way to solve Beldoll, long thought unsolvable: in other words, its Last Theorem. A few people are said to have obtained it, yet strangely none of them ever wrote it down. Rumor even says Beldoll silences them. Will you try to put this theorem on record?",
+  "max": 298,
+  "note": "Beldoll = the puzzle ring (glossary). Fermat pun."
+ },
+ {
+  "en": "A chakram born from the blanks in history and its records. The deeper the mystery, the greater its power grows. As long as the mystery stays a mystery, this weapon will never lose its power.",
+  "max": 298,
+  "note": "Missing Ring (missing link pun)."
+ },
+ {
+  "en": "A book on what a king must know to rise in the world of darkness. It details how to handle monster underlings, rewards and punishments that work, how to unite one's kin, what leadership is, and more. Read it and you'll find they worry and struggle over the same things we do.",
+  "max": 298,
+  "note": "Dark kingcraft (teiougaku)."
+ },
+ {
+  "en": "Peer through the ring atop this staff, and it is said you can see past events that happened in that place. Lost records and the truth of history may teach you awkward facts you 'would rather not have known.' If your mind is strong enough to bear them, take a look.",
+  "max": 298,
+  "note": "Tsakaro's Evil Eye (slice_000); described as a ringed shakujo staff."
+ },
+ {
+  "en": "A shockwave born of the elegant air a noble lady carries. The poor, of course, and even the moderately rich are said to be unable to move before its might. Yet what truly makes a lady a lady is nothing but the regal majesty she was born with.",
+  "max": 298,
+  "note": "Celebration (celeb pun)."
+ },
+ {
+  "en": "Coveted by felines the world over. Merely holding it feels like being wrapped in catnip and brings a smile of pure bliss. It satisfies so fully that one loses the will to do anything, and many have collapsed where they stood. Staying sane once you have it takes great magic power.",
+  "max": 298,
+  "note": "matatabi = 'catnip' as in slice_021."
+ },
+ {
+  "en": "At dusk, the demon hour, when gloom veils the land, the line between this world and the next is said to blur. This voice is said to be the call the 'Abyss' sends then to draw lost souls; a spirit that hears it is swallowed at once. Hear it in the flesh, and your soul will slip out, leaving a husk.",
+  "max": 298,
+  "note": "Call of the Abyss. oumagatoki = 'dusk, the demon hour'."
+ },
+ {
+  "en": "The war cry one once worshipped as a god let out at a true god. It is so full of hatred and curses that hearing it nearby makes you shudder, even though you are not the one being blamed.",
+  "max": 298,
+  "note": "No gender for the former god (source leaves it unnamed)."
+ },
+ {
+  "en": "A pole axe with blades at both ends, made of a very heavy ore; just raising it is hard labor. Unless you are strong enough to wield it freely, you must keep it spinning like a windmill to fend off nimble weapons. But once it gets going it won't easily stop, so the foe can only run.",
+  "max": 298,
+  "note": "Cannon Axe."
+ },
+ {
+  "en": "A large gem cherished by Harz, a young lady of the Kin of Darkness and Zoze's daughter. It has been part of her since birth, they say, and she has lovingly stroked it since she was small. By chance Mirco touched it; unable to forget the thrill, she began chasing Mirco around.",
+  "max": 298,
+  "note": "Harz Crystal (slice_000). Harz female (daughter); no pronoun for Zoze."
+ },
+ {
+  "en": "A grenade Professor Harmoni put heart and soul into. Its power is no joke: it can blow away a building, grounds and all. The Professor will hardly ever use it, but know its dangers well. In rock-paper-scissors it counts as dynamite; it supposedly beats rock, scissors and paper. Is that true?",
+  "max": 298,
+  "note": "Harmoni: no pronoun (gender unknown)."
+ },
+ {
+  "en": "The umbrella the dream demon Lukoje loves to use. It can thrust like a spear in battle, but here one would rather use it elegantly, as a parasol.",
+  "max": 298,
+  "note": "Lukoje (glossary)."
+ },
+ {
+  "en": "House Lenzer keeps its own smiths, and every weapon they forge for the head of the house or the family bears the name 'Baltagias'. This sword is one of them, but it was made for the young heir, so it has little power.",
+  "max": 298,
+  "note": "The hiragana form (childish) cannot be shown; script uses Baltagias for both."
+ },
+ {
+  "en": "The demon sword Baltagias, its true power unleashed after it accepted its wielder and sought to answer the wielder's will. With power worthy of the name Baltagias, it shows the glory of House Lenzer to every world.",
+  "max": 298,
+  "note": "Awakened form; the hiragana/katakana contrast of the source is lost."
+ },
+ {
+  "en": "Wrath is not a negative emotion. It is the noble heart that stakes everything to see its will through when one's reason to exist and beliefs are trampled. Those who call wrath evil merely lack the strength and conviction to be angry.",
+  "max": 298,
+  "note": "Sword of Wrath (script)."
+ },
+ {
+  "en": "An earring that, when its owner is about to weep, quietly catches the tears in its gem where no one can see. Those who cannot show tears. Those who cannot let sorrow show, to protect themselves. It is said to save such hearts. Yet some sorrows are too great even for the Earring of Sorrow.",
+  "max": 298,
+  "note": "Earring of Sorrow (script). Fragments kept."
+ },
+ {
+  "en": "A leg of Shirinmorin, one of the Four Sages, who rules water. Equip it and you can move it at will. You may picture holding it, but it can be attached right to your body and made part of it. Done well, you share nerves with it and swing it around like your own limb, quite literally.",
+  "max": 298,
+  "note": "Shirinmorin's Leg (slice_022)."
+ },
+ {
+  "en": "A rod in development at the Caron Main Store. What will the finished product be like?",
+  "max": 298,
+  "note": "Caron P = prototype series (slice_030 'prototypes')."
+ },
+ {
+  "en": "A hat in development at the Caron Main Store. What will the finished product be like?",
+  "max": 298
+ },
+ {
+  "en": "An outfit in development at the Caron Main Store. What will the finished product be like?",
+  "max": 298,
+  "note": "Item is a vest; source says clothes."
+ },
+ {
+  "en": "Gloves in development at the Caron Main Store. What will the finished product be like?",
+  "max": 298
+ },
+ {
+  "en": "Shoes in development at the Caron Main Store. What will the finished product be like?",
+  "max": 298
+ },
+ {
+  "en": "An accessory in development at the Caron Main Store. What will the finished product be like?",
+  "max": 298,
+  "note": "Item is an earring; source says accessory."
+ },
+ {
+  "en": "Clean Hit",
+  "max": 14,
+  "note": "Ability-table column header / ability name."
+ },
+ {
+  "en": "Exorcism",
+  "max": 8,
+  "note": "Subdue demons; EBOOT says it deals double damage. Budget 8."
+ },
+ {
+  "en": "Hew",
+  "max": 4,
+  "note": "issen = a single flash of the blade. Budget 4 rules out Flash/Slash/Issen; shared with EBOOT eb@0895abb4."
+ },
+ {
+  "en": "Outer Dragon",
+  "max": 24,
+  "note": "Record 13 title; monster name not found elsewhere in the corpus."
+ },
+ {
+  "en": "Area",
+  "max": 12,
+  "note": "debug? (dev column header)"
+ },
+ {
+  "en": "Difficulty",
+  "max": 12,
+  "note": "debug? (dev column header); also TREASURE.CSV:3:40"
+ },
+ {
+  "en": "**",
+  "max": 12,
+  "note": "Star rating; stars -> '*' (ASCII rule, like the settled 'square -> *')."
+ },
+ {
+  "en": "***",
+  "max": 12,
+  "note": "Star rating."
+ },
+ {
+  "en": "****",
+  "max": 12,
+  "note": "Star rating."
+ },
+ {
+  "en": "Enemy monster group data (leader) Max 700",
+  "max": 46,
+  "note": "debug? (dev sheet title)"
+ },
+ {
+  "en": "Bias",
+  "max": 6,
+  "note": "debug? (dev column header: % bias/shift; the % sign dropped so no stray printf-like code)"
+ },
+ {
+  "en": "0:No 1:Can appear 2:Home",
+  "max": 28,
+  "note": "debug? (dev legend)"
+ },
+ {
+  "en": "Monster 1",
+  "max": 12,
+  "note": "debug? (dev column header)"
+ },
+ {
+  "en": "Disp Pos",
+  "max": 8,
+  "note": "debug? display coordinates; budget 8"
+ },
+ {
+  "en": "Monster 2",
+  "max": 12,
+  "note": "debug? (dev column header)"
+ }
+]

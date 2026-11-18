@@ -1,0 +1,2914 @@
+[
+ {
+  "id": "EVENT_TEXT.CSV:0:10",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:2",
+  "en": "A New Journey",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:6",
+  "en": "ABC",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:7",
+  "en": "A New Journey - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:8",
+  "en": "A New Journey - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:2",
+  "en": "Overture",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:6",
+  "en": "Overture - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:7",
+  "en": "Overture - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:8",
+  "en": "Overture - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:2",
+  "en": "Bistel Tour",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:6",
+  "en": "Bistel Tour - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:7",
+  "en": "Bistel Tour - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:8",
+  "en": "Bistel Tour - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:2",
+  "en": "Adventurer Reg. Exam",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:6",
+  "en": "At your audience, Ragnastia said she wished to test whether you are adventurers fit for this mission. You are to use the compass to bring back the Jewel Ring from Loipes Cave.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:7",
+  "en": "Adventurer Reg. Exam - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:8",
+  "en": "Everyone, you've already solved this request, you know? May Semnadoc bless you all!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:2",
+  "en": "Shield of Compassion",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:6",
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:7",
+  "en": "Shield of Compassion - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:8",
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:2",
+  "en": "Tiara of Hope",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:6",
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:7",
+  "en": "Tiara of Hope - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:8",
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:2",
+  "en": "Breastplate of Intellect",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:6",
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:7",
+  "en": "Breastplate of Intellect - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:8",
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:2",
+  "en": "Bracelet of Harmony",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:6",
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:7",
+  "en": "Bracelet of Harmony - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:8",
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:2",
+  "en": "Shoes of Courage",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:6",
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:7",
+  "en": "Shoes of Courage - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:8",
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:2",
+  "en": "Anklet of Joy",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:6",
+  "en": "One of 8 relics securing Fiona's rule. An evil spirit appeared at Contrachio and erased her name, so a selection period began. Gather all 8 to restore her rule, or the land falls to the Kin of Darkness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:7",
+  "en": "Anklet of Joy - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:8",
+  "en": "Where the relics are, you ask? I'm afraid you'll have to find them yourselves. The Sword of Wrath and the Earring of Sorrow are already in enemy hands, so there's no need to look for them. Find the other six.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:2",
+  "en": "Banish the Ancient Evil",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:6",
+  "en": "Once you had gathered every relic you could, Ragnastia ordered you to head for the Holy Foundation, Contrachio. The fight with the ancient evil spirit nears its end. Can you protect Mother Earth?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:7",
+  "en": "Banish the Ancient Evil - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:8",
+  "en": "You have every relic you can gather. All that's left is to storm Contrachio! On the way are places to offer relics, but the evil spirit's name is carved there now. Offering one strengthens the spirit, so be careful!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:2",
+  "en": "Hail Great Adventurers",
+  "max": 24,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:6",
+  "en": "You won the deadly battle with the ancient evil spirits at the Holy Foundation, Contrachio. The monsters haven't all gone, but things are as peaceful as they once were. You saved the land!",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:7",
+  "en": "Hail Great Adventurers - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:8",
+  "en": "Thank you so much! Now the land has been saved!!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:2",
+  "en": "The Mysterious Altars",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:6",
+  "en": "Ragnastia says this land has six altars, one for each god, and that praying at all of them lets you glimpse the realm of the gods. One is Bistel's Temple of Orses, but where are the rest...?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:7",
+  "en": "The Mysterious Altars - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:8",
+  "en": "Pray at the altars of Life-Creation and Space in the town temple. Change is in the Narmant Trench, Dark Oblivion in the Scorching Castle, Time in the Narmant Trench, Existence in the Blanc Desert.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:2",
+  "en": "The Proud House Lenzer",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:6",
+  "en": "You met Mirco, a child of the nobles of darkness. Your battles with them will never end.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:7",
+  "en": "The Proud House Lenzer - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:8",
+  "en": "The more you beat them, the stronger they get. Indomitable spirit, unceasing effort! Enemy or not, I admire them. You may meet them anywhere, so take care. It seems you can also run away.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:2",
+  "en": "Ragnastia's Treasure",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:6",
+  "en": "Idiot Costo apparently threw out Ragnastia's precious blanket, embroidered with an Emperor Bird. Hopefully it hasn't been disposed of yet.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:7",
+  "en": "Ragnastia's Treasure - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:8",
+  "en": "Things that get thrown out end up in the trash bin. The trash bin is in the southeast of Highberry Forest, so why not search inside it?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:2",
+  "en": "Silent Shell",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:6",
+  "en": "Berte accidentally broke the Silent Shell that keeps mages from running riot in the tavern, and has asked you to get a replacement Silent Shell from Moonlight Falls.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:7",
+  "en": "Silent Shell - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:8",
+  "en": "True silence is hard to make. Listen closely: can't you hear... a sound, even now? Go on, open the map of the whole land and move your right index finger three times. Something about sound should come into view.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:2",
+  "en": "Rosetta's Inn",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:6",
+  "en": "Traveling merchants were the main source of income for Rosetta's Inn, but thanks to Taranti appearing in Highberry Forest, they can no longer reach town, and the inn is struggling.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:7",
+  "en": "Rosetta's Inn - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:8",
+  "en": "First, go through what the merchants did. Follow the path in Highberry Forest and get caught by Taranti. Hear her out, then get the Rolfan on the floating isle in the forest's southeast and give it to her.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:2",
+  "en": "Saimar Merch. Companion",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:6",
+  "en": "The noble Costo seems interested in commoners' prices and trade, and wants you to somehow get a booklet called 'The Saimar Merchant's Companion' from Saimar.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:7",
+  "en": "Saimar Merch. Companion - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:8",
+  "en": "Walmitt should have 'The Saimar Merchant's Companion'. If you help him with his work, he'll likely give it to you before long.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:2",
+  "en": "The Ruined Church Stirs",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:6",
+  "en": "Hoping to save the souls of the in-between, Sigret heard of the Gate of the Underworld that had appeared in Madrie Church Cemetery and went in alone. So Saines asked you to go after her.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:7",
+  "en": "The Ruined Church Stirs - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:8",
+  "en": "The cemetery order is Mag Fig Thi Alc Pri Bis Mag. If your names are learned, you'll be killed. Confuse them with two parties, or suspend your adventure and change your names outright. Then just storm the center.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:2",
+  "en": "The Ruined Church Stirs",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:6",
+  "en": "The Ruined Church Stirs - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:7",
+  "en": "The Ruined Church Stirs - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:8",
+  "en": "The Ruined Church Stirs - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:2",
+  "en": "Friends After All",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:6",
+  "en": "Miria and Soara are best friends, but they had a fight and parted ways. Soara is said to be studying at Rubenburg, and Miria wants to know how she is doing now.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:7",
+  "en": "Friends After All - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:8",
+  "en": "If they parted after a fight, it's best to bring them face to face to make up. If you solve this Soara's troubles, she may come back to Miria.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:2",
+  "en": "Rondelgius's Trial 1",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:6",
+  "en": "Rondelgius ordered you to fetch the Ice Strawberry from the Flotban Snowfield.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:7",
+  "en": "Rondelgius's Trial 1 - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:8",
+  "en": "The snow rabbits seem to love Ice Strawberries too. If you end up racing them for one, it'll be very hard without speed. If it seems hopeless, raise your Agility and try again.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:2",
+  "en": "Rondelgius's Trial 2",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:6",
+  "en": "Rondelgius ordered you to defeat the unknown apparition that appears in Heerdahl.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:7",
+  "en": "Rondelgius's Trial 2 - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:8",
+  "en": "The golf course bunker was to the west, I think. Comb through it. I was once invited to that golf game too, and the beastfolk girl I saw there... I wonder how she is now. I'm worried about her grandmother's health.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:2",
+  "en": "Rondelgius's Trial 3",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:6",
+  "en": "Rondelgius ordered you to plant a banner on the Churos Highlands.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:7",
+  "en": "Rondelgius's Trial 3 - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:8",
+  "en": "The Churos Highlands are guarded by Nishimikado. To beat his trial, you'll find the alchemy items Angel's Window and Dove Bell handy. Then run boldly yet carefully!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:2",
+  "en": "Churos Highlands Anomaly",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:6",
+  "en": "When you swapped out the banner on the Churos Highlands as Rondelgius said, an unknown monster awoke.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:7",
+  "en": "Churos Highlands Anomaly - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:8",
+  "en": "That monster likes to fight in pairs. So when you visit it, try going as a party of two.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:2",
+  "en": "Rise Again, Ancient Song",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:6",
+  "en": "Haleorat asked you to obtain the sheet music of a song guarded by the spirits on Anhimona Heights.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:7",
+  "en": "Rise Again, Ancient Song - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:8",
+  "en": "To climb higher on Anhimona Heights, try giving the fairy on 1F some sweets. Sweets are also sold in Gandra Mine. Once you've been through, you'll find a shortcut too.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:2",
+  "en": "The Ancient Song's Truth",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:6",
+  "en": "The sheet music you obtained was written in a script from long, long ago, and no one could read it. So Haleorat asked you to have it deciphered.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:7",
+  "en": "The Ancient Song's Truth - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:8",
+  "en": "Ogres and goblins excel at studying ancient scripts. Visit the goblin on Baroque Fort 2F and help finish the research, and the script should get deciphered along the way.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:2",
+  "en": "'Morning of Ruin'",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:6",
+  "en": "Lord Volms asked you to look into a painting he bought, a copy of a mural. If only you could find the mural the painting was based on...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:7",
+  "en": "Forsaken Painting 'Morning of Ruin' - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:8",
+  "en": "To reach the painted place, warp from the center of the Dekor Temple Ruins' bottom floor. Once the ancient script is decoded, go deeper under Dekor and let an elf, ogre, human, gnome and hobbit pray to open the door.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:2",
+  "en": "Please Find Me",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:6",
+  "en": "Lunea of Lunea's Shop apparently gathers goods to sell in the Nerid Marshlands, but went out and hasn't come back.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:7",
+  "en": "Please Find Me - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:8",
+  "en": "The oracle says Lunea is on the underground level of the Nerid Marshlands, toward the northeast. Do your best to rescue Lunea, then escort the shopkeeper back to the store.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:2",
+  "en": "Leafa's Request",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:6",
+  "en": "Leafa, the elven princess, ordered you to obtain the Sweet Ginger said to grow in the Nerid Marshlands.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:7",
+  "en": "Leafa's Request - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:8",
+  "en": "Sweet Ginger grows on the surface level of the Nerid Marshlands. Back in my training days, when I got lost and had nothing to eat, I often helped myself to a nibble of it too.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:2",
+  "en": "Leafa's Request!",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:6",
+  "en": "The Sweet Ginger Knights were ordered by Leafa to win back the Moonlight Stone. The stone is said to be held by the Lunatic Demon that comes to the summit of Moonlight Falls.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:7",
+  "en": "Leafa's Request! - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:8",
+  "en": "Apart from defeating the Lunatic Demon at the summit, there shouldn't be anything especially hard. Halfway up, though, you can't go on without finding a hidden door, so do be careful.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:2",
+  "en": "Leafa's Requeeest~",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:6",
+  "en": "The Sweet Ginger Knights were ordered by Leafa to obtain the Holy Ember. The Holy Ember is said to be on the top floor of the Scorching Castle.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:7",
+  "en": "Leafa's Requeeest~ - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:8",
+  "en": "To reach the Scorching Castle's top floor, you may first have to settle the uproar in the basement. Then you can go up. The stones on 2F reveal 3F's invisible path, so it may help to walk every inch of 2F.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:2",
+  "en": "Leafa's Royal Command",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:6",
+  "en": "The Sweet Ginger Knights received a royal command from Leafa: find the savior of long ago and deliver the Yuan Wine to them. Who could this savior be...?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:7",
+  "en": "Leafa's Royal Command - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:8",
+  "en": "You'll likely be given the wine once you sort out all the trouble at Baroque Fort. After you uncover the truth of the Forsaken Painting, try going to see Raizam in the new land.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:2",
+  "en": "Gregorio Is Missing",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:6",
+  "en": "Armitt's only son, Gregorio, has gone missing. Apparently he saw an arena-related request from Heerdahl at Walmitt's...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:7",
+  "en": "Gregorio Is Missing - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:8",
+  "en": "It seems Gregorio has gone and entered the arena. If you also head down to the basement of Heerdahl and fight in the arena, you may be able to meet him.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:2",
+  "en": "My Dinner",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:6",
+  "en": "Benef fishes for his dinner, but Muse always steals the catch, so for the past few years he's gone without a side dish. Apparently catnip water from the Nerid Marshlands could put Muse to sleep, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:7",
+  "en": "My Dinner - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:8",
+  "en": "Catnip water is on the underground level of the Nerid Marshlands. But it's beyond a hidden door, so you'll need to watch your step. It's in the middle of the north side of the underground level.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:2",
+  "en": "Hungry Muse",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:6",
+  "en": "Muse asked you to get a Toryoron Potato. Toryoron Potatoes can apparently be found in the Dekor Ruins.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:7",
+  "en": "Hungry Muse - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:8",
+  "en": "Rubezahl grows turnips on 1F of the Dekor Ruins, but now and then a Toryoron Potato apparently sprouts instead. If you keep searching the turnip field, I think you'll get one.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:2",
+  "en": "Hungry Muse * Seconds",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:6",
+  "en": "Muse asked you to get a Sun Melon. Sun Melons apparently grow in the Blanc Desert.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:7",
+  "en": "Hungry Muse * Seconds - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:8",
+  "en": "The Sun Melon is on the north side of the Blanc Desert, in the northwest. Sandstorms are a nuisance to those who live near the desert, but for adventurers like you, they're a handy way to get around.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:2",
+  "en": "Hungry Muse * 3rd Bowl",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:6",
+  "en": "Muse asked you to get a Heerdahl Manju. Heerdahl Manju are apparently sold in Heerdahl.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:7",
+  "en": "Hungry Muse * 3rd Bowl - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:8",
+  "en": "I often buy Heerdahl Manju as a souvenir when I go golfing. They're delicious! Just go to 3F and buy some; it's not hard. Rumor has it the champion of the basement arena can use a passage straight to 3F.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:2",
+  "en": "Hungry Muse * Dessert",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:6",
+  "en": "Muse asked you to get Shirinmorin's Leg. Shirinmorin's Leg can apparently be had from Shirinmorin in the Narmant Trench.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:7",
+  "en": "Hungry Muse * Dessert - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:8",
+  "en": "Lady Shirinmorin of Water, one of the Four Sages. You could steal one of those honored legs, I suppose, but if you search around nearby, I think you'll find at least one lying about.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:2",
+  "en": "Let's All Solve It!",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:6",
+  "en": "At Bilente's Shop, you were entrusted with a puzzle ring called the Beldoll. You'll have to go around looking for those who can solve it...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:7",
+  "en": "Let's All Solve It! - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:8",
+  "en": "In short, those who can solve it are... Kine, Raizam, the Mistress of Heerdahl, Montana, and the goddess at the center of the new land. Five in all. Sadly, it seems I can't. ...How annoying. May I borrow it a moment?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:2",
+  "en": "Saimar's Grand Merchant",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:6",
+  "en": "Saimar's Grand Merchant - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:7",
+  "en": "Saimar's Grand Merchant - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:8",
+  "en": "Saimar's Grand Merchant - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:2",
+  "en": "The Loipes Cave Bats",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:6",
+  "en": "Loads of giant Vampire Bats have moved into Loipes Cave. Please exterminate them.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:7",
+  "en": "Down on B2F of Loipes Cave, see, a whole bunch of bats THIIIS big have moved in. It's dangerous as all get-out. Somebody do somethin' about it!",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:8",
+  "en": "There are five Big Vanbats on B2F of Loipes Cave. Defeat them, and the request should be complete.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:2",
+  "en": "Cure-All Unicorn Horn",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:6",
+  "en": "Someone needs a Unicorn Horn to cure their grandpa's illness.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:7",
+  "en": "A Unicorn Horn, said to cure any illness... With one, I think Grandpa would get well again. Does anyone have one, by any chance?",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:8",
+  "en": "You can take a Unicorn Horn by force. But rumor has it that at the Unicorn Spring in the Churos Highlands, anyone the unicorns take a liking to is given one for free.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:2",
+  "en": "Relics of the Wanelly",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:6",
+  "en": "The Wanelly, sunk in the Narmant Trench, is said to attack passing ships and adventurers. If only you could gather its relics and set the souls aboard free...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:7",
+  "en": "Captain Wanelly's a scary one. Even dead, the captain goes after anyone who sails close by. Let sleeping dogs lie, they say, but... can't somebody do somethin'? I can't do business like this.",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:8",
+  "en": "Do you know how to herd Sedna? West, north, east, north, east, south, west, north, east, north, west, south, east, north. After that, things should take their course and let you dive into the Narmant Trench.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:2",
+  "en": "Legendary Fundoshi",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:6",
+  "en": "Legendary Fundoshi - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:7",
+  "en": "Legendary Fundoshi - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:8",
+  "en": "Legendary Fundoshi - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:2",
+  "en": "Saimar Orchestra",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:6",
+  "en": "The orchestra in Saimar is short of trumpets. If you get hold of a trumpet, deliver it to them.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:7",
+  "en": "A trumpet, does anyone have a trumpet!? We don't have a trumpet and we're in a fix! The concert's coming up and we have to rehearse! Eeeeek!!",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:8",
+  "en": "Oh, they're short of trumpets? Of the ones adventurers can get hold of, how about a Startle Trumpet?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:2",
+  "en": "Raging Narmant Trench",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:6",
+  "en": "Someone apparently wants Shirinmorin of the Narmant Trench calmed down.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:7",
+  "en": "Hasn't Lady Shirinmorin been acting a bit off lately? It's rare for the Narmant Trench to get this rough. Could somebody go and calm Lady Shirinmorin down?",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:8",
+  "en": "For this one, you'll just have to dive into the trench and do your best. The door to Lady Shirinmorin's chamber opens with switches in the rooms past the secret doors. There are three switches!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:2",
+  "en": "Bahamut on a Single Line",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:6",
+  "en": "Long ago, there was apparently a man who could land Bahamut on a single line.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:7",
+  "en": "Hey, hey! My dad says he once saw an old guy landing a Bahamut on a single line. Can you really catch one? If you land one, tell me!!",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:8",
+  "en": "For fishing, it has to be Benef. Bring a Flame Rod and some Airy Vider Meat, and he may regain his old strength and show off his skill! ...Though something extra may come along with it.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:2",
+  "en": "The Cerberus of Nerid",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:6",
+  "en": "Please exterminate the killer Cerberus that has appeared in the Nerid Marshlands.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:7",
+  "en": "A killer Cerberus has appeared in the Nerid Marshlands. Could someone please hurry and go kill it?",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:8",
+  "en": "A killer Cerberus? If you mean something like that, I saw one on the surface, in the southeast of the Nerid Marshlands...",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:2",
+  "en": "Doppelganger in Clouds",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:6",
+  "en": "A Doppelganger has apparently appeared above the clouds at Moonlight Falls.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:7",
+  "en": "Th-there's a Doppelganger above the clouds at Moonlight Falls! It looks just like me, and it even has my ugly mannerisms! Dammit! Someone, beat that Doppelganger for scarring my heart!!",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:8",
+  "en": "The clouds at Moonlight Falls must be the ones on 2F. If you ride the force of the water down from 3F, you might land right on top of them.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:2",
+  "en": "Tarmeet, Alchemy Lover",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:6",
+  "en": "Tarmeet, Alchemy Lover - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:7",
+  "en": "Tarmeet, Alchemy Lover - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:8",
+  "en": "Tarmeet, Alchemy Lover - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:2",
+  "en": "Devoured by Nightmares",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:6",
+  "en": "Ever since Gary brought an umbrella out of a dream, he's been plagued by nightmares. You got stuck with the umbrella, which gives you nightmares if you sleep somewhere with a pillow.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:7",
+  "en": "Devoured by Nightmares - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:8",
+  "en": "Somewhere with a pillow? In Bistel, Rosetta's Inn should do. Ah, but not the Stables. Economy at the very least. Sleep with the umbrella and you should reach the dream world.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:2",
+  "en": "More Frying Pans",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:6",
+  "en": "The ladle and frying pan Tris uses have broken. Tris would like you to bring back a new ladle and frying pan from the Scorching Castle.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:7",
+  "en": "More Frying Pans - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:8",
+  "en": "If I remember right, 2F of the Scorching Castle is a little smithy. As I recall, Rida was good at ladles, and Yahite at frying pans.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:2",
+  "en": "Dreaming of the Far East",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:6",
+  "en": "Jera of Gandra Mine loves the land far to the east and is hunting for items tied to it. Jera wants \"Hundred Bamboo Edge,\" \"Chihaya Benizakura,\" \"Yasha Princess\" and \"Mikaboshi.\"",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:7",
+  "en": "Dreaming of the Far East - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:8",
+  "en": "Isn't Jera lovely! Like a lone flower blooming in Gandra Mine! If you get \"Hundred Bamboo Edge,\" \"Chihaya Benizakura,\" \"Yasha Princess\" or \"Mikaboshi\" on your adventures, take them to Jera.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:2",
+  "en": "You Are Chaff",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:6",
+  "en": "Garian handed you \"Chaff,\" a hopelessly junky sword. You were told to bring a tarot card so it can be tempered, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:7",
+  "en": "You Are Chaff - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:8",
+  "en": "For a tarot card of Eastern origin, give sweets to Jeratan at the general store and win at rock-paper-scissors. I hear a chocolate cornet gives the best odds of a good one.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:2",
+  "en": "Tenro Sword Legend",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:6",
+  "en": "Quasimon seems to want the Tenro Sword.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:7",
+  "en": "Tenro Sword Legend - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:8",
+  "en": "I've heard the Tenro Sword can be found in the north and south of the Blanc Desert. A sword that's half become legend... I hope you find it.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:2",
+  "en": "Kine's Disciple",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:6",
+  "en": "It's been a long time since Kine's disciple Tarzen disappeared. Kine has no wish to bring Tarzen back, but worries whether Tarzen is doing all right.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:7",
+  "en": "Kine's Disciple - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:8",
+  "en": "I saw an attendant named Tarzen at Heerdahl's Footbath Hall. Could that be the one?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:2",
+  "en": "Train at Moonlight Falls",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:6",
+  "en": "Namina was aiming to work at the cathedral, but is losing sight of the purpose of working there. Namina seems to want to train at Moonlight Falls to clear away those doubts, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:7",
+  "en": "Train at Moonlight Falls - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:8",
+  "en": "Do your best, Namina! May fortune be with you!!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:2",
+  "en": "Please Support Caron!",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:6",
+  "en": "Caron, who runs the Caron Main Store, wants to sell the Caron brand in Rubenburg. It seems all you need to do is dress head to toe in the Caron brand and beat Vice Principal Kathleen, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:7",
+  "en": "Please Support Caron! - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:8",
+  "en": "Talk to Caron while carrying nothing, and Caron will outfit you head to toe in Caron Series prototypes. Dressed like that, go see Vice Principal Kathleen on Rubenburg 2F.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:2",
+  "en": "It's Mersenne!",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:6",
+  "en": "It's Mersenne! - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:7",
+  "en": "It's Mersenne! - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:8",
+  "en": "It's Mersenne! - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:61:2",
+  "en": "No Leaks, Please",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:61:6",
+  "en": "Raizam moved in safely, but is now plagued by a water leak. The girl at the general store in Gandra Mine can apparently fix it, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:61:7",
+  "en": "No Leaks, Please - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:61:8",
+  "en": "The girl at the general store in Gandra Mine... that'd be Jera. If you can somehow get on good terms with Jera, you might be able to bring the shopkeeper along to fix it.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:61:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:62:2",
+  "en": "Leprechaun Treasure",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:62:6",
+  "en": "A thief is apparently after the Leprechaun's treasure in Highberry.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:62:7",
+  "en": "Leprechaun Treasure - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:62:8",
+  "en": "The Leprechaun's treasure is famous, isn't it? Well, taking it by force isn't impossible... But you could also help him out of some trouble and have him hand it over.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:62:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:63:2",
+  "en": "Forest Warden",
+  "max": 24,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:63:6",
+  "en": "Guld, a phony Ranger, wants to win Honey's heart. And to keep the forest at peace, Guld is also looking for someone to learn Ranger skills from.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:63:7",
+  "en": "Forest Warden - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:63:8",
+  "en": "If it's Ranger skills Guld wants to learn, the quickest way is to bring along a High Master Ranger.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:63:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:64:2",
+  "en": "The Wind Sage's Errand",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:64:6",
+  "en": "Omshokopo the Wind Sage is concerned about fellow Four Sages Radrecht, Shirinmorin and Raizam. They're said to be in the Scorching Castle, Narmant Trench and Blanc Desert, respectively, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:64:7",
+  "en": "The Wind Sage's Errand - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:64:8",
+  "en": "So even the Four Sages worry about how their friends are doing. Once you've met the other three, why not go back and tell Omshokopo how they are?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:64:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:65:2",
+  "en": "The Earth Sage's Move",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:65:6",
+  "en": "Raizam the Earth Sage asked you to help with a move. The very bottom of Loipes Cave would be best, apparently, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:65:7",
+  "en": "The Earth Sage's Move - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:65:8",
+  "en": "There's no path to the deepest part of Loipes Cave. You'll just have to dig your way through the hidden doors.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:65:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:66:2",
+  "en": "Revenge on the Mirage",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:66:6",
+  "en": "An adventurer met a mysterious death in the Blanc Desert. You'd like to avenge her, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:66:7",
+  "en": "Revenge on the Mirage - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:66:8",
+  "en": "Search every corner of the northern Blanc Desert and you'll meet a strange beast. Actually, I met it once myself while spreading the teachings. What did I do when I met it? ...Well, I'll tell you sometime.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:66:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:67:2",
+  "en": "Martial Arts Tourney",
+  "max": 24,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:67:6",
+  "en": "At the Heerdahl Martial Arts Tourney, you can even fight Professor Rombino! Will something good happen if you win?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:67:7",
+  "en": "Martial Arts Tourney - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:67:8",
+  "en": "This one's all about strength. Strength! Rombino can take it, so go all out!!",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:67:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:68:2",
+  "en": "Mistress's Invitation",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:68:6",
+  "en": "On the top floor of Heerdahl, Mistress challenged you to a game played with coins, a glass and water.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:68:7",
+  "en": "Mistress's Invitation - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:68:8",
+  "en": "It's a pure battle of wits. No cheating at all. So do your best. ...And don't be swayed by any strange temptations, all right? By the way, they say this game has a sure-fire way to win...",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:68:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:69:2",
+  "en": "Skunk Girl's Job Hunt",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:69:6",
+  "en": "Analis the Skunk Girl is having trouble finding work. Getting back the bell stolen from the priest of Madrie Church would apparently land Analis a job, but...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:69:7",
+  "en": "Skunk Girl's Job Hunt - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:69:8",
+  "en": "Follow Analis's lead, then search the nearby walls at the end and you should find a hidden door. The thief is inside, so do your best to get the bell back.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:69:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:70:2",
+  "en": "Icy Night Counting Snow",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:70:6",
+  "en": "Lost in a blizzard, you were rescued by a strange woman. Who on earth is she...?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:70:7",
+  "en": "Icy Night Counting Snow - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:70:8",
+  "en": "Hmm. Perhaps that was a spirit called a \"Snow Woman,\" from the legends of the land far to the east. If she's on your mind, why not visit her now and then?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:70:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:71:2",
+  "en": "Your Hand at First Frost",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:71:6",
+  "en": "You accepted Miyuki's feelings, but then Miyuki was carried off by someone from Glacier Castle...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:71:7",
+  "en": "Your Hand at First Frost - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:71:8",
+  "en": "If your feelings are mutual, let's go save her! But I hear this General Winter is awfully stubborn. So show him something like his wife's portrait to soften him up. It should be hidden behind the castle.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:71:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:72:2",
+  "en": "Goblin Prince Coronation",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:72:6",
+  "en": "You were asked to find the bungee gear needed for the Goblin Prince's coronation: a \"bungee rope\" and a \"Handcrafted Zabutoon.\"",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:72:7",
+  "en": "Goblin Prince Coronation - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:72:8",
+  "en": "This one's a real hassle. Well, if you keep going around talking to everyone, I think it'll sort itself out eventually, so be patient and keep at it.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:72:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:73:2",
+  "en": "Pyroglyph Research",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:73:6",
+  "en": "The Pyroglyph Researcher in Baroque Fort asked you to help with the research.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:73:7",
+  "en": "Pyroglyph Research - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:73:8",
+  "en": "Ancient script research, is it! Why not try answering [┌┐┘└├┬┤] for the first, [┴┏┓┛┣┗┳] for the second, [┫┻┠┯┨┷┿] for the third, and [┝┰┥┸╂] for the last!?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:73:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:74:2",
+  "en": "Report to the Ancestors",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:74:6",
+  "en": "Once the coronation was over, you were asked to take Goblin Prince Montana to the royal tomb of the ogres and goblins in the Churos Highlands.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:74:7",
+  "en": "Report to the Ancestors - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:74:8",
+  "en": "That would be 1F on the north side of the Churos Highlands. You can't go on without finding a hidden door, so search hard for it.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:74:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:75:2",
+  "en": "Enrolling at Rubenburg",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:75:6",
+  "en": "You finished enrolling at Rubenburg. Will you actually manage to graduate?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:75:7",
+  "en": "Enrolling at Rubenburg - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:75:8",
+  "en": "The school sets lots of tough exams, so no slacking off, all right? Still, if you walk every corner of the school building, I think you'll pick up hints to the questions, so give it your best.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:75:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:76:2",
+  "en": "Magical Party",
+  "max": 24,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:76:6",
+  "en": "In the Magic Research Wing, you can even fight Professor Nambino! Will something good happen if you win?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:76:7",
+  "en": "Magical Party - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:76:8",
+  "en": "As befits a school that teaches spells, only spells work on Professor Nambino. It should be a good test of strength for Mages and other spellcasters.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:76:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:77:2",
+  "en": "Can't... Hold... It!",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:77:6",
+  "en": "Mirco's in a pinch!",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:77:7",
+  "en": "Can't... Hold... It! - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:77:8",
+  "en": "I'll lend you an Angel's Window. Then again, I don't have to lend it... What do you think, hmm?",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:77:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:78:2",
+  "en": "Stop the Forbidden Expt.",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:78:6",
+  "en": "According to Soara, the school's Board Chair is about to dabble in a forbidden arcane experiment. You were asked to help uncover the truth.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:78:7",
+  "en": "Stop the Forbidden Expt. - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:78:8",
+  "en": "This calls for a head-on charge, plain and simple. Storm in through the Principal's Office and demand answers.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:78:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:79:2",
+  "en": "Fire Sage's Irritation",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:79:6",
+  "en": "Radrecht, the Fire Sage, was wilting in the heat of the Scorching Castle. The spirits seem to be raising a ruckus underground...",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:79:7",
+  "en": "Fire Sage's Irritation - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:79:8",
+  "en": "I've heard of the Spirit Tournament: the fire kin gather to vie for first place. Well, if they've lost their senses and are running riot, it's easiest to make them all promise to enter, then handle them all at once.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:79:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:80:2",
+  "en": "Hot Stuff, Shirinmorin",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:80:6",
+  "en": "Radrecht, back in good spirits, entrusted you with a love letter addressed to Shirinmorin.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:80:7",
+  "en": "Hot Stuff, Shirinmorin - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:80:8",
+  "en": "What, Radrecht is sweet on Lady Shirinmorin!? Well, well, my word. So even the Four Sages fall in love. If you've been asked to deliver it, there's nothing for it but to deliver it.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:80:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:81:2",
+  "en": "Regards to the Unicorn",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:81:6",
+  "en": "At the entrance to the Churos Highlands, an adventurer with a past entrusted you with returning the Great Tree Staff to the Unicorn, along with her thanks.",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:81:7",
+  "en": "Regards to the Unicorn - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:81:8",
+  "en": "To reach the Unicorn, you'll probably have to go with Innocents only -- that is, characters who have never changed class.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:81:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:82:2",
+  "en": "The Land Reborn",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:82:6",
+  "en": "The Librarian led you to a land newly reborn: the New Land, Urnas Rade. What can you do for her?",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:82:7",
+  "en": "The Land Reborn - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:82:8",
+  "en": "You'll need the help of many people: Princess Leafa, King Montana, the Pyroglyph Researcher... Carve the true Earth Mother's name into Reiblair, then take the ogres' and goblins' Yuan Wine to the one so named.",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:82:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:83:2",
+  "en": "Kine's True Disciple",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:83:6",
+  "en": "Kine's True Disciple - event text",
+  "max": 202,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:83:7",
+  "en": "Kine's True Disciple - consultation text",
+  "max": 194,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:83:8",
+  "en": "Kine's True Disciple - hint text",
+  "max": 216,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "EVENT_TEXT.CSV:83:11",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26,
+  "used": true,
+  "status": "new"
+ }
+]

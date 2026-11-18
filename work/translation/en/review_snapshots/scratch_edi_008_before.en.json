@@ -1,0 +1,338 @@
+[
+ {
+  "en": "The switch turned off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The switch turned on.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a ladder. Climb up?",
+  "kind": "data"
+ },
+ {
+  "en": "There's a ladder. Climb down?",
+  "kind": "data"
+ },
+ {
+  "en": "You are inside solid rock",
+  "kind": "op096",
+  "note": "Banner text (op096, like the spinner/chute banners). Nod to Wizardry's classic 'in rock' teleport death; kept as a plain statement."
+ },
+ {
+  "en": "Climbing down this ladder should let you board the ship.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Board the ship?",
+  "kind": "data"
+ },
+ {
+  "en": "Climbing up this ladder should get you back ashore.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Climb up?",
+  "kind": "data"
+ },
+ {
+  "en": "Central-eastern Hestrio Continent.{w}The fortress city of Bistel.{w}{p}A city promised prosperity by the Bistel royal family, the only ones on the continent who can hear the words of the Earth Goddess.{w}{p}With vast plains and mountains at its back and the sea at its front, it also serves as a key hub of maritime trade.{w}{p}Right now, the whole continent has its eyes on this city. The reason is a single 'Decree' issued by Bistel's queen, Ragnastia.{w}{p}The Decree announced that Fiona, the Earth Goddess, had lost her sovereignty to an awakened ancient evil spirit and was being driven from her place,{w}{p}and it promised whatever reward they wished to anyone who restored Fiona's sovereignty and banished the ancient evil spirit from the land.{w}{p}A notice board set up in a prominent spot at the center of the plaza bears the same words as the Decree.{w}",
+  "kind": "msg",
+  "note": "Accuracy: reworded so \"was being driven from her place\" clearly refers to Fiona, not the evil spirit (source: Fiona lost sovereignty and is being driven out)."
+ },
+ {
+  "en": "\"Interested in Lady Ragnastia's Decree?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, sorry to spring that on you. I'm Miria.{w}I work at this town's Training Hall, keeping the register of adventurers.\"{w}{p}\"So whenever I see an adventurer I don't recognize, I just can't help calling out. Occupational hazard, I guess? Don't take it the wrong way.\"{w}{p}\"I know! If you like, want me to show you around town?\"{w}{p}\"I've got errands to run at the adventurers' shops anyway. If you come along, you'll save yourself the trouble of finding them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Want a tour of Bistel?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Huh? You're sure?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Got it. See you later, then. I'll be waiting at the Training Hall.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Miria left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay, let's go! The Training Hall comes first.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here we are. This is the first place you should come.\"{w}{p}\"You're standing right there, but unless you register, we can't treat you as an adventurer, and you can't form a party either.\"{w}{p}\"Register your real name, nickname, race, sex, personality and so on, and pick your class last.\"{w}{p}\"There are basic, intermediate and advanced classes, but the bar for qualifying for an advanced class is high, so don't count on starting as one.\"{w}{p}\"Well, if you dig in and take your time, you might get straight into an advanced class... but unless you're set on it, I wouldn't recommend it.\"{w}{p}\"Okay, wait right there a sec.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Miria's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Umm, the register, the register... Found it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry to keep you waiting! Back to town.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My errand is to circulate this register to the shops. Once you register, you'll be in it too.{w}Next, let's go to Berte's Tavern.\"{w}",
+  "kind": "msg",
+  "note": "Pilot kept; only 'tavern' capitalised to match glossary entry Berte's Tavern."
+ },
+ {
+  "en": "\"This is the tavern. Adventurers who register at the Training Hall all wait here. Including you and your friends, of course.\"{w}{p}\"If you call on them to form a party, they'll all join you, as long as your personalities aren't too far apart.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Berte",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, Miria! Welcome!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hiya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And who's this? A new adventurer, maybe?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yep. I found them in front of the notice board. I'm showing them around town while I make my rounds. Here's the latest register.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks! Let's see...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's gotten a bit shorter. Actually, there aren't any newcomers... Huh? What about the kids who registered just the other day?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Squish, squish.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Again!?{w}Shouldn't you warn them beforehand?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"According to the director of our Training Hall, 'If they get crushed here, that's all they were ever going to be as adventurers. Better than dying somewhere more dangerous.'\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-that's harsh. If that's how it is, I'll keep my mouth shut, but... But still, but still...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You end up with fewer customers, right? Sorry.\"{w}",
+  "kind": "msg",
+  "note": "Miria finishes Berte's trailing complaint: dead rookies mean fewer tavern customers."
+ },
+ {
+  "en": "\"...Howeeever!{w}Right here, we have a promising newcomer!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's right!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You were grabbed by both shoulders.{w}",
+  "kind": "msg",
+  "note": "JP is passive with no agent. The scene implies Berte, but the row is a unique line that may recur elsewhere, so the agent is not named."
+ },
+ {
+  "en": "\"Do your best, for my shop's sake too, okay?{w}...Run away or give up, and you'll be sorry.\"{w}",
+  "kind": "msg",
+  "note": "shouchi shinai = 'I won't stand for it'; rendered as a threat, not softened."
+ },
+ {
+  "en": "\"Well, we'd better get going. I still have to drop in on Costo and Rosetta.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay. See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once you've formed a party, get yourselves properly equipped. This place is called the Kernel Shop, but...{w}Well, never mind. Go on in.\"{w}",
+  "kind": "msg",
+  "note": "Miria trails off (hesitating about the shopkeeper) and drops it."
+ },
+ {
+  "en": "Costo",
+  "kind": "name"
+ },
+ {
+  "en": "\"This is intolerable...{w}Why must I, of all people, run some item shop!? Flamberge or whatever it is, I've no idea...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hellooo!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lady Ragnastia goes too far, too!{w}There's no need to get so angry over a mere military budget!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, there goes the griping again...{w}Hello? Costooo?\"{w}",
+  "kind": "msg",
+  "note": "Subject of the griping left as a noun phrase to avoid a pronoun for Costo (gender not confirmed in glossary)."
+ },
+ {
+  "en": "\"Hm? Ah, it's you, Miria.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm circulating the adventurer register. Here you go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't need it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's not about whether you need it or not. Please just look at it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As if I'd look at it. Such a bother. By rights, I am not someone who belongs in a place like this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, no, no, I don't think that's true at all.\"{w}",
+  "kind": "msg",
+  "note": "Teasing: she contradicts his claim that he doesn't belong in the shop."
+ },
+ {
+  "en": "\"Honestly! What's all this about 'Collect 10,000,000 GP and learn the value of money'!? I'm the one who rebuilt the Administration Bureau, you know!\"{w}",
+  "kind": "msg",
+  "note": "Inner quote (the Queen's order) in single quotes. GP kept as the game's currency abbreviation."
+ },
+ {
+  "en": "\"Yes, yes, of course you did.{w}...Sigh. That's Costo for you. If it seems like a hassle, you don't have to talk to Costo at all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way, you there. A rookie adventurer? Then I've got just the thing!\"{w}{p}\"It's called a Flamberge! Word is it's a seriously awesome weapon! Just for you, I'll sell it for 500,000 GP.\"{w}",
+  "kind": "msg",
+  "note": "soutou iketeru: Costo uses slang he half understands; 'seriously awesome' keeps it."
+ },
+ {
+  "en": "\"H-hey, Costo! What do you think you're doing, ripping people off like that!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ripping people off? What a nasty thing to accuse me of. Fine, then... 300,000 GP will do. Buy it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's not the point! How do you even come up with a price like that!? It's way too expensive!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Expensive!? Hahaha, you can't be serious! 300,000 GP is gone after one meal and a little wine, isn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-there you go again... And the Queen only just told you that's exactly what's wrong with you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't talk like you know it all!{w}Besides, this is my shop, isn't it? Then what's wrong with me setting the prices?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course it's wrong!! This! Look at this! The Commerce Guild Price Agreement!!\"{w}",
+  "kind": "msg",
+  "note": "New term: shoukou kumiai kakaku kyoutei = Commerce Guild Price Agreement."
+ },
+ {
+  "en": "\"What's that? I've never seen it before.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bistel's Chief Merchant came and explained it on your very first day!!\"{w}",
+  "kind": "msg",
+  "note": "New title: shouchou = Chief Merchant (glossary has daishouchou = Grand Merchant for Walmitt; kept parallel)."
+ },
+ {
+  "en": "\"Did that happen?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly, geez. The Flamberge is... page 109. Isn't this it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, the print's too small. I can't read it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then. Put. On. Some. GLASSES, why don't youuuuu!!\"{w}",
+  "kind": "msg",
+  "note": "Syllable-by-syllable shout with rough imperative (kakero yo); word-by-word stress keeps the effect."
+ },
+ {
+  "en": "\"All right, all right! I have a magnifying glass, okay!? Now then, let's see...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"15,000 GP... Whaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's the proper price.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bwahahaha!! You can buy this sword for that kind of chump change!? That wouldn't even buy tea and cakes!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-that's a fortune! Talk about bourgeois!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't get it... I just don't get how you commoners think...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go. And. DIE!!{w}Forget it, let's go. If we keep dealing with this old geezer, we'll be here till sundown.\"{w}",
+  "kind": "msg",
+  "note": "isshen, shi.ne = 'go die once', spelled out; not softened. oyaji = old man/geezer: the source's own word (see report, gender evidence for Costo)."
+ },
+ {
+  "en": "\"Now see here, how about showing me a little more respect? I'll have you know I am...\"{w}",
+  "kind": "msg",
+  "note": "Interrupted; left unfinished."
+ },
+ {
+  "en": "\"Yeah, yeah, on to the next one!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Normally, the next step would be going to Bistel Castle so you can pay your respects to the Queen, but...\"{w}{p}\"That's one place I can't just casually show you around, so once you're done registering, go there on your own.\"{w}{p}\"Next, I'll show you the inn, where you can rest.\"{w}",
+  "kind": "msg"
+ }
+]

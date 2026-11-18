@@ -1,0 +1,296 @@
+[
+ {
+  "id": "KIROKU.CSV:0:4",
+  "en": "Note",
+  "max": 4,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:2:1",
+  "en": "Record 01",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:2:2",
+  "en": "Supervisor Archelon",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:3:1",
+  "en": "Record 02",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:3:2",
+  "en": "Donnelkral",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:4:1",
+  "en": "Record 03",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:4:2",
+  "en": "Nonhared",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:5:1",
+  "en": "Record 04",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:5:2",
+  "en": "Escapra",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:6:1",
+  "en": "Record 05",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:6:2",
+  "en": "Urna",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:7:1",
+  "en": "Record 06",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:7:2",
+  "en": "Zeshrom",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:8:1",
+  "en": "Record 07",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:8:2",
+  "en": "B.R. Mistress",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:9:1",
+  "en": "Record 08",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:9:2",
+  "en": "Urna-Zefkaka",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:10:1",
+  "en": "Record 09",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:10:2",
+  "en": "New Land Urnas Rade",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:11:1",
+  "en": "Record 10",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:11:2",
+  "en": "Silent Beast",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:12:1",
+  "en": "Record 11",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:12:2",
+  "en": "Angelo",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:13:1",
+  "en": "Record 12",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:13:2",
+  "en": "Underworld Gt.",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:14:1",
+  "en": "Record 13",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:14:2",
+  "en": "Outer Dragon",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:15:1",
+  "en": "Record 14",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:15:2",
+  "en": "Dragon Centaur V",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:16:1",
+  "en": "Record 15",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:16:2",
+  "en": "Lunatic Demon",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:17:1",
+  "en": "Record 16",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:17:2",
+  "en": "Gregorio, the Only Son",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:18:1",
+  "en": "Record 17",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "KIROKU.CSV:18:2",
+  "en": "Beldoll",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:19:2",
+  "en": "Big Vanbat",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:20:2",
+  "en": "Captain Wanelly",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:21:2",
+  "en": "Lukoje",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:22:2",
+  "en": "Rubenburg Teacher Union",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:23:2",
+  "en": "The Proud House Lenzer",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:24:2",
+  "en": "General Winter",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "KIROKU.CSV:25:2",
+  "en": "Dodo King",
+  "max": 24,
+  "used": true,
+  "status": "new"
+ }
+]

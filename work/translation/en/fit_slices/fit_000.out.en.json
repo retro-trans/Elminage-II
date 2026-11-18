@@ -1,0 +1,373 @@
+[
+ {
+  "en": "Kin of Darkness",
+  "max": 18,
+  "note": "Dropped 'About the' (full: About the Kin of Darkness)."
+ },
+ {
+  "en": "The Gods' World",
+  "max": 18,
+  "note": "Dropped 'About' (full: About the Gods' World)."
+ },
+ {
+  "en": "The Inner Door",
+  "max": 18,
+  "note": "Dropped 'About' (full: About the Inner Door)."
+ },
+ {
+  "en": "Fig",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Fighter."
+ },
+ {
+  "en": "Pri",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Priest."
+ },
+ {
+  "en": "Thi",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Thief."
+ },
+ {
+  "en": "Alc",
+  "max": 8,
+  "note": "Header label; 3-letter class abbreviation for Alchemist."
+ },
+ {
+  "en": "Ser",
+  "max": 6,
+  "note": "Header label; 3-letter class abbreviation for Servant."
+ },
+ {
+  "en": "Ran",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Ranger."
+ },
+ {
+  "en": "Gla",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Gladiator."
+ },
+ {
+  "en": "Sum",
+  "max": 6,
+  "note": "Header label; 3-letter class abbreviation for Summoner."
+ },
+ {
+  "en": "Val",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Valkyrie."
+ },
+ {
+  "en": "Nin",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Ninja."
+ },
+ {
+  "en": "Puppet",
+  "max": 6,
+  "note": "Header label; race Magic Puppet shortened."
+ },
+ {
+  "en": "Bis",
+  "max": 4,
+  "note": "Header label; 3-letter class abbreviation for Bishop."
+ },
+ {
+  "en": "Hum",
+  "max": 4,
+  "note": "Header label; race Human."
+ },
+ {
+  "en": "Neut",
+  "max": 4,
+  "note": "Header label; alignment Neutral."
+ },
+ {
+  "en": "Summ",
+  "max": 4,
+  "note": "Header label; Summon (spell school)."
+ },
+ {
+  "en": "Und.",
+  "max": 4,
+  "note": "Header label; monster type Undead."
+ },
+ {
+  "en": "Spir",
+  "max": 4,
+  "note": "Header label; monster type Spirit."
+ },
+ {
+  "en": "Bug",
+  "max": 4,
+  "note": "Header label; monster type Insect."
+ },
+ {
+  "en": "Anim",
+  "max": 4,
+  "note": "Header label; monster type Animal."
+ },
+ {
+  "en": "Myth",
+  "max": 4,
+  "note": "Header label; monster type Mythic."
+ },
+ {
+  "en": "Dev.",
+  "max": 4,
+  "note": "Header label; monster type The Devil."
+ },
+ {
+  "en": "Bkin",
+  "max": 4,
+  "note": "Header label; monster type Beastkin."
+ },
+ {
+  "en": "Gnt.",
+  "max": 4,
+  "note": "Header label; monster type Giant."
+ },
+ {
+  "en": "GShd",
+  "max": 4,
+  "note": "Header label; monster type Godshade."
+ },
+ {
+  "en": "Psn",
+  "max": 4,
+  "note": "Header label; status Poison."
+ },
+ {
+  "en": "Para",
+  "max": 4,
+  "note": "Header label; status Paralysis."
+ },
+ {
+  "en": "Sil.",
+  "max": 4,
+  "note": "Header label; status Silence."
+ },
+ {
+  "en": "Conf",
+  "max": 4,
+  "note": "Header label; status Confusion."
+ },
+ {
+  "en": "Chrm",
+  "max": 4,
+  "note": "Header label; status Charm."
+ },
+ {
+  "en": "Petr",
+  "max": 4,
+  "note": "Header label; status Petrification."
+ },
+ {
+  "en": "Tenro",
+  "max": 6,
+  "note": "Header label; full: Tenro Sword."
+ },
+ {
+  "en": "Record Wand",
+  "max": 12,
+  "note": "Header label; full: Wand of Records."
+ },
+ {
+  "en": "Caron Main",
+  "max": 12,
+  "note": "Header label; full: Caron Main Store."
+ },
+ {
+  "en": "Creates a barrier that blocks one drain attack. Stackable.",
+  "max": 62
+ },
+ {
+  "en": "Rainbow light hits one foe; stronger per spell cast in battle.",
+  "max": 62
+ },
+ {
+  "en": "Asks the gods for a mighty miracle at the cost of one level.",
+  "max": 62
+ },
+ {
+  "en": "Creates a barrier that blocks one breath attack. Stackable.",
+  "max": 62
+ },
+ {
+  "en": "[Instrument] Blesses all allies' weapons so they hit spirits.",
+  "max": 62
+ },
+ {
+  "en": "[Instrument] Fissure damages foes; low chance to swallow them.",
+  "max": 62
+ },
+ {
+  "en": "[Instrument] Resets battle stat changes on all friends & foes.",
+  "max": 62
+ },
+ {
+  "en": "[Servant] Spends all money for limitless damage to one enemy.",
+  "max": 62
+ },
+ {
+  "en": "Fully heals one ally's HP; cures all ailments but Death/Ash.",
+  "max": 62
+ },
+ {
+  "en": "Likely the first weapon a Fighter holds. It's called \"long\" next to the short sword, but isn't really that long. Its length, weight and grip are tuned so even a novice can wield it. It's cheap, but grip it again after using other swords and you'll notice the smith's care. Then you've come of age.",
+  "max": 298
+ },
+ {
+  "en": "A sword made to sever the world of the dead from this one. Its task done, it now sleeps quietly. Its aura is the miasma of the underworld, and its blade is said to show every evil deed of this world. Should one without will wield it, they will be cursed and carried off to the land of the dead.",
+  "max": 298
+ },
+ {
+  "en": "Deathdeath pikopiko, bloodshed! Deathdeath pikopiko, boom! Hits hurt, My Darling, but don't run, fall in HELL! I'll haunt you anywhere, love's range cap OFF! (zing!) Deathdeath pikopiko, fresh blood! Deathdeath pikopiko, precious! Even burnt to ash, by love's special POW-WER! I L-O-V-E U...smooch~",
+  "max": 298
+ },
+ {
+  "en": "A fallen samurai is an eastern samurai who survived a war on the losing side and fled. Such a fugitive's armor is called Fallen Samurai Armor. Its wearer was attacked while fleeing, so its back bristles with enemy arrows. They ran for their lives, with no time to pull them from armor or body.",
+  "max": 298
+ },
+ {
+  "en": "Formal attire of the Kannagi, a sort of eastern Priest. Its sheer silken overgarment and faintly crimson cherry blossom embroidery are lovely. Some adventurers are said to become Kannagi out of longing for this outfit. And it's not only lovely: it also protects, making it a fine pick as armor too.",
+  "max": 298
+ },
+ {
+  "en": "Lovely rose-adorned gauntlets only women who fight may wear. For whom does a lone rose blooming on the battlefield swing her sword? By this continent's custom, you don't get Rose Gauntlets yourself; they should be a gift from someone close to your heart. If you get some, give them to that someone!",
+  "max": 298
+ },
+ {
+  "en": "A cloak that blesses those who find the path they must follow. Its defense is modest, but its spell resistance is strong. Even high-level adventurers are said to find it hard to part with. Some who lose the right to wear it can't bear to toss the cloak that saw them through their youth.",
+  "max": 298
+ },
+ {
+  "en": "Die holding these, and you'll sit up after death and walk back to where you set out, they say. Nothing is scarier, for your killer and those you return to. With the dead really walking, ghost-story sales crashed, so 'Eastern Yokai Tales' was compiled to win them back. Hang in there, booksellers.",
+  "max": 298
+ },
+ {
+  "en": "An Eastern legend tells of a princess who couldn't be with her love; she took up this naginata, became a yasha and burned herself with them. So the lovelorn gaze at this spear in rapture. Unleash its hidden power to relive the legend. If a companion likes this spear, you'd better talk it over.",
+  "max": 298
+ },
+ {
+  "en": "As if an iron boomerang weren't dangerous enough, an even bigger idiot made one of obsidian. Its mass is ample. Its razor-sharp obsidian edges slice the foe, and it returns with its momentum intact. It's hopeless. Hide behind your Lord. Its power as a weapon? Want to know? Take a hit yourself.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the power of a mythical beast of far eastern legend. The karasu tengu is a master of sword and mystic arts. The unskilled holding it hear a strange voice coaching them in swordplay and tactics. Rare for a katana, its blade is black. One swing and a jet-black flash strikes the foe.",
+  "max": 298
+ },
+ {
+  "en": "A katana home to a female spirit named Aramisaki. She seems to fret over being left on the shelf and is at her wits' end. So only men can hold it, and if one gets cozy with a woman, he's cursed for generations on generations, right down to the tip. A famed blade that vexes holder and held alike.",
+  "max": 298
+ },
+ {
+  "en": "Just as nations rise and fall over long history, faiths fade once no longer needed. This mace may once have been worshipped and defined an era, but now no one knows it. People cling with all their might when they need something to lean on, then toss it aside when bored. That's people for you.",
+  "max": 298
+ },
+ {
+  "en": "Ask which fang truly has value to an adventurer, and one answer is a fang kept as proof of slaying a mighty foe. It can be a legendary beast's, or one from a foe you remember as \"I'd win easily now, but back then it took everything I had.\" It becomes a fang in the heart that spurs adventurers on.",
+  "max": 298
+ },
+ {
+  "en": "Fire too many Psi Blades (that is, be attacked by all around for too long), and in time the mind is transformed. However it is treated, it takes everything as an attack. It turns every emotion into hatred and grief and fires it: that is Psi Blade +1. If a foe fired this at you, could you take it?",
+  "max": 298
+ },
+ {
+  "en": "Bank",
+  "max": 6,
+  "note": "Header label; full: Coin Bank."
+ },
+ {
+  "en": "Appr",
+  "max": 4,
+  "note": "Header label; full: Appraise."
+ },
+ {
+  "en": "1st",
+  "max": 4,
+  "note": "Header label; full: First Strike."
+ },
+ {
+  "en": "Purs",
+  "max": 4,
+  "note": "Header label; full: Pursuit."
+ },
+ {
+  "en": "Barr",
+  "max": 4,
+  "note": "Header label; full: Barrier."
+ },
+ {
+  "en": "Stl.",
+  "max": 4,
+  "note": "Header label; full: Steal."
+ },
+ {
+  "en": "Strip",
+  "max": 8,
+  "note": "Header label; full: Strip Gear."
+ },
+ {
+  "en": "Strafe",
+  "max": 8,
+  "note": "Header label; full: Strafe Pursuit."
+ },
+ {
+  "en": "Fate Alt",
+  "max": 8,
+  "note": "Header label; full: Fate Alteration."
+ },
+ {
+  "en": "Above Clouds",
+  "max": 12,
+  "note": "Dropped 'the' (full: Above the clouds)."
+ },
+ {
+  "en": "D. Knight",
+  "max": 10,
+  "note": "Name abbreviated; full: Death Knight."
+ },
+ {
+  "en": "Snow Bunny",
+  "max": 10,
+  "note": "Name changed to fit; full: Snow Rabbit (same as 7:58)."
+ },
+ {
+  "en": "Mizuti",
+  "max": 6,
+  "note": "Name abbreviated; full: Mizuchi (Kunrei romanization of the same kana)."
+ },
+ {
+  "en": "Chimra",
+  "max": 6,
+  "note": "Name abbreviated; full: Chimera."
+ },
+ {
+  "en": "Snow Bunny",
+  "max": 10,
+  "note": "Name changed to fit; full: Snow Rabbit (same as 6:58)."
+ },
+ {
+  "en": "A creature rising from the ground, stalking prey with formless body and big eyes. Its thick tentacles are surprisingly strong and reach even the back row, so low-level Mages and such often fall prey. If it looks dangerous, have the front row cover them.",
+  "max": 256
+ },
+ {
+  "en": "A magical creature that takes in all kinds of living things and grows ever larger, keeping its shape. Some it takes in bond with the Jellita and fuse with it instead of being digested. Touch it bare and digestion starts right there, so armor is a must.",
+  "max": 256
+ },
+ {
+  "en": "A mechanical bird. Its ferocity and machine precision torment adventurers. Yet turn that precision against it and you'll run rings around it. Perhaps they look alike: now and then one mistakes a rooftop weathercock for a female of its kind and courts it.",
+  "max": 256
+ },
+ {
+  "en": "A monster of many theories: a warrior trapped in a twisted world, a discarded failed Homunculus out for revenge, a dream demon's minion, a soldier from another dimension. Its looks are so harsh, they say, that onlookers dream of it or go mad on the spot.",
+  "max": 256
+ },
+ {
+  "en": "A further-grown Homunculus. Save for its head, its body no longer crumbles in open air. Crack its head flask a little and the protective fluid spills; it soon dies. But if they are made on a whim and killed for no real reason, do their lives mean anything?",
+  "max": 256
+ }
+]

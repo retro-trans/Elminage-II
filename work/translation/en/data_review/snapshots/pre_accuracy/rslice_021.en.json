@@ -1,0 +1,242 @@
+[
+ {
+  "en": "Noble Lady's Eerie Wings"
+ },
+ {
+  "en": "Great Emperor's Crown"
+ },
+ {
+  "en": "Underworld Water"
+ },
+ {
+  "en": "Prayer to the Revered One"
+ },
+ {
+  "en": "Overlord Bull's Demon Horn"
+ },
+ {
+  "en": "Harz Crystal"
+ },
+ {
+  "en": "Half-Drawn Map"
+ },
+ {
+  "en": "Nyoppurin's Pudding"
+ },
+ {
+  "en": "Ira's True Crystal"
+ },
+ {
+  "en": "Party %2d"
+ },
+ {
+  "en": "No Memory Stick is inserted.\nTo install data, a Memory Stick with at least\n%dMB of free space is required."
+ },
+ {
+  "en": "To install the data,\n%dMB more is required."
+ },
+ {
+  "en": "To install the data,\n%dKB more is required."
+ },
+ {
+  "en": "%s was taken back."
+ },
+ {
+  "en": "This game's save data will be initialized.\nInitializing it will erase all records."
+ },
+ {
+  "en": "Initializing save data...\nDo not remove the Memory Stick."
+ },
+ {
+  "en": "Choose the icon to use."
+ },
+ {
+  "en": "Face Icons"
+ },
+ {
+  "en": "? ? ? ? ? ?"
+ },
+ {
+  "en": "Installing data...\nDo not remove the Memory Stick."
+ },
+ {
+  "en": "Please check the UMD."
+ },
+ {
+  "en": "The Memory Stick was removed.\nPlease reinsert the Memory Stick."
+ },
+ {
+  "en": "Failed to read data.\nPlease check the UMD."
+ },
+ {
+  "en": "Failed to write data.\nCheck the Memory Stick and reinsert it."
+ },
+ {
+  "en": "Not enough free space in internal memory."
+ },
+ {
+  "en": "The Memory Stick is write-protected."
+ },
+ {
+  "en": "Data installed successfully."
+ },
+ {
+  "en": "Data install failed.\n%s"
+ },
+ {
+  "en": "Preparing to install data..."
+ },
+ {
+  "en": "Per use: %6d GP"
+ },
+ {
+  "en": "No stats increased."
+ },
+ {
+  "en": "Start the game without installing?"
+ },
+ {
+  "en": " 1.Battle Test"
+ },
+ {
+  "en": " 4.Sound Test"
+ },
+ {
+  "en": " 5.New Game (Auto-load On)"
+ },
+ {
+  "en": " 6.Battle Test 2"
+ },
+ {
+  "en": " 7.Chest Test"
+ },
+ {
+  "en": " 8.Movie Test"
+ },
+ {
+  "en": " 9.Debug Switches"
+ },
+ {
+  "en": "10.Debug Chars"
+ },
+ {
+  "en": "11.RNG Test"
+ },
+ {
+  "en": "12.Macro Test"
+ },
+ {
+  "en": "14.Char Portrait Test"
+ },
+ {
+  "en": "15.Ending Test"
+ },
+ {
+  "en": "16.Load & Delete Save Data (Circle:Load, Triangle:Delete)"
+ },
+ {
+  "en": "[Normal Battle]"
+ },
+ {
+  "en": "Physical Tournament"
+ },
+ {
+  "en": "Spell Tournament"
+ },
+ {
+  "en": "(Test)"
+ },
+ {
+  "en": "Elminage Debug Menu %s"
+ },
+ {
+  "en": "Elminage Sound Test (WIP)"
+ },
+ {
+  "en": "Portrait Viewer"
+ },
+ {
+  "en": "Script error: RET without a CALL"
+ },
+ {
+  "en": "Problem with install data. Please reinstall."
+ },
+ {
+  "en": "This image can be\nimported."
+ },
+ {
+  "en": "Not a 256-color image.\nIf imported as is, it\nwill be auto-converted\nto the colors above."
+ },
+ {
+  "en": "The image is not\n48x48 pixels."
+ },
+ {
+  "en": "                         Elminage II"
+ },
+ {
+  "en": "          ~ Twin Goddesses and the Land of Destiny ~"
+ },
+ {
+  "en": "                    Director    Komiyama Daisuke"
+ },
+ {
+  "en": "                    Planning    Komiyama Daisuke"
+ },
+ {
+  "en": "                                Sogawa Junichi"
+ },
+ {
+  "en": "                 Game Design    Komiyama Daisuke"
+ },
+ {
+  "en": "                    Scenario    Komiyama Daisuke"
+ },
+ {
+  "en": "                 Programming    Opera House Inc."
+ },
+ {
+  "en": "                                Fujiwara Hiroyuki"
+ },
+ {
+  "en": "                                Ichinoseki Makoto"
+ },
+ {
+  "en": "                      Script    Komiyama Daisuke"
+ },
+ {
+  "en": "                 2D Graphics    Ueno Joko"
+ },
+ {
+  "en": "                                Onodera Satomi"
+ },
+ {
+  "en": "                                Koriyama Sachiko"
+ },
+ {
+  "en": "                                Higashisakihara Tatsuya"
+ },
+ {
+  "en": "                 3D Graphics    Matsuo Yohei"
+ },
+ {
+  "en": "                                Hiyama Tomoyuki"
+ },
+ {
+  "en": "               Opening Movie    Magota Shingo"
+ },
+ {
+  "en": "                 Main Visual"
+ },
+ {
+  "en": "                   Monster &    Miyauchi Ken"
+ },
+ {
+  "en": "                 Item Design"
+ },
+ {
+  "en": "            Sound Production    Basiscape"
+ },
+ {
+  "en": "              Elminage Theme    Sakimoto Hitoshi"
+ }
+]

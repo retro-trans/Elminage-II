@@ -1,0 +1,362 @@
+[
+ {
+  "en": "\"Well now, that turned into a fine show at the very end!{w}Here's your prize money. Go on, take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll give you this too!{w}Use it with care, won't you?\"{w}",
+  "kind": "msg",
+  "note": "Item given is presumably the mace Belfana offered as the bonus prize in slice 042 (3513-3517)."
+ },
+ {
+  "en": "\"Ahh, I feel wonderful...{w}If I soak in a hot bath after this, I'll sleep like a dream.{w}Ufufufu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, you lot! You forgot something!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Gregorio's Belongings.{w}",
+  "kind": "msg",
+  "note": "New key item name. [JP] = belongings left by the dead; Gregorio has just been killed in the arena (slice 042). Must match the item table."
+ },
+ {
+  "en": "\"Catfight, GO!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Cat on the Right",
+  "kind": "name"
+ },
+ {
+  "en": "\"Nyaaaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Cat on the Left",
+  "kind": "name"
+ },
+ {
+  "en": "\"Unyaaaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Unyanyaaaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hanyaaaa!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa! A sharp cat punch!!{w}But the other one dodges it nya-nya style, and... a killer cat kick! No, it's not doing much!\"{w}{p}\"...Sigh, what the heck is this?{w}Mistress, what's gotten into you...{w}Boo hoo...\"{w}",
+  "kind": "msg",
+  "note": "Cats' gender unknown: 'the other one' supplies the subject of [JP]. [JP] = 'Boo hoo...' (dejected). | Editorial: live commentary kept in the present tense (was 'dodges... didn't do much')."
+ },
+ {
+  "en": "Ninja",
+  "kind": "name",
+  "note": "Elm3 class name."
+ },
+ {
+  "en": "\"I take part in these bouts to hone my skills, I do.{w}...I-it's not as if I have any interest in 3F, mind you!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered as a light 'I do' / 'mind you' tic, not archaic English. 3F kept as in the source (the champions' route to Heerdahl 3F, row 3670)."
+ },
+ {
+  "en": "Gladiator",
+  "kind": "name",
+  "note": "Elm3 class name for [JP]."
+ },
+ {
+  "en": "\"I've got no money to buy clothes!!{w}If I win, I'll buy up every piece of clothing in the world!!{w}...Ah-choo!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elf Knight",
+  "kind": "name"
+ },
+ {
+  "en": "\"Mistress...{w}I caught a glimpse once. If I had to compare... a black rose. S-so beautiful...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Arena Beast",
+  "kind": "name"
+ },
+ {
+  "en": "\"It's warm here all year round, real easy livin', y'know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Arena Fighter?",
+  "kind": "name"
+ },
+ {
+  "en": "\"This is baaad!{w}At this rate, I'm gonna get killed someday too!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'Nooo good!' is not an idiomatic exclamation for [JP]."
+ },
+ {
+  "en": "Savage Fighter",
+  "kind": "name",
+  "note": "[JP]; [JP] = Fighter (glossary)."
+ },
+ {
+  "en": "\"That damn weasel! Even my all-out blow didn't do a thing to it!!{w}...Maybe it's time I retired.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = some weasel-like opponent; 'damn weasel' keeps the insult without gendering it."
+ },
+ {
+  "en": "\"I don't care about winning at all.{w}Pro... Professor Rombino... *blush*...{w}Someday I'd love to bully the professor with my spells...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = blushing sound. [JP] = 'bully' (playful/teasing sense); 'the professor' avoids a pronoun for Rombino (gender unknown)."
+ },
+ {
+  "en": "\"Whoa-whaaat!?{w}Where is this place, man!? Where are we, huh!?{w}Whaaaaa-huuuuh?\"{w}",
+  "kind": "msg",
+  "note": "[JP] speech -> casual 'man', 'huh'. | Editorial: 'Where's this' unidiomatic."
+ },
+ {
+  "en": "Servant",
+  "kind": "name"
+ },
+ {
+  "en": "\"What is it?{w}This is a private passage for escorting the arena's champions.{w}It doesn't seem to concern you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Congratulations on your victory.{w}From here, I can escort you to Heerdahl 3F.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Go to Heerdahl 3F?",
+  "kind": "data"
+ },
+ {
+  "en": "\"...Very well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Should you need anything, you have only to ask.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gravekeeper",
+  "kind": "name"
+ },
+ {
+  "en": "\"There are souls here who still wander, not knowing when they died.\"{w}{p}\"If you were to hear their stories...{w}and speak to them in the order they died, perhaps they could be saved, but...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: awkward 'Here there are' word order."
+ },
+ {
+  "en": "\"It seems you have saved them.{w}They will surely rest in peace now.{w}Thank you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Fighter's Ghost",
+  "kind": "name"
+ },
+ {
+  "en": "\"I was the first to die an honorable death in battle!{w}It's true!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Priest's Ghost",
+  "kind": "name",
+  "note": "New name box, built on the glossary pattern (Priest's Ghost's Voice)."
+ },
+ {
+  "en": "\"When the two on either side of me died, I was actually casting a resurrection spell on a certain someone who had died first.{w}That spell should have worked, though...\"{w}{p}\"Well, as for me... I got clubbed to death right after casting it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as the party members on either side of the priest. [JP] kept vague ('a certain someone') as in the source - it is a puzzle clue. | Editorial: past perfect makes the puzzle timeline clear (that person died before the casting)."
+ },
+ {
+  "en": "Thief's Ghost",
+  "kind": "name",
+  "note": "New name box, glossary pattern."
+ },
+ {
+  "en": "\"I bet I'm the only one in the front row who noticed.\"{w}{p}\"That the mage at the back tripped on a rock, fell flat, took a knock on the head, got a nosebleed, and died unnoticed before the battle even began...\"{w}{p}\"I bet I'm the only one who noticed.\"{w}",
+  "kind": "msg",
+  "note": "Mage's gender not stated: phrasing avoids a pronoun. [JP] = 'quietly / without anyone knowing'. | Accuracy: [JP] = unnoticed by anyone (the puzzle clue: no one saw the mage die); \"quietly\" lost that."
+ },
+ {
+  "en": "Bishop's Ghost",
+  "kind": "name",
+  "note": "New name box, glossary pattern."
+ },
+ {
+  "en": "\"When the front row was wiped out, I suddenly got scared...{w}I tried to run before I ended up the last one left, and I died...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: [JP] = 'front row', as in the Thief's Ghost 2664."
+ },
+ {
+  "en": "Alchemist's Ghost",
+  "kind": "name",
+  "note": "New name box, glossary pattern; 17 chars, slightly over the ~16 guideline (the glossary's own 'Alchemist's Ghost's Voice' is 25)."
+ },
+ {
+  "en": "\"That priest was unbelievable!{w}I was at death's door, and the priest was trying to use a resurrection spell!\"{w}{p}\"Surely you treat the living before someone who's already dead!\"{w}{p}\"I was fuming about that when the poison spread, and I keeled over and died.\"{w}{p}\"I fell flat on my face, and right in front of me were the dead thief's feet.{w}To think the last thing I ever saw was the soles of a thief's feet!{w}Poor, poor me!!\"{w}",
+  "kind": "msg",
+  "note": "Priest's gender unknown: 'the priest' repeated instead of a pronoun. | Editorial: [JP] exclamation (indignant 'to think...') was flattened into a plain statement."
+ },
+ {
+  "en": "Mage's Ghost",
+  "kind": "name"
+ },
+ {
+  "en": "\"Wahahahaa!!{w}The first one to die? That was me, me!!{w}But the last one to die was me too!!\"{w}{p}\"Funny, innit?{w}How come, huh!?{w}Waaahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "Goofy [JP] endings -> 'innit', 'huh'."
+ },
+ {
+  "en": "\"...Wha? Wha-wha-wha?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Fighter's Ghost's Voice",
+  "kind": "name",
+  "note": "Glossary form; 23 chars, long for a name box (in-game check)."
+ },
+ {
+  "en": "\"Could it be...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Thief's Ghost's Voice",
+  "kind": "name",
+  "note": "Glossary form; 21 chars (in-game check)."
+ },
+ {
+  "en": "\"That's how it went...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Alchemist's Ghost's Voice",
+  "kind": "name",
+  "note": "Glossary form; 25 chars (in-game check)."
+ },
+ {
+  "en": "\"In this order...\"{w}",
+  "kind": "msg",
+  "note": "2681/2683/2685 form one sentence across three speakers: 'In this order... we... were wiped out...'"
+ },
+ {
+  "en": "Priest's Ghost's Voice",
+  "kind": "name",
+  "note": "Glossary form; 22 chars (in-game check)."
+ },
+ {
+  "en": "\"We...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bishop's Ghost's Voice",
+  "kind": "name",
+  "note": "Glossary form; 22 chars (in-game check)."
+ },
+ {
+  "en": "\"...were wiped out...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mage's Ghost's Voice",
+  "kind": "name",
+  "note": "New name box, glossary pattern; 20 chars (in-game check)."
+ },
+ {
+  "en": "\"See, I told you I was first!{w}Honestly, you musclehead.\"{w}",
+  "kind": "msg",
+  "note": "[JP] aimed at the Fighter's Ghost, who answers in 2689."
+ },
+ {
+  "en": "\"A klutz who tripped and died before the fight even started gets no say!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Your feet are an eyesore, you know!!\"{w}",
+  "kind": "msg",
+  "note": "Alchemist to the Thief (the feet from 2670); the Thief answers in 2693."
+ },
+ {
+  "en": "\"Oh yeah? Sorry 'bout that!{w}Then why don't you tell me what kind of feet you'd swoon over!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not that it matters to me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, by the way, you!{w}What was that, trying to save your own skin at the very end!\"{w}",
+  "kind": "msg",
+  "note": "Aimed at the Bishop (ran away, 2667), who answers in 2699."
+ },
+ {
+  "en": "\"But I was scared...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're short on guts, that's your problem, guts!{w}And you, magic jerk! You too...\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'magic jerk' (rude, no gender). Line is cut off in the source."
+ },
+ {
+  "en": "For all the racket they were making, they were wrapped in light and faded away together on the best of terms...{w}",
+  "kind": "msg",
+  "note": "Editorial: restores the [JP] contrast (noisy yet [JP]); 'happily together' dangled at the end."
+ },
+ {
+  "en": "Adventurers' Voices",
+  "kind": "name",
+  "note": "New name box ([JP]); 19 chars (in-game check)."
+ },
+ {
+  "en": "\"Tell us...{w}the order we died in...{w}Tell uuuus...!!\"{w}{p}\"In the order we died...{w}speak to uuus...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Madrie Church Priest",
+  "kind": "name",
+  "note": "Glossary form; 20 chars (in-game check)."
+ },
+ {
+  "en": "\"Ah, this is a real problem...{w}Truly an act that fears not even the gods, you might say...\"{w}{p}\"Are you here hoping to get married, perhaps?{w}Right now, well, things are a bit...{w}A thief stole our bell, you see.\"{w}{p}\"I'm sorry, but could you come back another time...\"{w}",
+  "kind": "msg",
+  "note": "The church runs the marriage agency (glossary note). | Accuracy: [JP] -> \"the gods\" (polytheist setting; corpus convention), not monotheistic \"God\". | Editorial: 'a deed without even the fear of the gods' garbled; second 'you see' on the page removed ('Right now, well,')."
+ },
+ {
+  "en": "\"Mister Priiiest\"{w}",
+  "kind": "msg",
+  "note": "[JP] in hiragana = childish address; 'Mister Priest' used throughout for Analis (the priest is male per glossary). No closing punctuation in the source."
+ },
+ {
+  "en": "A beastfolk girl appeared before you and the priest.{w}",
+  "kind": "msg",
+  "note": "[JP]: glossary 'Beastfolk Girl' (the narration says [JP], so 'girl' is in the source)."
+ },
+ {
+  "en": "\"Hey, hey, Mister Priest!{w}Let Analis work at this church!\"{w}",
+  "kind": "msg",
+  "note": "Analis refers to self by name (as in slice 006)."
+ },
+ {
+  "en": "\"Huh?{w}You want to work?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yup!{w}Analis just can't find a job.\"{w}{p}\"You'll give Analis a job, right, Mister Priest?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, um...{w}You may say that, but...{w}You're a monster, aren't you?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: [JP] rendered idiomatically."
+ },
+ {
+  "en": "\"Mister Priest, your face looks like a monster's too, y'know?\"{w}",
+  "kind": "msg"
+ }
+]

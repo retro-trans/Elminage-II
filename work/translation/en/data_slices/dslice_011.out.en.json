@@ -1,0 +1,346 @@
+[
+ {
+  "en": "Monster 3",
+  "max": 12,
+  "note": "Header row of the encounter table (dev label)."
+ },
+ {
+  "en": "Monster 4",
+  "max": 12
+ },
+ {
+  "en": "Monster 5",
+  "max": 12
+ },
+ {
+  "en": "Monster 6",
+  "max": 12
+ },
+ {
+  "en": "Friendly (%)",
+  "max": 12,
+  "note": "Chance the group is friendly."
+ },
+ {
+  "en": "Front",
+  "max": 6,
+  "note": "Front-row type; matches EBOOT 'Front'."
+ },
+ {
+  "en": "Back",
+  "max": 6,
+  "note": "Back-row type; matches EBOOT 'Back'."
+ },
+ {
+  "en": "Foll.1",
+  "max": 6,
+  "note": "Follow-up group 1 (monsters called in after the leader group)."
+ },
+ {
+  "en": "Chance 1 (%)",
+  "max": 12
+ },
+ {
+  "en": "Foll.2",
+  "max": 6
+ },
+ {
+  "en": "Chance 2 (%)",
+  "max": 12
+ },
+ {
+  "en": "Foll.3",
+  "max": 6
+ },
+ {
+  "en": "Chance 3 (%)",
+  "max": 12
+ },
+ {
+  "en": "BGM",
+  "max": 6
+ },
+ {
+  "en": "Fly",
+  "max": 4,
+  "note": "Terrain/area flag column: flying."
+ },
+ {
+  "en": "Schl",
+  "max": 4,
+  "note": "Area flag column: school (Rubenburg); 'School' is over the 4-byte budget."
+ },
+ {
+  "en": "Tomb",
+  "max": 4,
+  "note": "Area flag column: graveyard/cemetery; 4-byte budget."
+ },
+ {
+  "en": "Leader",
+  "max": 8
+ },
+ {
+  "en": "Foll",
+  "max": 4,
+  "note": "Follow-up (follower) column; 4-byte budget."
+ },
+ {
+  "en": "Mon 1",
+  "max": 24,
+  "note": "Short header for the group-member columns, kept short like the source."
+ },
+ {
+  "en": "Mon 2",
+  "max": 24
+ },
+ {
+  "en": "Mon 3",
+  "max": 24
+ },
+ {
+  "en": "Mon 4",
+  "max": 24
+ },
+ {
+  "en": "Mon 5",
+  "max": 22
+ },
+ {
+  "en": "Mon 6",
+  "max": 22
+ },
+ {
+  "en": "Foll.Chk",
+  "max": 8,
+  "note": "Follow-up check (dev column label); 8-byte budget."
+ },
+ {
+  "en": "Zombie",
+  "max": 6
+ },
+ {
+  "en": "Giant Beetle",
+  "max": 20
+ },
+ {
+  "en": "Pike Mosquito",
+  "max": 16
+ },
+ {
+  "en": "Vampire Bat",
+  "max": 18
+ },
+ {
+  "en": "Giant Rat",
+  "max": 18
+ },
+ {
+  "en": "Ectoplasm",
+  "max": 14
+ },
+ {
+  "en": "FrontDup",
+  "max": 8,
+  "note": "Data value in the follow-up-check columns: 'front-row duplicate' (dev label, debug?). 8-byte budget."
+ },
+ {
+  "en": "Ghoul",
+  "max": 6
+ },
+ {
+  "en": "Giant Frog",
+  "max": 20
+ },
+ {
+  "en": "Flying Stingray",
+  "max": 24
+ },
+ {
+  "en": "Crawling Claw",
+  "max": 18,
+  "note": "MON_TEXT: a demon's arm growing from the ground, so claw, not crow."
+ },
+ {
+  "en": "Rubenburg 1st-Year",
+  "max": 24,
+  "note": "Script uses 'first-years' for 1[JP] (slice 051)."
+ },
+ {
+  "en": "Rubenburg 1st-Year (M)",
+  "max": 24,
+  "note": "([JP]) -> (M); '(Boy)/(Girl)' would not fit 24 for the girl rows."
+ },
+ {
+  "en": "Rubenburg 1st-Year (F)",
+  "max": 24
+ },
+ {
+  "en": "Antlion",
+  "max": 14
+ },
+ {
+  "en": "Eye Wing",
+  "max": 12,
+  "note": "MON_TEXT: looks like a bat but is a giant eyeball."
+ },
+ {
+  "en": "Echo",
+  "max": 6,
+  "note": "Ghost of a female adventurer that repeats your call (MON_TEXT); unrelated to the NPC Echo."
+ },
+ {
+  "en": "Demon Imp",
+  "max": 14
+ },
+ {
+  "en": "Night Stalker",
+  "max": 16,
+  "note": "MON_TEXT: 'one who walks the night'."
+ },
+ {
+  "en": "Elven Knight",
+  "max": 14
+ },
+ {
+  "en": "Rogue",
+  "max": 6
+ },
+ {
+  "en": "Golem",
+  "max": 8
+ },
+ {
+  "en": "Dryad",
+  "max": 12,
+  "note": "Glossary."
+ },
+ {
+  "en": "Rhinosaurus",
+  "max": 12,
+  "note": "Horned beast (MON_TEXT); keeps the katakana's 'saurus' form."
+ },
+ {
+  "en": "Grizzly",
+  "max": 10
+ },
+ {
+  "en": "Nagpa",
+  "max": 6,
+  "note": "Old, learned demon that casts spells (D&D nagpa)."
+ },
+ {
+  "en": "Berserker",
+  "max": 10
+ },
+ {
+  "en": "Rubenburg 2nd-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 2nd-Year (M)",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 2nd-Year (F)",
+  "max": 24
+ },
+ {
+  "en": "Ettin",
+  "max": 8
+ },
+ {
+  "en": "Coatl",
+  "max": 8,
+  "note": "Winged serpent (MON_TEXT)."
+ },
+ {
+  "en": "Banshee",
+  "max": 8
+ },
+ {
+  "en": "Wyvern",
+  "max": 10
+ },
+ {
+  "en": "Crusader",
+  "max": 12
+ },
+ {
+  "en": "Kunoichi",
+  "max": 8
+ },
+ {
+  "en": "Ochimusha",
+  "max": 10,
+  "note": "Undead samurai corpse (MON_TEXT). 'Fallen Samurai' (item 'Fallen Samurai Armor') is 14 bytes, budget 10 (MONSTER1:6:32 also 10). Romanized like Ronin/Hatamoto."
+ },
+ {
+  "en": "Carrion Crawler",
+  "max": 20
+ },
+ {
+  "en": "Yeti",
+  "max": 8,
+  "note": "Glossary has 'Yeti Gatekeeper'."
+ },
+ {
+  "en": "Lucky Star",
+  "max": 14
+ },
+ {
+  "en": "Langsuir",
+  "max": 24,
+  "note": "MONRAW spells it [JP], an undead seen with vampires; MONSTER1 has [JP] = 'Langsuir' and MON_TEXT [JP]. Read as a variant/typo of the same monster; check if MONRAW names are matched by string."
+ },
+ {
+  "en": "Treant",
+  "max": 8
+ },
+ {
+  "en": "Desert Murderer",
+  "max": 16,
+  "note": "Scorpion monster (MON_TEXT); literal 'Desert Murder' reads oddly."
+ },
+ {
+  "en": "Bass Dragon",
+  "max": 12,
+  "note": "Swallows prey with water like a bass; matches Elm3 'Bass Zombi'."
+ },
+ {
+  "en": "Hunter Wolf",
+  "max": 14
+ },
+ {
+  "en": "Copper Dragon",
+  "max": 16
+ },
+ {
+  "en": "Hell Rider",
+  "max": 12
+ },
+ {
+  "en": "Rubenburg 3rd-Year",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year (M)",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg 3rd-Year (F)",
+  "max": 24
+ },
+ {
+  "en": "Centaur",
+  "max": 12
+ },
+ {
+  "en": "Kobold King",
+  "max": 14
+ },
+ {
+  "en": "Goggle Eye",
+  "max": 12,
+  "note": "Self-protecting piggy bank (MON_TEXT)."
+ }
+]

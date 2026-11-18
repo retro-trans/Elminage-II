@@ -1,0 +1,323 @@
+[
+ {
+  "en": "Yuniwa Coat: Inf Range",
+  "max": 54
+ },
+ {
+  "en": "Scroll of Iron Wall",
+  "max": 20
+ },
+ {
+  "en": "Robukand: VL",
+  "max": 54
+ },
+ {
+  "en": "Scroll of Evil Ward",
+  "max": 20
+ },
+ {
+  "en": "Scroll of Windbreak",
+  "max": 20
+ },
+ {
+  "en": "Instrument",
+  "max": 16
+ },
+ {
+  "en": "Misama: Sleep 1",
+  "max": 24
+ },
+ {
+  "en": "Robuti: Weaken Defense",
+  "max": 24
+ },
+ {
+  "en": "Bells jingling: shan, shan, shan...",
+  "max": 54
+ },
+ {
+  "en": "Harias: Holy Weapons",
+  "max": 24
+ },
+ {
+  "en": "Pinto: Charm 1",
+  "max": 24
+ },
+ {
+  "en": "Bifei: Draw Attacks",
+  "max": 24
+ },
+ {
+  "en": "Argeiss: Fissure",
+  "max": 24
+ },
+ {
+  "en": "Ramialf: Clear Effects",
+  "max": 24
+ },
+ {
+  "en": "Mirror Eyes: Party Cure",
+  "max": 24
+ },
+ {
+  "en": "Fierce plinking strum while energy implodes & bursts",
+  "max": 54,
+  "note": "Accuracy: 'then' -> 'while' (source ~nagara: the strumming and the energy implosion/burst happen together)."
+ },
+ {
+  "en": "Ziakalad: Lightning 1",
+  "max": 24
+ },
+ {
+  "en": "Tarot Card",
+  "max": 16
+ },
+ {
+  "en": "Alchemy Material",
+  "max": 16
+ },
+ {
+  "en": "Other",
+  "max": 16
+ },
+ {
+  "en": "Alchemy Item",
+  "max": 16
+ },
+ {
+  "en": "A rising whine (vweeeen) of energy charging up",
+  "max": 54
+ },
+ {
+  "en": "Mystic Item",
+  "max": 16
+ },
+ {
+  "en": "Counting Snow",
+  "max": 20
+ },
+ {
+  "en": "C. Snow: First Frost",
+  "max": 20
+ },
+ {
+  "en": "Chaff",
+  "max": 20
+ },
+ {
+  "en": "Fair Yoshino",
+  "max": 20
+ },
+ {
+  "en": "Clearly Splendid",
+  "max": 20
+ },
+ {
+  "en": "Boar-Deer-Butterfly",
+  "max": 20
+ },
+ {
+  "en": "Front Sugawara",
+  "max": 20
+ },
+ {
+  "en": "Five Lights",
+  "max": 20
+ },
+ {
+  "en": "Belfana",
+  "max": 20
+ },
+ {
+  "en": "Caron Rod",
+  "max": 20
+ },
+ {
+  "en": "Raizam's Whiskers",
+  "max": 20
+ },
+ {
+  "en": "Caron Hat",
+  "max": 20
+ },
+ {
+  "en": "Caron Vest",
+  "max": 20
+ },
+ {
+  "en": "Caron Mittens",
+  "max": 20
+ },
+ {
+  "en": "Caron Shoes",
+  "max": 20
+ },
+ {
+  "en": "Pitiful Blanket",
+  "max": 20
+ },
+ {
+  "en": "Banner: Rondelgius",
+  "max": 20
+ },
+ {
+  "en": "Caron Earring",
+  "max": 20
+ },
+ {
+  "en": "Omshokopouch",
+  "max": 20
+ },
+ {
+  "en": "Royal Wings of Flame",
+  "max": 20
+ },
+ {
+  "en": "Urna's Sprout",
+  "max": 20
+ },
+ {
+  "en": "Sweet Bun",
+  "max": 20
+ },
+ {
+  "en": "Boar & Bush Clover",
+  "max": 20
+ },
+ {
+  "en": "Deer & Maple",
+  "max": 20
+ },
+ {
+  "en": "Butterfly & Peony",
+  "max": 20
+ },
+ {
+  "en": "Warbler & Plum",
+  "max": 20
+ },
+ {
+  "en": "Crane & Pine",
+  "max": 20
+ },
+ {
+  "en": "Curtain & Cherry",
+  "max": 20
+ },
+ {
+  "en": "Moon & Pampas",
+  "max": 20
+ },
+ {
+  "en": "Michikaze & Willow",
+  "max": 20
+ },
+ {
+  "en": "Phoenix & Paulownia",
+  "max": 20
+ },
+ {
+  "en": "Knife Hand",
+  "max": 20
+ },
+ {
+  "en": "Flame Beak",
+  "max": 20
+ },
+ {
+  "en": "Antique Armor",
+  "max": 20
+ },
+ {
+  "en": "Crusade Armor",
+  "max": 20
+ },
+ {
+  "en": "Brass Robe",
+  "max": 20
+ },
+ {
+  "en": "Evil Wedding Garb",
+  "max": 20
+ },
+ {
+  "en": "Heartbreaker",
+  "max": 20
+ },
+ {
+  "en": "Extreme",
+  "max": 20
+ },
+ {
+  "en": "While Tega",
+  "max": 20
+ },
+ {
+  "en": "Bleed Naira",
+  "max": 20
+ },
+ {
+  "en": "Lonely Binding Sash",
+  "max": 20
+ },
+ {
+  "en": "Handy Crescent",
+  "max": 20
+ },
+ {
+  "en": "Pumpty Robe",
+  "max": 20
+ },
+ {
+  "en": "Dth.Tentacle",
+  "max": 24
+ },
+ {
+  "en": "Nyoppun Slap",
+  "max": 20
+ },
+ {
+  "en": "Demon Axe Baltagias",
+  "max": 20
+ },
+ {
+  "en": "Carnival Sword",
+  "max": 20
+ },
+ {
+  "en": "Savage Fiend's Garb",
+  "max": 20
+ },
+ {
+  "en": "Chart-Topper Sword",
+  "max": 20
+ },
+ {
+  "en": "Samariel's Scythe",
+  "max": 20
+ },
+ {
+  "en": "Student Handbook",
+  "max": 20
+ },
+ {
+  "en": "Shortbread",
+  "max": 20
+ },
+ {
+  "en": "Chocolate Cornet",
+  "max": 20
+ },
+ {
+  "en": "Mont Blanc",
+  "max": 20
+ },
+ {
+  "en": "Beldoll Last Theorem",
+  "max": 20
+ },
+ {
+  "en": "Missing Ring",
+  "max": 20
+ }
+]

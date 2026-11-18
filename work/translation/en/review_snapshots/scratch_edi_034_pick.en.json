@@ -1,0 +1,78 @@
+[
+ {
+  "en": "\"We did it! You were wonderful, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bwoooh!\"{w}",
+  "kind": "msg",
+  "note": "Elephant bellow."
+ },
+ {
+  "en": "\"Get poisoned~ Get poisoned~\"{w}",
+  "kind": "msg",
+  "note": "Honey's poison chant (she is casting poison on the elephant)."
+ },
+ {
+  "en": "\"Now, Guld! Hit it with Pursuit!\"{w}",
+  "kind": "msg",
+  "note": "Tsuigeki = the skill Pursuit (JOBABL 2:18); new term."
+ },
+ {
+  "en": "A dejected Werebeast was left behind.{w}As you quietly watched...{w}...your eyes met!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey there, you all. Do you like hunting?{w}I love hunting too!{w}But I'm in a fix because I can't use Pursuit.\"{w}{p}\"Will you teach me Pursuit?{w}Then Honey will be head over heels for me!{w}...I mean, then the forest will be at peace!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Teach Guld Pursuit?",
+  "kind": "data"
+ },
+ {
+  "en": "\"How can this be?!{w}This person doesn't have Pursuit!\"{w}",
+  "kind": "msg",
+  "note": "Said when the chosen party member lacks the skill."
+ },
+ {
+  "en": "\"Thank you! Let's start the lesson right away!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You taught Guld Pursuit!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right! Now I'm a Pursuit user too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You learned Pursuit!\nYou're wonderful, Guld!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you, Honey! Thank you, everyone!{w}Now I'm a real hunter too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You Rampaging Elephant, wrecking our forest!\nToday I'll drive you back for sure!!{w}Take this, my deadly arrow!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Watch me, Honey!{w}Hraaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you watched the happy pair, a rumbling of the ground came echoing from far away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's that?\"{w}",
+  "kind": "msg"
+ }
+]

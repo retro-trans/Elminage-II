@@ -1,0 +1,20 @@
+[
+ {
+  "en": "You handed Radrecht's letter\nto Shirinmorin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y'know, hot stuff...{w}I'm not really a fan of it.\"{w}{p}\"Haaah...{w}I wanna see my sweet Shirinmorin...{w}You know her? Sweet Shirinmorin?\"{w}{p}\"Sweet Shirinmorin lives deep in Narmant,\nand she's all squishy and cool,\nand sooo cuuute!\"{w}{p}\"But I'm the Fire Sage, right?{w}My wings and stuff are kinda on fire, right?{w}Not only won't she see me, she flat-out hates me...\"{w}{p}\"...Maybe I'll try writing a love letter.{w}Yeah, that might be just the thing.{w}You, wait right there a sec.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"sweet Shirinmorin\" (no -chan in the corpus). Shirinmorin is female per glossary."
+ },
+ {
+  "en": "Radrecht started writing a love letter...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Fire Sage's Love Letter.{w}",
+  "kind": "msg",
+  "note": "New item name \"Fire Sage's Love Letter\" (eboot eb@08950738 still untranslated)."
+ }
+]

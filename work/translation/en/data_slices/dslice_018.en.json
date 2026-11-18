@@ -1,0 +1,320 @@
+[
+ {
+  "en": "Womb Sanctum",
+  "max": 12,
+  "note": "Urnas Rade area: Creation Womb Palace (slice 067) + Sanctuary; full 'Creation Womb Palace Sanctuary' does not fit 12. Same English serves eb@0895fe94."
+ },
+ {
+  "en": "PSPCI: Cannot open a file %s  fd=0x%08x",
+  "max": null,
+  "note": "debug? Full-width space -> two spaces."
+ },
+ {
+  "en": "You set the compass to the Jewel Ring.",
+  "max": null,
+  "note": "Fixed variant of 'You set the compass to %s.'"
+ },
+ {
+  "en": "You have already collected all the rings.",
+  "max": null
+ },
+ {
+  "en": "You have already prayed at all the altars.",
+  "max": null
+ },
+ {
+  "en": "Fame cannot be offered to this compass.",
+  "max": null
+ },
+ {
+  "en": "O Orses, god of life-creation,\nI pray, grant your divine protection.",
+  "max": null,
+  "note": "Temple prayer (treatment menu). Speaker presumably the priest; who receives the blessing is unstated, so no object given."
+ },
+ {
+  "en": "Choose a topic.",
+  "max": null,
+  "note": "Matches HELP_TEXT 108."
+ },
+ {
+  "en": "Choose a picture.",
+  "max": null,
+  "note": "Probably the picture/portrait viewer of the records menu."
+ },
+ {
+  "en": "Choose from the Recorded History.",
+  "max": null,
+  "note": "'Recorded History' as in HELP_TEXT 105."
+ },
+ {
+  "en": "Choose a request.",
+  "max": null,
+  "note": "Same term as HELP_TEXT 90/91 'request list')."
+ },
+ {
+  "en": "Choose a hint.",
+  "max": null
+ },
+ {
+  "en": "You bought the hint.",
+  "max": null
+ },
+ {
+  "en": "Choose an alchemy item.",
+  "max": null,
+  "note": "Matches HELP_TEXT 95."
+ },
+ {
+  "en": "You bought the alchemy item info.",
+  "max": null
+ },
+ {
+  "en": "Name changed.",
+  "max": null,
+  "note": "Matches neighbour 'Class changed.'"
+ },
+ {
+  "en": "Save data has been initialized.",
+  "max": null
+ },
+ {
+  "en": "Enter the Book of the Next Age password.",
+  "max": null,
+  "note": "Password entry (HELP_TEXT 10: 'Enter the password shown in the Book of the Next Age')."
+ },
+ {
+  "en": "Jewel Ring",
+  "max": null
+ },
+ {
+  "en": "Earth Fragment",
+  "max": null
+ },
+ {
+  "en": "Yuan Wine",
+  "max": null
+ },
+ {
+  "en": "Rarbion Stone",
+  "max": null,
+  "note": "New name: romanized 'Rarbion' (long vowel as in Harz/Heerdahl). Not in glossary or script."
+ },
+ {
+  "en": "Ice Strawberry",
+  "max": null
+ },
+ {
+  "en": "?First Movement",
+  "max": null,
+  "note": "'?' prefix kept (unidentified-item mark, as ?Ring)."
+ },
+ {
+  "en": "?Second Movement",
+  "max": null
+ },
+ {
+  "en": "?Third Movement",
+  "max": null
+ },
+ {
+  "en": "?Fourth Movement",
+  "max": null
+ },
+ {
+  "en": "?Ancient Song",
+  "max": null
+ },
+ {
+  "en": "Urnade",
+  "max": null
+ },
+ {
+  "en": "Fake 'Morning of Ruin'",
+  "max": null,
+  "note": "The item is the forgery of the Forsaken Painting 'Morning of Ruin'. Full form 'Forsaken Painting 'Morning of Ruin' (Fake)' is 42 chars; shortened to the 22-char item slot."
+ },
+ {
+  "en": "Sweet Ginger",
+  "max": null
+ },
+ {
+  "en": "Moonlight Stone",
+  "max": null
+ },
+ {
+  "en": "Gregorio's Belongings",
+  "max": null
+ },
+ {
+  "en": "Catnip Water",
+  "max": null,
+  "note": "Script uses lowercase 'catnip water' in running text; Title Case as item name."
+ },
+ {
+  "en": "Toryoron Potato",
+  "max": null
+ },
+ {
+  "en": "Sun Melon",
+  "max": null
+ },
+ {
+  "en": "Heerdahl Manju",
+  "max": null
+ },
+ {
+  "en": "Beldoll +5",
+  "max": null
+ },
+ {
+  "en": "Beldoll +4",
+  "max": null
+ },
+ {
+  "en": "Beldoll +3",
+  "max": null
+ },
+ {
+  "en": "Beldoll +2",
+  "max": null
+ },
+ {
+  "en": "Beldoll +1",
+  "max": null
+ },
+ {
+  "en": "Wanelly's Anchor",
+  "max": null
+ },
+ {
+  "en": "Wanelly's Sail",
+  "max": null
+ },
+ {
+  "en": "Wanelly's Prow",
+  "max": null
+ },
+ {
+  "en": "Wanelly's Helm",
+  "max": null
+ },
+ {
+  "en": "Broken Rod",
+  "max": null,
+  "note": "Fishing rod (Benef's rod snapped, slice 021)."
+ },
+ {
+  "en": "Benef's Rod",
+  "max": null
+ },
+ {
+  "en": "Unholy Bell",
+  "max": null
+ },
+ {
+  "en": "Wife's Portrait",
+  "max": null,
+  "note": "Portrait of General Winter's wife (slice 047)."
+ },
+ {
+  "en": "Strong Vine",
+  "max": null,
+  "note": "Title Case as item name (script running text: 'strong vine')."
+ },
+ {
+  "en": "Bungee Rope",
+  "max": null,
+  "note": "Title Case as item name (glossary running-text form 'bungee rope')."
+ },
+ {
+  "en": "Loincloth X",
+  "max": null
+ },
+ {
+  "en": "Hostef's Tanka",
+  "max": null
+ },
+ {
+  "en": "Handcrafted Zabutoon",
+  "max": null
+ },
+ {
+  "en": "Ogre Grapes",
+  "max": null
+ },
+ {
+  "en": "Year 1 Certificate",
+  "max": null,
+  "note": "Lead convention 'Year N Certificate' (script slices 052/055 used other forms)."
+ },
+ {
+  "en": "Year 2 Certificate",
+  "max": null
+ },
+ {
+  "en": "Year 3 Certificate",
+  "max": null
+ },
+ {
+  "en": "Diploma",
+  "max": null
+ },
+ {
+  "en": "Fire Sage's Love Letter",
+  "max": null
+ },
+ {
+  "en": "Piece of Grotesque Flesh",
+  "max": null
+ },
+ {
+  "en": "Espel-Dex Business Card",
+  "max": null
+ },
+ {
+  "en": "Noble Lady's Eerie Wings",
+  "max": null
+ },
+ {
+  "en": "Great Emperor's Crown",
+  "max": null
+ },
+ {
+  "en": "Underworld Water",
+  "max": null
+ },
+ {
+  "en": "Prayer to the Revered One",
+  "max": null
+ },
+ {
+  "en": "Overlord Bull's Demon Horn",
+  "max": null
+ },
+ {
+  "en": "Harz Crystal",
+  "max": null
+ },
+ {
+  "en": "Half-Drawn Map",
+  "max": null
+ },
+ {
+  "en": "Nyoppurin's Pudding",
+  "max": null
+ },
+ {
+  "en": "Ira's True Crystal",
+  "max": null
+ },
+ {
+  "en": "Party %2d",
+  "max": null,
+  "note": "Save-slot party label; placeholder moved after the word."
+ },
+ {
+  "en": "No Memory Stick is inserted.\nTo install data, a Memory Stick with at least\n%dMB of free space is required.",
+  "max": null,
+  "note": "Modelled on the save variant eb@08950db4."
+ }
+]

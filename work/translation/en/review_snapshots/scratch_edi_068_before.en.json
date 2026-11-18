@@ -1,0 +1,96 @@
+[
+ {
+  "en": "\"Hee hee hee!{w}I dunno what you're talking about~\"{w}",
+  "kind": "msg",
+  "note": "Child voice (hiragana source). Closing ~ stands for the source's note mark."
+ },
+ {
+  "en": "\"UWOOOOOmmm...!!\"{w}",
+  "kind": "msg",
+  "note": "Creature's English kept as written (glossary note); full-width letters converted to ASCII."
+ },
+ {
+  "en": "\"So. That. Means...{w}one more tiiime!\"{w}",
+  "kind": "msg",
+  "note": "da-ka-ra is spelled out syllable by syllable for emphasis; rendered as clipped words."
+ },
+ {
+  "en": "\"Fwooooo!{w}Don't NYOP ME!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heeere goes... KA......\"{w}",
+  "kind": "msg",
+  "note": "Her catchphrase (4884 in slice 067, 'sore, dokkaan!!') cut off mid-word. Accuracy: aligned to 4884's existing English \"Heeere goes... KABOOM!!\" (cut after KA) instead of asking for 4884 to change."
+ },
+ {
+  "en": "\"HEEEEELP!?{w}IYAAAAAAANPOS!!\"{w}",
+  "kind": "msg",
+  "note": "Kept as written: the Japanese scream 'iyaan' fused with NYOPS."
+ },
+ {
+  "en": "\"Hm?{w}Huh? Huuuh?\"{w}{p}\"Hey, Nyoppu.{w}There's somebody here I've never seen before!\"{w}",
+  "kind": "msg",
+  "note": "Nyoppu = her pet name for the creature (romanized). 'mikakenai ko' (an unfamiliar kid) = the party; kept number-neutral as 'somebody'."
+ },
+ {
+  "en": "\"PU?{w}OH! UNKNOWN NYOS.\"{w}{p}\"HALLO.{w}SAY SAY SAY TO ME!!{w}NYOP or PRIN?\"{w}{p}\"...BINGO! PRINGO!!{w}NYOP! Me too.{w}HAHAHAHAHA!!\"{w}",
+  "kind": "msg",
+  "note": "Kept as written, full-width converted to ASCII. The party's answer happens off-text between pages."
+ },
+ {
+  "en": "At its request, you shook hands with the strange creature.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now you're friends.{w}Booooring.\"{w}{p}\"...Nyoppu, that one there says{w}you're gro-oss{w}and stiiinky.\"{w}",
+  "kind": "msg",
+  "note": "kimoi = gross/creepy, kusai = smelly; drawn-out tattling tone kept. 'sono ko' (that kid) = the party member/party, kept neutral as 'that one there'. She is lying to provoke it (they just shook hands)."
+ },
+ {
+  "en": "\"W...Whoooooooy!?{w}Why feeling Nyopness!{w}I'm very saddrin!!\"{w}",
+  "kind": "msg",
+  "note": "Kept as written."
+ },
+ {
+  "en": "Memories lead gently to death, and oblivion lights the way to tomorrow.{w}None can know which is the happier.{w}My heart is shut away, twofold, threefold.{w}",
+  "kind": "msg",
+  "note": "Inscription/monologue in literary register, as the source. Accuracy: 'shi ni itari' read as memories leading (one) to death, in parallel with oblivion lighting tomorrow; 'memories go to their death' made memories and oblivion the same thing and broke the 'which is happier' contrast."
+ },
+ {
+  "en": "You have already defeated the one who was here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a mysterious altar, shining white.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you approached, a mysterious light appeared.{w}It shone fiercely, as if in warning.{w}",
+  "kind": "msg",
+  "note": "fushigi na hikari kept lowercase 'mysterious light' (not in glossary; may be the boss's display name in the monster data)."
+ },
+ {
+  "en": "The mysterious light swelled and shrank over and over,\nuntil at last it took a single form.{w}{p}You found yourselves facing a figure that blazed with proud brilliance, utterly out of place in the depths of the earth.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You routed the mysterious light.{w}",
+  "kind": "msg",
+  "note": "Same pattern as earlier 'You routed X.' rows."
+ },
+ {
+  "en": "There is a mysterious altar, shining white.{w}{p}Many lights drift above the altar.{w}They look like the remains of the mysterious light you routed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What appeared was a great shadow.{w}A memory of the distant Age of Creation, remembered by the land itself.{w}The forms of the gods as they once were now return to life.{w}",
+  "kind": "msg",
+  "note": "'great shadow' matches slice 000 (SCDWMAP:14). Not the Divine Shadow (shinei) term."
+ },
+ {
+  "en": "The great shadow fades away.\nNothing has been left behind.{w}",
+  "kind": "msg",
+  "note": "Mirrors slice 000 SCDWMAP:14 ('Something has been left behind'), here with nothing."
+ }
+]

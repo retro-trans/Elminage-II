@@ -1,0 +1,359 @@
+[
+ {
+  "en": "\"But apparently Archelon just couldn't work out where the others were.\"{w}{p}\"Personally, I think places like Semnadoc Cathedral are suuuper suspicious, though.{w}...That archbishop is suspicious too.\"{w}{p}\"So how about it? Would you like to take this compass and go looking for the altars of the gods?\"{w}",
+  "kind": "msg",
+  "note": "Subject of the hearsay restored as Archelon (gender unknown; name repeated instead of a pronoun). Daishikyou-sama left unnamed as 'that archbishop' (no name in the line). | Editorial: sentence-initial \"Only,\" read archaic/awkward after 3573; \"But apparently\"."
+ },
+ {
+  "en": "\"Archelon may not look it, but is getting on in years. So it's like, 'Now you young folks will carry on the dream!'~\"{w}",
+  "kind": "msg",
+  "note": "Name repeated to avoid a pronoun for Archelon. Music note -> '~'. | Editorial: removed the clumsy repeated name (still no pronoun; gender unknown)."
+ },
+ {
+  "en": "Archelon's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"AHEM, ahem! Ahh, management keeps one so very busy!{w}I'm so busy, I just can't go searching for altars!\"{w}",
+  "kind": "msg",
+  "note": "Archelon is overhearing from off-screen and fishing for sympathy; subject restored. | Editorial: \"busy work\" reads as \"busywork\" (pointless tasks), the wrong sense; pompous \"keeps one so very busy\" fits the -desu na bluster."
+ },
+ {
+  "en": "\"Ah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a shame, when I'm still in my prime!{w}Well, it's a good chance to toughen up these scrawny whelps, so I'll step aside this time!!\"{w}",
+  "kind": "msg",
+  "note": "hyoroi wakazou = scrawny whelps (the party); kept the gruff force."
+ },
+ {
+  "en": "\"...Um.{w}So, er, that's how things stand. What do you say?\"{w}{p}\"It's fine even if you don't find them. I'm giving this to you all.\"{w}",
+  "kind": "msg",
+  "note": "'this' = the compass, handed over in the next row."
+ },
+ {
+  "en": "You were given the Old Compass.{w}",
+  "kind": "msg",
+  "note": "Item name furubita konpasu rendered 'Old Compass' (not in glossary; glossary has lowercase 'compass' for the generic word)."
+ },
+ {
+  "en": "\"Think of it as a little bonus game after saving the land, and have fun with it.\"{w}{p}\"And if you pick up any interesting stories on your travels, come and visit me again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm so glad to see you looking well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How is your search for the altars going? The altars you haven't prayed at yet are...\"{w}",
+  "kind": "msg",
+  "note": "Trails into the list rows that follow."
+ },
+ {
+  "en": "\"It looks like you haven't prayed at the altar of Orses yet.\"{w}",
+  "kind": "msg",
+  "note": "God's -sama dropped (gods' genders unknown; no 'Lord/Lady')."
+ },
+ {
+  "en": "\"It looks like you haven't prayed at the altar of Sarijana yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks like you haven't prayed at the altar of Rogera yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks like you haven't prayed at the altar of Semnadoc yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks like you haven't prayed at the altar of Sinhanicol yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks like you haven't prayed at the altar of Dehain yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's plenty of time, so take it slow as you search, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bistel is at peace again today.{w}...Ufufu. The town has gotten its old liveliness back, too.\"{w}{p}\"Did you know? There's a flower shop diagonally across from the Temple of Orses. I've loved that place ever since I was little.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's a teeny, cute little shop, crammed wall to wall with flowers that bloom across the sea, ones you can't find anywhere in Bistel...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"With days this peaceful, would it be all right if I went back to being just a girl, for one day at least?{w}Archelon has the day off today, too... *fidget fidget*\"{w}",
+  "kind": "msg",
+  "note": "sowasowa rendered as '*fidget fidget*'."
+ },
+ {
+  "en": "\"Hau! Th-that's...!?{w}Isn't that my blanket? My Emperor Bird blanket!?\"{w}",
+  "kind": "msg",
+  "note": "The party has brought back the blanket Costo threw away (slice 011)."
+ },
+ {
+  "en": "\"Haaaah... I never thought I'd see it again! I'm so glad, so truly glad...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Actually, I don't even remember when I got it, or who gave it to me. But it's my precious blanket, the one that's been with me through thick and thin... Ahh, I'm so glad...\"{w}{p}\"How can I ever thank you enough... Thank you so much for finding it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Such a tragedy must never be repeated.\"{w}{p}\"Someone. Is anyone there?\"{w}",
+  "kind": "msg",
+  "note": "She is calling for a castle soldier (who answers in 3626)."
+ },
+ {
+  "en": "\"This blanket is an object of great importance.{w}My very survival depends on it. Treat it with care.{w}If anyone throws it away again... I will charge them with treason.\"{w}",
+  "kind": "msg",
+  "note": "Mock-solemn queenly register on purpose; the soldier's '...Huh?' is the punchline. The unstated thrower rendered 'anyone'."
+ },
+ {
+  "en": "\"...Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This! This cute blanket!! I want you to tell everyone in the castle that they must never, ever throw this blanket away again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-yes, understood!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Soldier's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"A-an announcement from Her Majesty the Queen! If you find some dirty old blanket, do NOT throw it away!{w}Anyone who does will be charged with treason!\"{w}",
+  "kind": "msg",
+  "note": "'dirty blanket' echoes the item name Dirty Blanket (glossary)."
+ },
+ {
+  "en": "Another Soldier",
+  "kind": "name",
+  "note": "Name box betsu no heishi no koe; 'Voice' dropped to fit the ~16-char name box ('Another Soldier's Voice' is 23). Restore if the box allows."
+ },
+ {
+  "en": "\"Seriously!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lady Ragnastia!\"{w}",
+  "kind": "msg",
+  "note": "Speaker box is Idiot Costo."
+ },
+ {
+  "en": "\"Oh. Idiot Costo.\"{w}",
+  "kind": "msg",
+  "note": "Glossary title 'Idiot Costo'."
+ },
+ {
+  "en": "\"I hear the Impala Boss blanket has been found!\"{w}",
+  "kind": "msg",
+  "note": "Impara banchou = Costo's garbled name for the Emperor Bird (he used it first in slice 011, row 3100). Rendered 'Impala Boss'; new term, keep consistent with slice 011."
+ },
+ {
+  "en": "(...It's an Emperor Bird.){w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, that's great, just great! Now I can be reinstated as Finance Minister, too! Wahaha, wahahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "zaimu daijin = Finance Minister (glossary describes Costo as demoted ex-head of the Administration Bureau; this line names the post as Finance Minister)."
+ },
+ {
+  "en": "\"That's true. ...But actually, there's one more thing I'd like to ask of you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh. I've got an idea.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eh? What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I will reinstate you as Finance Minister.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohhhhhh! Yessssss!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But while you serve as minister, would you keep running the Kernel Shop as well?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaaaat!? But I've already mastered what things cost for the common folk!?\"{w}",
+  "kind": "msg",
+  "note": "The shop was his punishment/training to learn commoners' prices."
+ },
+ {
+  "en": "\"That isn't the point. Because of the Contrachio affair, domestic affairs have been badly neglected...{w}Aren't the people who come to the shop voicing complaints?\"{w}{p}\"I feel the hearts of the castle and the town below are starting to drift apart.{w}I hoped you could act as a go-between for us...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, sure, I suppose... It's thanks to this lot that we have peace now. There must be things people have been putting up with until now.\"{w}{p}\"But... really, my body won't hold up under that, you know?\"{w}",
+  "kind": "msg",
+  "note": "koitsura = the party (Costo refers to them in front of the queen). | Editorial: tense fix (had -> have)."
+ },
+ {
+  "en": "\"I heard Costo is immortal!\"{w}",
+  "kind": "msg",
+  "note": "She talks about him in the third person to his face; kept."
+ },
+ {
+  "en": "\"Never heard of it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You only need to split your time half and half. In all seriousness, won't you do this for me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you do it, I promise I won't call you 'Idiot Costo' anymore~\"{w}",
+  "kind": "msg",
+  "note": "Music note -> '~'."
+ },
+ {
+  "en": "\"That should go without saying! How rude!{w}Hmm... Let me see...........\"{w}",
+  "kind": "msg",
+  "note": "atarimae desho: he should never have been called that in the first place."
+ },
+ {
+  "en": "\"...In that case, assign me two aides: Bito and one other.{w}Then I suppose I can manage somehow.\"{w}",
+  "kind": "msg",
+  "note": "New name: Bito (romanized from bitoo). Bito ika 2-mei = Bito and two others under Bito; rendered 'Bito plus two more' to avoid a pronoun (gender unknown). | Accuracy: Bito ika 2-mei = a team of two headed by Bito (X ika N-mei counts X in the N), so two aides in all, not Bito plus two; still no pronoun for Bito."
+ },
+ {
+  "en": "\"Then you'll take it on?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...It can't be helped. There's still that military budget business, after all.\"{w}",
+  "kind": "msg",
+  "note": "Refers to the military-budget row that got Costo demoted (slice 008, row 2716)."
+ },
+ {
+  "en": "\"Yay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Truth is, it's been on my mind, too. What was it called, ah... the Commerce Guild.{w}That lot have been coming by the shop often lately. About trade.\"{w}",
+  "kind": "msg",
+  "note": "shoukou kumiai = Commerce Guild (from glossary 'Commerce Guild Price Agreement'). | Editorial: \"That lot ... a lot\" clash."
+ },
+ {
+  "en": "\"The Commerce Guild? ...Ah, that's right. I left our liaison office assigned to the Contrachio response...{w}I'm sorry, it never occurred to me...\"{w}{p}\"Do you have some time? I'd like to ask you a little about it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, I don't mind.{w}...Ah, you lot. Sorry, but would you step out for a bit?\"{w}{p}\"From here on, we'll be discussing affairs of state.{w}Don't take it personally.\"{w}",
+  "kind": "msg",
+  "note": "Costo to the party. | Editorial: stiff phrasing."
+ },
+ {
+  "en": "\"Everyone, thank you so much for the blanket.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, see you at the shop.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Zeshrom. Have you still not found a single divine relic?\"{w}",
+  "kind": "msg",
+  "note": "??? is Urna (named by Zeshrom in 3710; Nonhared, Zeshrom and slice 015 confirm)."
+ },
+ {
+  "en": "\"My subordinates are searching high and low as we speak. In just a few more days, you will be the ruler of this land.\"{w}",
+  "kind": "msg",
+  "note": "anata written as 'kijo' (female form), addressing Urna."
+ },
+ {
+  "en": "\"The Holy Foundation, Contrachio, has entered its selection period, and two divine relics are already in my hands. But do not let your guard down.\"{w}{p}\"She has countless pieces of trash to serve as her hands and feet. Even now, I hear she is issuing a Decree through the priestess of Bistel.\"{w}",
+  "kind": "msg",
+  "note": "aitsu = Fiona (her priestess issues the Decree; 3708 names Fiona as the target). Fiona is female per glossary, so 'she'. fure = the Decree. 'Two relics already in hand' vs 'not a single one found' is in the source; kept. | Editorial: Decree unquoted, as in slices 008/012/013/016."
+ },
+ {
+  "en": "\"There is no need for concern. However many of them there may be, not one of them will ever reach a divine relic.\"{w}{p}\"And even if one of them did reach a relic, my subordinates would already be there ahead of them.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: tense mismatch (did ... will) and trailing \"waiting, ahead of them\"."
+ },
+ {
+  "en": "\"I am under no obligation to humor Dehain's little games, but this is the way we must defeat Fiona. You understand that, I trust.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course. For us as well, this method is the most efficient one.\"{w}{p}\"We are truly grateful that you have sided with us,{w}...Lady Urna.\"{w}",
+  "kind": "msg",
+  "note": "Urna-sama = 'Lady Urna' (as in slice 007)."
+ },
+ {
+  "en": "\"Nnnghhh...{w}Zeshrom...{w}Is Zeshrom here...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That divine relic you sent me after...{w}Someone else had already found it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? And then what happened?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I figured I'd kill 'em quick and take it, but look at the state of me...{w}Damn it, I can't believe I screwed up like this...\"{w}",
+  "kind": "msg",
+  "note": "karuku yatte kara itadaku: kept the killing intent at full force."
+ },
+ {
+  "en": "\"Impossible. Our intel says nothing about anyone that strong...{w}What were they like?\"{w}",
+  "kind": "msg",
+  "note": "dou na yatsu da, soitsu wa is singular, but Nonhared answers about a group; 'they' covers both."
+ },
+ {
+  "en": "\"Nah, they looked like an ordinary bunch, but... they had some item that gives off light.{w}...I'd say it's more accurate than Urna's detection.\"{w}",
+  "kind": "msg",
+  "note": "The light-emitting item = the party's Old Compass. Nonhared says plain 'Urna' (no -sama); kept, Zeshrom adds 'Lady' in the reply."
+ },
+ {
+  "en": "\"More accurate than Lady Urna, you say...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"GWOAAAARGH! Those bastaaards!! They snatched it right out from under meeee!!{w}My... divine reliiiiic!!\"{w}",
+  "kind": "msg",
+  "note": "oresama no = arrogant 'my'; the bluster comes through in the shouting."
+ },
+ {
+  "en": "\"Stop disgracing yourself, Donnelkral!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: unidiomatic \"making a disgrace of yourself\"."
+ },
+ {
+  "en": "\"...What is this racket?\"{w}",
+  "kind": "msg"
+ }
+]

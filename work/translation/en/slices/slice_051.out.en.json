@@ -1,0 +1,340 @@
+[
+ {
+  "en": "\"What's the holdup? I said I'd give you a Strong Vine, so hurry up and calm the Dodo King down.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, thanks a lot!{w}I really need to get along a bit better with that thing.{w}Anyway, here's your reward. Take it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Strong Vine.{w}",
+  "kind": "msg",
+  "note": "New item name: Strong Vine ([JP])."
+ },
+ {
+  "en": "\"See ya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems to be a storehouse.{w}Better not touch anything without permission.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A giant dodo is kept here, running around energetically.{w}{p}When it notices you, it comes charging at you furiously!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sent the Dodo King flying.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It might have calmed down a little.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A giant dodo is kept here, running around energetically.{w}{p}...Maybe a little too energetically.{w}Could it be angry?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? Who are you? Need something?\"{w}",
+  "kind": "msg",
+  "note": "??? = Soara before she gives her name (2660)."
+ },
+ {
+  "en": "\"Here to enroll?\"",
+  "kind": "data",
+  "note": "Yes/no prompt; 'yes' leads to 2658, 'no' to 2765."
+ },
+ {
+  "en": "\"Hmm. In that case, you'd better go say hello to the Principal.{w}I'll show you the way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm Soara. Nice to meet you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, well~ I never thought I'd actually get my hands on one.{w}It was worth lining up without a care for who was watching~{w}Snort-hee-hee.\"{w}",
+  "kind": "msg",
+  "note": "??? = the Principal (Soara introduces him next row); he is holding the Mont Blanc (2696)."
+ },
+ {
+  "en": "\"Principal, perfect timing.{w}This is the Principal of Rubenburg.\"{w}",
+  "kind": "msg",
+  "note": "First sentence to the Principal, second to the party."
+ },
+ {
+  "en": "\"Oh my, a new student, is it?{w}Our school places great value on students' independence, you seeee~{w}Being bright and lively is what we're known for, you knooow~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Carefree Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ahaha~{w}Teehee~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, doesn't that sound like fun~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Female Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Eeeeek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Stern Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, you there, second-year!\nGrab Harmoni!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Male Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Wh-what? N-no way, I can't!{w}It's way too dangerous!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Professor Harmoni is a genius~ Hee hee~\"{w}",
+  "kind": "msg",
+  "note": "Harmoni speaks of themself in the third person (cf. 2708, 2733)."
+ },
+ {
+  "en": "\"You idiot, don't juggle it!\nIf you drop it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Can you hear that~?{w}All my kids here are so full of energy, you seeee~{w}They're our school's pride and joy~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, ooh~ I smell something nice and sugary~?{w}It's this way~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Harmoni?{w}Hey, where are you going! Get over here, now...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sniff sniff sniff~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"See? Sweeets~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, well, well, if it isn't Professor Harmoni.{w}Good afternoon. Snort.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Professor Harmoni",
+  "kind": "name",
+  "note": "Glossary form, 17 chars (over ~16); 'Prof. Harmoni' if it does not fit."
+ },
+ {
+  "en": "\"Good afternooon to you~{w}Principal, what's that you're holding~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, this is a confection called a Mont Blanc, and I was just about to eat it with the School Nurse~\"{w}{p}\"...W-wait, Professor, what on earth are YOU holding~!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gre~naaa~~~de~\"{w}",
+  "kind": "msg",
+  "note": "Drawn-out baby-ish 'shuryuudan' (grenade); trailing note mark -> '~'."
+ },
+ {
+  "en": "\"Snort! Not again!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Professor Warmoni",
+  "kind": "name",
+  "note": "Glossary form, 17 chars (over ~16); 'Prof. Warmoni' if it does not fit."
+ },
+ {
+  "en": "\"Harmoni, knock it off!{w}Hand that grenade over here!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooope~{w}If you want one, Professor Warmoni, make your own~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't want one, dammit -- who'd want that thing!{w}If it blows up, it'll be a disaster...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's fine~ Professor Harmoni is immortal~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"P-Professor Harmoni, didn't I b-beg you over and over not to make grenades~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ehehe~~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A-anyway, couldn't you leave that with me, pleeease~!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I. Won't. Give. It. Uuup~{w}But I'll trade it for that sweet, the Mont Blanc thingy~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Principal! Just hand over that stupid sweet!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'that stupid sweet' (dismissive); avoids a pronoun for Harmoni."
+ },
+ {
+  "en": "\"N-no, I can't!{w}This is for the School Nurse, who's always been so good to me, treating my back pain...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I want it~ I'm drooling~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Would you rather have an explosion!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-well, I suppose it can't be helped~{w}I'll give it to you, so please hand the grenade over heeere~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Principal gave the Mont Blanc to Professor Harmoni.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yaaay~ So now I trade you the grenade, right~{w}Professor Harmoni is a good little kid who keeps promises~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}             *  Whoops  *             {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; 'Whoops' as slice 020. Check centring in-game."
+ },
+ {
+  "en": "The grenade's pin caught on Professor Harmoni's finger and came right out!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Snorrrk!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Harmoni! The pin just...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"La-la-laaa~ Mont Blaaanc~ Yaaay~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, that...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"P-Professor Warmoni!{w}Wh-wh-wh-what am I supposed to doooo~!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All we can do now is run!{w}Everyone, get away from the Principaaal!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"J-just waaait a moment, plea... Whaaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Principal, use {11:0001:0016} and dump it somewhere!\"{w}",
+  "kind": "msg",
+  "note": "{11:0001:0016} = spell name insert (a teleport/escape spell, cf. slice 032 SCD01:3690)."
+ },
+ {
+  "en": "\"I'm not in active practice anymore, you knooow~{w}Forget spells -- about all I remember is how to stamp a seal~ Snort.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No choice, then... New student!{w}You're coming with me -- we're getting out of here by spell!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I'm so sorry about this~{w}Just what I'd expect from Soara, top of the class~{w}Well then, I'll just tag along with you as weeell~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Principal, you'll have to deal with this yourself!{w}If we escape by spell and the grenade comes along with us, what's the point!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the Principal here; rendered 'Principal' (no 'sir')."
+ },
+ {
+  "en": "\"Wh-wh-what!?{w}Th-then, what about meee...{w}What's going to happen to meeee!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not my problem!\n{11:0001:0016}!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see.{w}Just don't wander around too freely, or people will take you for an intruder. Keep it in moderation.\"{w}",
+  "kind": "msg",
+  "note": "Reply to 'no' on the enrolment prompt (2656); speaker ??? = Soara."
+ },
+ {
+  "en": "\"That was close...{w}Okay, then let me explain how this school works.\"{w}{p}\"This school has three floors.{w}The first floor is the first-years' floor.{w}The Career Guidance Office is there too, among other things.\"{w}",
+  "kind": "msg",
+  "note": "New term: Career Guidance Office ([JP])."
+ },
+ {
+  "en": "Principal's Voice",
+  "kind": "name",
+  "note": "Glossary form, 17 chars (over ~16)."
+ },
+ {
+  "en": "\"Snoooort!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The second floor is the second-years' floor.{w}Vice Principal Kathleen's Magic Research Wing and the infirmary are on this floor too.\"{w}{p}\"The third floor is the third-years' floor.{w}The Principal's Office is on the east side of it.\"{w}{p}\"This school runs purely on merit.{w}Attending for a year doesn't mean you get to be a second-year.\"{w}{p}\"Only once you pass the certification exam for your year can you move up to the next one.\"{w}{p}\"So quick learners end up graduating in less than a year.\"{w}{p}\"On the other hand, some people can't graduate and just stay third-years forever.{w}Well, how far you get depends on how hard you study.\"{w}{p}\"Once you've passed the certification exams for all three years, collect your diploma at the Principal's Office.\"{w}{p}\"Any questions so far?{w}None? Good.{w}Then off you go.\"{w}{p}\"I'll be here.{w}I'm looking forward to the day you graduate.\"{w}",
+  "kind": "msg",
+  "note": "New terms: Magic Research Wing ([JP]), certification exam ([JP])."
+ },
+ {
+  "en": "\"Just so you know, you can't cheat.{w}This is a place that teaches spells, so of course there are countermeasures against cheating with spells, too.\"{w}{p}\"If you get caught, you'll be in big trouble.{w}Haste makes waste. Keep at it, one step at a time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Miria's looking for me?{w}...I see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You graduated? Congratulations!\"{w}{p}\"I've heard all about it.{w}Sounds like you worked pretty hard.{w}Be proud of graduating from Rubenburg!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way...{w}I have a favor to ask you, since I'm counting on your strength.\"{w}{p}\"At this school, above the Principal, there's the Board Chair.{w}The Chair usually stays somewhere out of sight, but appears to guide us when we need it.\"{w}{p}\"But lately, there's been a rumor that the Board Chair...{w}has gotten mixed up in a forbidden magic experiment.\"{w}{p}\"This forbidden magic experiment is a grand feat: casting {11:0001:0015} three times at once.\"{w}{p}\"It's an extremely dangerous act that could destroy the land itself.\"{w}{p}\"Even a single {11:0001:0015} takes a huge amount of power, so normally it would be impossible...\"{w}{p}\"But the Board Chair just might...\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'magic experiment' ([JP] not in glossary). {11:0001:0015} = spell name insert; 'three times at once' avoids pluralising the insert. No pronoun for the Chair."
+ }
+]

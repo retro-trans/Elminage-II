@@ -1,0 +1,366 @@
+[
+ {
+  "en": "The Fool tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Mage tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The Magician' -> 'Mage', matching the item name (lead decision); doubled 'The' removed"
+ },
+ {
+  "en": "The High Priestess tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Empress tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Emperor tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Hierophant tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Lovers tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Chariot tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Justice tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Hermit tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Wheel of Fortune tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Strength tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Hanged Man tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Death tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Temperance tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Devil tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Tower tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Star tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Moon tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Sun tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The Judgement tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "The World tarot card. These normally come as a set, so you'll almost never see a single one on its own.",
+  "max": 298,
+  "note": "editorial: 'The 'The X' tarot card' -> 'The X tarot card' (lead decision)"
+ },
+ {
+  "en": "A wooden coin bank. It holds a little money, and you can also throw it to deal damage matching the money inside. Save a bit day by day, and when the time comes it may help you in an unexpected way.",
+  "max": 298
+ },
+ {
+  "en": "An iron coin bank. It holds more money than the wooden one, so throwing it promises more damage. But it hurts your wallet just as much, so don't throw it too often.",
+  "max": 298
+ },
+ {
+  "en": "Die holding these, and you'll sit up after death and walk back to where you set out, they say. Nothing is scarier, for your killer and those you return to. With the dead really walking, ghost-story sales crashed, so 'Eastern Yokai Tales' was compiled to win them back. Hang in there, booksellers.",
+  "max": 298
+ },
+ {
+  "en": "Do you know the far end of time? The world after Edumo devoured it at divine command, without even space, a place that both is and is not. Last to come there is the Water of Return, returning all to nothing. Will the water in your hand someday wash all away? Swallowing joy, anger, sorrow, all.",
+  "max": 298
+ },
+ {
+  "en": "Tokoyo is eternity, the unchanging universal. Yet no universal matter escapes time's bonds; if one exists, it is essence, not matter. All things are said to be copies of essence; the copy is what exists as matter. Then is Tokoyo essence itself, the gods' blueprint, enfolding all like gauze?",
+  "max": 298
+ },
+ {
+  "en": "An Eastern legend tells of a princess who couldn't be with her love; she took up this naginata, became a yasha and burned herself with them. So the lovelorn gaze at this spear in rapture. Unleash its hidden power to relive the legend. If a companion likes this spear, you'd better talk it over.",
+  "max": 298
+ },
+ {
+  "en": "Some idiot made a boomerang out of iron, when it should be made of wood. The iron made it heavier, so its odds of coming back even after hitting something shot up. Anyone could have seen that coming. Throw with care, or your allies will boo.",
+  "max": 298,
+  "note": "editorial: clumsy interrupted clause reordered"
+ },
+ {
+  "en": "As if an iron boomerang weren't dangerous enough, an even bigger idiot made one of obsidian. Its mass is ample. Its razor-sharp obsidian edges slice the foe, and it returns with its momentum intact. It's hopeless. Hide behind your Lord. Its power as a weapon? Want to know? Take a hit yourself.",
+  "max": 298
+ },
+ {
+  "en": "Love with a spirit being rarely bears fruit, and vows to meet again are seldom kept. The snow woman is one such sad winter spirit. From the day she promises to meet again someday, she counts the falling snowflakes, awaiting her beloved.",
+  "max": 298
+ },
+ {
+  "en": "Love with a spirit being rarely bears fruit, but some overcome many obstacles and are united. A snow woman gives this dagger to the one she means to spend her life with. Within its cold blade, you can feel a passion hot enough to melt.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the power of a mythical beast of far eastern legend. The karasu tengu is a master of sword and mystic arts. The unskilled holding it hear a strange voice coaching them in swordplay and tactics. Rare for a katana, its blade is black. One swing and a jet-black flash strikes the foe.",
+  "max": 298
+ },
+ {
+  "en": "A katana home to a female spirit named Aramisaki. She seems to fret over being left on the shelf and is at her wits' end. So only men can hold it, and if one gets cozy with a woman, he's cursed for generations on generations, right down to the tip. A famed blade that vexes holder and held alike.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. But it uses tarot cards with no allegory, so don't expect much from it.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Swing it and petals scatter from the blade, filling the area with cherry blossoms in full bloom, a true 'Mi-Yoshino,' fair as Yoshino itself.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Its edge is even keener than that of Chaff or Fair Yoshino, with power worthy of the name 'Clearly Splendid'.",
+  "max": 298,
+  "note": "accuracy: sword names aligned to ITEM.CSV (Kasu -> Chaff); dropped the leftover '(clearly splendid)' gloss now that the name is translated.; editorial: comparison made parallel (edge vs edge); 'even' restores sarani"
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. It unites a boar's courage, a deer's gentleness and a butterfly's grace. A lucky sword, it is sometimes given as a gift.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Its three cards, Warbler & Plum, Crane & Pine and Curtain & Cherry, are said to depict the title of a play from the eastern land.",
+  "max": 298
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. Collect all five of the rare tarot cards called Light cards and you get the Five Lights.",
+  "max": 298,
+  "note": "editorial: 'five rare tarot' -> 'tarot cards' (count noun)"
+ },
+ {
+  "en": "Just as nations rise and fall over long history, faiths fade once no longer needed. This mace may once have been worshipped and defined an era, but now no one knows it. People cling with all their might when they need something to lean on, then toss it aside when bored. That's people for you.",
+  "max": 298
+ },
+ {
+  "en": "A mace said to be favored by those called 'Master.' It has a wide range of uses: felling targets, repelling attackers, punishing sinners, and assorted other amusements.",
+  "max": 298
+ },
+ {
+  "en": "A reinforced ladle. It is tougher than an ordinary ladle, and if you smack someone with a snap of the wrist, it rings out with a satisfying sound.",
+  "max": 298,
+  "note": "editorial: verbless fragment made a full sentence"
+ },
+ {
+  "en": "A rod popular for its girly design. Its basic shape and carved logo can't be changed, but the gem on the tip and such can reportedly be custom-ordered. So more than a few buy it as fashion rather than a weapon.",
+  "max": 298
+ },
+ {
+  "en": "The whiskers of Raizam, one of the Four Sages, ruler of the earth. Equip them, and even races without whiskers can feel what having them is like. But they seem itchy and unpleasant until you get used to them, so only a few oddballs wear them.",
+  "max": 298,
+  "note": "editorial: 'beard' aligned to the item name Raizam's Whiskers"
+ },
+ {
+  "en": "Caron rarely wears hats, so this prototype was going to be scrapped. But Namina insisted it was cute, so it went on sale. Of course Namina bought one too, but always wears a particular hat for training, so it hardly ever gets used.",
+  "max": 298,
+  "note": "accuracy: no pronoun for Namina (review_notes: Namina still gets no pronoun; script avoids one)."
+ },
+ {
+  "en": "Clothes made of light, sturdy cloth so even girls can adventure with aggressive moves. The ad copy: 'Even Cerberus can't bite through it!?' Nobody has tested it, though. The claim: 'There's a ?, so it's no lie.' And it really is durable.",
+  "max": 298,
+  "note": "editorial: 'Their' had no antecedent; 'at least' -> 'really' (tashika ni)"
+ },
+ {
+  "en": "Glove-shaped, but woven inside with steel thread for decent durability and defense. Caron's pride and joy, yet Caron reportedly moped for three days after seeing a woman in a port town using them as pot holders, perhaps a gift from her child.",
+  "max": 298
+ },
+ {
+  "en": "Shoes made hard and sturdy to withstand intense exercise. Very water-repellent too; rumor says a well-timed kick can even deflect a mage's ice spell. The drawback: they repel water so well that ordinary washing barely gets them clean.",
+  "max": 298
+ },
+ {
+  "en": "Yellowed fabric, peeling Emperor Bird embroidery and a strange, pungent smell all tell how old this blanket is. Anyone can see it's garbage, but to a certain someone it is apparently very precious.",
+  "max": 298
+ },
+ {
+  "en": "This shell is said to swallow nearby sound, but the sound stops because it fixes the ambient magic, briefly stilling the air. Near it, mages can't cast spells. Strictly, they do cast, but new magic can't enter the fixed space, so the spell is canceled automatically.",
+  "max": 298,
+  "note": "editorial: unclear 'it' -> 'the spell'; restores jidouteki ni"
+ },
+ {
+  "en": "In a certain library, a strange bookmark placed in --- pages, or pages one must not forget, is said to ---. --- this bookmark and when the time comes you can ---, and --- is also possible. But --- varies with your feelings when you placed it, and it may even ---.",
+  "max": 298
+ },
+ {
+  "en": "Treasure that Leprechauns are said to keep hidden. If found, it sells for a fair price, but its true worth is said to be clear only to those with a discerning eye.",
+  "max": 298,
+  "note": "editorial: bare participle 'Found,' made natural"
+ },
+ {
+  "en": "A nuisance of a banner handed out by the Dragon Lord in a certain town. Just carrying it earns you funny looks; equip it, and your social standing will plummet like a dragon descending from the heavens.",
+  "max": 298
+ },
+ {
+  "en": "Rondelgius's Banner",
+  "max": 20
+ },
+ {
+  "en": "A cute little silverwork accessory. It's sold as a pierced earring, but for those who'd rather not pierce their ears, they'll make it a clip-on.",
+  "max": 298
+ },
+ {
+  "en": "A pouch owned by Omshokopo, one of the Four Sages, master of wind. Just right for small items and well made, it would surely fetch a high price. But if an owner who got it from Omshokopo tries to part with it, it is said to turn into an owl and fly off.",
+  "max": 298
+ },
+ {
+  "en": "A cloak owned by Radrecht, one of the Four Sages, master of fire. It holds the power of fire, and they say even the power of spirits can hardly contain its heat.",
+  "max": 298
+ },
+ {
+  "en": "A seed you can receive from the Earth Goddess of a certain New Land. As long as you hold it and do nothing to grieve the land, the goddess's protection should keep you safe from every calamity.",
+  "max": 298
+ },
+ {
+  "en": "A flat baked sweet. It is fairly easy to make and anyone can buy it cheaply, so it is very popular. It is also a staple on every bakery's menu.",
+  "max": 298
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. There are several curious designs unique to that land. Meaning could probably be found in each, but some cards honestly carry no allegory at all. That, in short, is what Chaff is.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. 'Fair Yoshino' is a phrase praising one region of a far eastern land; strictly speaking it is written 'Mi-Yoshino'. In the tarot, it is written in red on certain cards, which are said to be worth a fair amount.",
+  "max": 298,
+  "note": "editorial: 'On the Tarot' -> 'In the tarot'; editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. This card looks as if it could be read 'Anoyoroshi', but the correct reading is 'Akayoroshi' (Clearly Splendid), which is said to mean 'clearly excellent'.",
+  "max": 298,
+  "note": "accuracy: the source contrasts two readings of the card text (anoyoroshi vs akayoroshi); 'Clearly Splendid' alone lost the misreading joke, so the romanized reading is restored with the item name in brackets.; editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. It shows bush clover and a boar. Unlike the deer and butterfly cards, nobody actually knows why the boar card is paired with bush clover. One theory says the leftovers were simply put together. Poor Mr. Boar.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. Look closely: the deer is looking away, as if ignoring you. In the East this card seems to stand for the tenth month, and the deer's pose gave rise to a word: 'ignore someone = deer of ten = shika-tou = shikato'.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. An old Eastern tale says a butterfly that visits a peony turns to gold if you catch it. If that really happened, alchemists would go pale, but it's a tale full of dreams.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. Rumor has it a strange spell works only on people from the East. Chant 'Ume-ni-uguisu?' at one, and odds are they can't help answering 'Hoh-hokekyo!?' What kind of curse is it?",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. The design pairs a crane with a pine, but cranes' feet are not built to perch on pine branches, so some say the model was actually a stork, not a crane.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. Is someone holding a blossom-viewing party? Beyond the hanging curtain, the cherry trees are in full bloom. The storm of petals is inviting you, so why not drop in for a while?",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. A full moon shines beautifully over a field of pampas grass. It is elegant, yet somehow makes you feel lonely. Is this what they call wabi-sabi? Still, the dumplings are tasty enough to make you smile.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. The figure on it was apparently named Ono no Michikaze, but what this person did (or did wrong) has not come down to us. The figure gazes at the frog with odd intensity, so some guess this person was a frog lover or scholar.",
+  "max": 298,
+  "note": "editorial: awkward 'gaze on the frog' rephrased; editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A card Jeratan made, copying the tarot from the far East. Is the 'houou' what our world would call a phoenix? If so, it looks a bit too much like a chicken.",
+  "max": 298,
+  "note": "editorial: 'tarot' lowercase as in the other card rows"
+ },
+ {
+  "en": "A fang that drains a foe's life force, favored by the Kin of Night. Its power is not the point: the 'act' of draining life force holds special meaning for them. They also love to enslave their prey, so many end up in their thrall.",
+  "max": 298
+ },
+ {
+  "en": "Among the moves derived from the Fist is the Umeboshi, which came from the eastern land. You make fists with both hands and grind them into both of the foe's temples. On children, it is said to work wonders.",
+  "max": 298
+ },
+ {
+  "en": "Ask which fang truly has value to an adventurer, and one answer is a fang kept as proof of slaying a mighty foe. It can be a legendary beast's, or one from a foe you remember as \"I'd win easily now, but back then it took everything I had.\" It becomes a fang in the heart that spurs adventurers on.",
+  "max": 298
+ },
+ {
+  "en": "A move: make a blade of your hand and bring it down on the foe's crown with a 'Hi-yah!' Done badly, it's just a chop, but they say a master's can take off a head. How does it differ from a bare-handed attack? Ask a master and you'll get 'Fool! It's different, totally different!!' So beware.",
+  "max": 298,
+  "note": "editorial: unnatural 'How is it unlike' rephrased"
+ },
+ {
+  "en": "A beak imbued with the power of flame. If its owner wishes, whatever it pecks turns to ash. Focus flame into the beak and charge, and you can launch an attack just like a firebird.",
+  "max": 298
+ },
+ {
+  "en": "Fire too many Psi Blades (that is, be attacked by all around for too long), and in time the mind is transformed. However it is treated, it takes everything as an attack. It turns every emotion into hatred and grief and fires it: that is Psi Blade +1. If a foe fired this at you, could you take it?",
+  "max": 298
+ },
+ {
+  "en": "A vintage suit of armor. Zombie knights and armor given false life sometimes wear it, and collectors drool over it. A living suit of armor is fine, but beware a zombie knight: if one stands before you wearing this, every challenger before you has fallen.",
+  "max": 298
+ },
+ {
+  "en": "Armor for baptized knights of a church or temple. Its hardness as armor is mediocre, but as holy armor it wields evil-banishing power against spirits, the undead and demons. Some diehards, charmed by that power, ignore finer gear and wear Crusade Armor all their lives.",
+  "max": 298
+ }
+]

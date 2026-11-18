@@ -1,0 +1,91 @@
+[
+ {
+  "en": "\"Thank goodness!{w}Huh? Mirco... that sword...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Wait, did it go all weird?{w}Wha-wha-whaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what do I do!?{w}Did I break the sword I borrowed from Uncle!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mirco's Uncle (capitalized as in slices 002/003). Source says [JP] 'borrowed' though the glossary note calls it a gift; translated as written."
+ },
+ {
+  "en": "\"No, that is its true form.{w}At last, the sword itself has acknowledged you too.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: 'the sword too' (as well as the people around him)."
+ },
+ {
+  "en": "\"Board Chair, are you all right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, never mind me...{w}What about the Principal? Is he safe?\"{w}{p}\"It looked as though he was surrounded by Death Tentacles and blown up spectacularly by their spells...\"{w}",
+  "kind": "msg",
+  "note": "Principal is male (lead convention)."
+ },
+ {
+  "en": "\"Oh, right, the Principal.{w}Principal, are you all right!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*sizzle*... *smolder*...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = smoking/smoldering sound effect."
+ },
+ {
+  "en": "\"He's fine!\"{w}",
+  "kind": "msg",
+  "note": "Deadpan comic beat: Soara reports to the Board Chair."
+ },
+ {
+  "en": "\"I see.{w}Then go and fetch the School Nurse.{w}Those youngsters over there could use some treatment as well.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mirco's group; 'youngsters' keeps it gender-neutral."
+ },
+ {
+  "en": "\"Ahwoooh! Nnnohhh-heyyy!!\"{w}",
+  "kind": "msg",
+  "note": "Nonverbal cries of the School Nurse; [JP] read as a drawn-out 'hey'."
+ },
+ {
+  "en": "Once the treatment was done, the School Nurse left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soara, I've caused you a lot of trouble. That was unlike me...{w}Research truly must be done with people one can trust.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was mistaken, too.{w}True peace for the land...{w}I didn't know what you had in mind, Board Chair... I'm sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Everyone looked unhappy about it, but this should calm things down a little beneath the castle.{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'beneath the castle', matching the 'things underground' lines in slice 059. Subject of [JP] (the defeated contestants) kept as 'everyone'."
+ },
+ {
+  "en": "The Referee is cleaning up after the Spirit Tournament.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's something so wistful about the end of a festival, isn't there...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The age of the Fire Elemental is comiiing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guess the age of the Fire Elemental never came...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're on top form this term!{w}We'll send Ifrit and Phoenix flying!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'we' (the Fire Elemental's side). [JP] -> 'send flying', as in the battle narration 3041."
+ }
+]

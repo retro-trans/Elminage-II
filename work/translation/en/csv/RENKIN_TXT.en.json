@@ -1,0 +1,212 @@
+[
+ {
+  "id": "RENKIN_TXT.CSV:1:1",
+  "en": "Air Fruit",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:1:3",
+  "en": "Alchemy Item No. 1.\nAir Fruit. This lets you breathe even underwater. With it, you can even explore underwater dungeons.\n\n>Frozen Elven Iron x Vectreim\n>Vectreim x Tri-Layer Orat",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:1:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:2:1",
+  "en": "Angel's Window",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:2:3",
+  "en": "Alchemy Item No. 2.\nAngel's Window. When you enter a cave, it shows your surroundings in a little window. Make one if you don't want to get lost.\n\n>Dvel Soft Steel x Frozen Elven Iron",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:2:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:3:1",
+  "en": "Rock Counter",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:3:3",
+  "en": "Alchemy Item No. 3.\nRock Counter. It tells you how many stone blocks are on the floor. If a square on your map just won't fill in, it may be stone, so try it.\n\n>Dvel Soft Steel x Tri-Layer Orat\n>Vectreim x Mazurite",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:3:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:4:1",
+  "en": "Dove Bell",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:4:3",
+  "en": "Alchemy Item No. 4.\nDove Bell. This drives off the enemies lying in wait on the floor. Try it when you want to breeze through.\n\n>Frozen Elven Iron x Mazurite\n>Mazurite x Tri-Layer Orat",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:4:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:5:1",
+  "en": "Crow Bell",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:5:3",
+  "en": "Alchemy Item No. 5.\nCrow Bell. Some monsters guard certain rooms. Once beaten, they stay gone until you change floors, but ring this and they return.\n\n>Dvel Soft Steel x Vectreim\n>Tri-Layer Orat x Milstone",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:5:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:6:1",
+  "en": "Sheep's Brush",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:6:3",
+  "en": "Alchemy Item No. 6.\nSheep's Brush. It marks enemies lying in wait when you view the map. Just carrying it helps, so make at least one.\n\n>Dvel Soft Steel x Mazurite\n>Frozen Elven Iron x Milstone",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:6:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:7:1",
+  "en": "Bone Slippers",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:7:3",
+  "en": "Alchemy Item No. 7.\nBone Slippers. If your party is wiped out, these send you home automatically. As corpses, of course.\n\n>Dvel Soft Steel x Milstone\n>Frozen Elven Iron x Tri-Layer Orat",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:7:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:8:1",
+  "en": "Death Pinwheel",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:8:3",
+  "en": "Alchemy Item No. 8.\nDeath Pinwheel. When enemies appear, it tells you their level. If the gap is too wide, knowing when to run matters too!\n\n>Vectreim x Milstone",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:8:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:9:1",
+  "en": "Dice of Fate",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:9:3",
+  "en": "Alchemy Item No. 9.\nDice of Fate. Countless probabilities can come into play in any situation. If you could see them, would you be able to accept your own fate? Try these dice and find out.\n\n>Mazurite x Milstone",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:9:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:10:1",
+  "en": "Philos. Stone",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:10:3",
+  "en": "The ultimate alchemy item.\nPhilosopher's Stone.\nOnly those who have mastered alchemy can obtain it. They say it appears on its own once the conditions are met... but what might those conditions be?",
+  "max": 224,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "RENKIN_TXT.CSV:10:4",
+  "en": "1\n2\n3\n4\n5\n6\n7\n8",
+  "max": 23,
+  "used": true,
+  "status": "new"
+ }
+]

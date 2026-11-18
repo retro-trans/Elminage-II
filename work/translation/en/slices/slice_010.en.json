@@ -1,0 +1,378 @@
+[
+ {
+  "en": "\"I can really have it?{w}Now I can keep running the tavern without worrying. Thank you!!\"{w}",
+  "kind": "msg",
+  "note": "Yes branch of the 2932 hand-in prompt."
+ },
+ {
+  "en": "\"Still, I'm impressed you managed to get one.{w}Huh? I wasn't supposed to make any noise!?\"{w}",
+  "kind": "msg",
+  "note": "The party tells her the Silent Beast hates noise; Berte reacts."
+ },
+ {
+  "en": "\"Ahh... So that's why it hated us...\"{w}{p}\"...Or rather, from its point of view, it must've felt like we were harassing it... Boo hoo.\"{w}",
+  "kind": "msg",
+  "note": "atashira = 'us': Berte and whoever went with her (the drinking parties, songs and dances of 2927). tohoho = 'Boo hoo'. 'it' = the Silent Beast. | editorial: 'from its side' unidiomatic -> 'from its point of view'."
+ },
+ {
+  "en": "\"That was a rotten thing to do to it.{w}When I get some free time, maybe I'll bring it some food -- not as an adventurer, but as a tavern keeper...\"{w}",
+  "kind": "msg",
+  "note": "editorial: 'I did a bad thing there' read childish/stilted; same meaning (warui koto shichatta, to the Silent Beast)."
+ },
+ {
+  "en": "\"Whaaat, you won't give it to me? What's that supposed to mean... Cheapskate!!\"{w}",
+  "kind": "msg",
+  "note": "No branch of the 2932 prompt."
+ },
+ {
+  "en": "\"Welcome. Ahaha, you've got that 'I'm starviiing' look on your face!{w}The usual? Have a seat and wait!\"{w}",
+  "kind": "msg",
+  "note": "Plain irasshai = 'Welcome.' (2888's drawn-out version was 'Welcome iiin!')."
+ },
+ {
+  "en": "You gained 1 Fame!",
+  "kind": "op096"
+ },
+ {
+  "en": "You gained 2 Fame!",
+  "kind": "op096"
+ },
+ {
+  "en": "You gained 3 Fame!",
+  "kind": "op096"
+ },
+ {
+  "en": "You gained 4 Fame!",
+  "kind": "op096"
+ },
+ {
+  "en": "You gained {0B:0003:000F} Fame!",
+  "kind": "op096",
+  "note": "{0B} is the number insert."
+ },
+ {
+  "en": "Please form a party at the tavern.{w}",
+  "kind": "msg",
+  "note": "System message (no speaker)."
+ },
+ {
+  "en": "\"Hello!\"{w}{p}\"You've all come at just the right time! The renovation of the Alchemy Storage has just been finished.{w}Well, I say Alchemy Storage, but it's really the stables.\"{w}{p}\"It doesn't look all that different, but you can put things in the space that's opened up,{w}so please, go ahead and use it!\"{w}",
+  "kind": "msg",
+  "note": "New term: renkin souko = 'Alchemy Storage' (Elminage III glossary spelling). The storage is housed in the stables. The second-page sentence runs across a {w}; English is cut at the same point."
+ },
+ {
+  "en": "\n{0E}       *  You can now store up to 30 items  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner; centring with leading ASCII spaces is a guess (same method as slice 009 row 2884) -- check in game."
+ },
+ {
+  "en": "\"Welcome ho...{w}Oops, I mean, welcome to the inn!\"{w}",
+  "kind": "msg",
+  "note": "okae... = she starts 'okaerinasai' (welcome home), as if to family, then switches to the shop greeting irasshaimase."
+ },
+ {
+  "en": "\"I've just had the Alchemy Storage expanded.{w}That'll make the Alchemy Storage even easier to use!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}       *  You can now store up to 50 items  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner; centring is a guess."
+ },
+ {
+  "en": "\"...Still, though.{w}The stables and the storage have finally ended up bigger than the inn itself.\"{w}{p}\"I feel like the shop Mom and Dad left me keeps evolving further and further in the wrong direction for an inn...\"{w}{p}\"Mom, Dad, up in heaven...{w}Is your Rosetta going to end up a horse owner or something?\"{w}",
+  "kind": "msg",
+  "note": "Self-reference by name to her late parents kept as 'your Rosetta' (as in slice 009 row 2805). bashu = horse owner."
+ },
+ {
+  "en": "\"Everyone! I've been waiting for you!{w}Just look at this huge Alchemy Storage!! Every bit of open ground has been turned into storage!\"{w}",
+  "kind": "msg",
+  "note": "editorial: awkward 'Look at it, this huge...'."
+ },
+ {
+  "en": "\n{0E}       *  You can now store up to 99 items  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner; centring is a guess."
+ },
+ {
+  "en": "\"...So now, at Rosetta's Inn, the inn and the stables-and-storage have completely traded places...\"{w}{p}\"...You'll take responsibility for this, won't you?{w}You'd better go out there and do great things, or I won't be happy, okay?\"{w}",
+  "kind": "msg",
+  "note": "Rosetta's Inn = glossary name. iya desu yo = 'I won't be happy'; teasing, she retracts it in 2970."
+ },
+ {
+  "en": "\"Just kidding! I didn't mean it, it was a joke!\"{w}{p}\"I'm sure Mom and Dad up in heaven are glad, too, that we can be of help to you all.\"{w}",
+  "kind": "msg",
+  "note": "Subject of otetsudai ga dekite is unstated; read as Rosetta (her inn) helping the party. | accuracy: subject of otetsudai ga dekite unstated; grammatically closest to the parents (their inn), so 'I' -> 'we' (Rosetta and the family inn) keeps both readings. | editorial: 'Nope, nope' does not read as uso uso (taking it back)."
+ },
+ {
+  "en": "\"Good luck on your adventures.{w}Whenever you're tired, come and stay with us!\"{w}",
+  "kind": "msg",
+  "note": "editorial: 'Whenever ... anytime' redundant."
+ },
+ {
+  "en": "\"Welcome!{w}Oh, is this your first time here, by any chance?\"{w}{p}\"This is Rosetta's Inn.{w}And my name is Rosetta, too! I hope you'll be good to both me and the inn!\"{w}",
+  "kind": "msg",
+  "note": "editorial: stiff 'could it be this is'."
+ },
+ {
+  "en": "\"How was the journey to Bistel? Aren't you tired?{w}You can't move the way you want to when your body's worn out, you know!\"{w}{p}\"We've got nice fluffy beds ready for all you adventurers. Don't be shy -- please stay the night!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello!{w}It's another lovely day, perfect for adventuring!\"{w}{p}\"I'll have the meals and the bedding all ready to blow your fatigue away, so go off on your adventure without a care!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This inn has a bath! Did you know? A b-a-t-h~\"{w}{p}\"An adventurer from the East told me about it. Here, believe it or not, we do our bathing with hot water!\"{w}{p}\"Unlike a cold-water wash, it loosens up your stiff muscles too, so the guests who've stayed here say great things about it.\"{w}{p}\"Guests in any room can use it, so please do...{w}Huh? Can stable guests... use it too...?\"{w}",
+  "kind": "msg",
+  "note": "The music note becomes '~'. o-fu-ro spelled out as 'b-a-t-h'. mizuabi = washing in (cold) water; the inn uses hot water. The last line echoes the party's question. | editorial: 'you know. Did you know that?' doubled the same tag."
+ },
+ {
+  "en": "\"Hmmph...{w}In that case, come on, stay in one of the paid rooms~{w}We're technically a business too, you know.\"{w}{p}\"A-and besides! If you only ever stay in the stables, you'll end up only able to eat straw and stuff!?\"{w}{p}\"You might wake up one day and find you've turned into a horse, going 'Neeeigh!'{w}...Well, I'm only kidding.\"{w}",
+  "kind": "msg",
+  "note": "Answer to 2982: stable guests. mu- = pouty 'Hmmph'. ichiou = 'sort of'. hihi-n = horse whinny 'Neigh'. | editorial: tacked-on 'sort of' was clumsy; ichiou = 'technically'. | editorial: 'Neigh, just like that!' unclear; hihi-n, te = going 'neigh'."
+ },
+ {
+  "en": "\"Where are you all from? I've never been outside Bistel, so Bistel cooking is all I know.\"{w}{p}\"I'd be happy if the food we serve here suits your taste...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmph...{w}Have the dinner I cook once in a while, won't you... And it's so good, too.\"{w}",
+  "kind": "msg",
+  "note": "oishii noni = 'even though it's delicious' -- a sulky afterthought. | editorial: 'It's delicious, too' lost the sulky oishii noni; flow."
+ },
+ {
+  "en": "\"Wel...come...\"{w}",
+  "kind": "msg",
+  "note": "Dejected irasshai...mase; start of the empty-register scene."
+ },
+ {
+  "en": "\"What am I going to do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rosetta is staring sadly at the guest register...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Speak to her?",
+  "kind": "data",
+  "note": "Yes/No prompt. 'her' = Rosetta (glossary: female)."
+ },
+ {
+  "en": "\"Huh!? ...Oh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The guest register Rosetta hurriedly tried to hide had hardly any guests' names in it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry... You caught me at a bad moment...\"{w}{p}\"I lost my parents when I was little... This inn is what Mom and Dad left me.\"{w}{p}\"So I really want to keep it going somehow... but hardly any guests come in...{w}Oh, it's not your fault, okay!?\"{w}{p}\"W-well, sure... I do wish you'd stay in a regular room instead of the stables... I really do wish that, you know!?\"{w}{p}\"Traveling merchants and the like used to stay here all the time.{w}That was my main income, but...\"{w}{p}\"Lately Highberry Forest has gotten really dangerous, and fewer people come through.\"{w}{p}\"Apparently some monster called Taranti has been tangling with travelers...\"{w}{p}\"I know 'tangling' sounds like a weird way to put it, but everyone who's run into Taranti says, 'I got all tangled up...'{w}What could that mean?\"{w}",
+  "kind": "msg",
+  "note": "karamu = pester/harass and also entangle (Taranti is a spider): 'tangle with' / 'got all tangled up' keeps both senses. Rosetta does not know what Taranti is, so no pronoun; name repeated. Highberry Forest, Taranti = glossary."
+ },
+ {
+  "en": "\"Sigh...{w}At this rate, the inn really is going to go under... What should I do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Um, I heard that Taranti in Highberry has calmed down...{w}Could it be that you all...!?\"{w}{p}\"Ever since that rumor spread, we've been getting more guests again, just like the old days!!\"{w}{p}\"Thank you, thank you so much!{w}You're this inn's saviors!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't know how I can ever thank you all...{w}I know!\"{w}{p}\"You use the Alchemy Storage, right?{w}I've been charging a fee for it until now, but from now on, please use it for free!\"{w}{p}\"If you all do well, I think other people will be happy too.{w}It's the least I can do to thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}           *  Storage fee is now 0 GP  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner; centring is a guess. GP per batch-1 convention."
+ },
+ {
+  "en": "\"Welcome hom-- Oh, I'm sorry!{w}You've stayed with us so much that I've started to think of you like family...\"{w}{p}\"If there's anything you'd like, just say the word.{w}I'll do my very best to look after you!\"{w}",
+  "kind": "msg",
+  "note": "okaerina... = cut-off 'welcome home', as in 2958."
+ },
+ {
+  "en": "\"Thanks for all your hard work!{w}What kind of adventure did you have today?{w}What kind of monsters did you fight?\"{w}{p}\"I'll come and scrub your backs later, so if you don't mind, tell me all about it!\"{w}",
+  "kind": "msg",
+  "note": "osenaka nagashi ni = come to wash the guests' backs in the bath; kept literal."
+ },
+ {
+  "en": "\"Thanks to all of you, this inn has managed to get back on its feet.{w}Thank you, really!\"{w}{p}\"I don't know if it counts as thanks, but I'm going to make this inn even more comfortable, so I hope you'll keep coming back!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, yes! The stables again, right!{w}That's fine, I get it!\"{w}{p}\"Lately I feel like I spend more time laying down straw than chopping vegetables.{w}Whose fault could that be!? ...Hmmph.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you lay down on the bed, a strange floating sensation enveloped you.{w}And then...{w}",
+  "kind": "msg",
+  "note": "Narration; the party is 'you'."
+ },
+ {
+  "en": "\"...ive...back...{w}Give it back... my... umbrella...{w}...I'm TELLING you to give it baaack!!\"{w}",
+  "kind": "msg",
+  "note": "Unseen speaker in a dream. kasa read as umbrella: glossary has Lukoje (an umbrella-carrying dream girl), probably this voice; not confirmed here. The opening fragments are pieces of kaeshite."
+ },
+ {
+  "en": "\"...Ah, it's you lot.{w}I bought this book from a traveling merchant from Isfald.{w}It's called the Great History of Hestrio, apparently.\"{w}{p}\"Word is it was obtained in Baroque Fort, where all those ruffians hang about.{w}It even records ancient history that I didn't know about.\"{w}{p}\"I'll put it on display for now, so buy it if it suits you.\"{w}",
+  "kind": "msg",
+  "note": "Isfald, Baroque Fort, Great History of Hestrio = glossary. omaetachi = 'you lot' (Costo's gruff register)."
+ },
+ {
+  "en": "\n{0E}    *  Great History of Hestrio now in stock  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner; centring is a guess."
+ },
+ {
+  "en": "\"Heh heh heh.{w}Thanks to you lot bringing in good items to sell, my shop's reputation keeps getting better and better.\"{w}{p}\"Well, it's not as if I'm grateful or anything, but as a special favor, I'll raise the prices I pay a little.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}         *  Shop now pays more for items  *{0F}{w}",
+  "kind": "msg",
+  "note": "kaitori kakaku = the price the shop pays the player for items. System banner; centring is a guess."
+ },
+ {
+  "en": "\"Hmm... What on earth is this thing?\"{w}{p}\"Seems I bought it without realizing, but the writing is different every time I look at it.{w}...Creepy.\"{w}{p}\"You lot, if you want it, hurry up and buy it.{w}I don't care for strange items like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}      *  Book of the Next Age now in stock  *{0F}{w}",
+  "kind": "msg",
+  "note": "New name: jidai no sho = 'Book of the Next Age' (Elminage III glossary spelling). System banner; centring is a guess."
+ },
+ {
+  "en": "\"Those Saimar folks, you know.{w}My shop has such a good selection, they came to negotiate a special deal!\"{w}",
+  "kind": "msg",
+  "note": "Saimar = glossary (a port town); the Saimar merchants."
+ },
+ {
+  "en": "\"The rascals were shocked when they saw my face!{w}They came thinking I was just a fairly capable shopkeeper, and it turned out I was a minister!\"{w}",
+  "kind": "msg",
+  "note": "daijin = minister; Costo boasting about his government rank. | editorial: 'a merely skilled shopkeeper' clumsy."
+ },
+ {
+  "en": "\"Keep putting your backs into collecting items. In return, I'll buy from you lot at even better prices.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}      *  Shop now pays much more for items  *{0F}{w}",
+  "kind": "msg",
+  "note": "System banner; centring is a guess."
+ },
+ {
+  "en": "\"The other day, the library people came rushing in, white as sheets.{w}Listen and be amazed! ...Every item in this land has ended up gathered in this very shop, they said!\"{w}{p}\"So they left this thing behind.\"{w}",
+  "kind": "msg",
+  "note": "toshokan no renchuu: which library is not stated (possibly Elminage, the gods' library). kessou wo kaete = agitated, pale."
+ },
+ {
+  "en": "\n{0E}   *  Encyclopedia of All Things now in stock  *{0F}{w}",
+  "kind": "msg",
+  "note": "New name: banbutsu hyakka jiten = 'Encyclopedia of All Things'. System banner; centring is a guess."
+ },
+ {
+  "en": "\"I don't know how much it's worth, but seeing things through to the end is what matters.{w}You lot did very well!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Idiot Costo",
+  "kind": "name",
+  "note": "Name box; glossary."
+ },
+ {
+  "en": "\"Y-you! That thing you've got there! Isn't that Lady Ragnastia's blanket...!!{w}...No, wait, it reeks, so keep it away from me.\"{w}{p}\"Sorry, but could you take it to Lady Ragnastia?{w}I'll be right behind you!!\"{w}",
+  "kind": "msg",
+  "note": "Lady Ragnastia as in slice 008. The blanket = the Dirty Blanket item (glossary)."
+ },
+ {
+  "en": "\"I doubt it's anywhere anymore, but... if it's been thrown away somewhere, would you find it and bring it to Lady Ragnastia for me?\"{w}",
+  "kind": "msg",
+  "note": "editorial: source identical to page 2 of slice 011 row 3123; aligned to its wording, minus its doubled 'find' (suggest 3123 take this text); 'thrown away' as in the rest of the scene."
+ },
+ {
+  "en": "\"How did it come to this...\"{w}{p}\"Ah, it's you lot...{w}Would you hear me out for a moment?\"{w}{p}\"After you resolved the Contrachio incident, I rode on the coattails of your success and was allowed to return to the Administration Bureau.\"{w}{p}\"I went back to the castle and started working as the Queen's right hand, but...\"{w}",
+  "kind": "msg",
+  "note": "Leads into a flashback (3059-3087, speaker box 'Costo'). okobore = scraps of the party's success; 'rode on the coattails'."
+ },
+ {
+  "en": "\"And while I was getting back to official duties, I did a big cleanup too! Farewell to my accursed past! Ahh, I feel great! Bwahahahaha!\"{w}",
+  "kind": "msg",
+  "note": "Flashback."
+ },
+ {
+  "en": "Ragnastia",
+  "kind": "name",
+  "note": "Name box; glossary."
+ },
+ {
+  "en": "\"Costo...{w}Have you seen my blanket?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eh? Your blanket, Lady Ragnastia?{w}How would I know anything about a thing like that?\"{w}",
+  "kind": "msg",
+  "note": "Costo uses her name as a polite second person; 'Your blanket, Lady Ragnastia'."
+ },
+ {
+  "en": "\"Right... of course you wouldn't.{w}I heard you'd been doing all sorts of cleaning, Costo, so I thought it might have gotten mixed in with something...\"{w}",
+  "kind": "msg",
+  "note": "Ragnastia addresses him by name; English 'you' plus a vocative. | editorial: 'No...' could read as contradicting him; sou... desu yo ne agrees."
+ },
+ {
+  "en": "\"Ah, so that's what this is about.{w}But I haven't laid eyes on any of your things, Lady Ragnastia.\"{w}{p}\"All I did was pick up a grubby old blanket with some weird embroidery that was lying in the corridor, while I was at it.\"{w}",
+  "kind": "msg",
+  "note": "omeshimono = (her) clothes/belongings; 'any of your things'. | editorial: tangled clause order."
+ },
+ {
+  "en": "\"Really!?{w}Where is that blanket?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I told them to throw away that filthy, smelly blanket.\"{w}",
+  "kind": "msg",
+  "note": "editorial: 'throw out' -> 'throw away' to match the echoed word in slice 011 (3089 'Threw it awaaay', 3093)."
+ },
+ {
+  "en": "\"Wha--...{w}Th... Threw it away...!?\"{w}",
+  "kind": "msg",
+  "note": "e\" = strangled 'Wha--'. sutet(a) written in katakana: stunned repetition. | accuracy: source sutet(a) is a complete word with a trailing ellipsis, not cut off mid-word; 'ou...' -> 'out...'. | editorial: 'out' -> 'away' (scene term, see 3071)."
+ },
+ {
+  "en": "\"Yes.{w}",
+  "kind": "msg",
+  "note": "Opening fragment of the next row (no closing quote in the source either); keep identical to the first line of 3077."
+ },
+ {
+  "en": "{0E}\"Yes.{0F}\n...Huh!? N-no way.{w}The blanket you're looking for, Lady Ragnastia...?\"{w}",
+  "kind": "msg",
+  "note": "First line repeats 3075 between {0E}/{0F}; the \\n after {0F} is kept (same pattern as slice 009 row 2859). He trails off as he realizes."
+ },
+ {
+  "en": "\"The blanket I've kept by my side every moment since I was a child...{w}The cute blanket with the Emperor Bird embroidery...{w}My precious blanket, the one I can't sleep without... you...\"{w}",
+  "kind": "msg",
+  "note": "The source ends on the object marker (taisetsu na moufu wo...), leaving the verb for 3081 (sutet(a)?). English ends on '... you...' so 3081 completes it. Emperor Bird = glossary."
+ },
+ {
+  "en": "\"Threw it away?\"{w}",
+  "kind": "msg",
+  "note": "Katakana sutet(a)? -- completes 3079. | editorial: 'out' -> 'away' (scene term, see 3071)."
+ },
+ {
+  "en": "\"Ah, well... um...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\" Y o u   t h r e w   i t   a w a y ? \"{w}",
+  "kind": "msg",
+  "note": "Source spells su-te-cha-tta-no with a space between every katakana for a menacing, robotic delivery; mirrored with spaced letters and inner padding. | editorial: 'out' -> 'away' (scene term, see 3071); spacing pattern kept."
+ },
+ {
+  "en": "\"Ugh... Y-yes, I threw it away...\"{w}",
+  "kind": "msg",
+  "note": "editorial: 'out' -> 'away' (scene term, see 3071)."
+ }
+]

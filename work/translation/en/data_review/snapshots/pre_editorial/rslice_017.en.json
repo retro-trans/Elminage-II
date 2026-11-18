@@ -1,0 +1,332 @@
+[
+ {
+  "en": "A female ninja drilled in shinobi skills and mindset. She uses her womanhood as a weapon, so underestimate her and you'll pay. Stand beside her and you'll notice a faint, sweet scent at her collar. One of the few vanities a kunoichi is allowed?",
+  "max": 256
+ },
+ {
+  "en": "A bold way of life, and the strong luck to back it up. A thief with both is called a Lucky Star. They are skilled enough to found a band of thieves of their own, and their varied fighting styles are sure to throw adventurers into a panic.",
+  "max": 256
+ },
+ {
+  "en": "It appears at night and downs prey in the dark. Its aim earned it the name of one who shoots down the moon. In 'Periatif', it is Jenas, Polyte's rival. The scene of their arrows colliding over the moon on the lake, sparks flying, has even been painted.",
+  "max": 256,
+  "note": "acc: restored the subject of the opening sentence (pro-drop); 'could shoot' -> 'shoots' to fit"
+ },
+ {
+  "en": "A ninja with even more training. Attack, agility, decapitation rate and many other abilities have all risen. If you meet one, do not leave it be: take it down. By the time your head has left your body, it is too late.",
+  "max": 256
+ },
+ {
+  "en": "A beastfolk girl with skunk blood. Maybe it's her skunk nature, but when worked up, she gasses. When angry, of course, but also happy or sad; any feeling sets her off. So she is shunned, friendless and lonely. And then, feeling lonely, she gasses again.",
+  "max": 256
+ },
+ {
+  "en": "A spider-like enchantress. Near her rear she spins sticky thread to snare prey, hard to cut and hard to escape. But she has a weak spot: thrust an arm into the spinneret and rip out the thread's source to wear Taranti down. Not that she'll let you easily.",
+  "max": 256
+ },
+ {
+  "en": "A demi-human monster that evolved in an unusual way. With partisan in hand it spears fish, and adventurers. It hates dryness and prefers to live in wetlands. The orcs recently taught them about seasonings, and salt-grilled fish is now all the rage.",
+  "max": 256,
+  "note": "acc: race names lowercase in running text (review_notes)"
+ },
+ {
+  "en": "A swift half-horse beastkin archer that hunts in packs. Its hunts usually succeed, but it is also known for lechery, carrying off adventurers stunned by poison arrows on its back to wed them. Not just women: handsome men get taken too. Such barbarians.",
+  "max": 256
+ },
+ {
+  "en": "By kobold custom the strongest becomes King, decided by nothing less than a clan-wide brawl. Young and old, men and women all pile in, so a female King sometimes emerges. Hence most past Kings are hotheads. Only Kings may wear a red cape.",
+  "max": 256
+ },
+ {
+  "en": "The gourmet king who reigns over orc society. Perhaps eating well really does make you stronger, for the Orc King has abilities worthy of the title. Take it lightly and you will end up as their dinner.",
+  "max": 256
+ },
+ {
+  "en": "The leader of the lizardmen. It is bigger built and more athletic than an ordinary lizardman, and no easy opponent. As befits a king, its hunting skill is beyond doubt: it can spear three fish with a single thrust.",
+  "max": 256
+ },
+ {
+  "en": "A beautiful monster, human above and fish below. Trespass in their waters and they come in groups to drive you out. For all their aggression, they are said to be keenly interested in romance. When they drive off a gentleman, they sigh among the waves.",
+  "max": 256
+ },
+ {
+  "en": "A cute-looking beastfolk girl who hunts those who stray into the woods. Ask her in turn, \"Why are your hands so hairy?\" \"Why do your eyes gleam so?\" \"Why are there fangs in your mouth?\" She answers politely, edging closer step by step with a hidden knife.",
+  "max": 256,
+  "note": "acc: source has [JP] -> double quotes (translation_brief)"
+ },
+ {
+  "en": "A girl born to a tiger and a human, who thinks she's a tiger. Get near with ulterior motives and she'll surely bite, taking you for food. Catlike, she rubs her face very hard before rain. But go near thinking 'Aww, cute!' and you'll still be eaten.",
+  "max": 256
+ },
+ {
+  "en": "Queen of the mermaids, ruler of the sea. In hand she holds a special spear, the 'Holy Sea Trident', and strikes intruders with lightning. She usually sits deep in the sea, but on calm full-moon nights she leads the mermaids to the surface for a feast.",
+  "max": 256
+ },
+ {
+  "en": "A dread lord who has lost reason and swings his sword at friend and foe. No longer human, he is a mad beast. Yet by chance even a Raver Lord may regain his senses. Then, unable to bear his sins, he tries to destroy himself... dragging those near along.",
+  "max": 256
+ },
+ {
+  "en": "A strange giant with two heads growing from its neck. Violent by nature, it constantly scans its surroundings with both heads. The two heads often quarrel over which one controls the body.",
+  "max": 256
+ },
+ {
+  "en": "A one-eyed giant gifted at smithing, of an odd race whose every member can do smithing and alchemy. Gruff like most craftsmen, but mild-natured. They like to live near volcanoes, where fire is always at hand. Visit one and it may sell you a special weapon.",
+  "max": 256
+ },
+ {
+  "en": "An ice giant. It favors the 'Freezing Sword', which freezes what it touches, and likes to freeze foes and then shatter them. It sometimes brings seafood to the Fire Giants, who grill it piping hot at once. Inwardly it sighs: 'Raw tastes better...'",
+  "max": 256
+ },
+ {
+  "en": "A giant with three faces. The top one thinks, the second moves the arms, the third the legs. Cheerful, it befriends anyone, but after a while its pushy nature starts to show. In a good mood, it can be seen racing over hills and fields with a booming laugh.",
+  "max": 256
+ },
+ {
+  "en": "A giant girl who lives in the sea. Despite her huge body, she is shy and bashful. When a tsunami she caused by moving heads for ships or fishing villages, she frets it will take small lives (which makes more tsunamis). Her dream is to be a lovely bride.",
+  "max": 256
+ },
+ {
+  "en": "A wounded giant was treated by a passing priest and, deeply moved, began training as a priest too: the Cosplay Priest. But not knowing how to train, it just swings a club while shouting spell names it picked up. Someone should guide it, don't you think?",
+  "max": 256
+ },
+ {
+  "en": "A giant shrouded in mystery. Mages and alchemists say it is a constructed giant; Summoners say it is a monster called from another world. Either way, it is surely one of the more troublesome foes adventurers face. Care to solve its mystery yourselves?",
+  "max": 256
+ },
+ {
+  "en": "Once a female spirit ruling the sky, she grew close to a wind spirit and made the other spirits jealous. As a result, she was dragged from the sky to the ground. Her longing for the sky remains, but now she drifts over the land as one of the wind spirits.",
+  "max": 256
+ },
+ {
+  "en": "The god of life-creation, who presides over the birth of life. Ildraha has a fiery, rash side. New life is ever trying to well up from within Ildraha's body, held back only by a seal Ildraha has placed on it.",
+  "max": 256
+ },
+ {
+  "en": "The god of pleasure and change, who presides over the growth of life. Ashtel is Naru's older sister; the two are sister gods. A hedonist who loves uproar and chaos, she acts on likes and dislikes like a child and makes Naru clean up her messes.",
+  "max": 256
+ },
+ {
+  "en": "The god of death, who presides over the end of life. A quiet god who watches the life and death of the world with a detached gaze, and whose body goes on receiving the 'death' of every living thing.",
+  "max": 256
+ },
+ {
+  "en": "The god of space, who makes from nothing the space to build worlds in, and chief of the six gods. Clever but extremely pedantic, Void cannot stand anything not going exactly to design, and so resents Ildraha, who acts purely on emotion.",
+  "max": 256
+ },
+ {
+  "en": "The god of time, who brings the flow of time to the world, and Ashtel's younger sister. Naru holds an 'hourglass' called 'Tonak-Kanakol'. Void and the others must find the 'Eld' before it runs out; if they fail, the realm of the gods is said to collapse.",
+  "max": 256,
+  "note": "acc: folded the subjectless fragment into the first sentence so Naru is its subject (pro-drop)"
+ },
+ {
+  "en": "The god of existence, who affirms that each thing 'is' there. Without Dehain's approval, no created thing can ever exist in the world. Whether something once approved can be 'revoked', Dehain has never tried, and so does not know.",
+  "max": 256
+ },
+ {
+  "en": "The former god of life-creation, loving all life alike. Running for chief god to make a life paradise and the Eld, Orses won no support, clashing with Dehain. Torn by duty and heart, Orses chose heart, left hopes to an heir, and went to the event horizon.",
+  "max": 256
+ },
+ {
+  "en": "The former god of change, a goddess who dozes often and acts on dreams. One day she dreamed the gods' world fell, and grieved for life left wailing in the chaos. Keener to rebuild order after the fall than on the stalled Eld, she made a certain factor.",
+  "max": 256
+ },
+ {
+  "en": "The former god of space, managing space as Void does now. A god of laughter too, Semnadoc did all sorts to cheer Dehain, tormented by regret over the Urna affair. For a certain reason, Semnadoc abdicated by choice: rare, barring dismissal or no-confidence.",
+  "max": 256
+ },
+ {
+  "en": "The former god of time. The gods in the Creation Womb Palace are the six creation gods of Urna's birth. Of the living gods, Sinhanicol was among the closest to the birth of \"Tonak-Kanakol\", and is a mystery. Sinhanicol then awaited a calm, impartial heir.",
+  "max": 256
+ },
+ {
+  "en": "An elder heading the Bistel Magic Bureau, who with its staff bars monsters with a spell barrier on the walls. Archelon's granddaughter fell for an adventurer and rarely visits, hence the foul mood. Is that why Archelon is hard on adventurers in the cave?",
+  "max": 256,
+  "note": "acc: restored the barrier's purpose ([JP]); 'Bistel royal Magic Bureau' -> glossary 'Bistel Magic Bureau' to fit"
+ },
+ {
+  "en": "Noble dragonkind is a race apart. Proud of their neutrality, dragons shun humans and elves and should never side with the Kin of Darkness. But his forebears grew close to them, so like the Dragonfolk he is disowned by dragonkind and must live in darkness.",
+  "max": 256
+ },
+ {
+  "en": "A monstrous woman serving Demon Duke Animacie. Her swift attacks from her bizarre body are unpredictable. By Espel-Dex's contract she was told to aid Zeshrom, and so joined this fight. Her aim: a cure for her master's ailing body.",
+  "max": 256
+ },
+ {
+  "en": "A spectral warrior. A member of Espel-Dex, Nonhared has destroyed land after land. Zeshrom is Nonhared's direct superior, but Nonhared is not happy with the way he works.",
+  "max": 256
+ },
+ {
+  "en": "A hedonist living for fun, with no wish to serve. None at all. Liking this land, the Mistress got a divine relic, kept mum, settled in the pleasure district. The Mistress taught a Demon Duke's daughter bad ways and, out of touch, frets like a bad pal.",
+  "max": 256,
+  "note": "acc: restored 'got' ([JP], then [JP]) and the subject of the last sentence (pro-drop); opening trimmed to fit"
+ },
+ {
+  "en": "A devil of Espel-Dex. Having found a special Zefkaka, he plots to seize its power and expand Espel-Dex. A master schemer but a bit soft-hearted, he has little taste for pure destruction. His ideal is smart yet aggressive rule, and he strives for it daily.",
+  "max": 256
+ },
+ {
+  "en": "An ancient evil spirit trying to take this land. Fiona's name was carved on the Holy Foundation, Contrachio, symbol of sovereignty over the land, but she has rewritten it with her own name to make this land hers.",
+  "max": 256
+ },
+ {
+  "en": "The land of Zeshrom's birth was on the brink of being scrapped. To escape that, its Zefkaka set out to reset itself, cast out the life rooted in it, Zeshrom included, and rose again as a New Land. Cast off by his own land, how does Zeshrom see Urna?",
+  "max": 256
+ },
+ {
+  "en": "A Zefkaka is a land's soul or will. All Zefkaka are said to have split off from the first fragment, the Primordial Soil, and grown into lands. By an old twist of fate, this land held both Fiona's and Urna's Zefkaka. Now, which Zefkaka will you choose?",
+  "max": 256
+ },
+ {
+  "en": "Urna, lawful sovereign of the land via the divine relics. Its life should have hailed her return, but the wall of time made it unwelcome. Fiona, who once took the New Land's rights from her, blocks her again, and in sorrow Urna swings the Sword of Wrath.",
+  "max": 256
+ },
+ {
+  "en": "One of the Four Sages of the Hestrio Continent: a giant owl who rules the wind. Possessed of much ancient wisdom, it is said to be the closest of the Four Sages to humans.",
+  "max": 256
+ },
+ {
+  "en": "One of the Four Sages of the Hestrio Continent: a giant dog who rules fire. Fierce by nature, he lives in the Scorching Castle with the creatures who adore him. He rules fire but is no fire spirit, so when it gets too hot, he snaps.",
+  "max": 256
+ },
+ {
+  "en": "One of the Four Sages of the Hestrio Continent: a giant jellyfish who rules water. Her coral crown lets her know the state of the whole sea. She loves quiet, and cannot stand the hot-blooded or the noisy.",
+  "max": 256,
+  "note": "acc: [JP] = stiflingly intense/hot-blooded people, not 'overbearing'"
+ },
+ {
+  "en": "One of the Four Sages of the Hestrio Continent: a giant mole who rules the earth. Raizam lived in the Blanc Desert but somehow never felt at home there, and wants to move away. Not very bright, but the most sensible of the Four Sages.",
+  "max": 256
+ },
+ {
+  "en": "Leaving the Princess's land, a strange light felled us into ages of sleep. Awake, we forgot the past and guarded folk here, till a dear voice called from below!? We answer her now! I am Omsis of Wind!! \"Come, Princess! Let's finish our broken dream!\"",
+  "max": 256
+ },
+ {
+  "en": "Leaving the Princess's land, a strange light felled us into ages of sleep. Awake, we forgot the past and guarded folk here, till a dear voice called from below!? We answer her now! I am Rades of Fire!! \"We kept 'em safe! You'll praise us, right, Princess?\"",
+  "max": 256
+ },
+ {
+  "en": "Leaving the Princess's land, a strange light felled us into ages of sleep. Awake, we forgot the past and guarded folk here, till a dear voice called from below!? We answer her now! I am Shirins of Water!! \"Oh Princess, this time I'll stay to the end!!\"",
+  "max": 256
+ },
+ {
+  "en": "Leaving the Princess's land, a strange light felled us into ages of sleep. Awake, we forgot the past and guarded folk here, till a dear voice called from below!? We answer her now! I am Raizas of Earth!! \"Welcome home, Princess~! Squeeze me, mogu~!!\"",
+  "max": 256
+ },
+ {
+  "en": "The grand professor taking on challengers at the Magical Party! Whistle in mouth, the prof will tweet-tweet everyone's magic away! Show amazing magic and maybe you'll get something good~!? Prof. Rombino is the prof's half-sibling: same mom, different dad!",
+  "max": 256
+ },
+ {
+  "en": "Long ago, in a certain land, a \"theorem\" that could deeply affect the world of the gods was discovered. But its discoverer never realized its value, and someone stole the theorem, hid it, and sealed it away in another land, or so it is said.",
+  "max": 256,
+  "note": "acc: restored the hearsay marker ([JP])"
+ },
+ {
+  "en": "A giant vampire bat, with more than double the strength and stamina of a normal one. But it is a coward at heart. Hiding in the depths of the cave, it lays trap upon trap on the way to its lair, then sinks its fangs into worn-out foes.",
+  "max": 256
+ },
+ {
+  "en": "Armitt's dear, dear only son, who startles people by sticking out his tongue with a big 'blehhh'. The more trouble a child, the dearer, they say, and Armitt is always fussing over him. He has worries of his own, it seems, but none of it shows on his face.",
+  "max": 256
+ },
+ {
+  "en": "A strange demon said to have come from a different land. It is said to twist space when it appears. It is called a demon, but rumor has it that it may be more powerful than any demon.",
+  "max": 256
+ },
+ {
+  "en": "A demon that brings death with a grating laugh. It was granted part of the authority of the King of the Dead, and loves to wield that power to make fools of its foes.",
+  "max": 256
+ },
+ {
+  "en": "An old lord who joined forces with the Wraith, King of the Dead, to rescue his beloved Eril, taken by Apasha, the Abyss. He found her again, but Apasha's hold was so overwhelming that, far from saving her, he was swallowed into the Abyss with her.",
+  "max": 256
+ },
+ {
+  "en": "That old lord is now nothing but a pitiful soul swallowed by the Abyss. If there is any comfort left, perhaps it is that he can wander with his beloved Eril.",
+  "max": 256
+ },
+ {
+  "en": "Hers was no special life. She simply lived as best she could, and died. But the flawed path of souls spilled her soul into the Abyss. When Branet called, she knew it was dangerous and she must not seek help, yet could not hold back her overflowing heart.",
+  "max": 256
+ },
+ {
+  "en": "The only gate linking the inside of Apasha, the Abyss, with the world of the living. Which land it appears in, when, and how long it stays open are all impossible to predict. Opening it also seems to require the dead and the living to work together.",
+  "max": 256
+ },
+ {
+  "en": "A snow woman with an especially warm heart who falls in love easily. She saves lost travelers and gives them a night's shelter, but each parting hurts, and at night she weeps alone into her pillow, sighing as she counts the snow, hoping they'll return.",
+  "max": 256
+ },
+ {
+  "en": "Miyuki's father and head of the winter kin. He had a beautiful snow woman for a wife, but she fell ill and passed away. So dearly does he cherish Miyuki, the child she left behind, that he often acts selfishly.",
+  "max": 256
+ },
+ {
+  "en": "Captain Wanelly, King of Adventure. A good captain who cares for the crew, but hot-tempered and quick with fists. At last, pirates who resented him ambushed him in the Narmant Trench. He fought well but was outnumbered, and sank with ship and crew.",
+  "max": 256
+ },
+ {
+  "en": "A giant bird kept beneath Baroque Fort. Goblins sometimes take it out for walks and they get along well enough, but when its stress boils over, it goes on a rampage.",
+  "max": 256
+ },
+ {
+  "en": "A mage serving as Rubenburg's Vice Principal, second only to the Board Chair: the real No. 2. Free to set the budget, she built a big magic research wing and teaches Magic students practical skills. Her poise draws many girls to the Magic course.",
+  "max": 256
+ },
+ {
+  "en": "A teacher of the occult, Tarot above all. Scheherazade loves studying odd devices and often causes trouble, most lately making grenades with Prof. Harmoni and being punished by Kathleen. Very popular with the boys, many of whom want extra lessons.",
+  "max": 256,
+  "note": "acc: restored the subject of the grenade clause (pro-drop)"
+ },
+ {
+  "en": "The magic school's only brawn teacher, there to teach tactics against warriors. A stiff, earnest type, McMahon frets over having to spread the weak points of one's own trade. It's meant to be secret, but all can tell, and Kathleen often offers comfort.",
+  "max": 256,
+  "note": "acc: [JP] = the weak points of McMahon's own profession (a warrior type teaching anti-warrior tactics); 'everyone' -> 'all' to fit"
+ },
+ {
+  "en": "An Onmyoji Special Advisor from a far eastern land. Kamikaze teaches summoning, and about the Kin of Darkness: how they appear, lead hearts astray, prey on people, and discard them when done. Kamikaze teaches much from personal experience.",
+  "max": 256
+ },
+ {
+  "en": "The man serving as Rubenburg's Principal. He graduated top of his class and once taught. But true to the rule that \"a boss with able staff goes soft\", he leaves it all to Kathleen and just stamps papers, invites outside teachers on a whim, or snort-laughs.",
+  "max": 256
+ },
+ {
+  "en": "Founder of Rubenburg and ex-court mage of Isfald, versed in magic and all other knowledge. That knowledge showed that the lands do not exist for mortals; wishing to be free of the gods, the Board Chair tried to dabble in forbidden arcane experiments.",
+  "max": 256
+ },
+ {
+  "en": "Tentacles that serve as the limbs of the Kin of Darkness, and only the mightiest of them at that. It is said that ordinary adventurers are overcome by their miasma just from laying eyes on them.",
+  "max": 256
+ },
+ {
+  "en": "The new king of Baroque Fort. Orphaned by an epidemic, he was raised by Ubogenya. A fussy eater, he hated every meal from childhood. One day he snapped and holed up in the storehouse, but none of the food inside suited him, and the siege lasted a day.",
+  "max": 256
+ },
+ {
+  "en": "The Ogre Lord two reigns back, who started the \"A King Must Bungee\" tradition. Fond of whim decrees, this Lord issued the \"Goblin Warrior Act\" (\"Goblins must train too!\"), outraging goblins and the ogres who relied on goblin support.",
+  "max": 256
+ },
+ {
+  "en": "The old goblin who raised the Goblin Prince. Strict in discipline, she was feared not only by goblins but by ogres as well. It is said there is no one whose backside Ubogenya has not smacked.",
+  "max": 256
+ },
+ {
+  "en": "A Kobold King, Bohinyob's friend. At bouts, crowds roared: Bohinyob's one blow, or Babis's Swallow Cut? As a child, Babis saw a samurai say \"Fear not, 'twas the flat of the blade\" and took up flat strikes. But the samurai was wrong, and the error lives on.",
+  "max": 256
+ },
+ {
+  "en": "Details unknown.",
+  "max": 256
+ },
+ {
+  "en": "A forest beast that loves silence. It adores Silent Shells, said to absorb sound and spells, and hoards them around itself. It even hates its own growl, so it sewed its mouth shut. In Berte's heyday, it often fought her over rowdy forest drinking parties.",
+  "max": 256
+ },
+ {
+  "en": "A romantic old demon who dearly loves the night sky. Coming across a marvelous gem called the Moonlight Stone, he reaches the very height of happiness. But then his precious treasure is stolen by an order of knights with a ridiculous name.",
+  "max": 256
+ }
+]

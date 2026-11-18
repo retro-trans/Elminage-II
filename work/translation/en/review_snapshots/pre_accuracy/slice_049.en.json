@@ -1,0 +1,350 @@
+[
+ {
+  "en": "\"Whoaaa, the Prince just fell out of the sky!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin Below",
+  "kind": "name",
+  "note": "Literally 'voice of the goblin below'; shortened for the name box. The matching ogre name box (slice 048, [JP]) should read 'Ogre Below'."
+ },
+ {
+  "en": "\"Prince!?{w}PRIIIIINCE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I really thought... I was going to die, you know...?\"{w}",
+  "kind": "msg",
+  "note": "Montana slips into dazed polite speech ([JP]); kept as a stunned, shaky line."
+ },
+ {
+  "en": "\"Young Lord, a dive with no rope at all -- who could have imagined?{w}I am utterly in awe.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (the retainer's address for Montana) = 'Young Lord' throughout this slice. [JP] = a 'bare' dive, i.e. the rope was never tied."
+ },
+ {
+  "en": "\"Man, you're amazing!{w}You actually pulled off a bungee jump without a lifeline!{w}I've got no choice but to give you credit for this!!\"{w}{p}\"If you're up for it, show us again sometime!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am never... doing that again...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, Young Lord. As for what comes after the bungee jump...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaat!?{w}There's still something else I have to do!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is no need to brace yourself so.{w}You need only go and report to the royal tomb in the Churos Highlands.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, is that all?{w}Then let's knock it out real quick.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I would like that as well, but I am busy, as is everyone else, so none of us are able to accompany you...\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as agreeing to 'finish it quickly' (the previous line); the 'but' sets up the refusal to go along."
+ },
+ {
+  "en": "\"So?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You don't need an escort or anything, do you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Excuse me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, as I said.{w}Please go on your own, Young Lord.{w}As in, get going already.\"{w}",
+  "kind": "msg",
+  "note": "[JP] drops the retainer's politeness into blunt casual speech; 'get going already' keeps the rude turn."
+ },
+ {
+  "en": "\"Um, look, I'm... the king, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Of course.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It'd be a problem if I died, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Moderately.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"In the event of your royal demise, we would have to choose the next king from among the ogres, wouldn't we?{w}A mere half day. What a short reign it was...\"{w}",
+  "kind": "msg",
+  "note": "[JP] is the formal word for a monarch's death; 'royal demise' keeps the mock solemnity."
+ },
+ {
+  "en": "\"Wait just a minuuute!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, honestly. Don't make that face.{w}Pardon me, adventurers.{w}This is such a bother, so please just humor him for me.\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as the retainer's own bother ('it's a hassle'), which is what provokes Montana's next line."
+ },
+ {
+  "en": "\"What kind of way to ask is that!? Fine, forget it!{w}Hey, you all. That's how things are, so... won't you come to Churos with me?\"{w}{p}\"Oh, come to think of it, I never told you my name, did I?{w}It's Montana. Nice to meet ya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Montana",
+  "kind": "name"
+ },
+ {
+  "en": "\"Huh? I was gonna come with you, but someone already beat me to it!{w}Jeez, come on, seriously.\"{w}",
+  "kind": "msg",
+  "note": "Shown when the party has no free slot: [JP] = 'someone got there first'. Kept literal rather than naming the party limit."
+ },
+ {
+  "en": "Goblin Prince joined the party.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do have a safe trip.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Grr. That ticks me off.\"{w}",
+  "kind": "msg",
+  "note": "[JP] is a childish form of [JP]; rendered as a sulky grumble."
+ },
+ {
+  "en": "\"Come now, come now. Off to the Churos Highlands with the Young Lord, if you please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, are you ready?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alrighty!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you.{w}There isn't much here, but make yourselves at home.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you.{w}There isn't much here, but make yourselves at... Huh?{w}The Yuan Wine?\"{w}",
+  "kind": "msg",
+  "note": "Same opening as 2789, interrupted at the same point ([JP]...)."
+ },
+ {
+  "en": "\"What!? Good adventurers, where did you hear of that!?{w}...From Princess Leafa of Isfald!?{w}Oh, at last... at laaast!!\"{w}",
+  "kind": "msg",
+  "note": "The party carries Leafa's royal command, not the wine itself (Montana fetches it in 2803-2807), so [JP] = the matter of the wine: 'hear of that'. The middle line answers an unshown reply from the party."
+ },
+ {
+  "en": "\"Wh-what is it, what is it? What's gotten into you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Young Lord, this is the important duty your predecessor told you of at the Churos Highlands!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the previous ruler; 'your predecessor' avoids guessing kinship or gender. 'At the Churos Highlands' attached to 'told' as in the source (the royal tomb is there)."
+ },
+ {
+  "en": "\"...No way.{w}Wasn't that just a legend handed down for generations?{w}And it's in MY generation... that we hit the jackpot?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So it would seem!{w}Now then, Young Lord! I shall show you the way, so please carry it in your own hands!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is turning into something pretty huge...{w}Hang on a sec, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So this is it...{w}The Yuan Wine. It's ridiculously old.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The elven royal family sends out the call, we ogres and goblins answer it, and we hand over this wine.\"{w}{p}\"From an age so ancient it feels wrong to simply call it 'long ago'... a promise that has carried on ever since.{w}I'll fulfill it now. Please, accept it.\"{w}",
+  "kind": "msg",
+  "note": "Montana switches from [JP] to [JP] here; the more solemn register is kept for this one speech."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Yuan Wine.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh... nnnghhh...\"{w}",
+  "kind": "msg",
+  "note": "The retainer choking back tears (explained in 2814)."
+ },
+ {
+  "en": "\"What's up with you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To think I would witness a fragment of such a legend with my own eyes while I still live.{w}...And on top of that, you even look just a little dignified, Young Lord.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, come on...\"{w}{p}\"Anyway, I guess this'll do?{w}I'll leave the rest to Princess Leafa and you all.{w}I'm counting on you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's this, who're you lot? Don't get visitors like you often.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you want grapes?{w}Can't just hand those over that easily...{w}I know, do me a favor.\"{w}{p}\"My loincloth's on 1F. Take it to Hostef, over in the northwest, to get it washed.{w}Do that, and I'll give you some grapes.\"{w}",
+  "kind": "msg",
+  "note": "[JP] here and Hostef's [JP] (2935, 2941) both rendered 'loincloth' so the player connects them."
+ },
+ {
+  "en": "\"If you don't take my loincloth in for washing, you're not getting any grapes, got it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, you took it in for washing for me!{w}Then go ahead and take the grapes.{w}Thanks a bunch.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welp, guess I'll go hunt for the bungee gear.{w}Knowing that cowardly Prince, he probably went and dumped it on the sly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Prince is something else...{w}I seriously respect the guy...\"{w}",
+  "kind": "msg",
+  "note": "Said to the party after the jump (Montana is not addressed), so third person."
+ },
+ {
+  "en": "Ogre Caretaker",
+  "kind": "name"
+ },
+ {
+  "en": "\"Whaddaya want, you folks?{w}I'm tellin' ya for your own good -- best head on home, quick.\"{w}",
+  "kind": "msg",
+  "note": "Caretaker speaks rural dialect ([JP], [JP], [JP]); rendered as light rustic English."
+ },
+ {
+  "en": "\"Huh? Ya want grapes?{w}I'm just the caretaker, so that ain't for me to decide...{w}Best go ask the Ogre Knight, respectful-like.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: the Ogre Knight's gender is not established, so no Sir/Master; the deference goes into 'respectful-like' ([JP])."
+ },
+ {
+  "en": "\"Ya got the say-so for the grapes?{w}Well, ain't that good.{w}Right, I'll pick ya some, so wait there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Ogre Grapes.{w}",
+  "kind": "msg",
+  "note": "New item name: Ogre Grapes ([JP]), not in the glossary."
+ },
+ {
+  "en": "\"Here, take 'em with ya.\"{w}{p}\"...What, ya ain't gonna eat 'em yourselves?{w}Aw, so they're for the alchemy doc, eh.{w}Then a smaller bunch woulda done fine.\"{w}{p}\"Come back 'round when the harvest's done.{w}Ya got permission, so I'll share a little with you folks too.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the Alchemy Geezer (who asks for the grapes, slice 050); 'the alchemy doc' keeps [JP]'s respect in the caretaker's voice."
+ },
+ {
+  "en": "\"Why's that, I wonder...{w}Us ogres, we been growin' grapes forever.\"{w}{p}\"They say no matter how handy the goblins are, this one job ya must never leave to 'em.\"{w}{p}\"I don't understand hard stuff like that, but...{w}sometimes, when I'm lookin' at the grapes, I get this warm, achin' sorta feelin'.\"{w}{p}\"Why's that, I wonder...\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as 'however dexterous the goblins are' (goblins are the skilled-handed ones in this fort)."
+ },
+ {
+  "en": "Hostef",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, what is it now? You've come to see Hostef, then?{w}Do not get in the way of my laundry, thank you kindly.\"{w}",
+  "kind": "msg",
+  "note": "Hostef speaks in tanka rhythm (5-7-5 / 7-7) in every line; English keeps a 5-7-5 / 7-7 syllable cadence where possible. Third-person self-reference ([JP]) kept."
+ },
+ {
+  "en": "\"You again, is it? Is it a tanka you want, by any chance, hm?{w}I'd gladly give you one, but I need some material.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come to think of it, the Ogre Knight's loincloth, that's one{w}I have yet to wash. Whatever shall I do now?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, thank you so much! You brought the loincloth to me, came all the way here.{w}As thanks, I'll present to you a tanka of my own make.\"{w}{p}\"..........\"{w}{p}'So long overdue,\nI do the wash -- and up on\nthe rooftop there gleams{w}a loincloth in the sunlight,\nhere at Baroque Fort.'{w}{p}\"Here you are, take it. I present it to you now. Take good care of it.{w}And with that said, I will go back to my work once again.\"{w}",
+  "kind": "msg",
+  "note": "The tanka parodies a classical poem: [JP] is a pillow word for light/sun, so 'sunlight' carries it alongside [JP]. Laid out on lines as a poem; {w} stays after the third line as in the source. Last line has 5 syllables, not 7."
+ },
+ {
+  "en": "[Key Item]\nYou obtained Hostef's Tanka.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello, hello there! Perfect weather for laundry, such a lovely day.{w}After this, why don't we have some tea together, perhaps?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa there!? Who's that, barging in all of a sudden!{w}You gave me quite a fright.{w}What brings you here? Adventuring all the way out to a place like this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pyroglyph Researcher",
+  "kind": "name",
+  "note": "Glossary form; 20 characters, over the ~16 name-box guide. Check fit in game."
+ },
+ {
+  "en": "\"I study an ancient script called Pyroglyph.{w}This is what the ancient script looks like.\"{w}{p}\n              '  ┴├┣┣┫  '{w}{p}\"Surprised?{w}It means 'hello'.\"{w}{p}\"There seem to be plenty of other words too.{w}Unfortunately, I don't have enough material, so I haven't been able to decipher all of it.\"{w}{p}\"When I was young, I went out and gathered material on my own two feet, but I'm getting on in years now...\"{w}",
+  "kind": "msg",
+  "note": "Box-drawing glyphs kept verbatim: they are the Pyroglyph cipher. By the letter tables in 2959-2963 they spell H-E-L-L-O, so 'hello' works in English as is. Full-width centring spaces converted to ASCII spaces (trailing ones dropped)."
+ },
+ {
+  "en": "\"You folks are going to keep on adventuring from here on, aren't you?{w}Then how about doing me a favor?\"{w}{p}\"Oh, it's nothing much.{w}If you come across any Pyroglyph, I'd like you to let me know and help with my research.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Help with the research?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Is that so? You'll do it!{w}That's a great help, thank you!\"{w}{p}\"Pyroglyph can be seen in places like the Dekor Temple Ruins, so would you remember what it says and where you found it?\"{w}{p}\"When you come back, let's work on deciphering it together.{w}I'm counting on you, truly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see...{w}Well, can't be helped. I'll try someone else.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, good of you to come.{w}I've kept up my research since then, and I've figured out a few things.\"{w}{p}\"Pyroglyph resembles the letters we use, you see -- each symbol matches up with one letter.\"{w}{p}\"For example, what I know right now is that{w}FJPQSUVXYZ{w}match up with ┬┓┻┠┨┿┝┥┸╂, and so on.\"{w}{p}\"So, I want to match up all 26 letters.{w}You'll help me, won't you?\"{w}",
+  "kind": "msg",
+  "note": "Cipher glyphs kept verbatim; full-width letters converted to ASCII in the same order. [JP] = the Latin alphabet (26 letters), so no change needed for English."
+ },
+ {
+  "en": "\"Now then, first of all...\nwould you tell me ABCDEFG?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┌┐┘└├┬┤",
+  "kind": "op0a4",
+  "note": "Cipher answer (glyphs for A-G), read by the puzzle; left verbatim."
+ },
+ {
+  "en": "\"Next up...\nwould you tell me HIJKLMN?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "┴┏┓┛┣┗┳",
+  "kind": "op0a4",
+  "note": "Cipher answer (glyphs for H-N), read by the puzzle; left verbatim."
+ },
+ {
+  "en": "\"Next up...\nwould you tell me OPQRSTU?\"{w}",
+  "kind": "msg"
+ }
+]

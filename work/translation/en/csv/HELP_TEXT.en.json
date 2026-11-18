@@ -1,0 +1,5371 @@
+[
+ {
+  "id": "HELP_TEXT.CSV:2:1",
+  "en": "Category",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:2:2",
+  "en": "Type",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:2:4",
+  "en": "Description",
+  "max": 84,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:4:9",
+  "en": "Select where to load Face Load images from, then press the Circle button.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:5:9",
+  "en": "Select the file name to load.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:6:9",
+  "en": "Loading images from the PICTURE folder...   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:7:9",
+  "en": "Loading the Face Load list...   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:8:9",
+  "en": "Swapping Face Load data...   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:9:9",
+  "en": "Deleting Face Load data...   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:10:9",
+  "en": "Enter the password shown in the Book of the Next Age.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:11:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:11:7",
+  "en": "Spell",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:11:9",
+  "en": "Check your spells.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:12:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:12:9",
+  "en": "You cannot move to this location.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:13:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:13:9",
+  "en": "You cannot cast that spell here right now.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:14:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:14:9",
+  "en": "You have not learned any spells of this level.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:15:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:15:9",
+  "en": "This character is in no condition to cast spells.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:16:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:16:9",
+  "en": "No uses remain for spells of this level.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:17:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:17:9",
+  "en": "You cannot teleport to a place with no floor.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:18:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:18:7",
+  "en": "Items",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:18:9",
+  "en": "Check the items you are carrying.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:19:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:19:7",
+  "en": "Equip",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:19:9",
+  "en": "Equip an item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:20:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:20:7",
+  "en": "Use",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:20:9",
+  "en": "Use an item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:21:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:21:7",
+  "en": "Give",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:21:9",
+  "en": "Give an item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:22:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:22:7",
+  "en": "Discard",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:22:9",
+  "en": "Discard an item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:23:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:23:7",
+  "en": "Appraise",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:23:9",
+  "en": "If you have a Bishop, you can appraise unidentified items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:24:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:24:9",
+  "en": "Choose an equipment slot. Circle: Compare and swap with current gear. Square: Unequip.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:25:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:25:4",
+  "en": "Equip",
+  "max": 84,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:25:9",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:26:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:26:4",
+  "en": "Equip",
+  "max": 84,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:26:9",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:27:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:27:9",
+  "en": "Choose an equipment slot. Circle: Compare and swap with current gear. Square: Unequip.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:28:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:28:4",
+  "en": "Equip",
+  "max": 84,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:28:9",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:29:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:29:4",
+  "en": "Equip",
+  "max": 84,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:29:9",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:30:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:30:9",
+  "en": "Select an item to use.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:31:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:31:9",
+  "en": "It is cursed and cannot be removed.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:32:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:32:9",
+  "en": "Choose an item to give.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:33:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:33:9",
+  "en": "Choose who will receive the item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:34:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:34:9",
+  "en": "Choose an item to discard.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:35:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:35:9",
+  "en": "This item cannot be used.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:36:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:36:9",
+  "en": "It cannot be appraised.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:37:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:37:7",
+  "en": "Appraise",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:37:9",
+  "en": "There is no character who can appraise items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:38:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:38:9",
+  "en": "This character is not carrying any items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:39:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:39:9",
+  "en": "The item has been unequipped.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:40:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:40:9",
+  "en": "You have been cursed.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:41:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:41:9",
+  "en": "It is cursed and cannot be discarded.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:42:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:42:9",
+  "en": "This character is in no condition to appraise items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:43:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:43:9",
+  "en": "Oops! You touched it!   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:44:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:44:9",
+  "en": "Cannot equip: this character has changed classes before.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:45:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:45:9",
+  "en": "There is no one to hand the item to.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:46:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:46:9",
+  "en": "This character is in no condition to cast spells.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:47:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:47:9",
+  "en": "Unable to use items in this condition.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:48:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:48:9",
+  "en": "This item is unidentified. Please have it appraised.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:49:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:49:9",
+  "en": "Cannot equip: the equipment requirements are not met.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:50:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:50:9",
+  "en": "This item has already been appraised.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:51:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:51:9",
+  "en": "This item is broken.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:52:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:52:9",
+  "en": "A child born of a cursed act cannot equip this item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:53:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:53:9",
+  "en": "The item slots are full.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:54:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:54:7",
+  "en": "Svt. Bag",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:54:9",
+  "en": "Organize the items in the Servant's Bag.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:55:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:55:9",
+  "en": ": move it back to the item list. Triangle: Set the recovery timing.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:56:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:56:9",
+  "en": "Set when Maid Recover heals from the bag.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:57:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:57:9",
+  "en": "The item slots are full, so it cannot be returned to the item list.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:58:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:58:9",
+  "en": "This character is not a Servant.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:59:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:59:9",
+  "en": "This requires the High Master ability Fate Alteration.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:60:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:60:9",
+  "en": ": put it into the Servant's Bag. Triangle: Set the recovery timing.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:61:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:61:9",
+  "en": "That item is not in the Servant's Bag.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:62:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:62:9",
+  "en": "Check a character's condition in detail.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:63:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:63:9",
+  "en": "Split all party members' money evenly.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:64:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:64:9",
+  "en": "Collect all party members' money.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:65:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:65:9",
+  "en": "Who will you cast the spell on?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:66:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:66:9",
+  "en": "This stat is already at MAX.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:67:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:67:9",
+  "en": "That is the same as the current alignment.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:68:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:68:9",
+  "en": "Cast the spell?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:69:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:70:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:71:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:72:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:72:9",
+  "en": "Triangle: Resists & Slaying   Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:73:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:73:9",
+  "en": "Triangle: Special Effects & Resists  Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:74:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:74:9",
+  "en": "Triangle: Monster Effects  Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:75:2",
+  "en": "Status",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:75:9",
+  "en": "Triangle: Passives  Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:76:7",
+  "en": "Berte's Tavern",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:76:9",
+  "en": "A tavern where adventurers gather.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:77:7",
+  "en": "Rosetta's Inn",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:77:9",
+  "en": "Restore HP and MP, and do smithing and alchemy.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:78:7",
+  "en": "Kernel Shop",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:78:9",
+  "en": "Buy and sell items, or have them appraised.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:79:7",
+  "en": "Temple of Orses",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:79:9",
+  "en": "Provides healing, resurrection and more.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:80:7",
+  "en": "Bistel Castle",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:80:9",
+  "en": "Browse the encyclopedias and report your adventure's progress.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:81:7",
+  "en": "Training Hall",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:81:9",
+  "en": "Register characters and more.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:82:9",
+  "en": "Downed characters were carried to the temple.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:83:7",
+  "en": "Agres Plaza",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:83:9",
+  "en": "Go to Agres Plaza.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:84:7",
+  "en": "Lunea's Shop",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:84:9",
+  "en": "Go to Lunea's Shop.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:85:7",
+  "en": "Oldaim",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:85:9",
+  "en": "Go to Oldaim.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:86:7",
+  "en": "Lunea's Shop",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:86:9",
+  "en": "This is not a 0 GP item, so it cannot be sold here.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:87:7",
+  "en": "Yotel Wharf",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:87:9",
+  "en": "Go to Yotel Wharf.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:88:7",
+  "en": "Bilente's",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:88:9",
+  "en": "Go to Bilente's Shop.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:89:7",
+  "en": "Grand Merchant's Office",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:89:9",
+  "en": "Go to the Grand Merchant's Office.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:90:7",
+  "en": "Request List",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:90:9",
+  "en": "View the request list.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:91:7",
+  "en": "Request List",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:91:9",
+  "en": "This request has been solved.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:92:7",
+  "en": "Canteen",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:92:9",
+  "en": "Go to the Canteen.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:93:7",
+  "en": "Jera's Store",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:93:9",
+  "en": "Go to Jera's General Store.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:94:7",
+  "en": "Blast Furnace",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:94:9",
+  "en": "Go to the Blast Furnace.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:95:9",
+  "en": "Choose an alchemy item.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:96:7",
+  "en": "Harjiradam",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:96:9",
+  "en": "Go to Harjiradam.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:97:7",
+  "en": "Caron Main Store",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:97:9",
+  "en": "Go to the Caron Main Store.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:98:7",
+  "en": "Semnadoc Cathedral",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:98:9",
+  "en": "Go to Semnadoc Cathedral.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:99:7",
+  "en": "About the Gods",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:99:9",
+  "en": "Ask about the gods.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:100:9",
+  "en": "Offer a prayer.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:101:9",
+  "en": "Hear an oracle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:102:9",
+  "en": "Which oracle will you hear?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:103:9",
+  "en": "You have already bought this hint.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:104:7",
+  "en": "Colored Corridor",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:104:9",
+  "en": "Go to the Colored Corridor.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:105:7",
+  "en": "Recorded History",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:105:9",
+  "en": "View the Recorded History.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:106:7",
+  "en": "Inner Door",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:106:9",
+  "en": "Look at the Inner Door.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:107:7",
+  "en": "Small Talk",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:107:9",
+  "en": "Small talk.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:108:9",
+  "en": "Choose a topic.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:109:7",
+  "en": "World Map",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:109:9",
+  "en": "Enter a dungeon, resume an adventure, or save your progress.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:110:9",
+  "en": "Talk to the person on the left.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:111:9",
+  "en": "Talk to the person in the middle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:112:9",
+  "en": "Talk to the person on the right.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:113:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:113:9",
+  "en": "Choose a character from the list and add them to the party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:114:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:114:9",
+  "en": "Choose a character to call.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:115:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:115:9",
+  "en": "Choose where to place them in the party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:116:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:116:9",
+  "en": "The party is full.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:117:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:117:9",
+  "en": "There are no characters you can call.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:118:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:118:9",
+  "en": "Their alignments differ, so they cannot form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:119:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:119:9",
+  "en": "Remove a character from the party and put them on standby.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:120:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:120:9",
+  "en": "Choose a character to put on standby.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:121:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:121:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:122:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:122:9",
+  "en": "Check a character's status.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:123:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:123:9",
+  "en": "Choose a character.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:124:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:124:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:125:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:125:9",
+  "en": "With a Bishop in the party, list all unidentified items and appraise them in one go.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:126:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:126:9",
+  "en": "There is no one who can appraise.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:127:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:127:9",
+  "en": "Choose who will do the appraising.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:128:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:128:9",
+  "en": "Which item will you appraise?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:129:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:129:9",
+  "en": "Item appraised.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:130:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:130:9",
+  "en": "It cannot be appraised.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:131:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:131:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:132:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:132:9",
+  "en": "Change the party's formation.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:133:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:133:9",
+  "en": "Pick who to move, then where. That character's icon leaves the lower row and moves to the upper one. Once all party members have moved, it ends automatically.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:134:2",
+  "en": "Berte's Tavern",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:134:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:135:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:135:9",
+  "en": "Let a character rest. Square repeats the Circle button.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:136:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:136:9",
+  "en": "The whole party rests. Square repeats the Circle button.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:137:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:137:7",
+  "en": "Alchemy Storage",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:137:9",
+  "en": "Storage reserved for Alchemists. Smithing and alchemy are done here.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:138:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:138:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:139:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:139:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:140:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:140:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:141:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:141:9",
+  "en": "Choose a character to stay at the inn.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:142:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:142:9",
+  "en": "Choose a room to stay in.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:143:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:143:9",
+  "en": "Unable to stay at the inn in this condition.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:144:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:144:9",
+  "en": "Choose the character who will pay the fee.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:145:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:145:9",
+  "en": "You don't have enough money to pay the fee.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:146:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:146:7",
+  "en": "Smithing",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:146:9",
+  "en": "Fuse an item with ore to give it added effects.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:147:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:147:7",
+  "en": "Alchemy",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:147:9",
+  "en": "Combine ores to create alchemy items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:148:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:148:7",
+  "en": "Dismantle",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:148:9",
+  "en": "Restore smithed weapons and armor to their original state.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:149:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:149:9",
+  "en": "Put items you are carrying into storage.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:150:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:150:9",
+  "en": "Take stored items out of storage.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:151:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:151:9",
+  "en": "There are no items in storage.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:152:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:152:9",
+  "en": "Choose who will do the smithing.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:153:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:153:9",
+  "en": "Choose the weapon to enhance.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:154:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:154:9",
+  "en": "Choose the ore to add.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:155:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:155:9",
+  "en": "Allocate the grade points.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:156:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:156:9",
+  "en": "Can't smith without the Alchemy skill.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:157:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:157:9",
+  "en": "There's no base item, so smithing can't be done.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:158:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:158:9",
+  "en": "No one is in a condition to perform alchemy.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:159:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:159:9",
+  "en": "No one is in a condition to do smithing.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:160:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:160:9",
+  "en": "No one is in a condition to dismantle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:161:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:161:9",
+  "en": "Smithing complete.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:162:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:162:9",
+  "en": "Choose who will perform the alchemy.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:163:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:163:9",
+  "en": "Choose the first ore.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:164:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:164:9",
+  "en": "Choose the second ore.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:165:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:165:9",
+  "en": "Can't perform alchemy without the Alchemy skill.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:166:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:166:9",
+  "en": "You have no alchemy materials, so alchemy can't be performed.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:167:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:167:9",
+  "en": "This combination can't be used for alchemy.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:168:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:168:9",
+  "en": "Alchemy requires at least two materials.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:169:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:169:9",
+  "en": "Alchemy complete.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:170:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:170:9",
+  "en": "Choose who will do the dismantling.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:171:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:171:9",
+  "en": "Choose the item to dismantle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:172:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:172:9",
+  "en": "Can't dismantle without the Dismantle skill.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:173:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:173:9",
+  "en": "There are no items to dismantle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:174:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:174:9",
+  "en": "You can't carry the items that dismantling would produce.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:175:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:175:9",
+  "en": "Dismantling complete.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:176:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:176:9",
+  "en": "Choose the item to store.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:177:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:177:9",
+  "en": "Choose the item to take out.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:178:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:178:9",
+  "en": "This item can't be stored.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:179:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:179:9",
+  "en": "The storage is full. No more items can be stored.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:180:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:180:9",
+  "en": "Item placed in storage.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:181:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:181:9",
+  "en": "Who will take items out of storage?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:182:2",
+  "en": "Rosetta's Inn",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:182:9",
+  "en": "Item taken out of storage.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:183:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:183:9",
+  "en": "Buy and sell goods.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:184:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:184:9",
+  "en": "Appraise unidentified items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:185:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:185:9",
+  "en": "List everyone's unequipped items and sell them in bulk.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:186:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:186:7",
+  "en": "Uncurse/Repair",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:186:9",
+  "en": "Lift curses from cursed items. Also repairs broken items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:187:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:187:9",
+  "en": "There are no items to appraise.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:188:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:188:9",
+  "en": "There are no items to sell.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:189:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:189:7",
+  "en": "Uncurse/Repair",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:189:9",
+  "en": "Nothing needs uncursing or repair.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:190:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:190:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:191:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:191:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:192:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:192:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:193:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:193:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:194:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:194:9",
+  "en": "Who will trade?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:195:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:195:9",
+  "en": "There is no one who can trade.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:196:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:196:9",
+  "en": "Choose an item to appraise.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:197:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:197:9",
+  "en": "Appraising the item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:198:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:198:9",
+  "en": "Choose items to sell.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:199:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:199:9",
+  "en": "Choose an item to uncurse or repair.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:200:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:200:9",
+  "en": "This item is cursed.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:201:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:201:9",
+  "en": "This item needs repair.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:202:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:202:9",
+  "en": "Uncursing/repairing the item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:203:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:203:9",
+  "en": "Buy items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:204:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:204:7",
+  "en": "Sell",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:204:9",
+  "en": "Sell items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:205:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:205:9",
+  "en": "The item slots are full.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:206:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:206:9",
+  "en": "Unidentified items can't be sold.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:207:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:207:9",
+  "en": "Not enough money to buy this.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:208:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:208:9",
+  "en": "Items worth 0 GP can't be sold.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:209:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:209:9",
+  "en": "Items not worth 0 GP can't be sold here.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:210:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:210:9",
+  "en": "Choose an item category.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:211:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:211:9",
+  "en": "Circle: Buy. Triangle: View item details.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:212:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:212:9",
+  "en": "This item is out of stock.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:213:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:213:9",
+  "en": "You don't have enough money to buy this.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:214:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:214:9",
+  "en": "Buying this item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:215:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:215:9",
+  "en": "Selling this item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:216:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:216:9",
+  "en": "Selling this item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:217:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:217:7",
+  "en": "Circle: Sell.   ",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:217:9",
+  "en": "Circle: Sell.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:218:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:218:9",
+  "en": "This item can't be sold.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:219:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:219:9",
+  "en": "Choose an item and a transaction. Circle: One at a time. Square: Repeat Circle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:220:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:220:9",
+  "en": "The bag can hold up to 99 items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:221:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:221:9",
+  "en": "This item is out of stock.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:222:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:222:7",
+  "en": "Svt. Bag",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:222:9",
+  "en": "Only Servants can use the bag.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:223:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:223:9",
+  "en": "You don't have that item.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:224:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:224:7",
+  "en": "Treat & Retrieve",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:224:9",
+  "en": "Treat and retrieve characters.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:225:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:225:7",
+  "en": "Donate",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:225:9",
+  "en": "Donate money to gain experience.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:226:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:226:9",
+  "en": "Offer a prayer to the god Orses.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:227:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:227:7",
+  "en": "Rite of Flux",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:227:9",
+  "en": "Perform the Rite of Flux.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:228:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:228:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:229:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:229:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:230:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:230:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:231:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:231:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:232:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:232:9",
+  "en": "Choose who will donate.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:233:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:233:9",
+  "en": "Enter the amount to donate. Each 1 GP grants 1 EP of experience.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:234:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:234:9",
+  "en": "Not enough money.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:235:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:235:7",
+  "en": "Treat",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:235:9",
+  "en": "Cure status ailments.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:236:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:236:7",
+  "en": "Take Back",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:236:9",
+  "en": "Take back someone left in the temple's care.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:237:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:237:7",
+  "en": "Leave in Care",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:237:9",
+  "en": "Leave someone who needs treatment in the temple's care.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:238:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:238:9",
+  "en": "Request retrieval of characters whose party was wiped out.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:239:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:239:9",
+  "en": "No one needs treatment.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:240:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:240:9",
+  "en": "No one is in the temple's care.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:241:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:241:9",
+  "en": "No one needs to be retrieved.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:242:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:242:9",
+  "en": "Choose a character to treat.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:243:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:243:9",
+  "en": "Choose who will pay the offering.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:244:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:244:9",
+  "en": "Resurrection failed. The character is lost.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:245:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:245:9",
+  "en": "Resurrection failed. The character is now ash.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:246:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:246:9",
+  "en": "Choose who to take back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:247:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:247:9",
+  "en": "Choose where to put them.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:248:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:248:9",
+  "en": "Choose who to leave in the temple's care.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:249:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:249:9",
+  "en": "Taken back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:250:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:250:9",
+  "en": "Left in the temple's care.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:251:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:251:9",
+  "en": "Choose a character to retrieve.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:252:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:252:9",
+  "en": "Choose who will pay the offering.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:253:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:253:9",
+  "en": "Retrieval complete.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:254:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:254:9",
+  "en": "The Rite of Flux randomly relocates divine relics and other items you have not yet obtained. This cannot be undone, so be careful.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:255:2",
+  "en": "Temple of Orses",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:255:9",
+  "en": "Perform the Rite of Flux.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:256:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:256:7",
+  "en": "Seek Audience",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:256:9",
+  "en": "Seek an audience with Ragnastia.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:257:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:257:9",
+  "en": "View details of the monsters you have defeated.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:258:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:258:9",
+  "en": "View details of the items you have sold to the Kernel Shop.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:259:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:259:9",
+  "en": "*Not quite ready yet*",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:260:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:260:9",
+  "en": "View details of the 0 GP items you have sold to Lunea's Shop.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:261:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:261:9",
+  "en": "View details of the people you have met so far.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:262:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:262:9",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:263:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:263:9",
+  "en": "Choose a type of monster to view.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:264:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:264:9",
+  "en": "Choose a monster to view.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:265:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:265:9",
+  "en": "Triangle: Switch view. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:266:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:266:9",
+  "en": "No monsters defeated yet.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:267:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:267:9",
+  "en": "Triangle: Switch view. Cross: Back. Up/Down on the D-pad or analog pad: Move viewpoint.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:268:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:268:9",
+  "en": "Choose an item category to view.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:269:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:269:9",
+  "en": "Choose an item to view.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:270:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:270:9",
+  "en": "Triangle: Switch view. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:271:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:271:9",
+  "en": "Choose a person.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:272:2",
+  "en": "Bistel Castle",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:272:9",
+  "en": "Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:273:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:273:7",
+  "en": "Register",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:273:9",
+  "en": "Register a new character.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:274:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:274:7",
+  "en": "List",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:274:9",
+  "en": "View details of registered characters.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:275:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:275:7",
+  "en": "Delete",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:275:9",
+  "en": "Delete a registered character.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:276:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:276:9",
+  "en": "Change a registered character's name or icon.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:277:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:277:9",
+  "en": "Change the class of a character who meets the requirements.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:278:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:278:9",
+  "en": "The character list is full.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:279:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:279:9",
+  "en": "The character list is empty.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:280:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:280:9",
+  "en": "An NPC's place in the list can't be changed.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:281:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:281:7",
+  "en": "List",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:281:9",
+  "en": "Choose a character to view. Square: Reorder characters.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:282:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:282:9",
+  "en": "Circle: Spell List. Triangle: Character Details. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:283:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:283:9",
+  "en": "Triangle: Character Details. Cross: Back.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:284:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:284:7",
+  "en": "Delete",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:284:9",
+  "en": "Choose a character to delete. Square: Reorder characters.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:285:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:285:9",
+  "en": "Adventurers in an active party can't be deleted.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:286:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:286:9",
+  "en": "Character deleted.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:287:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:287:9",
+  "en": "Choose a character to rename. Square: Reorder characters.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:288:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:288:9",
+  "en": "Choose a character to change class.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:289:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:289:9",
+  "en": "Enter a name. A name needs at least one non-space character.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:290:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:290:9",
+  "en": "Enter a nickname. A nickname needs at least one non-space character.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:291:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:291:9",
+  "en": "Choose a race.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:292:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:292:9",
+  "en": "Choose a gender.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:293:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:293:9",
+  "en": "Choose an alignment.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:294:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:294:9",
+  "en": "Choose an age.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:295:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:295:9",
+  "en": "Choose a class. Square: Reroll bonus points.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:296:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:296:9",
+  "en": "Allocate the bonus points.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:297:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:297:9",
+  "en": "Choose a face icon. To use an icon downloaded with Face Load, select the Face Load button.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:298:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:298:9",
+  "en": "Character registered.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:299:2",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:299:9",
+  "en": "At least one non-space character is required.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:300:9",
+  "en": "Have a conversation.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:301:7",
+  "en": "Back",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:301:9",
+  "en": "Returns to the previous screen.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:302:2",
+  "en": "World Map",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:302:7",
+  "en": "World Map",
+  "max": 98,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:302:9",
+  "en": "Choose a destination.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:303:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:303:9",
+  "en": "Saves the game.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:304:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:304:9",
+  "en": "This party suspended its adventure. It can resume.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:305:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:305:9",
+  "en": "This is your current party. It cannot resume.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:306:2",
+  "en": "Events",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:306:9",
+  "en": "This is the event list.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:307:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:307:9",
+  "en": "Sets the in-game BGM volume.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:308:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:308:9",
+  "en": "Sets the in-game SE (sound effect) volume.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:309:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:309:7",
+  "en": "Help Message Animation",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:309:9",
+  "en": "Turns the help message animation on or off.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:310:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:310:7",
+  "en": "Conversation Message Speed",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:310:9",
+  "en": "Sets the conversation message speed on a 5-level scale. 1 is the slowest and 5 is the fastest.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:311:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:311:9",
+  "en": "Sets whether the cursor position is remembered.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:312:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:312:9",
+  "en": "Sets whether nicknames are shown on the party panel.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:313:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:313:9",
+  "en": "Sets whether HP/AC are shown on the party panel.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:314:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:314:9",
+  "en": "Sets blue as the transparent color for images imported with Face Load.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:315:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:315:9",
+  "en": "Turns the in-game hurt SE on or off.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:316:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:316:9",
+  "en": "Sets the SE for the adventurers' side.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:317:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:317:9",
+  "en": "Sets the SE for the monsters' side.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:318:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:318:9",
+  "en": "Sets how effects are displayed during battle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:319:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:319:9",
+  "en": "Sets the battle message speed on a 5-level scale. 1 is the slowest and 5 is the fastest.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:320:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:320:7",
+  "en": "Rename Spells",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:320:9",
+  "en": "Renames each of the spells the player can use.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:321:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:321:7",
+  "en": "Rename Enemy Spells Too",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:321:9",
+  "en": "Sets whether enemy spell names are renamed as well.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:322:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:322:9",
+  "en": "Sets the display format of the battle log.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:323:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:323:9",
+  "en": "Sets the names shown in the battle log.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:324:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:324:9",
+  "en": "Summoner spell names cannot be changed.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:325:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:325:9",
+  "en": "Sets whether follow-up monsters are shown when they appear.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:326:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:326:9",
+  "en": "Enter the new spell name.",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:327:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:327:9",
+  "en": "Sets what happens when you press Down on the D-pad.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:328:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:328:7",
+  "en": "Movement Animation",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:328:9",
+  "en": "Turns the movement animation on or off.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:329:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:329:9",
+  "en": "Turns the place name display on or off.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:330:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:330:9",
+  "en": "Shows or hides the party panel.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:331:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:331:9",
+  "en": "Sets which direction is at the top of the minimap.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:332:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:332:9",
+  "en": "Sets the size of the minimap.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:333:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:333:7",
+  "en": "Default",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:333:9",
+  "en": "Resets all options, including spell name changes, to their defaults.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:334:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:334:7",
+  "en": "General",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:334:9",
+  "en": "Configures general settings.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:335:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:335:7",
+  "en": "Btl",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:335:9",
+  "en": "Configures settings mainly used in battle.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:336:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:336:7",
+  "en": "Dungeon",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:336:9",
+  "en": "Configures settings mainly used in dungeons.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:337:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:337:7",
+  "en": "Default",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:337:9",
+  "en": "Resets all settings to their defaults.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:338:7",
+  "en": "Compass",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:338:9",
+  "en": "Sets up the compass.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:339:7",
+  "en": "Key Items",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:339:9",
+  "en": "Views the Key Items you are carrying.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:340:9",
+  "en": "Searches the dungeon for parties that suspended their adventure or were wiped out.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:341:2",
+  "en": "Compass",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:341:7",
+  "en": "Fame",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:341:9",
+  "en": "Offers Fame to the compass.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:342:2",
+  "en": "Compass",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:342:9",
+  "en": "Either you lack Fame, or there are no rings within the search range.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:343:2",
+  "en": "Compass",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:343:9",
+  "en": "The compass seems to be set to All Altars.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:344:9",
+  "en": "This is the list of your Key Items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:345:9",
+  "en": "You have no Key Items.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:346:9",
+  "en": "A companion was found.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:347:9",
+  "en": "Where should the companion go?   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:348:9",
+  "en": "No companions were found.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:349:9",
+  "en": "You cannot meet up with companions on this floor.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:350:9",
+  "en": "Searching for companions...   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:351:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:351:7",
+  "en": "Save Progress",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:351:9",
+  "en": "Saves your current progress.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:352:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:352:7",
+  "en": "Suspend Adventure",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:352:9",
+  "en": "Leaves the current party waiting where it is and returns to Bistel.",
+  "max": 158,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:353:2",
+  "en": "Options",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:353:7",
+  "en": "Options",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:353:9",
+  "en": "Opens the options screen.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:354:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:354:9",
+  "en": "You cannot save on this floor.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:355:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:355:9",
+  "en": "You can't suspend your adventure on this floor.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:356:2",
+  "en": "Save",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:356:9",
+  "en": "You can't cast spells here.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:357:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:357:7",
+  "en": "In Battle",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:357:9",
+  "en": "Choose a command. Triangle: All-Out Attack. R: Command Repeat.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:358:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:358:9",
+  "en": "Choose a target to attack.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:359:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:359:9",
+  "en": "Choose a skill to use.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:360:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:360:9",
+  "en": "Select an item to use.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:361:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:361:9",
+  "en": "Choose the equipment slot to change.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:362:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:362:9",
+  "en": "Choose who to guard.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:363:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:364:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:364:9",
+  "en": "Choose a tarot card to use.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:365:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:365:9",
+  "en": "No enemies found.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:366:2",
+  "en": "Btl",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:366:9",
+  "en": "It's pitch dark!   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:367:2",
+  "en": "Treasure Chest",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:367:7",
+  "en": "Treasure Chest",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:367:9",
+  "en": "Choose a command.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:368:2",
+  "en": "Treasure Chest",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:368:7",
+  "en": "Treasure Chest",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:368:9",
+  "en": "Who will inspect the trap?",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:369:2",
+  "en": "Treasure Chest",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:369:7",
+  "en": "Treasure Chest",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:369:9",
+  "en": "Who will disarm the trap?",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:370:2",
+  "en": "Treasure Chest",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:370:7",
+  "en": "Treasure Chest",
+  "max": 98,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:370:9",
+  "en": "Choose a trap.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:371:9",
+  "en": "Press Triangle to show the map legend.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:372:9",
+  "en": "Press Triangle to return to the normal map.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:373:9",
+  "en": "In darkness, the map can only be opened with a spell.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "HELP_TEXT.CSV:383:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:384:2",
+  "en": "Kernel Shop",
+  "max": 16,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "HELP_TEXT.CSV:384:9",
+  "en": "You have no items that need repair.   ",
+  "max": 158,
+  "used": true,
+  "status": "elm3"
+ }
+]

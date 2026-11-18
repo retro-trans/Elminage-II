@@ -1,0 +1,87 @@
+[
+ {
+  "en": "Alch",
+  "max": 4,
+  "note": "Header label abbreviated: Alchemy -> Alch"
+ },
+ {
+  "en": "Priestess",
+  "max": 10,
+  "note": "Card name shortened: The High Priestess -> Priestess"
+ },
+ {
+  "en": "Empress",
+  "max": 10,
+  "note": "Dropped article: The Empress"
+ },
+ {
+  "en": "Emperor",
+  "max": 10,
+  "note": "Dropped article: The Emperor"
+ },
+ {
+  "en": "Hierophant",
+  "max": 10,
+  "note": "Dropped article: The Hierophant"
+ },
+ {
+  "en": "Chariot",
+  "max": 10,
+  "note": "Dropped article: The Chariot"
+ },
+ {
+  "en": "Fortune",
+  "max": 10,
+  "note": "Card name shortened: Wheel of Fortune -> Fortune (Thoth-deck name)"
+ },
+ {
+  "en": "Hanged Man",
+  "max": 10,
+  "note": "Dropped article: The Hanged Man"
+ },
+ {
+  "en": "All",
+  "max": 6,
+  "note": "Everyone -> All (target column)"
+ },
+ {
+  "en": "Stones",
+  "max": 8,
+  "note": "Header label: Flying Stones -> Stones"
+ },
+ {
+  "en": "Ndl.",
+  "max": 4,
+  "note": "Header label: Poison Needle -> Ndl."
+ },
+ {
+  "en": "PsnGas",
+  "max": 6,
+  "note": "Header label: Poison Gas -> PsnGas"
+ },
+ {
+  "en": "Ghosts",
+  "max": 10,
+  "note": "Header label: Ghost Horde -> Ghosts"
+ },
+ {
+  "en": "Cobra Curse",
+  "max": 12,
+  "note": "Header label: Cobra's Curse -> Cobra Curse"
+ },
+ {
+  "en": "Demon Eye",
+  "max": 10,
+  "note": "Header label: Demon's Eye -> Demon Eye"
+ },
+ {
+  "en": "U.Box",
+  "max": 6,
+  "note": "Header label: Urashima's Box -> U.Box"
+ },
+ {
+  "en": "Goddess Kiss",
+  "max": 12,
+  "note": "Header label: Goddess's Kiss -> Goddess Kiss"
+ }
+]

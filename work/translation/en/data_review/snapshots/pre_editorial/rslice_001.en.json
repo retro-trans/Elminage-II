@@ -1,0 +1,332 @@
+[
+ {
+  "en": "TplDevilish",
+  "max": 16,
+  "note": "Prefix aligned to \"Tpl\" as on the sibling template rows (rslice_000; Human row budget 8 forces it)."
+ },
+ {
+  "en": "TplPuppet",
+  "max": 10,
+  "note": "Prefix aligned to \"Tpl\" as on the sibling template rows (rslice_000; Human row budget 8 forces it)."
+ },
+ {
+  "en": "TplOgre",
+  "max": 10,
+  "note": "Prefix aligned to \"Tpl\" as on the sibling template rows (rslice_000; Human row budget 8 forces it)."
+ },
+ {
+  "en": "TplGoblin",
+  "max": 12,
+  "note": "Prefix aligned to \"Tpl\" as on the sibling template rows (rslice_000; Human row budget 8 forces it)."
+ },
+ {
+  "en": "Hiding",
+  "max": 28
+ },
+ {
+  "en": "Marked",
+  "max": 28
+ },
+ {
+  "en": "Recover Trigger Timing",
+  "max": 28
+ },
+ {
+  "en": "Y Offset\n(Floating)",
+  "max": 28
+ },
+ {
+  "en": "Cursor\nHeight",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 1",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 2",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 3",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 4",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 5",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 6",
+  "max": 28
+ },
+ {
+  "en": "Contract Monster 7",
+  "max": 28
+ },
+ {
+  "en": "Display Monster Gfx No.",
+  "max": 28
+ },
+ {
+  "en": "Shadow\nSize",
+  "max": 28
+ },
+ {
+  "en": "Blessing of Change Disabled",
+  "max": 28
+ },
+ {
+  "en": "Contents",
+  "max": 46
+ },
+ {
+  "en": "Supervisor Archelon",
+  "max": 26
+ },
+ {
+  "en": "Donnelkral",
+  "max": 26
+ },
+ {
+  "en": "Nonhared",
+  "max": 26
+ },
+ {
+  "en": "Escapra",
+  "max": 26
+ },
+ {
+  "en": "Urna",
+  "max": 26
+ },
+ {
+  "en": "Zeshrom",
+  "max": 26
+ },
+ {
+  "en": "B.R. Mistress",
+  "max": 26
+ },
+ {
+  "en": "Ancient Evil & Dark Kin",
+  "max": 24
+ },
+ {
+  "en": "Urna-Zefkaka",
+  "max": 26
+ },
+ {
+  "en": "Silent Beast",
+  "max": 26
+ },
+ {
+  "en": "Angelo",
+  "max": 26
+ },
+ {
+  "en": "Underworld Gt.",
+  "max": 26
+ },
+ {
+  "en": "Outer Demon",
+  "max": 26
+ },
+ {
+  "en": "Dragon Centaur V",
+  "max": 26
+ },
+ {
+  "en": "Lunatic Demon",
+  "max": 26
+ },
+ {
+  "en": "Gregorio, the Only Son",
+  "max": 26
+ },
+ {
+  "en": "Beldoll",
+  "max": 26
+ },
+ {
+  "en": "Big Vanbat",
+  "max": 26
+ },
+ {
+  "en": "Captain Wanelly",
+  "max": 26
+ },
+ {
+  "en": "Lukoje",
+  "max": 26
+ },
+ {
+  "en": "Rubenburg Teacher Union",
+  "max": 26
+ },
+ {
+  "en": "Proud House Lenzer: Head",
+  "max": 26
+ },
+ {
+  "en": "General Winter",
+  "max": 26
+ },
+ {
+  "en": "Dodo King",
+  "max": 26,
+  "note": "accuracy: same monster as [JP] (glossary, MONRAW/MONSTER3, script 050/051) -> established \"Dodo King\" although this cell writes the Japanese in the other order."
+ },
+ {
+  "en": "The Ancestors",
+  "max": 24
+ },
+ {
+  "en": "Rubenburg Principal",
+  "max": 26
+ },
+ {
+  "en": "Rubenburg Board Chair",
+  "max": 26
+ },
+ {
+  "en": "New Land Urna",
+  "max": 26
+ },
+ {
+  "en": "New Land Urnas Rade",
+  "max": 24
+ },
+ {
+  "en": "Img",
+  "max": 4
+ },
+ {
+  "en": "Twin Gods & Fated Land",
+  "max": 22
+ },
+ {
+  "en": "Surge of Destruction",
+  "max": 22
+ },
+ {
+  "en": "Mistress",
+  "max": 22
+ },
+ {
+  "en": "'Morning of Ruin'",
+  "max": 22
+ },
+ {
+  "en": "A New Myth Begins",
+  "max": 22
+ },
+ {
+  "en": "Finas Rade",
+  "max": 22
+ },
+ {
+  "en": "Kin of Darkness",
+  "max": 18
+ },
+ {
+  "en": "The Gods' World",
+  "max": 18
+ },
+ {
+  "en": "The Inner Door",
+  "max": 18
+ },
+ {
+  "en": "Parameters",
+  "max": 14
+ },
+ {
+  "en": "Fig",
+  "max": 6
+ },
+ {
+  "en": "Pri",
+  "max": 4
+ },
+ {
+  "en": "Thi",
+  "max": 4
+ },
+ {
+  "en": "Alc",
+  "max": 8
+ },
+ {
+  "en": "Ser",
+  "max": 6
+ },
+ {
+  "en": "Ran",
+  "max": 4
+ },
+ {
+  "en": "Gla",
+  "max": 8
+ },
+ {
+  "en": "Sum",
+  "max": 6
+ },
+ {
+  "en": "Val",
+  "max": 4
+ },
+ {
+  "en": "Nin",
+  "max": 4
+ },
+ {
+  "en": "Hobbit",
+  "max": 14
+ },
+ {
+  "en": "A New Journey",
+  "max": 24
+ },
+ {
+  "en": "ABC",
+  "max": 202
+ },
+ {
+  "en": "A New Journey - consultation text",
+  "max": 194,
+  "note": "Request Office text -> consultation text, as in the other EVENT_TEXT col 7 rows (same Japanese suffix); suffix lowercased to match."
+ },
+ {
+  "en": "A New Journey - hint text",
+  "max": 216,
+  "note": "Suffix lowercased to match the other EVENT_TEXT placeholder rows (same Japanese suffix)."
+ },
+ {
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9",
+  "max": 26
+ },
+ {
+  "en": "Overture",
+  "max": 24
+ },
+ {
+  "en": "Overture - event text",
+  "max": 202,
+  "note": "Suffix lowercased to match the other EVENT_TEXT placeholder rows (same Japanese suffix)."
+ },
+ {
+  "en": "Overture - consultation text",
+  "max": 194,
+  "note": "Request Office text -> consultation text, as in the other EVENT_TEXT col 7 rows (same Japanese suffix); suffix lowercased to match."
+ },
+ {
+  "en": "Overture - hint text",
+  "max": 216,
+  "note": "Suffix lowercased to match the other EVENT_TEXT placeholder rows (same Japanese suffix)."
+ }
+]

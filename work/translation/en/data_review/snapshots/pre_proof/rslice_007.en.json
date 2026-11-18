@@ -1,0 +1,325 @@
+[
+ {
+  "en": "GShd",
+  "max": 4
+ },
+ {
+  "en": "Psn",
+  "max": 4
+ },
+ {
+  "en": "Para",
+  "max": 4
+ },
+ {
+  "en": "Sil.",
+  "max": 4
+ },
+ {
+  "en": "Conf",
+  "max": 4
+ },
+ {
+  "en": "Chrm",
+  "max": 4
+ },
+ {
+  "en": "Petr",
+  "max": 4
+ },
+ {
+  "en": "Material Type",
+  "max": 16
+ },
+ {
+  "en": "Grd",
+  "max": 4
+ },
+ {
+  "en": "Comp. Type 1",
+  "max": 12
+ },
+ {
+  "en": "Comp. Type 4",
+  "max": 12
+ },
+ {
+  "en": "[Arm] Phys Imm",
+  "max": 14
+ },
+ {
+  "en": "[Wpn] No Rng Limit",
+  "max": 18
+ },
+ {
+  "en": "Uncurse",
+  "max": 8
+ },
+ {
+  "en": "Status Cure Up (%)",
+  "max": 20
+ },
+ {
+  "en": "No Align. Limit",
+  "max": 16
+ },
+ {
+  "en": "No Gender Limit",
+  "max": 16
+ },
+ {
+  "en": "No Race Limit",
+  "max": 16
+ },
+ {
+  "en": "Wpn SE",
+  "max": 8
+ },
+ {
+  "en": "Shop Order",
+  "max": 10
+ },
+ {
+  "en": "Innocent",
+  "max": 10
+ },
+ {
+  "en": "Tenro",
+  "max": 6
+ },
+ {
+  "en": "Record Wand",
+  "max": 12
+ },
+ {
+  "en": "Equip: Reborn Only",
+  "max": 22
+ },
+ {
+  "en": "Stack Medicine",
+  "max": 14
+ },
+ {
+  "en": "No-Alchemy Flag",
+  "max": 16
+ },
+ {
+  "en": "Caron Main",
+  "max": 12
+ },
+ {
+  "en": "No Normal Spawn",
+  "max": 16
+ },
+ {
+  "en": "Placemnt",
+  "max": 8
+ },
+ {
+  "en": "SameKind Rnd",
+  "max": 12
+ },
+ {
+  "en": "Inf. Once Sold",
+  "max": 14
+ },
+ {
+  "en": "Yora",
+  "max": 4
+ },
+ {
+  "en": "Nepora",
+  "max": 6
+ },
+ {
+  "en": "Coppero",
+  "max": 8
+ },
+ {
+  "en": "Zoanne",
+  "max": 8
+ },
+ {
+  "en": "Rarity",
+  "max": 10
+ },
+ {
+  "en": "Attack Sound Effect",
+  "max": 54
+ },
+ {
+  "en": "12345678901234567890",
+  "max": 20
+ },
+ {
+  "en": "Slash",
+  "max": 54
+ },
+ {
+  "en": "Slamming sound",
+  "max": 54
+ },
+ {
+  "en": "Tenro Sword",
+  "max": 20
+ },
+ {
+  "en": "Dagger",
+  "max": 16
+ },
+ {
+  "en": "Partisan",
+  "max": 20
+ },
+ {
+  "en": "Hammer",
+  "max": 16
+ },
+ {
+  "en": "Club",
+  "max": 16
+ },
+ {
+  "en": "Sound of shattering glass",
+  "max": 54
+ },
+ {
+  "en": "A sharp 'thunk!', like a blowdart striking",
+  "max": 54
+ },
+ {
+  "en": "Swish-snap! (a crisp, supple whip crack)",
+  "max": 54,
+  "note": "Editorial: romanized sound word 'Shpaan!' -> English 'Swish-snap!'."
+ },
+ {
+  "en": "Weapon",
+  "max": 16
+ },
+ {
+  "en": "Whirrrr of a boomerang in flight",
+  "max": 54
+ },
+ {
+  "en": "The Changelings",
+  "max": 20
+ },
+ {
+  "en": "Great Hestrio Hist.",
+  "max": 20
+ },
+ {
+  "en": "Sallet",
+  "max": 20
+ },
+ {
+  "en": "Hat",
+  "max": 16
+ },
+ {
+  "en": "Airy Vider Meat",
+  "max": 20
+ },
+ {
+  "en": "Cloak",
+  "max": 16
+ },
+ {
+  "en": "Belt",
+  "max": 16
+ },
+ {
+  "en": "Blue Cloak",
+  "max": 20
+ },
+ {
+  "en": "Tonafel Tail",
+  "max": 20
+ },
+ {
+  "en": "Amulet",
+  "max": 16
+ },
+ {
+  "en": "Enchanting Rolfan",
+  "max": 20
+ },
+ {
+  "en": "Holy Ember",
+  "max": 20
+ },
+ {
+  "en": "Carbuncle Jewel",
+  "max": 20
+ },
+ {
+  "en": "Phoenix Down",
+  "max": 20
+ },
+ {
+  "en": "Emperor Bird Egg",
+  "max": 20
+ },
+ {
+  "en": "Ring",
+  "max": 16
+ },
+ {
+  "en": "Jade Ring",
+  "max": 20
+ },
+ {
+  "en": "Ankh",
+  "max": 16
+ },
+ {
+  "en": "Scroll",
+  "max": 16
+ },
+ {
+  "en": "Scroll of Sleep",
+  "max": 20
+ },
+ {
+  "en": "Scroll of Light",
+  "max": 20
+ },
+ {
+  "en": "Erod: Light",
+  "max": 54
+ },
+ {
+  "en": "Scroll of Exorcism",
+  "max": 20
+ },
+ {
+  "en": "Scroll of Floating",
+  "max": 20
+ },
+ {
+  "en": "Sosareo: Party Floats",
+  "max": 54,
+  "note": "Editorial: Title Case after the colon, as in the other spell notes (cols 202/203)."
+ },
+ {
+  "en": "Scroll of Escape",
+  "max": 20
+ },
+ {
+  "en": "Mahamaha: Escape",
+  "max": 54
+ },
+ {
+  "en": "Scroll of Firebreath",
+  "max": 20
+ },
+ {
+  "en": "Pomedoon: Breath Magic",
+  "max": 54,
+  "note": "Editorial: Title Case after the colon, as in the other spell notes (cols 202/203)."
+ },
+ {
+  "en": "Scroll of Long Range",
+  "max": 20
+ }
+]

@@ -1,0 +1,351 @@
+[
+ {
+  "en": "Haleorat asked you to obtain the sheet music of a song guarded by the spirits on Anhimona Heights.",
+  "max": 202
+ },
+ {
+  "en": "Rise Again, Ancient Song - consultation text",
+  "max": 194
+ },
+ {
+  "en": "To climb higher on Anhimona Heights, try giving the fairy on 1F some sweets. Sweets are also sold in Gandra Mine. Once you've been through, you'll find a shortcut too.",
+  "max": 216
+ },
+ {
+  "en": "The Ancient Song's Truth",
+  "max": 24
+ },
+ {
+  "en": "The sheet music you obtained was written in a script from long, long ago, and no one could read it. So Haleorat asked you to have it deciphered.",
+  "max": 202
+ },
+ {
+  "en": "The Ancient Song's Truth - consultation text",
+  "max": 194
+ },
+ {
+  "en": "Ogres and goblins excel at studying ancient scripts. Visit the goblin on Baroque Fort 2F and help finish the research, and the script should get deciphered along the way.",
+  "max": 216
+ },
+ {
+  "en": "'Morning of Ruin'",
+  "max": 24
+ },
+ {
+  "en": "Lord Volms asked you to look into a painting he bought, a copy of a mural. If only you could find the mural the painting was based on...",
+  "max": 202,
+  "note": "editorial: 'a copy of a mural that he bought' read as if he bought the mural; the copy is what he bought ([JP])."
+ },
+ {
+  "en": "Forsaken Painting 'Morning of Ruin' - consultation text",
+  "max": 194,
+  "note": "accuracy: restored 'Forsaken Painting' ([JP]), dropped only in the 24-byte title cell."
+ },
+ {
+  "en": "To reach the painted place, warp from the center of the Dekor Temple Ruins' bottom floor. Once the ancient script is decoded, go deeper under Dekor and let an elf, ogre, human, gnome and hobbit pray to open the door.",
+  "max": 216,
+  "note": "accuracy: race names lowercase in running text (convention); 'have ... pray' restores the instruction (let them pray). 'bottom'/'decoded'/'let' keep it within 216 bytes."
+ },
+ {
+  "en": "Please Find Me",
+  "max": 24
+ },
+ {
+  "en": "Lunea of Lunea's Shop apparently gathers goods to sell in the Nerid Marshlands, but went out and hasn't come back.",
+  "max": 202,
+  "note": "proof: tense ([JP] = hasn't come back)."
+ },
+ {
+  "en": "Please Find Me - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "The oracle says Lunea is on the underground level of the Nerid Marshlands, toward the northeast. Do your best to rescue Lunea, then escort the shopkeeper back to the store.",
+  "max": 216
+ },
+ {
+  "en": "Leafa's Request",
+  "max": 24
+ },
+ {
+  "en": "Leafa, the elven princess, ordered you to obtain the Sweet Ginger said to grow in the Nerid Marshlands.",
+  "max": 202,
+  "note": "editorial: clumsy passive -> active, like the other 'X asked you to' log entries."
+ },
+ {
+  "en": "Leafa's Request - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Sweet Ginger grows on the surface level of the Nerid Marshlands. Back in my training days, when I got lost and had nothing to eat, I often helped myself to a nibble of it too.",
+  "max": 216
+ },
+ {
+  "en": "Leafa's Request!",
+  "max": 24
+ },
+ {
+  "en": "The Sweet Ginger Knights were ordered by Leafa to win back the Moonlight Stone. The stone is said to be held by the Lunatic Demon that comes to the summit of Moonlight Falls.",
+  "max": 202
+ },
+ {
+  "en": "Leafa's Request! - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Apart from defeating the Lunatic Demon at the summit, there shouldn't be anything especially hard. Halfway up, though, you can't go on without finding a hidden door, so do be careful.",
+  "max": 216
+ },
+ {
+  "en": "Leafa's Requeeest~",
+  "max": 24
+ },
+ {
+  "en": "The Sweet Ginger Knights were ordered by Leafa to obtain the Holy Ember. The Holy Ember is said to be on the top floor of the Scorching Castle.",
+  "max": 202
+ },
+ {
+  "en": "Leafa's Requeeest~ - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "To reach the Scorching Castle's top floor, you may first have to settle the uproar in the basement. Then you can go up. The stones on 2F reveal 3F's invisible path, so it may help to walk every inch of 2F.",
+  "max": 216
+ },
+ {
+  "en": "Leafa's Royal Command",
+  "max": 24
+ },
+ {
+  "en": "The Sweet Ginger Knights received a royal command from Leafa: find the savior of long ago and deliver the Yuan Wine to them. Who could this savior be...?",
+  "max": 202
+ },
+ {
+  "en": "Leafa's Royal Command - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "You'll likely be given the wine once you sort out all the trouble at Baroque Fort. After you uncover the truth of the Forsaken Painting, try going to see Raizam in the new land.",
+  "max": 216
+ },
+ {
+  "en": "Gregorio Is Missing",
+  "max": 24
+ },
+ {
+  "en": "Armitt's only son, Gregorio, has gone missing. Apparently he saw an arena-related request from Heerdahl at Walmitt's...",
+  "max": 202
+ },
+ {
+  "en": "Gregorio Is Missing - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "It seems Gregorio has gone and entered the arena. If you also head down to the basement of Heerdahl and fight in the arena, you may be able to meet him.",
+  "max": 216
+ },
+ {
+  "en": "My Dinner",
+  "max": 24
+ },
+ {
+  "en": "Benef fishes for his dinner, but Muse always steals the catch, so for the past few years he's gone without a side dish. Apparently catnip water from the Nerid Marshlands could put Muse to sleep, but...",
+  "max": 202,
+  "note": "editorial: 'for years' -> 'for the past few years' ([JP]; accuracy open item), shortened 'his meals have had no side dish' to fit."
+ },
+ {
+  "en": "My Dinner - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Catnip water is on the underground level of the Nerid Marshlands. But it's beyond a hidden door, so you'll need to watch your step. It's in the middle of the north side of the underground level.",
+  "max": 216,
+  "note": "editorial: 'north-center' is not natural English ([JP])."
+ },
+ {
+  "en": "Hungry Muse",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get a Toryoron Potato. Toryoron Potatoes can apparently be found in the Dekor Ruins.",
+  "max": 202,
+  "note": "accuracy: 'Dekor Temple' -> 'the Dekor Ruins' (data-review rule; script slice 022 says Dekor Ruins for this request)."
+ },
+ {
+  "en": "Hungry Muse - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Rubezahl grows turnips on 1F of the Dekor Ruins, but now and then a Toryoron Potato apparently sprouts instead. If you keep searching the turnip field, I think you'll get one.",
+  "max": 216,
+  "note": "accuracy: 'Dekor Temple' -> 'the Dekor Ruins' (data-review rule; script slice 022/038)."
+ },
+ {
+  "en": "Hungry Muse * Seconds",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get a Sun Melon. Sun Melons apparently grow in the Blanc Desert.",
+  "max": 202
+ },
+ {
+  "en": "Hungry Muse * Seconds - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "The Sun Melon is on the north side of the Blanc Desert, in the northwest. Sandstorms are a nuisance to those who live near the desert, but for adventurers like you, they're a handy way to get around.",
+  "max": 216
+ },
+ {
+  "en": "Hungry Muse * 3rd Bowl",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get a Heerdahl Manju. Heerdahl Manju are apparently sold in Heerdahl.",
+  "max": 202
+ },
+ {
+  "en": "Hungry Muse * 3rd Bowl - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "I often buy Heerdahl Manju as a souvenir when I go golfing. They're delicious! Just go to 3F and buy some; it's not hard. Rumor has it the champion of the basement arena can use a passage straight to 3F.",
+  "max": 216
+ },
+ {
+  "en": "Hungry Muse * Dessert",
+  "max": 24
+ },
+ {
+  "en": "Muse asked you to get Shirinmorin's Leg. Shirinmorin's Leg can apparently be had from Shirinmorin in the Narmant Trench.",
+  "max": 202
+ },
+ {
+  "en": "Hungry Muse * Dessert - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Lady Shirinmorin of Water, one of the Four Sages. You could steal one of those honored legs, I suppose, but if you search around nearby, I think you'll find at least one lying about.",
+  "max": 216
+ },
+ {
+  "en": "Let's All Solve It!",
+  "max": 24
+ },
+ {
+  "en": "At Bilente's Shop, you were entrusted with a puzzle ring called the Beldoll. You'll have to go around looking for those who can solve it...",
+  "max": 202
+ },
+ {
+  "en": "Let's All Solve It! - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "In short, those who can solve it are... Kine, Raizam, the Mistress of Heerdahl, Montana, and the goddess at the center of the new land. Five in all. Sadly, it seems I can't. ...How annoying. May I borrow it a moment?",
+  "max": 216
+ },
+ {
+  "en": "Saimar's Grand Merchant",
+  "max": 24
+ },
+ {
+  "en": "Saimar's Grand Merchant - event text",
+  "max": 202,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Saimar's Grand Merchant - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Saimar's Grand Merchant - hint text",
+  "max": 216,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "The Loipes Cave Bats",
+  "max": 24
+ },
+ {
+  "en": "Loads of giant Vampire Bats have moved into Loipes Cave. Please exterminate them.",
+  "max": 202
+ },
+ {
+  "en": "Down on B2F of Loipes Cave, see, a whole bunch of bats THIIIS big have moved in. It's dangerous as all get-out. Somebody do somethin' about it!",
+  "max": 194,
+  "note": "editorial: floor notation B2F/2F as in the script and the other tables."
+ },
+ {
+  "en": "There are five Big Vanbats on B2F of Loipes Cave. Defeat them, and the request should be complete.",
+  "max": 216,
+  "note": "editorial: floor notation B2F/2F as in the script and the other tables."
+ },
+ {
+  "en": "Cure-All Unicorn Horn",
+  "max": 24
+ },
+ {
+  "en": "Someone needs a Unicorn Horn to cure their grandpa's illness.",
+  "max": 202
+ },
+ {
+  "en": "A Unicorn Horn, said to cure any illness... With one, I think Grandpa would get well again. Does anyone have one, by any chance?",
+  "max": 194
+ },
+ {
+  "en": "You can take a Unicorn Horn by force. But rumor has it that at the Unicorn Spring in the Churos Highlands, anyone the unicorns take a liking to is given one for free.",
+  "max": 216
+ },
+ {
+  "en": "Relics of the Wanelly",
+  "max": 24
+ },
+ {
+  "en": "The Wanelly, sunk in the Narmant Trench, is said to attack passing ships and adventurers. If only you could gather its relics and set the souls aboard free...",
+  "max": 202
+ },
+ {
+  "en": "Captain Wanelly's a scary one. Even dead, the captain goes after anyone who sails close by. Let sleeping dogs lie, they say, but... can't somebody do somethin'? I can't do business like this.",
+  "max": 194
+ },
+ {
+  "en": "Do you know how to herd Sedna? West, north, east, north, east, south, west, north, east, north, west, south, east, north. After that, things should take their course and let you dive into the Narmant Trench.",
+  "max": 216
+ },
+ {
+  "en": "Legendary Fundoshi",
+  "max": 24
+ },
+ {
+  "en": "Legendary Fundoshi - event text",
+  "max": 202,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Legendary Fundoshi - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Legendary Fundoshi - hint text",
+  "max": 216,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Saimar Orchestra",
+  "max": 24
+ }
+]

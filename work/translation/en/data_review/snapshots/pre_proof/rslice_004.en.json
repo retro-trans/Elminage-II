@@ -1,0 +1,354 @@
+[
+ {
+  "en": "The orchestra in Saimar is short of trumpets. If you get hold of a trumpet, deliver it to them.",
+  "max": 202
+ },
+ {
+  "en": "A trumpet, does anyone have a trumpet!? We don't have a trumpet and we're in a fix! The concert's coming up and we have to rehearse! Eeeeek!!",
+  "max": 194
+ },
+ {
+  "en": "Oh, they're short of trumpets? Of the ones adventurers can get hold of, how about a Startle Trumpet?",
+  "max": 216
+ },
+ {
+  "en": "Raging Narmant Trench",
+  "max": 24
+ },
+ {
+  "en": "Someone apparently wants Shirinmorin of the Narmant Trench calmed down.",
+  "max": 202
+ },
+ {
+  "en": "Hasn't Lady Shirinmorin been acting a bit off lately? It's rare for the Narmant Trench to get this rough. Could somebody go and calm Lady Shirinmorin down?",
+  "max": 194
+ },
+ {
+  "en": "For this one, you'll just have to dive into the trench and do your best. The door to Lady Shirinmorin's chamber opens with switches in the rooms past the secret doors. There are three switches!",
+  "max": 216,
+  "note": "editorial: dangling 'This one,' -> 'For this one,'."
+ },
+ {
+  "en": "Bahamut on a Single Line",
+  "max": 24
+ },
+ {
+  "en": "Long ago, there was apparently a man who could land Bahamut on a single line.",
+  "max": 202
+ },
+ {
+  "en": "Hey, hey! My dad says he once saw an old guy landing a Bahamut on a single line. Can you really catch one? If you land one, tell me!!",
+  "max": 194,
+  "note": "editorial: monster name capitalised as in 48:2/48:6 and the monster table."
+ },
+ {
+  "en": "For fishing, it has to be Benef. Bring a Flame Rod and some Airy Vider Meat, and he may regain his old strength and show off his skill! ...Though something extra may come along with it.",
+  "max": 216
+ },
+ {
+  "en": "The Cerberus of Nerid",
+  "max": 24
+ },
+ {
+  "en": "Please exterminate the killer Cerberus that has appeared in the Nerid Marshlands.",
+  "max": 202
+ },
+ {
+  "en": "A killer Cerberus has appeared in the Nerid Marshlands. Could someone please hurry and go kill it?",
+  "max": 194
+ },
+ {
+  "en": "A killer Cerberus? If you mean something like that, I saw one on the surface, in the southeast of the Nerid Marshlands...",
+  "max": 216
+ },
+ {
+  "en": "Doppelganger in Clouds",
+  "max": 24
+ },
+ {
+  "en": "A Doppelganger has apparently appeared above the clouds at Moonlight Falls.",
+  "max": 202
+ },
+ {
+  "en": "Th-there's a Doppelganger above the clouds at Moonlight Falls! It looks just like me, and it even has my ugly mannerisms! Dammit! Someone, beat that Doppelganger for scarring my heart!!",
+  "max": 194
+ },
+ {
+  "en": "The clouds at Moonlight Falls must be the ones on 2F. If you ride the force of the water down from 3F, you might land right on top of them.",
+  "max": 216,
+  "note": "editorial: floor notation 2F/3F as in the other hints and the script."
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover",
+  "max": 24
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover - event text",
+  "max": 202,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Tarmeet, Alchemy Lover - hint text",
+  "max": 216,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Devoured by Nightmares",
+  "max": 24
+ },
+ {
+  "en": "Ever since Gary brought an umbrella out of a dream, he's been plagued by nightmares. You got stuck with the umbrella, which gives you nightmares if you sleep somewhere with a pillow.",
+  "max": 202
+ },
+ {
+  "en": "Devoured by Nightmares - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Somewhere with a pillow? In Bistel, Rosetta's Inn should do. Ah, but not the Stables. Economy at the very least. Sleep with the umbrella and you should reach the dream world.",
+  "max": 216
+ },
+ {
+  "en": "More Frying Pans",
+  "max": 24
+ },
+ {
+  "en": "The ladle and frying pan Tris uses have broken. Tris would like you to bring back a new ladle and frying pan from the Scorching Castle.",
+  "max": 202
+ },
+ {
+  "en": "More Frying Pans - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "If I remember right, 2F of the Scorching Castle is a little smithy. As I recall, Rida was good at ladles, and Yahite at frying pans.",
+  "max": 216,
+  "note": "editorial: floor notation 2F as in the other hints and the script."
+ },
+ {
+  "en": "Dreaming of the Far East",
+  "max": 24
+ },
+ {
+  "en": "Jera of Gandra Mine loves the land far to the east and is hunting for items tied to it. Jera wants \"Hundred Bamboo Edge\", \"Chihaya Benizakura\", \"Yasha Princess\" and \"Mikaboshi\".",
+  "max": 202
+ },
+ {
+  "en": "Dreaming of the Far East - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Isn't Jera lovely! Like a lone flower blooming in Gandra Mine! If you get \"Hundred Bamboo Edge\", \"Chihaya Benizakura\", \"Yasha Princess\" or \"Mikaboshi\" on your adventures, take them to Jera.",
+  "max": 216,
+  "note": "editorial: lead decision, no he/she/her for Jera."
+ },
+ {
+  "en": "You Are Chaff",
+  "max": 24,
+  "note": "accuracy: the sword [JP] is 'Chaff' in ITEM.CSV 425/496 and script slice 026; the title puns on it."
+ },
+ {
+  "en": "Garian handed you \"Chaff\", a hopelessly junky sword. You were told to bring a tarot card so it can be tempered, but...",
+  "max": 202,
+  "note": "accuracy: sword name 'Kasu' -> 'Chaff' (ITEM table, script slice 026)."
+ },
+ {
+  "en": "You Are Chaff - consultation text",
+  "max": 194,
+  "note": "accuracy: title aligned with 55:2 (Chaff). | accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "For a tarot card of Eastern origin, give sweets to Jeratan at the general store and win at rock-paper-scissors. I hear a chocolate cornet gives the best odds of a good one.",
+  "max": 216
+ },
+ {
+  "en": "Tenro Sword Legend",
+  "max": 24
+ },
+ {
+  "en": "Quasimon seems to want the Tenro Sword.",
+  "max": 202
+ },
+ {
+  "en": "Tenro Sword Legend - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "I've heard the Tenro Sword can be found in the north and south of the Blanc Desert. A sword that's half become legend... I hope you find it.",
+  "max": 216
+ },
+ {
+  "en": "Kine's Disciple",
+  "max": 24
+ },
+ {
+  "en": "It's been a long time since Kine's disciple Tarzen disappeared. Kine has no wish to bring Tarzen back, but worries whether Tarzen is doing all right.",
+  "max": 202
+ },
+ {
+  "en": "Kine's Disciple - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "I saw an attendant named Tarzen at the footbath in Heerdahl. Could that be the one?",
+  "max": 216
+ },
+ {
+  "en": "Train at Moonlight Falls",
+  "max": 24
+ },
+ {
+  "en": "Namina was aiming to work at the cathedral, but is losing sight of the purpose of working there. Namina seems to want to train at Moonlight Falls to clear away those doubts, but...",
+  "max": 202,
+  "note": "accuracy: Namina takes no pronoun (review_notes; script gives no gender); 'seems to want' for [JP]."
+ },
+ {
+  "en": "Train at Moonlight Falls - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Do your best, Namina! May fortune be with you!!",
+  "max": 216,
+  "note": "accuracy: [JP] = the oracle's catchphrase, 'May fortune be with you!!' in script slice 030 (6372); identical Japanese, identical English."
+ },
+ {
+  "en": "Please Support Caron!",
+  "max": 24
+ },
+ {
+  "en": "Caron, who runs the Caron Main Store, wants to sell the Caron brand in Rubenburg. It seems all you need to do is dress head to toe in the Caron brand and beat Vice Principal Kathleen, but...",
+  "max": 202
+ },
+ {
+  "en": "Please Support Caron! - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "Talk to Caron while carrying nothing, and Caron will outfit you head to toe in Caron Series prototypes. Dressed like that, go see Vice Principal Kathleen on Rubenburg 2F.",
+  "max": 216
+ },
+ {
+  "en": "It's Mersenne!",
+  "max": 24
+ },
+ {
+  "en": "It's Mersenne! - event text",
+  "max": 202,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "It's Mersenne! - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "It's Mersenne! - hint text",
+  "max": 216,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "No Leaks, Please",
+  "max": 24
+ },
+ {
+  "en": "Raizam moved in safely, but is now plagued by a water leak. The girl at the general store in Gandra Mine can apparently fix it, but...",
+  "max": 202,
+  "note": "editorial: 'got moved in' -> 'moved in' (Raizam did the moving)."
+ },
+ {
+  "en": "No Leaks, Please - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "The girl at the general store in Gandra Mine... that'd be Jera. If you can somehow get on good terms with Jera, you might be able to bring the shopkeeper along to fix it.",
+  "max": 216,
+  "note": "editorial: lead decision, no he/she/her for Jera."
+ },
+ {
+  "en": "Leprechaun Treasure",
+  "max": 24
+ },
+ {
+  "en": "A thief is apparently after the Leprechaun's treasure in Highberry.",
+  "max": 202
+ },
+ {
+  "en": "Leprechaun Treasure - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "The Leprechaun's treasure is famous, isn't it? Well, taking it by force isn't impossible... But you could also help him out of some trouble and have him hand it over.",
+  "max": 216,
+  "note": "accuracy: the Leprechaun is male (glossary; script slice 034 'He's an old geezer of a fairy'): them -> him."
+ },
+ {
+  "en": "Guld, a phony Ranger, wants to win Honey's heart. And to keep the forest at peace, Guld is also looking for someone to learn Ranger skills from.",
+  "max": 202,
+  "note": "accuracy: [JP] = 'phony Ranger' ([JP] = Ranger convention; script slice 035 'I'm a phony Ranger'). | editorial: 'someone to teach Ranger skills' left unclear who learns (Guld wants to be taught); Guld's gender is open, so no pronoun."
+ },
+ {
+  "en": "Forest Warden - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "If it's Ranger skills Guld wants to learn, the quickest way is to bring along a High Master Ranger.",
+  "max": 216
+ },
+ {
+  "en": "The Wind Sage's Errand",
+  "max": 24
+ },
+ {
+  "en": "Omshokopo the Wind Sage is concerned about fellow Four Sages Radrecht, Shirinmorin and Raizam. They're said to be in the Scorching Castle, Narmant Trench and Blanc Desert, respectively, but...",
+  "max": 202
+ },
+ {
+  "en": "The Wind Sage's Errand - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "So even the Four Sages worry about how their friends are doing. Once you've met the other three, why not go back and tell Omshokopo how they are?",
+  "max": 216
+ },
+ {
+  "en": "The Earth Sage's Move",
+  "max": 24
+ },
+ {
+  "en": "Raizam the Earth Sage asked you to help with a move. The very bottom of Loipes Cave would be best, apparently, but...",
+  "max": 202
+ },
+ {
+  "en": "The Earth Sage's Move - consultation text",
+  "max": 194,
+  "note": "accuracy: placeholder label aligned to the '<Title> - consultation/event/hint text' pattern of rslices 000-002 (lead)."
+ },
+ {
+  "en": "There's no path to the deepest part of Loipes Cave. You'll just have to dig your way through the hidden doors.",
+  "max": 216
+ },
+ {
+  "en": "Revenge on the Mirage",
+  "max": 24
+ },
+ {
+  "en": "An adventurer met a mysterious death in the Blanc Desert. You'd like to avenge her, but...",
+  "max": 202
+ }
+]

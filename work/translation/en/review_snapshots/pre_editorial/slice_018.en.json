@@ -1,0 +1,352 @@
+[
+ {
+  "en": "\"But there should be a Pyroglyph researcher among the goblins of Baroque Fort.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right, there was! An old goblin geezer like that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why not try asking them?\"{w}",
+  "kind": "msg",
+  "note": "Rondelgius suggests asking the goblins ([JP]); addressed to Haleorat and the party."
+ },
+ {
+  "en": "\"Good thinking!{w}Sorry, but could you guys go to Baroque Fort and get this score deciphered for us?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = casual 'sorry (to ask)'. [JP]: the party is to get it read, via the goblin researcher just mentioned."
+ },
+ {
+  "en": "\"I am rather curious myself. I would very much ask it of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey there, want to stick around and hear a song?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How far have you gotten with deciphering the score?{w}If you figure it all out, be sure to let us in on it too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You deciphered it? The writing on the score!?{w}So this song is called Urnade...\nLet me play it right away.\"{w}",
+  "kind": "msg",
+  "note": "Urnade per glossary (song title, no brackets in source)."
+ },
+ {
+  "en": "Urna wished for a little happiness\nBreathing in the earth, the first friend{w}{p}Hand in hand, let us celebrate the two who met\nFingertips touching, the warmth of the soil{w}{p}Urna wished for an endless sky\nDance through the heavens, the second friend{w}{p}The wind blows through, binding heaven and earth\nHold it close, and feel a beloved life{w}{p}Urna wished for a fire in the heart\nBurn, O soul, the third friend{w}{p}Dwelling in the breast, a hymn to life\nAnd here abides a hope that never dies{w}{p}Urna wished for peaceful water\nDrifting in the deep, the fourth friend{w}{p}Shining on a sleeping face, the waves of moonlight\nO happiness, may you last forever{w}",
+  "kind": "msg",
+  "note": "Song lyrics (Urnade). Kept the two-line-per-page layout with \\n. [JP]/[JP] rendered 'the first/second friend' without a possessive (the lyric does not say whose). [JP] singular/plural unknown; 'a sleeping face'."
+ },
+ {
+  "en": "\"...???{w}The ones it sings about as friends... that means the Four Sages of the Land, right?\"{w}{p}\"Let's see, Raizam the Earth Sage, Omshokopo the Wind Sage, Radrecht the Fire Sage, and Shirinmorin the Water Sage... was it?\"{w}{p}\"Weren't the Four Sages born together with the Earth Goddess -- I mean, Lady Fiona?\"{w}{p}\"...If so, then who's Urna?{w}None of the folk songs or old tales I know has anyone named Urna in it...\"{w}{p}\"......\"{w}{p}\"Something about... this song is bad news.{w}It's just my gut talking, but...\nI've got a feeling spreading these lyrics around would be bad news.\"{w}{p}\"...Huh?\nThe old goblin told you not to sing it, too?{w}I knew it...\"{w}{p}\"All right, then I'll give up on this song.{w}I'll keep it sealed away inside me.\"{w}",
+  "kind": "msg",
+  "note": "Page 7: the party reports what the goblin said (relayed; not shown). [JP] kept as 'bad news' twice, mirroring the repetition."
+ },
+ {
+  "en": "\"Sorry. I promised I'd sing for you as thanks, and it ended up being a one-time-only thing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Don't tell Volms or Mister Rondel about this, okay? You know why, right?\"{w}{p}\"Welp, in that case, guess I'll go looking for a new song!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Haleorat's casual address for Rondelgius (shortened name + [JP]). Rendered 'Mister Rondel' (a 'the master' reading does not fit). Reason implied: Volms would be shaken by the lyrics' implication."
+ },
+ {
+  "en": "\"Your journey sure sounds like fun!\"{w}{p}\"...Someday,\nwould you let me turn your adventures into a song?{w}I bet it'd make a great song!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whaaat are you, you mere huuuman!!\nDo not paraaade your vulgar face\nbefore meee~! Begone!!\"{w}",
+  "kind": "msg",
+  "note": "Volms to a human party member: kept the drawn-out, sneering delivery at full force. [JP] -> ~."
+ },
+ {
+  "en": "\"Hm, a face I have not seen before. An adventurer?{w}Oh? Then allow me to introduce myself.\nI am Volms. A collector of antiquities.\"{w}{p}\"Should you come by any rare articles, bring them to me.\nDepending on the piece, I may buy it at a good price.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My main residence\nis not here in Isfald.\"{w}{p}\"Isfald is a beautiful place, surrounded by greenery and water.{w}But it is also rather humid, you see.\nIt damages antiquities.\"{w}{p}\"That is why I moved my residence somewhere drier.{w}...What? I need only have moved the storehouse?{w}You do not understand, adventurer.\"{w}{p}\"My great pleasure is to savor the finest wine\nsurrounded by the works of art I have collected.\"{w}{p}\"That, I simply cannot give up!\"{w}",
+  "kind": "msg",
+  "note": "The storehouse remark is the party's (unshown) reply, echoed by Volms."
+ },
+ {
+  "en": "\"Adventurers and traveling merchants\nsometimes bring the most astonishing articles.\"{w}{p}\"For one like me, long bored of the town's antique shops,\nnothing is more delightful than their visits.\"{w}{p}\"That is why\nI wish to support their journeys.{w}I shall support you as well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You received 1,000 GP!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Should you find anything rare,\ndo bring it to me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmmm...{w}You there, take a look at this painting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This, I am told, is called the Forsaken Painting 'Morning of Ruin'. Have you ever heard the name anywhere?\"{w}{p}\"I acquired it from a traveling merchant, but it seems the painting has passed from hand to hand, and no one any longer knows its particulars.\"{w}{p}\"I cannot stop thinking about this painting.{w}The one depicted in it is most likely the Earth Goddess.\nThere can be no mistake that it is Lady Fiona.\"{w}{p}\"Going by its title, this painting must show Lady Fiona\nbidding farewell to every living thing\nbefore the destruction of the land.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (new term, not in glossary): 'Forsaken Painting'. [JP] (new): 'Morning of Ruin'. [JP] -> single quotes. Also appears as item names in EL_SAI/EVENT_TEXT/eboot (untranslated), so the pair should go to the glossary."
+ },
+ {
+  "en": "\"And yet Lady Fiona's land,\nthat is, Finas Rade,\nexists, as you can see.\"{w}{p}\"If this painting depicted past history,\nwould you not agree that it makes no sense?\"{w}{p}\"My own guess is that it is a prophetic painting,\ndepicting a tragedy of the land yet to come...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you learn anything about this painting,\ncome and inform me. I am counting on you.\"{w}{p}\"Oh yes, one more thing.{w}You must not stir up fear among the people over this painting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not a word of this to anyone. Understood?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (sic for [JP]) = tell no one."
+ },
+ {
+  "en": "\"Have you learned anything about the Forsaken Painting?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh...{w}The true Earth Goddess...!?{w}And her name is Lady Urna...?\"{w}{p}\"Which means...\"{w}{p}\"We were originally a race raised on Lady Urna's land,\nand that land was...\nwas nearly destroyed by the g-gods...\"{w}{p}\"And to save us,\nLady Urna cast herself away and fused\nwith the land that is now Lady Fiona's!?\"{w}{p}\"Then the ancient evil spirit\nin Bistel's Decree... surely it isn't...\"{w}{p}\"O... ooohhh...!!{w}What a cruel twist of fate...\"{w}{p}\"Should I keep this locked away in my heart,\nor else...{w}No, I shall tell the king.\"{w}{p}\"You have done well to look into this.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: number unmarked; 'the g-gods' chosen (stammer kept from [JP]). Could be 'a god'. [JP] = Decree per convention (no quote marks: source has none here). Urna 'her': goddess, female per glossary."
+ },
+ {
+  "en": "You received 50,000 GP!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You have my gratitude. Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come again if you have another interesting gift for me.{w}...However,\nnext time, bring me something a little easier to handle, would you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lunea",
+  "kind": "name"
+ },
+ {
+  "en": "\"Yay! A customer!\nWelcome, welcome!{w}This is Lunea's Shop!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But right now there's nothing here.{w}We're all empty-dempty~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = playful [JP] (completely empty); rendered as a cutesy rhyme. ♪ -> ~."
+ },
+ {
+  "en": "\"Hauuu... What do I dooo...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen to this, customer.{w}Lunea's working really hard, you know.\nBut no proper customers ever come!\"{w}{p}\"Just the other day,\nthis weird kid came over from Semnadoc~\"{w}",
+  "kind": "msg",
+  "note": "Lunea speaks of herself in the third person; kept. [JP] = 'weird kid' (gender-neutral; this is Caron)."
+ },
+ {
+  "en": "\"Coming in~!{w}At last, I've infiltrated a shop in Isfald!!{w}Wait, what is this place... It STINKS!?\"{w}",
+  "kind": "msg",
+  "note": "??? = Caron (named in 4362)."
+ },
+ {
+  "en": "\"Welcome!{w}Welcome to Lunea's Shop!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aren't those monster tentacles!?{w}And over there, fangs and furs and... You're selling these?\nWhere do you even get stuff like this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Stuff like this'...?{w}Uh, um, I wouldn't really call it stocking...\nI just pick them up, you know, in places like Nerid...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You PICKED them up!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-yeah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Picked 'em up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You don't have to say it twice!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"S-sorry...{w}...Wait, why am I getting yelled at...???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Selling customers stuff you picked up --\nare you even serious about running a business!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? But...\"{w}{p}\"Alchemists and the like,\nthere are people who buy them every now and then, you know?{w}I don't think there's anything strange about it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I get it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you understand~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, that's not what I meant.{w}There are other shops in Isfald, right?{w}Proper ones!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I like to think this one's proper too, though...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soooo... where might the other shops be, hmm?\"{w}",
+  "kind": "msg",
+  "note": "Caron forcing a sweet tone over irritation (see 4348)."
+ },
+ {
+  "en": "\"Uuu,\nthe irritation peeking out from behind that smile is scary...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The only shop worth calling a shop is Lunea's Shop, you know?{w}Oh, do you mean everyday goods, or a place to eat!?{w}For those, there's a really good place...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Non, non~\nI mean a shop on the cutting edge of fashion.\nLike, this year's trends.\"{w}",
+  "kind": "msg",
+  "note": "[JP]♪ -> 'Non, non~'."
+ },
+ {
+  "en": "\"Oh, then this year\nthe Paralysis Fangs are selling really well!{w}The secret is in this sharp tip... Ow!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = item (ITEM.CSV:540), new term 'Paralysis Fang'; item name not yet translated elsewhere."
+ },
+ {
+  "en": "\"I-I'm g-g-g-g-going numb...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: stutter of [JP] (paralysis)."
+ },
+ {
+  "en": "\"Wh-- what are you doing!?{w}Are you an idiot or something!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hngggggggggg...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: paralysed gurgle, rendered as an English noise rather than romanized."
+ },
+ {
+  "en": "\"That kid's name was Caron,{w}and after that, I got nagged about all sorts of things,\nlike the shop's decor and how I lay out the goods...\"{w}{p}\"If I stock even more amazing tentacles and fangs,\nmaybe I won't get any more complaints?{w}For now, I've got to get some goods to sell...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: gender unknown, so 'That kid' (echoes [JP] in 4312) instead of a pronoun."
+ },
+ {
+  "en": "\"I picked up a Tentacles tentacle...{w}I was going to put it up for sale, but...{w}I got hungry... and ate it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = monster (MONSTER1.CSV:6/7), new name 'Tentacles' (untranslated elsewhere). 'a Tentacles tentacle' keeps the joke of the source."
+ },
+ {
+  "en": "\"Empty-dempty all over again...{w}What am I really gonna dooo...\"{w}",
+  "kind": "msg",
+  "note": "[JP] again, same rendering as 4308."
+ },
+ {
+  "en": "Nobody is here.{w}Some sort of note has been left on the desk.{w}{p}\"Welcome to Lunea's shop!{w}Lunea is away from the shop for a little while, restocking.{w}Destination: the usual, the Nerid Marshlands.\"{w}{p}\"If I'm not back by tomorrow,\nsomebody please come rescue me.\"{w}{p}The note is dated three days ago...{w}",
+  "kind": "msg",
+  "note": "Note text in [JP] rendered with double quotes (quoted writing, not a title). [JP] read as [JP] (be away)."
+ },
+ {
+  "en": "\"Whew, that was a real ordeal!{w}But thanks to it, I got to be friends with all of you,\nso not everything in this world is bad!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maybe I should hold off on adventuring for a while...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I know! Let me buy any items you don't need, right here!\"{w}{p}\"I can only buy and sell for 0 GP, but when the moment comes,\nI'll hand them right back to you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Can you even call that buying?{w}It's more like a storage shed... Huh???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh well!{w}Everyone, please keep coming back to Lunea's Shop~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}        *   0 GP Shop Unlocked   *        {0F}{w}",
+  "kind": "msg",
+  "note": "Centered banner: full-width spaces replaced with ASCII spaces; centering approximate, check in game. Term '0 GP Shop' (new; HELP_TEXT uses [JP])."
+ },
+ {
+  "en": "\"Actually, you see,\nI've been writing letters with Caron ever since.\"{w}{p}\"And guess what? Caron...{w}is running a shop in Semnadoc!\"{w}{p}\"We've become really good friends now,\nand Caron's been teaching me the ins and outs of doing business.\"{w}{p}\"Apparently Caron\neven has a brand named after Caron!{w}Amazing, isn't it!!\"{w}{p}\"I bet there's all sorts of stuff, like Caron Fangs and Caron Furs!{w}You should definitely go check it out too, customer!\"{w}",
+  "kind": "msg",
+  "note": "Caron's gender unknown: name repeated instead of a pronoun ([JP] -> 'a brand named after Caron'). Glossary has 'Caron brand'. 'Caron Fangs/Furs' are Lunea's guesses, not real items."
+ },
+ {
+  "en": "Oldaim, the residence of the Isfald royal family,\nis open to audiences even for commoners,\nby the king's wish to close the distance to the people.{w}{p}Thanks to that, you were able to get inside\nwith surprising ease.{w}{p}However, once shown into the audience chamber,\nyou realized you had no 'reason for an audience',\nthe one thing that mattered.{w}",
+  "kind": "msg",
+  "note": "[JP] -> single quotes (set-off phrase)."
+ },
+ {
+  "en": "Guard",
+  "kind": "name"
+ },
+ {
+  "en": "\"Now then, what is your business here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before the audience, the guard asked your business,\nbut you could not give any answer.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? You wish to see the king with no business at all!?{w}The audience chamber is a precious place where the people and the king meet.{w}We cannot have you coming here to gawk like sightseers!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Just as the guard was about to throw you out,\na girl happened to pass by.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a racket. Is there some sort of quarrel?\"{w}",
+  "kind": "msg",
+  "note": "??? = Leafa (named in 4401)."
+ },
+ {
+  "en": "\"My apologies, Lady Leafa.{w}These people wandered into the castle just for fun,\nso I was about to send them away.\"{w}",
+  "kind": "msg",
+  "note": "[JP] from the guard = 'Lady Leafa'; [JP] in 4405 = 'Princess'. Accuracy: [JP] = frivolously, for fun (not seriously); 'half in jest' implied joking speech, changed to 'just for fun'."
+ },
+ {
+  "en": "Leafa",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hmm. You have quite some nerve, don't you?{w}I like that. Come over here a moment.\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the party (nerve = barging into an audience with no business)."
+ },
+ {
+  "en": "\"Princess, what do you intend to do!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I'm bored.{w}I thought I might ask them a small favor.\"{w}{p}\"...I shall tell you this up front:\nshould you get any strange ideas,\nnot only Isfald's soldiers...\"{w}{p}\"...but the whole nation, its people included,\nwill be your enemy,\nso bear that in mind.\"{w}",
+  "kind": "msg",
+  "note": "Page 1 answers the guard (so 'them' = the party); pages 2-3 turn to the party. Sentence cut across pages kept at the source's point."
+ }
+]

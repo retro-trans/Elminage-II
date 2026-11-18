@@ -1,0 +1,346 @@
+[
+ {
+  "en": "You were shown to Leafa's room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I simply adore shortbread made with the Sweet Ginger that grows in the Nerid Marshlands.\"{w}{p}\"It's so sweet, with just a hint of spice. But thanks to how dangerous things have become lately, I can't send anyone out to fetch it.\"{w}{p}\"...And so.{w}I would like you to go and gather some Sweet Ginger for me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will you fetch it for me?",
+  "kind": "data"
+ },
+ {
+  "en": "\"........\"{w}{p}\"You are lowly adventurers.{w}I am royalty.{w}Surely you understand how you ought to answer?\"{w}",
+  "kind": "msg",
+  "note": "Reply to choosing 'no'. Ou-kou-kizoku rendered 'royalty' (she is a princess)."
+ },
+ {
+  "en": "\"Hee hee. Thank you.{w}Well then, I'm counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Swept along by Leafa, who would not take no for an answer, you left the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You entered the castle, but then realized you hadn't brought any Sweet Ginger.{w}{p}Even if you forced your way in to see Leafa, you'd only be thrown out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You called on Leafa with the Sweet Ginger.{w}{p}Looking thoroughly put out, the guard showed you to Leafa's room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. This is Sweet Ginger indeed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well done~{w}Oh, I know! I shall make you my very own personal adventurers.\"{w}{p}\"I hereby issue you this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the gear issued to the Royal Knights.{w}Normally, adventurers like you would never get your hands on it in your whole lives.\"{w}{p}\"It's proof that you have become my knights. Do take good care of it.\"{w}{p}\"Now then, with that settled, shall I make my next request?\"{w}{p}\"My next request is the Moonlight Stone.{w}I would like you to take back the Moonlight Stone from the Old Man of the Moon, who appears at the top of Moonlight Falls.\"{w}{p}\"The Moonlight Stone was originally one of the hidden treasures of the Isfald royal family.{w}It was a precious gift from my father.\"{w}{p}\"It's a gem that grows brighter when it absorbs the light of a night rainbow. If you hold it up to the 'Midnight Rainbow' that forms where the water of the falls meets the moonlight,\"{w}{p}\"it keeps that brilliance for quite some time.\"{w}{p}\"We use it for festivals and ceremonies, so we would send someone out regularly to hold it up to the Midnight Rainbow, but...\"{w}{p}\"the Old Man of the Moon was so bewitched by its beauty that he stole it.\"{w}{p}\"We've sent soldiers a number of times, but it never seems to go well.\"{w}{p}\"The Midnight Rainbow should be appearing again soon. Could you get the Moonlight Stone back from the Old Man of the Moon when he shows up?\"{w}{p}\"You are now officially my knights. From now on, just tell the guards whose service you're in, and you'll be able to come straight to my room.\"{w}",
+  "kind": "msg",
+  "note": "Bugu (arms/armour) = 'gear'. Tsuki no Okina = 'the Old Man of the Moon' (new term; glossary notes it is the Lunatic Demon's self-name, male). Mayonaka no Niji = 'Midnight Rainbow' (new term), single quotes where the source uses double brackets. Shozoku wo ieba = 'tell the guards whose service you're in'. The row break after 'moonlight,' mirrors the source, which cuts the sentence across two pages."
+ },
+ {
+  "en": "\"Now, go forth! From this day on, you are my very own order of knights, the 'Sweet Ginger Knights'!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You entered the castle, but then realized you hadn't brought the Moonlight Stone.{w}{p}Even if you forced your way in to see Leafa, you'd only be thrown out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you told the guards whose service you were in, you were shown to Leafa's room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, this is the Moonlight Stone indeed!{w}Ahh, what a ridiculously beautiful glow...{w}You've done well.\"{w}",
+  "kind": "msg",
+  "note": "Muda ni utsukushii ('wastefully beautiful') = 'ridiculously beautiful', keeping the comic over-the-top note."
+ },
+ {
+  "en": "\"This is your reward.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Also, if you'd like... have some of this.{w}I made it with the Sweet Ginger from the other day.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You were offered shortbread along with black tea.{w}You popped one into your mouth. It tasted dry and stodgy.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Like chewing sand. For some reason, those words came to mind.{w}A sandstorm raged in your mouth. You needed something to drink, right now.{w}{p}You quickly took a sip of tea, but the moisture you'd hoped for was swallowed up by the sandstorm.{w}Actually, no -- the sand soaked up the tea and turned into a gel.{w}{p}It made no sense whatsoever.{w}{p}As you reached for the tea again, chewing and wondering what to do, you noticed Leafa watching your reaction with great interest.{w}{p}She must have made them herself.{w}Which means what awaits you next is the toughest question of the century...{w}",
+  "kind": "msg",
+  "note": "Source writes sosyaku (lend/lease) for soshaku (chew); a typo, rendered as chewing. 'Suna wo kamu' kept as the literal image. The casual 'tte iu ka' aside = 'Actually, no --'."
+ },
+ {
+  "en": "\"Um...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "How is it? ...I-is it delicious?",
+  "kind": "data",
+  "note": "Choice prompt; kept short."
+ },
+ {
+  "en": "\"Really!?{w}Th-there's more, you know! As a special favor, I'll let you take it all home!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm so glad you like i...\"{w}",
+  "kind": "msg",
+  "note": "Deliberately cut off mid-word, as in the source (she catches herself)."
+ },
+ {
+  "en": "\"!!\"{w}{p}\"O-of course it's delicious, I made it myself!!{w}Honestly, what a foolish question...\"{w}",
+  "kind": "msg",
+  "note": "She calls her own question foolish; kept as the source has it (comic flustered reversal)."
+ },
+ {
+  "en": "\"People who are slow to learn are such a bother...\"{w}{p}\"You are lowly adventurers.{w}I am royalty.{w}Surely you understand how you ought to answer?\"{w}",
+  "kind": "msg",
+  "note": "Reply to 'no'; repeats 4414 wording deliberately (same Japanese)."
+ },
+ {
+  "en": "How is it? Delicious?",
+  "kind": "data",
+  "note": "Choice prompt, repeated without the stammer."
+ },
+ {
+  "en": "\"Yes, yes, honesty is the best policy~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, that's enough of our pleasant teatime.{w}Next, I would like you to bring me the Holy Ember from the top floor of the Scorching Castle.\"{w}{p}\"The Holy Ember is also an ember that never goes out.\"{w}{p}\"Wouldn't it be lovely to make it into a lamp and carry it with me always?\"{w}{p}\"And so... I'm counting on you for the Holy Ember.\"{w}{p}\"Now, go forth, 'Sweet Ginger Knights'!!\"{w}",
+  "kind": "msg",
+  "note": "Seinaru Hidane = 'Holy Ember' (new item name, not in the glossary; ITEM.CSV:259 slot max 20 chars)."
+ },
+ {
+  "en": "You entered the castle, but then realized you hadn't brought the Holy Ember.{w}{p}Even if you forced your way in to see Leafa, you'd only be thrown out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've obtained the Holy Ember!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Your work is rather good.{w}Just what I'd expect from adventurers I picked out myself.\"{w}{p}\"As a special favor, I shall arrange for you to buy the knights' armor as you please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Starting with your next visit to the castle, you can buy Elven Chain and Elven Chain +1 freely.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"At night, once my official duties are done, I've been writing my personal history.\"{w}{p}\"Well, it's something like a diary. I'm sure that with this light, I'll be able to write at my leisure.\"{w}{p}\"And so... writing only about my own glorious achievements wouldn't be bad either, but...\"{w}{p}\"S-since you are my personal order of knights, I thought I'd do you the special honor of including your names.\"{w}",
+  "kind": "msg",
+  "note": "Jibunshi = 'personal history' (her memoir-diary)."
+ },
+ {
+  "en": "\"So... um... would you tell me your full names?\"{w}{p}\"I just remembered.{w}I never properly asked your names...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tell her your full names?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Really?{w}You'll tell me!?{w}Thank y...\"{w}",
+  "kind": "msg",
+  "note": "Cut off mid-word, as in the source."
+ },
+ {
+  "en": "\"!!\"{w}{p}\"N-naturally you would!{w}I won't permit you to refuse my offer, you hear!?\"{w}{p}\"Honestly, don't get carried away! This is why adventurers are so... grumble, grumble...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Leafa asked each of you your name in turn and diligently wrote them all down in her diary.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? You won't?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"........\"{w}{p}\"...Well, I suppose you have your reasons. I won't force you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll just put you down as 'A' or 'Mx. X' or something!\"{w}",
+  "kind": "msg",
+  "note": "Source: 'A'-san (hiragana a) or 'A'-san (Latin A), i.e. first-letter placeholder names. The kana/Latin pair cannot carry over; rendered as two placeholder names, gender-neutral."
+ },
+ {
+  "en": "\"Now I can make my personal history all the richer.{w}Hee hee...~\"{w}{p}\"Now then, there's still some time left today. I shall tell you an old tale handed down in the elven royal family.\"{w}{p}\"Only fragments of it remain, though...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Long ago, all of us -- elves, ogres, humans, every race alike -- were on the brink of a great destruction.{w}{p}Our meager strength could not resist it, but it's said there was someone who saved us from that destruction.{w}{p}That person, with no thought for themselves, carved out a tomorrow for us.{w}{p}But the passing of time is an ungrateful thing.{w}In this age, not even that person's name has come down to us.{w}All that has come down to us is...{w}{p}an ancient promise: that when the time came, we elves would call out across the whole continent, seek that person out, and celebrate our reunion. In other words, Oldaim.{w}{p}For the reunion, it's said the 'Yuan Wine' that the ogres have long guarded is needed as a celebratory gift.{w}{p}Father and the ministers don't seem to sense anything, but I feel that now, of all times, we must act.{w}{p}Perhaps it even has something to do with the strange upheaval happening to the land right now.{w}",
+  "kind": "msg",
+  "note": "Leafa's story, unquoted in the source; her voice kept. 'Sono kata' (the savior, in fact Urna) left as 'that person / themselves' because the tale deliberately hides who it is. 'Oldaim' (the castle name, glossary) is the name of the promise; the English 'Old Aim' reading comes for free, so no gloss added."
+ },
+ {
+  "en": "\"Actually, the next thing I'd like you to do is look into this legend.{w}I shall issue you a royal command.\"{w}{p}\"With a royal command from the elven royal family, the ogres should share some of their Yuan Wine with you.\"{w}{p}\"Take it, and find the one who saved our lives, who must be somewhere in this land. Would you do that?\"{w}{p}\"Right now, everyone is in an uproar over the whole business at Contrachio.{w}You're the only ones I can as...\"{w}",
+  "kind": "msg",
+  "note": "Cut off before 'ask' (tanome...); the next row shows she stops herself from asking a favor."
+ },
+ {
+  "en": "\"Ugh! Why should I have to bow my head to mere adventurers!?{w}That's an order! Go!!\"{w}",
+  "kind": "msg",
+  "note": "Dakara! = exasperated self-interruption, 'Ugh!'."
+ },
+ {
+  "en": "\"........{w}This journey may be more dangerous than any so far.\"{w}{p}\"Do be careful out there.{w}You mustn't push yourselves too hard, all right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You are my knights now. It's your duty to come back safe and sound, understand!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now go forth, 'Sweet Ginger Knights'!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Have you obtained the 'Yuan Wine'?{w}Go and ask the rulers of the ogres and goblins at Baroque Fort.\"{w}",
+  "kind": "msg",
+  "note": "'Oga ya goburin no ou' read as 'the kings of the ogres and goblins'; the ogre ruler is a queen (glossary) and the goblin ruler King Montana, so 'rulers'. Could also parse as 'the ogres, or the goblin king'."
+ },
+ {
+  "en": "\"So they let you have it! Well done!{w}Now all that's left is to find the one we should give this wine to...{w}What should we do, I wonder?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If only I had some idea...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've found the one who saved us, you say?{w}...What!? Urna...???\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're telling me the evil spirit that appeared at Contrachio is the one!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told her everything that led you to Urna.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No...{w}We banished the very one who saved our lives... Ahh...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Leafa lowered her eyes sadly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So Queen Ragnastia of Bistel knew all along, and still ordered Lady Urna struck down.\"{w}",
+  "kind": "msg",
+  "note": "Urna-sama = 'Lady Urna' (Urna is female per glossary)."
+ },
+ {
+  "en": "\"Even if it was to keep everyone's way of life going...{w}carrying that burden all alone must have been so painful for her.\"{w}{p}\"So that's how it was...\"{w}",
+  "kind": "msg",
+  "note": "'Her' = Queen Ragnastia (honorific o-tsurakatta, female per glossary)."
+ },
+ {
+  "en": "\"How shameful we are.{w}Unwilling to give up the lives we have now, we broke our promise and banished the savior whose return we were meant to celebrate...\"{w}{p}\"What I can forgive least of all is that, even knowing all this, some part of me is relieved!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am... the very worst...!{w}Ngh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gone was her usual haughty air; tears streamed endlessly from Leafa's eyes.{w}To comfort her, you passed on Urna's words.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Lady Urna says she forgives us?{w}Us, who repaid her kindness with betrayal!?{w}How can she be so... so warm-hearted...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I shall never forget Lady Urna as long as I live.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I may not be able to make it public, but I shall engrave it deep in my heart: that there was someone who poured great love upon us.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Today's diary entry will surely take me until dawn.\"{w}{p}\"You have done well, all of you.{w}I thank you from the bottom of my heart.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you've come!\"{w}{p}\"I'm cooped up in the castle all the time, so I'm bored to tears.\"{w}{p}\"Anything at all will do. Won't you tell me some fun story from your travels?{w}I'll have tea and sweets brought in!\"{w}",
+  "kind": "msg",
+  "note": "Repeat-visit greeting after the quest line."
+ },
+ {
+  "en": "Elven Chain costs {0B:0001:1A90} GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elven Chain +1 costs {0B:0001:4690} GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What will you do?",
+  "kind": "data"
+ },
+ {
+  "en": "Seek an audience with Leafa",
+  "kind": "data"
+ },
+ {
+  "en": "Back",
+  "kind": "data"
+ },
+ {
+  "en": "Buy Elven Chain",
+  "kind": "data",
+  "note": "Source abbreviates to 'Elven'; full item name fits."
+ },
+ {
+  "en": "Buy Elven Chain +1",
+  "kind": "data"
+ },
+ {
+  "en": "Armitt",
+  "kind": "name",
+  "note": "Glossary: Armitt (washerwoman, Gregorio's mother). Not Almite (arumaito), the wiped-out adventurer."
+ },
+ {
+  "en": "\"Would you look at that!{w}Perfect weather for doing the laundry!\"{w}{p}\"You lot adventurers?{w}Well, you make a living at it, so good on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've got an only son myself, name of Gregorio, but...\"{w}{p}\"He's forever sponging off his parents. He's hopeless, I tell you!\"{w}{p}\"I wish he'd hurry up and stand on his own two feet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once the laundry's done, I've got the shopping to do...{w}Just look at these arms!\"{w}{p}\"Before I married, I'm sure I was a dainty, pretty young thing who looked lovely in lace gloves.\"{w}{p}\"Now I'm a middle-aged frump who looks right at home with a ratty oven mitt...{w}...Heave-ho!\"{w}",
+  "kind": "msg",
+  "note": "Yokkorasho = effort grunt as she lifts something (laundry)."
+ },
+ {
+  "en": "\"By the way, that's my son Gregorio over there. Here he comes again with that idiot face of his.{w}Bet he's after more pocket money again...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"BLEHHHHH!{w}Hey, you old hag! Hand over my allowance, dammit!!\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? (Gregorio before his name box). Bero-on = tongue-wagging sound (rocker pose; he wears makeup, next slice). Insult kept at full force."
+ },
+ {
+  "en": "\"Gregorio! What kind of way is that to talk to your own mother!?\"{w}",
+  "kind": "msg"
+ }
+]

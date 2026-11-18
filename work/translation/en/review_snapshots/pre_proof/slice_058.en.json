@@ -1,0 +1,356 @@
+[
+ {
+  "en": "\"That's far enough, Zoze!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We finally found you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Snoooort! P-please let go of meee!!\"{w}",
+  "kind": "msg",
+  "note": "Principal's [JP] rendered 'snort' as in slices 026/037."
+ },
+ {
+  "en": "\"Hold still!!\"{w}",
+  "kind": "msg",
+  "note": "Zephal to the Principal he is dragging along."
+ },
+ {
+  "en": "Mirco and the others showed up, dragging the Principal along!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, if it isn't the young master of House Lenzer.{w}Didn't your father teach you how to speak to your betters?\"{w}",
+  "kind": "msg",
+  "note": "Ladylike voice of the Clinging Darkness (Zoze speaks through several tentacles with different speech styles). Editorial: \"if it isn't\" so the opening reads as a spoken greeting, not a fragment."
+ },
+ {
+  "en": "\"If you go and do an Ultimate Mana Source experiment, who knows what'll happen -- not just to this land, but to the lands around it too!?\"{w}{p}\"Stop it!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Ultimate Mana Source' (new term, not in glossary)."
+ },
+ {
+  "en": "\"Ha ha ha... I refuse!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I said stop it!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is this onE an idioT?\"{w}",
+  "kind": "msg",
+  "note": "Katakana-tinged voice of the Clinging Darkness; no special English styling. Editorial: stray-katakana voice marked by a capitalised last letter, as in slice 057 (4064/4078/4090/4105)."
+ },
+ {
+  "en": "\"Heh heh heh... Quite so, quite so.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Quite so, quite so' (recurring tic of one tentacle voice)."
+ },
+ {
+  "en": "\"You're gonna make me mad!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What a noisy young master you are.{w}Surely no one will mind losing a backwater Zefkaka like this one.\"{w}{p}\"And I can't imagine even the Diluke waves would reach all the way to us.\"{w}",
+  "kind": "msg",
+  "note": "[JP] used as a common noun for this land (cf. slice 039 'a Zefkaka'). [JP] romanized 'Diluke' (new; occurs only here)."
+ },
+ {
+  "en": "\"What?\"{w}{p}\"In exchange for my handing over the results of my Ultimate Mana Source research, you would prevent the collapse should the worst happen.{w}Was that not our agreement?\"{w}",
+  "kind": "msg",
+  "note": "Direction: the Board Chair hands over the research, Zoze guarantees safety (matches 4047)."
+ },
+ {
+  "en": "\"How pitiful, you foolish elder!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'elder' to keep the Board Chair's gender unstated."
+ },
+ {
+  "en": "\"...So you deceived me, you wretches.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: hostile plural 'you'."
+ },
+ {
+  "en": "\"Kah kah kah! Anyone who believes us is a fool, naturallY.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: stray-katakana voice (final no in katakana) marked as in slice 057."
+ },
+ {
+  "en": "\"Since it's come to this, it seems we'll just have to run the experiment ourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The tentacles gave a sudden shudder, and then each of them began chanting a spell.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what are you doing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is no longer any need for pretense.{w}If you will not do it, I shall sever my Death Tentacles and carry out a grand arcane experiment of my own!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Death Tentacle' (new term). [JP] = 'arcane experiment' (new term; also in 4098 and slice 054). Editorial: archaic tentacle voice without contractions, matching \"I shall return\" in 4153."
+ },
+ {
+  "en": "\"Once the results are in, I shall return.{w}...If this land still exists by then, that is!{w}Ha ha ha ha ha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zoze's presence vanished.{w}Left behind were the Death Tentacles, which had begun moving on their own.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You mustn't, young master!{w}It's dangerous -- we must get to safety!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But I can't just look the other way!{w}We just have to take care of those Death Tentacles, right?{w}Let's all split up and take them down!!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"split up ... together\" read as a contradiction; minna de now attaches to the group."
+ },
+ {
+  "en": "\"...Who are you?\"{w}",
+  "kind": "msg",
+  "note": "Soara to Mirco (he answers in 4164)."
+ },
+ {
+  "en": "\"You're the kid who got into that awful mess in the hallway, aren't you?\"{w}",
+  "kind": "msg",
+  "note": "Refers to an earlier hallway incident with Mirco; kept as vague as the source."
+ },
+ {
+  "en": "\"D-d-don't bring that up...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fwooooaaargh! Again?! Fwooooaaargh!!\"{w}",
+  "kind": "msg",
+  "note": "Zephal's [JP] as in slice 001 ('Fwooooaaaargh'). [JP] kept as a bare 'Again?!' -- he is reacting to Mirco embarrassing himself again; the exact referent is not settled. Editorial: roar aligned to the shape of slice 001 (\"Fwooooooaaaaargh!!\"), slightly shorter as the source is."
+ },
+ {
+  "en": "\"A-anyway!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You'd be in trouble if the land broke apart, right?{w}I don't think we'd get off scot-free either.{w}And I don't want Zoze getting the power of the Ultimate Mana Source.\"{w}{p}\"So let's team up here!!\"{w}",
+  "kind": "msg",
+  "note": "Mirco to the party."
+ },
+ {
+  "en": "\"W-well then, I'll just be on my waaay~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! You fight too, mister!\"{w}",
+  "kind": "msg",
+  "note": "[JP] here = the Principal ('mister'), not Mirco's Uncle."
+ },
+ {
+  "en": "\"Ehhh~ You say that, buuut~\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"Even if you put it like that\" was stiff; same reluctant sense, in the Principal's drawl."
+ },
+ {
+  "en": "\"Come now, do hurry along and defeat them.{w}...You PIG!!\"{w}",
+  "kind": "msg",
+  "note": "Gurtia's polite [JP], then the insult at full strength."
+ },
+ {
+  "en": "\"Snoooooort!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Principal was kicked flying toward the Death Tentacles!{w}As if on cue, the Death Tentacles came at you!!{w}",
+  "kind": "msg",
+  "note": "[JP]: aimed at the party (narration 'you')."
+ },
+ {
+  "en": "You routed the Death Tentacles.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Meanwhile, Mirco's group seems to be caught between two tentacles and struggling.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I can't cut through!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They're tenacious...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Elpina, behind you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, close one!?\n...Thanks, Sis!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It's touch and go, but they're fighting back, relying mainly on Gurtia's support and healing.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"at the center of it\" was unclear; ouzen = fighting back, chuushin ni = mainly."
+ },
+ {
+  "en": "\"Hm? What's this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? The Death Tentacles... stopped?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's Gurtia!\nThey're going after her!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Gurtia is the one being targeted (4199 confirms)."
+ },
+ {
+  "en": "Had the Death Tentacles decided that Gurtia was the key to the group?{w}They all lunged at Gurtia at once!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha... GYAAAAAH!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A blow with full momentum behind it sent Gurtia's body flying like it weighed nothing.{w}She was hurled all the way to the far end of the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh... ah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sis!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gurtia, are you okay!?{w}Hang in there!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Young... master...{w}Please... run... a...way...\"{w}",
+  "kind": "msg",
+  "note": "[JP]……[JP] split as 'Young... master...'."
+ },
+ {
+  "en": "\"Gurtia? Hey, Gurtia!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nngh... uh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn it...{w}What kind of heir to the house can't even protect one of his own friends!!\"{w}{p}\"...Baltagias, lend me your strength!!{w}Hyaaaaaaah!!\"{w}",
+  "kind": "msg",
+  "note": "Sword name is in hiragana (childish) in the source; glossary form Baltagias used. [JP] = 'heir to the house' as in slice 003."
+ },
+ {
+  "en": "A Death Tentacle met the raised demon sword head-on.{w}In that instant, a shining darkness... the demon sword...{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off kept: the source cuts off before the verb ([JP]……). Editorial: past tense to match the surrounding narration (4222)."
+ },
+ {
+  "en": "\"That's...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Take thiiiis!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The demon sword mowed down the remaining Death Tentacles one after another.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, this is...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So it has awakened -- the demon sword Baltagias...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When all the Death Tentacles had been defeated, Mirco held a demon sword shining the color of darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gurtia, hang in there...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not to worry, her life should be in no danger.\"{w}",
+  "kind": "msg",
+  "note": "Hess about Gurtia (female per glossary)."
+ },
+ {
+  "en": "\"Thank goodness!{w}Huh? Mirco... that sword...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Wait, did it go all weird?{w}Wha-wha-whaaat!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what do I do!?{w}Did I break the sword I borrowed from Uncle!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mirco's Uncle (capitalized as in slices 002/003). Source says [JP] 'borrowed' though the glossary note calls it a gift; translated as written."
+ },
+ {
+  "en": "\"No, that is its true form.{w}At last, the sword itself has acknowledged you too.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: 'the sword too' (as well as the people around him)."
+ },
+ {
+  "en": "\"Board Chair, are you all right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, never mind me...{w}What about the Principal? Is he safe?\"{w}{p}\"It looked as though he was surrounded by Death Tentacles and blown up spectacularly by their spells...\"{w}",
+  "kind": "msg",
+  "note": "Principal is male (lead convention)."
+ },
+ {
+  "en": "\"Oh, right, the Principal.{w}Principal, are you all right!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fsss... fsss...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = smoking/smoldering sound effect. Editorial: same smouldering gag as the scorched Principal in slice 026 (SCDWMAP:5730 \"Fsss... fsss...\")."
+ },
+ {
+  "en": "\"He's fine!\"{w}",
+  "kind": "msg",
+  "note": "Deadpan comic beat: Soara reports to the Board Chair."
+ },
+ {
+  "en": "\"I see.{w}Then go and fetch the School Nurse.{w}Those youngsters over there could use some treatment as well.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mirco's group; 'youngsters' keeps it gender-neutral."
+ },
+ {
+  "en": "\"Ahwoooh! Nnnohhh-heyyy!!\"{w}",
+  "kind": "msg",
+  "note": "Nonverbal cries of the School Nurse; [JP] read as a drawn-out 'hey'."
+ },
+ {
+  "en": "Once the treatment was done, the School Nurse left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soara, I've caused you a lot of trouble. That was unlike me...{w}Research truly must be done with people one can trust.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was mistaken, too.{w}True peace for the land...{w}I didn't know what you had in mind, Board Chair... I'm sorry.\"{w}",
+  "kind": "msg"
+ }
+]

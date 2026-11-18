@@ -1,0 +1,351 @@
+[
+ {
+  "en": "\"Curse you, wretch!!\"{w}{p}\"To think you would try to force your way through this Dekor by strength alone -- unthinkable!\"{w}{p}\"By my power as its guardian, I shall destroy you, defiled soul and all!!\"{w}",
+  "kind": "msg",
+  "note": "Sphinx speaks archaically (ware/nanji); rendered formal English with \"you\", no thee/thou."
+ },
+ {
+  "en": "You killed the Sphinx.{w}",
+  "kind": "msg",
+  "note": "Source: korosita (killed), not kechirasita (routed)."
+ },
+ {
+  "en": "\"What, you would give up?{w}After coming all this way?{w}...How dull.\"{w}{p}\"Well, do as you please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take on the questions",
+  "kind": "data",
+  "note": "Choice list for the Sphinx (with 2840/2841)."
+ },
+ {
+  "en": "Force your way through",
+  "kind": "data"
+ },
+ {
+  "en": "Give up",
+  "kind": "data"
+ },
+ {
+  "en": "There is an old, crumbling pedestal.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Touch it?",
+  "kind": "data"
+ },
+ {
+  "en": "There is a strange mural.{w}These letters were carved into it.{w}{p}\n{0E}  ┤┯├┌┷ ┗┫┷┴├┯ ┿┯┿┳┌  {0F}{w}",
+  "kind": "msg",
+  "note": "Pyroglyph glyphs kept verbatim as box-drawing characters (same string as slice 017 row 4214); only full-width spaces became ASCII. Build must render them or swap an ASCII stand-in."
+ },
+ {
+  "en": "It's the same as the 'Forsaken Painting' Lord Volms showed you.{w}But this alone isn't enough to go on.{w}{p}You had better look into it a little more before you report back.{w}",
+  "kind": "msg",
+  "note": "Narration; subject 'you' restored. 'the same as' kept literal: the source does not say whether the letters or the whole mural match the painting."
+ },
+ {
+  "en": "None who bear a good heart may proceed beyond this point.{w}",
+  "kind": "msg",
+  "note": "zenshin/akushin = good heart / evil heart (alignment gates; pairs with 2857 and the 15001 inscription)."
+ },
+ {
+  "en": "There is an altar.{w}A thin layer of ash has settled all around it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Touch the altar?",
+  "kind": "data"
+ },
+ {
+  "en": "{0A:0003:000F} turned to ash.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "None who bear an evil heart may proceed beyond this point.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When differing hearts join hands,\nthe door to tomorrow shall open{w}",
+  "kind": "msg",
+  "note": "Inscription; source has no final full stop, none added."
+ },
+ {
+  "en": "Written on the door in Pyroglyph are the words\n'Let the Five Primal Races offer their prayers.'{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}          *  Seat of the Leader  *          {0F}{w}",
+  "kind": "msg",
+  "note": "Seat names (10 rooms, 15020-15030) are new: translated plainly. They likely map to races (5 primal + 5 'new companions') and entering one seems to change the body (2882), but the script does not say which race; kept literal. Banner centring needs an in-game check."
+ },
+ {
+  "en": "Who will pray?",
+  "kind": "op093"
+ },
+ {
+  "en": "For an instant, {0A:0003:000F} felt they glimpsed a strange scene in their mind.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Nothing happened.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Seat of the Leader is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of the Leader?",
+  "kind": "data",
+  "note": "za no naka ni hairu = step into the Seat."
+ },
+ {
+  "en": "Who will step in?",
+  "kind": "op093"
+ },
+ {
+  "en": "{0A:0003:000F} felt something strange about their body.{w}",
+  "kind": "msg",
+  "note": "Gender of the runtime party member unknown -> their."
+ },
+ {
+  "en": "\n{0E}          *  Seat of Dexterity  *           {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Seat of Dexterity is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of Dexterity?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}           *  Seat of Agility  *            {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Seat of Agility is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of Agility?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}            *  Seat of Prayer  *            {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Seat of Prayer is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of Prayer?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}       *  Seat of the Mighty King  *        {0F}{w}",
+  "kind": "msg",
+  "note": "rikiou = 'Mighty King' (lit. strength king)."
+ },
+ {
+  "en": "The Seat of the Mighty King is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of the Mighty King?",
+  "kind": "data"
+ },
+ {
+  "en": "Written on the door in Pyroglyph are the words\n'May fortune smile on new companions as well.'{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}            *  Seat of Magic  *             {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "For an instant, {0A:0003:000F} felt they glimpsed someone in their mind, smiling and holding out a hand... the figure of a green-haired woman.{w}",
+  "kind": "msg",
+  "note": "Green-haired woman: identity not stated (possibly Fiona or Urna); left unnamed."
+ },
+ {
+  "en": "The Seat of Magic is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of Magic?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}        *  Seat of the Old Guard  *         {0F}{w}",
+  "kind": "msg",
+  "note": "komori = 'Old Guard' (lit. ancient guardian)."
+ },
+ {
+  "en": "The Seat of the Old Guard is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of the Old Guard?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}        *  Seat of the Beast Fang  *        {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Seat of the Beast Fang is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of the Beast Fang?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}          *  Seat of Fortitude  *           {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Seat of Fortitude is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of Fortitude?",
+  "kind": "data"
+ },
+ {
+  "en": "\n{0E}        *  Seat of the Dragonfolk  *        {0F}{w}",
+  "kind": "msg",
+  "note": "ryuujin = 'Dragonfolk' (not in glossary; if the race list has an official name such as Dragonewt, align)."
+ },
+ {
+  "en": "The Seat of the Dragonfolk is shining brightly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will someone step into the Seat of the Dragonfolk?",
+  "kind": "data"
+ },
+ {
+  "en": "There is a sand-covered signpost.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*              Sky Travel  0 GP              *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign: kuu no tabi 0GP = 'Sky Travel 0 GP' (ironic sign, likely a warp/pit trap). Box redrawn in ASCII at the same 46-char width."
+ },
+ {
+  "en": "\"Ngh... What... was that beast...{w}It was just like... a mirage...{w}Where did they go... my companions...\"{w}",
+  "kind": "msg",
+  "note": "Speaker is female per 2661 (kanojo); her own lines need no pronoun."
+ },
+ {
+  "en": "An adventurer lies collapsed in the middle of the desert.{w}Her back is soaked in blood.{w}{p}On closer inspection...{w}the place where her back should be has been cleanly gouged away.{w}{p}What is more, the loss of flesh is eating further into her body.\nSoon she will vanish altogether...{w}",
+  "kind": "msg",
+  "note": "'her' from kanojo in this row."
+ },
+ {
+  "en": "\"...You... are adventurers too...{w}In this desert... there's a beast... that devours space...{w}like... a mirage...\"{w}{p}\"My companions... all of them...{w}erased... aaaaah...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Were those words of pain? Or a cry of grief?{w}All you could do was watch over her last moments as she faded away before your eyes.{w}{p}Drop by drop, tears mixed with blood soaked into the sand, but in the vast desert they did not leave so much as a single stain.{w}",
+  "kind": "msg",
+  "note": "Mixed tense in source; past used throughout."
+ },
+ {
+  "en": "\"...Please...{w}for my companions...{w}take reven--\"{w}",
+  "kind": "msg",
+  "note": "toq... = cut-off 'totte' (take [revenge]); English cut at the same point: 'take reven--'."
+ },
+ {
+  "en": "...Every trace of her vanished.{w}",
+  "kind": "msg",
+  "note": "subete kieta = everything vanished; read as her body vanishing entirely ('every trace of her')."
+ },
+ {
+  "en": "{0E}\n              *  Sandstorm  *               {0F}{w}",
+  "kind": "msg",
+  "note": "Banner; same layout as the seat banners (source puts the \\n after {0E})."
+ },
+ {
+  "en": "There is a melon that gleams glossily, like the sun.{w}",
+  "kind": "msg",
+  "note": "uri rendered 'melon' (could be gourd). New key item: Sun Melon."
+ },
+ {
+  "en": "Take the Sun Melon?",
+  "kind": "data"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Sun Melon.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a strange beast.{w}You can see the outline of its body, but within it is reflected some twisted space from somewhere other than here.{w}{p}Could this be the beast that devours space?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Edumo Senior",
+  "kind": "name"
+ },
+ {
+  "en": "\"Those who have forgotten the name of Mother Earth,\nand a Zefkaka the Kin of Darkness have sunk their hooks into.\"{w}{p}\"Just as I thought, the words of Dehain were never worth heeding. My master's words alone are the truth.\"{w}{p}\"Now then, the reprieve is over. I will wait no longer.{w}My apologies to my brethren, but I shall do as I please.{w}Starting by crushing these noisy maggots, that is.\"{w}{p}\"Now come, my servants!{w}It is time to feed!!\"{w}",
+  "kind": "msg",
+  "note": "tsukeirareta = exploited/taken advantage of -> 'sunk their hooks into'. shimobe read plural (summons monsters for the fight); source is number-neutral. Zefkaka per glossary; here a common noun for the land's god ('a Zefkaka')."
+ },
+ {
+  "en": "You routed Edumo Senior.{w}",
+  "kind": "msg",
+  "note": "kechirasita = routed/scattered."
+ },
+ {
+  "en": "\"Heh... Don't think... that this is enough...\nfor you to escape the will of the gods...\"{w}{p}\"The best you can do... is pray that you never see an end steeped in despair...{w}that you get to die... before then...\"{w}",
+  "kind": "msg",
+  "note": "kami no ishi -> 'the will of the gods' (number unknown; could be his own master). Clause order kept close to the source across the {w}."
+ },
+ {
+  "en": "The strange beast faded away.{w}{p}The beast's words were beyond your understanding, but at least you were able to avenge her and her companions.{w}",
+  "kind": "msg",
+  "note": "kanojo-tachi = her and her companions (companions' genders unknown)."
+ },
+ {
+  "en": "Beneath the desert was a giant mole.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's hot, mogu~ I'm gonna dry up, moguuu~{w}Something about this desert just rubs me the wrong way, I've had it, moguuuuu!!\"{w}{p}\"..........{w}I'll move, mogu.{w}That's it, I'll move house, moguuuu!!\"{w}{p}\"Is there anybody who might help me...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The mole pulled out a thick book of some kind and began leafing through it with great effort.{w}But the book did not seem to have what the mole was looking for.{w}",
+  "kind": "msg",
+  "note": "Mole not yet named; pronoun avoided (Raizam gender unknown)."
+ },
+ {
+  "en": "\"Mogugugu... What do I do, mogu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The mole noticed you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, some little tiddlers turned up\nright on time, mogu!{w}You lot, help me move house, mogu!!\"{w}",
+  "kind": "msg",
+  "note": "chinmai no = tiny ones -> 'little tiddlers'. Mogu-no hikkoshi: Raizam's first-person 'Mogu' rendered 'me' (as slice 028)."
+ },
+ {
+  "en": "\"I'm one of the Four Sages,\nRaizam the Earth Sage, mogu!{w}I'm important, mogu! I won't let you say no, moguuu~\"{w}",
+  "kind": "msg",
+  "note": "Raizam's first-person 'Mogu' rendered 'I'. note mark -> '~'."
+ },
+ {
+  "en": "You were forced into helping with the move.{w}",
+  "kind": "msg"
+ }
+]

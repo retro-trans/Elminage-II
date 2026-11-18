@@ -1,0 +1,351 @@
+[
+ {
+  "en": "\"Jeratan's gonna splurge!{w}Jeratan will get a really good prize ready!{w}Jeratan is totally satisfied!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Munch munch...{w}Yummy!{w}These sweets go great with tea!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jeratan will get a prize ready that's a little bit good!{w}It's Jeratan's way of saying thank you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm.{w}Is this really a sweet?\"{w}{p}\"Chomp...{w}Crunch... crunch...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's... yucky.{w}It's so yucky it made Jeratan cry.\"{w}",
+  "kind": "msg",
+  "note": "mazui lisped as majui; rendered as childish \"yucky\" rather than a phonetic lisp."
+ },
+ {
+  "en": "\"Jeratan's happy to get a sweet Jeratan never had before, but...{w}next time, Jeratan wants you to make sure it tastes good too.{w}Jeratan will get a so-so prize ready.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph!{w}Why a sweet bun, of all things?!{w}You bought that right here, didn't you?!!\"{w}{p}\"...Jeratan will eat it, though.{w}Munch munch...{w}It's yummy, but... munch munch...\"{w}{p}\"With something like this, Jeratan can't give you much of a prize. Don't get your hopes up, okay?\"{w}",
+  "kind": "msg",
+  "note": "amashoku (a domed sweet bun sold in this shop) = \"sweet bun\"; same item as ITEM.CSV:494."
+ },
+ {
+  "en": "\"Chomp... Mmmmm!! Such rich broth flavor, it's deli...{w}",
+  "kind": "msg",
+  "note": "Deliberately unfinished (no closing quote), as in the source; the text must match the first part of 5673. dashi rendered as \"broth\"."
+ },
+ {
+  "en": "{0E}\"Chomp... Mmmmm!! Such rich broth flavor, it's deli...{0F}\n...cious? No wayyyy!!\"{w}",
+  "kind": "msg",
+  "note": "Same opening as 5671 so the {0E}/{0F} redisplay matches; source turns \"delicious\" into \"can't possibly be delicious\" -> \"...cious? No wayyyy!!\". Kept the \\n after {0F}."
+ },
+ {
+  "en": "\"*Gasp*... *gasp*...! Th-that could kill Jeratan, you know?!\"{w}",
+  "kind": "msg",
+  "note": "Source has no subject (\"(I) will die!?\"); Jeratan is the one who ate it, so Jeratan is the subject."
+ },
+ {
+  "en": "\"...Is this a sweet?{w}You're not making fun of Jeratan just because Jeratan's a kid, are you?\"{w}{p}\"Hmmm...\"{w}{p}\"......Chomp.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bleeeeeegh?!{w}Wh-what is this stuff?!{w}It's not a sweet after all!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jeratan's not gonna play with you! Hmph, hmph!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay then, rock-paper-scissors!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rock...{w}Paper...{w}Scissors!!\"{w}",
+  "kind": "msg",
+  "note": "jan... ken... pon! chant mapped to the English three-beat chant."
+ },
+ {
+  "en": "You threw Rock!{w}",
+  "kind": "msg",
+  "note": "Leading full-width alignment spaces dropped (they only aligned the Japanese with the \"Jeratan threw\" lines)."
+ },
+ {
+  "en": "You threw Scissors!{w}",
+  "kind": "msg",
+  "note": "Leading alignment spaces dropped."
+ },
+ {
+  "en": "You threw Paper!{w}",
+  "kind": "msg",
+  "note": "Leading alignment spaces dropped."
+ },
+ {
+  "en": "You threw Dynamite!{w}",
+  "kind": "msg",
+  "note": "Leading alignment spaces dropped."
+ },
+ {
+  "en": "Jeratan threw Rock!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jeratan threw Scissors!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jeratan threw Paper!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jeratan threw Dynamite!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, Jeratan lost...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yay, Jeratan wins!{w}Jeratan is sooo stwong!!\"{w}",
+  "kind": "msg",
+  "note": "tsuooi = babytalk tsuyoi; the source lisps here, so \"stwong\"."
+ },
+ {
+  "en": "\"Hmm?! You're pretty good, huh?!{w}One more match!!\"{w}",
+  "kind": "msg",
+  "note": "Draw result."
+ },
+ {
+  "en": "\"Huh! That's...?!\"{w}",
+  "kind": "msg",
+  "note": "Reaction to the player choosing Dynamite."
+ },
+ {
+  "en": "\"D-did you say dynamite?!{w}Look out, everybody take cover!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hellooo~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's the Pwincipal!\"{w}",
+  "kind": "msg",
+  "note": "kouchou-sensei in babytalk -> \"Pwincipal\". Principal's gender unknown (glossary): no Mister/Ms."
+ },
+ {
+  "en": "Principal",
+  "kind": "name"
+ },
+ {
+  "en": "\"I've come to buy some more sweet buns, you seeee~{w}They're a favorite of the fairy folk, you knooow~{w}Sn-snort! Snort-ho-ho!!\"{w}",
+  "kind": "msg",
+  "note": "buhyo = pig-snort laugh, rendered as \"snort\" throughout (Jera calls the Principal a pig in 5715)."
+ },
+ {
+  "en": "\"P-Pwincipal, run away, quick!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeees~? What is it~???{w}What's the matter, everyone, all in a panic like that... snort-hee.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No good, the Principal's too much of a pig to make it in time!{w}We'll just have to get ourselves to safety!!\"{w}",
+  "kind": "msg",
+  "note": "Subject restored: the Principal (bare \"too piggy to make it\"). buta-sugite kept at full rudeness as \"too much of a pig\". \"watashi-tachi dake demo\" = at least we ourselves."
+ },
+ {
+  "en": "\"Mmm... is this an evacuation driiill~?{w}My, how admirable~ What was it again, ahh... yes, PIE!\"{w}",
+  "kind": "msg",
+  "note": "Pun adapted: Japanese school-drill mnemonic OKASHI (don't push / run / talk) doubles as \"sweets\". English uses the acronym PIE (a sweet) with the joke third rule \"don't Expire\" (= the Principal's \"don't die\"). See 5721."
+ },
+ {
+  "en": "\"Come on, Jeratan!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"P, don't Push... I, don't get Impatient...{w}E, don't Expire... when I say that, you seeee~{w}the students all just love it~ Snort!\"{w}",
+  "kind": "msg",
+  "note": "Source: [O] don't push, [KA] don't run, [SHI] don't die. Adapted to PIE; \"don't run\" became \"don't get Impatient\" to fit the letter I; \"don't die\" kept as \"don't Expire\"."
+ },
+ {
+  "en": "\"The Pwincipal... the Pwincipal's gonna...!!\"{w}",
+  "kind": "msg",
+  "note": "Source trails off: \"Teacher is, teacher is~!!\""
+ },
+ {
+  "en": "\"I was thinking our Rubenburg ought to hold one soon, too...{w}Oh my, what might this beee~?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n                *  DYNAMITE  *{0F}{w}",
+  "kind": "msg",
+  "note": "Centered caption: trailing padding dropped, leading padding approximate. Check the centering in-game."
+ },
+ {
+  "en": "\"Snort!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fsss... fsss...\"{w}",
+  "kind": "msg",
+  "note": "pusu-pusu = smouldering/fizzling sound, said by the scorched Principal."
+ },
+ {
+  "en": "\"Pwincipaaal!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How awful...{w}We've lost a fine person...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I'm not dead, you know... sno...o...rt...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n  *  Dynamite is against the rules, you know!  *{0F}{w}",
+  "kind": "msg",
+  "note": "Caption; leading padding approximate, check in-game."
+ },
+ {
+  "en": "\"Okay then, here's the prize Jeratan promised.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Right in front of you, Jeratan is munching away.{w}{p}Something card-shaped is sticking out of Jeratan's mouth.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Blehhh.\"{w}",
+  "kind": "msg",
+  "note": "nbee = sticking the tongue out (pushing the card out)."
+ },
+ {
+  "en": "\"That was fun!{w}Pwease come play again!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Too bad! Pwease come play again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Which will you throw?",
+  "kind": "data"
+ },
+ {
+  "en": "Rock",
+  "kind": "data"
+ },
+ {
+  "en": "Scissors",
+  "kind": "data"
+ },
+ {
+  "en": "Paper",
+  "kind": "data"
+ },
+ {
+  "en": "Dynamite",
+  "kind": "data"
+ },
+ {
+  "en": "Garian",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, who the hell are you...{w}This is our sacred workplace.{w}Don't go barging in here uninvited!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We make tons of tools and weapons!{w}It's behind-the-scenes work, real unglamorous stuff!{w}But! You really feel like you're making something!\"{w}{p}\"The weapons and armor we put our hearts into get used by people all across the land, and they do some good!\"{w}{p}\"There's no job more worthwhile than this!{w}Gahahahahaha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you don't work, you don't eat!{w}Being adventurers doesn't mean you get to drift around forever!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh! You lot again?!{w}Coming round this often won't help -- here in Gandra we only hire folks with real strength.\"{w}{p}\"You're strapped for cash anyway, right?{w}Want to take this with you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What the hell?!{w}Don't go hoarding more stuff than you can carry!\"{w}{p}\"You're short on pockets, pockets!{w}Go tell your ma to sew you some more!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kasu -- that means 'junk' -- the perfect sword for the likes of you right now.{w}If you want a stronger sword, get your hands on the Miyoshino Tarot!\"{w}{p}\"The Miyoshino Tarot --{w}once you've got it, bring it here!\"{w}",
+  "kind": "msg",
+  "note": "Hanafuda yaku names (Kasu, Miyoshino, Akayoroshi, Inoshikacho, Omote-Sugawara, Ameshiko, Goko) are the sword names, romanized. kasu also means \"dregs/trash\"; Garian puns on it, so the meaning is glossed in the line."
+ },
+ {
+  "en": "\"Once you've got the Miyoshino Tarot, bring it here along with the Kasu sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright, the Miyoshino!{w}Good work. Now, hand over the Kasu!\"{w}{p}\"...Hey, you over here! Temper this sword!\"{w}",
+  "kind": "msg",
+  "note": "Garian calls a different smith each time: kocchi/socchi/acchi/mukou/dareka -> over here / over there / way over there / at the far end / somebody."
+ },
+ {
+  "en": "\"It's done -- the Miyoshino!{w}But this sword can still be tempered a lot more!\"{w}{p}\"Next, bring me the Akayoroshi Tarot!\"{w}",
+  "kind": "msg",
+  "note": "dekita zo, Miyoshino: the name is the finished sword, not an address."
+ },
+ {
+  "en": "\"Once you've got the Akayoroshi Tarot, bring it here along with the Miyoshino sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright, the Akayoroshi!{w}Good work. Now, hand over the Miyoshino!\"{w}{p}\"...Hey, you over there! Temper this sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's done -- the Akayoroshi!{w}But this sword can still be tempered a lot more!\"{w}{p}\"Next, bring me the Boar & Bush Clover, Deer & Maple and Butterfly & Peony Tarots!{w}I'll temper it into the Inoshikacho!!\"{w}",
+  "kind": "msg",
+  "note": "Hanafuda card names translated (they are item names, ITEM.CSV:499-507, max 20 chars)."
+ },
+ {
+  "en": "\"Once you've got the Boar & Bush Clover, Deer & Maple and Butterfly & Peony Tarots, bring them here along with the Akayoroshi sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright, Boar & Bush Clover, Deer & Maple, Butterfly & Peony!{w}Good work. Now, hand over the Akayoroshi!\"{w}{p}\"...Hey, you way over there! Temper this sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's done -- the Inoshikacho!{w}But this sword can still be tempered a lot more!\"{w}{p}\"Next, bring me the Crane & Pine, Warbler & Plum and Curtain & Cherry Tarots!{w}I'll temper it into the Omote-Sugawara!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once you've got the Crane & Pine, Warbler & Plum and Curtain & Cherry Tarots, bring them here along with the Inoshikacho sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright, Crane & Pine, Warbler & Plum, Curtain & Cherry!{w}Good work. Now, hand over the Inoshikacho!\"{w}{p}\"...Hey, you at the far end! Temper this sword!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's done -- the Omote-Sugawara!{w}But this sword can still be tempered a lot more!\"{w}{p}\"Next, bring me the Michikaze & Willow Tarot, plus any three of the Crane & Pine, Curtain & Cherry, Moon & Pampas and Phoenix & Paulownia Tarots.\"{w}{p}\"I'll temper it into the Ameshiko!!\"{w}",
+  "kind": "msg",
+  "note": "Yanagi ni Ono no Michikaze shortened to \"Michikaze & Willow\" for the 20-char item-name limit."
+ },
+ {
+  "en": "\"Bring me the Michikaze & Willow Tarot, plus any three of the Crane & Pine, Curtain & Cherry, Moon & Pampas and Phoenix & Paulownia Tarots.\"{w}{p}\"I'll temper the Omote-Sugawara into the Ameshiko!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Michikaze & Willow, and three Bright cards!{w}Good work. Now, hand over the Omote-Sugawara!\"{w}{p}\"...Hey, somebody! Temper this sword!\"{w}{p}\"What... you CAN'T?!{w}How many years have you lot been running this forge?!!{w}Fine, I'll temper it myself! Hang on a minute!\"{w}",
+  "kind": "msg",
+  "note": "hikari-fuda = the hanafuda \"Brights\" (20-point cards) -> \"Bright cards\"."
+ },
+ {
+  "en": "\"It's done -- the Ameshiko!{w}But this sword can still be tempered a lot more!\"{w}{p}\"Next, go collect all the Bright cards one more time -- Michikaze & Willow, Crane & Pine, Curtain & Cherry, Moon & Pampas and Phoenix & Paulownia!\"{w}{p}\"I'll temper the Ameshiko into the Goko!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go collect all the Bright cards one more time -- Michikaze & Willow, Crane & Pine, Curtain & Cherry, Moon & Pampas and Phoenix & Paulownia!\"{w}{p}\"I'll temper the Ameshiko into the Goko!!\"{w}",
+  "kind": "msg"
+ }
+]

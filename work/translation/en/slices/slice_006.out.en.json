@@ -1,0 +1,359 @@
+[
+ {
+  "en": "\n{0E}        *    HOME RUN!!    *        {0F}{w}",
+  "kind": "msg",
+  "note": "Centering kept with ASCII spaces (full-width spaces replaced); proportional font, so centering is approximate. Golf clown-doll gimmick."
+ },
+ {
+  "en": "\n{0E}      *    NICE SHOT!!    *      {0F}{w}",
+  "kind": "msg",
+  "note": "Same centering approach as 926."
+ },
+ {
+  "en": "Analis",
+  "kind": "name"
+ },
+ {
+  "en": "\"Over here, over here!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The smell's coming from over here!{w} N-no, it's not Analis's smell, okay?!{w} It's the thief's smell!\"{w}",
+  "kind": "msg",
+  "note": "Analis refers to self in the third person (glossary); kept."
+ },
+ {
+  "en": "\"The smell keeps going into the next room!{w} This way!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can smell it from the other side of a wall near here!{w} But we can't get through, right? That's weird...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's that way, waaay over there!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Around here!{w} We're really close now!{w} Where could it be...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You got stranded.{w}",
+  "kind": "op096",
+  "note": "op096 label/message for an event outcome; read sounan as 'stranded/lost'. Context of use unverified."
+ },
+ {
+  "en": "{0A:0003:000F} was overcome by drowsiness.{w}",
+  "kind": "op031"
+ },
+ {
+  "en": "Sedna",
+  "kind": "name"
+ },
+ {
+  "en": "\"Huh? Th-the rocks...{w} I can't get awaaaay?!{w} Aaah, wh-wh-which way? Which waaay?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Kyaaaaah?!{w} Wh-who are you?! Who IS thaaat?!{w} Eeeek, help meeee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A... a cornerrr?! Is it a corneeer?!{w} Eeek! I'm gonna get attackeeed?!{w} Heeelp meeee!!\"{w}",
+  "kind": "msg",
+  "note": "kado read as 'corner' (Sedna fleeing is boxed in: rocks in 943, the party in 945, a corner here). 'Horn' is the other possible reading."
+ },
+ {
+  "en": "Sedna dove into the sea and fled, raising a tidal wave.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sedna's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ow?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sedna fled to the east.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sedna fled to the west.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sedna fled to the north.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sedna fled to the south.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Nishimikado's Voice",
+  "kind": "name",
+  "note": "Glossary spelling; 19 chars, over the ~16 name-box guideline. Flag for fit check."
+ },
+ {
+  "en": "\"Where do you think you're running?!\"{w}",
+  "kind": "msg",
+  "note": "Scolding (doko wo hashitte oru ka). Could also read 'Watch where you're running!'."
+ },
+ {
+  "en": "# Divine Shadow check start",
+  "kind": "op0fb",
+  "note": "Debug string; the black-square marker replaced with ASCII #. Divine Shadow = new term (shin-ei)."
+ },
+ {
+  "en": "VICTORY_COUNT: {0B:0003:0039}",
+  "kind": "op0fb",
+  "note": "Debug string; full-width colon to ASCII."
+ },
+ {
+  "en": "     NEXT_GOD: {0B:0003:003A}",
+  "kind": "op0fb",
+  "note": "Debug string; leading full-width spaces replaced with 5 ASCII spaces to align the colon with VICTORY_COUNT."
+ },
+ {
+  "en": "Divine Shadow appears",
+  "kind": "op0fb",
+  "note": "Debug string."
+ },
+ {
+  "en": "No Divine Shadow",
+  "kind": "op0fb",
+  "note": "Debug string."
+ },
+ {
+  "en": "You sensed a vast presence and stopped in your tracks.{w}{p}In an instant the presence blanketed the world, bearing down on you with overwhelming might.{w}{p}This is the shadow of one who dwells \"outside\" the world.{w}A being unlike you.{w}{p}Beware!\nYou must never encounter it!{w}{p}This is a warning.{w}",
+  "kind": "msg",
+  "note": "Divine Shadow encounter warning."
+ },
+ {
+  "en": "Hide yourselves before your souls are blasted away.",
+  "kind": "data",
+  "note": "Choice prompt (data); ~50 chars, longer than the 30-char menu guideline but it is a prompt line, not a button."
+ },
+ {
+  "en": "You held your breath and waited for the calamity to pass.{w}{p}\"It\" vanished in an instant, just as it had appeared.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Suffocated",
+  "kind": "op096",
+  "note": "Timer death cause (underwater)."
+ },
+ {
+  "en": "You offered a prayer at the last of the gods' altars.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Then your bodies were wrapped in a dazzling light and carried off somewhere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Searching the area, you found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You found the Jewel Ring!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take it?",
+  "kind": "data"
+ },
+ {
+  "en": "You left the Jewel Ring behind.{w}",
+  "kind": "msg",
+  "note": "houki = abandon/discard; rendered as leaving it."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Jewel Ring.{w}",
+  "kind": "msg",
+  "note": "Bracketed kichouhin rendered [Key Item]; not in glossary, match the item-menu term once the UI is translated."
+ },
+ {
+  "en": "You found {0C:0003:0010}.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You left {0C:0003:0010} behind.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained {0C:0003:0010}.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alllright, that's far enough.\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Nonhared (name box 1044 follows)."
+ },
+ {
+  "en": "Wrapped in a cold wind, a warrior whose very presence foretold death appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Reaching the divine relic before us...\nnot bad at all.\"{w}{p}\"Hmm...\nIs it thanks to that shiny, glowing item of yours?\"{w}{p}\"Too bad for you, after you went to the trouble of finding it, but{w} you're handing that divine relic over to us.\"{w}{p}\"I won't take no for an answer.\nI'll take it by force if I have to!\"{w}",
+  "kind": "msg",
+  "note": "Nonhared: gruff. kochira = 'us' (ore-tachi earlier in the line)."
+ },
+ {
+  "en": "Nonhared",
+  "kind": "name"
+ },
+ {
+  "en": "\"Gwah...?!{w} Heh... Not giving it up easy, huh?\"{w}{p}\"Fine. Since you held up against my attack,\nI'll let you lot hang on to it for a while.\"{w}{p}\"The next time we meet,\nI'll send you to your grave!!{w} Hahahahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "indou wo watasu = deliver the last rites / finish off."
+ },
+ {
+  "en": "The warrior departed along with the chill.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Nonhared (gender unknown)."
+ },
+ {
+  "en": "\"GOGAAAAAAHHH!!\nThey said it was around here, but I can't find it!\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Donnelkral (name box 1052)."
+ },
+ {
+  "en": "A dragon you had never seen before appeared in front of you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And I'm starviiing!{w} Dammit, where's that divine relic...{w} Relic... relic... meat... relic... meat... meat...\"{w}{p}\"Hm?\"{w}{p}\"That thing you've got there...\nCould it be... MEEEAT?!{w} No wait, the divine relIIIC?!\"{w}{p}\"Oh craaap! Somebody beat me to iiit!{w} The mighty me got told to go find it!\nAnd yet the divine relic is already in that punk's haaands?!\"{w}{p}\"Whoa, I'm gonna get chewed out for this!\nWhat do I do... what do I do...\"{w}{p}\"Grooooohhh...\"{w}{p}\"Oooooooohhh......\"{w}{p}\"Oooooooooohhhh.........{w} Hn?\"{w}{p}\"If I just eat you lot,\nI get the divine relic AND a full belly...\nit's nothing but upside?!\"{w}{p}\"Whoa whoa whoa!{w} Ain't I amazing?! Ain't I a genius?!{w} My own brilliance scares meeee!!\"{w}{p}\"So that's the deal, you morons!!\nGet eaten, get robbed, and then...{w} DIEEEEEEE!!\"{w}",
+  "kind": "msg",
+  "note": "Short 'relic' in the chanted fragments (shingu...niku...); full 'divine relic' elsewhere. ore-sama -> 'the mighty me'. aitsu (that one) -> 'that punk' to stay gender-neutral."
+ },
+ {
+  "en": "Donnelkral",
+  "kind": "name"
+ },
+ {
+  "en": "\"GUAAAAAH?!\nYou punks... just lie still and get eateeen...!\nThat was supposed to be MY divine relic...\"{w}{p}\"You're SO annoyiiing!!{w} I'm gonna tell Zeshrom on yoooou!!{w} Serves you riiiiight!!\"{w}",
+  "kind": "msg",
+  "note": "houkoku shite yaru -> 'tell on you' (childish tantrum register)."
+ },
+ {
+  "en": "The dragon flew off in a furious rage.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I seeee...\nSo that's how you've been finding the divine relics.\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Escapra (name box 1060)."
+ },
+ {
+  "en": "You turned around to find a monstrous woman standing there.\nDemonic in form, she ran her eyes over you as if licking you all over.{w}",
+  "kind": "msg",
+  "note": "Licking gaze kept as the licking image; 'she' per narration (igyou no onna) and glossary."
+ },
+ {
+  "en": "\"With something pointing right at the spot like that,\nno wonder we couldn't get ahead of you,\nwhat with us going on Urna's hunches.\"{w}{p}\"Well, you found it, so I'll call that good enough.{w} If I manage to bring it back,\nour boss's share oughta go up too.\"{w}{p}\"Now then, you get to choose.{w} Die torn apart by my claws,\nor die skewered on these sharp tentacles?\"{w}{p}\"...Eh? You want to try both?{w} My, aren't you a greedy one!!\"{w}",
+  "kind": "msg",
+  "note": "uchi no taishou -> 'our boss' (presumably Zeshrom, not named)."
+ },
+ {
+  "en": "Escapra",
+  "kind": "name"
+ },
+ {
+  "en": "\"GYIIIAAAAAAGH?!{w} ...Tch! What the hell is this?!{w} My attack got blocked?!\"{w}{p}\"No wonder those two had such a hard time...{w} Kukuku... Oh, I like it, I like it!{w} This is getting more and more fun!!\"{w}{p}\"You lot, go get stronger...{w} Next time I'll kill you with everything I've got...\nKukuku!!\"{w}",
+  "kind": "msg",
+  "note": "'those two' = Nonhared and Donnelkral."
+ },
+ {
+  "en": "The monstrous woman swayed her body gleefully,\nthen bounded away with a terrifying leap.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Halt!{w} That divine relic belongs in my hand!\nDo not lay your lowly fingers upon it!!\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Urna (imperious ware register: formal English)."
+ },
+ {
+  "en": "As you reached for the divine relic,\na voice charged with anger rang out.{w}A woman was glaring at you with eyes full of rage.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So you too would betray me,{w} and seek to bar my return!\"{w}{p}\"Though I raised you,{w} taught you how to live, taught you song, taught you love,{w} and saved you from ruin...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Have you forgotten my heart?!{w} Have you forgotten your promise to me?!{w} Worse still, have you forgotten even my name?!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "No, you DO know her name!{w}You called out her name.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even ingratitude has its lim--?!{w} Hm? Huh???{w} S-say that... one more time?\"{w}",
+  "kind": "msg",
+  "note": "Interrupted mid-sentence ; register drops to casual (itte mi)."
+ },
+ {
+  "en": "You called her name once more.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Urna",
+  "kind": "name"
+ },
+ {
+  "en": "\"Y-you know it...?{w} My name...?!{w} How? Nobody knew it...\"{w}{p}\"Reiblair... was it?{w} I see, so that device is still working!\"{w}{p}\"Um... so, then...{w} well... uh...{w} I mean... um... um...\"{w}",
+  "kind": "msg",
+  "note": "Reiblair (glossary: place) taken as where the party learned her name; 'that device' kept vague as in source."
+ },
+ {
+  "en": "\"I... I'm h-home?\"",
+  "kind": "data",
+  "note": "Choice prompt line (Urna's 'tadaima'); the choices answer it."
+ },
+ {
+  "en": "Welcome back!",
+  "kind": "data"
+ },
+ {
+  "en": "Say nothing",
+  "kind": "data"
+ },
+ {
+  "en": "\"......\"{w}{p}\"Why... won't you say anything...?{w} We promised, didn't we... that we'd be together again...{w} This joke... is too cruel...\"{w}{p}\"Hey...\"{w}{p}\"......\"{w}{p}\"......Ngh!!\"{w}",
+  "kind": "msg",
+  "note": "'Say nothing' branch; the promise line trails off; English completes 'together again' minimally."
+ },
+ {
+  "en": "\"Ahh...{w} Uuu... hic... sniff...{w} I-I'm back... I came back, you know?\"{w}{p}\"I wanted to... live happily...{w} with everyone again...{w} to see everyone's smiles... a-again... hic...\"{w}{p}\"But no matter where I looked,{w} nobody came to welcome me...{w} Everyone had... me... Waaaaaah!!\"{w}",
+  "kind": "msg",
+  "note": "'Welcome back' branch. 'minna, watashi wo...' is an unfinished sentence (object with no verb); kept broken as 'Everyone had... me...'."
+ },
+ {
+  "en": "Urna threw her arms around you.",
+  "kind": "msg",
+  "note": "Source has no {w}; none added."
+ },
+ {
+  "en": "\"I found... kids who know me...{w} I'm so happy... so happyyy...\"{w}{p}\"I'm h-home...{w} Sorry I kept you waiting... really, I'm so sorry...{w} Let's be close again, okay? Okay?\"{w}",
+  "kind": "msg",
+  "note": "ko -> 'kids' (Urna's motherly view of the people of the land; cf. kono ko-tachi in 1090)."
+ },
+ {
+  "en": "\"A touching reunion, I take it.\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Zeshrom (name box 1091; courteous register)."
+ },
+ {
+  "en": "\"Zeshrom!{w} Look! These kids,\nthey remembered me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zeshrom",
+  "kind": "name"
+ }
+]

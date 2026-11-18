@@ -1,0 +1,348 @@
+[
+ {
+  "en": "\"I see. Quite the power of deduction you have.{w}...Just so. It was not this Cerberus that killed him.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh heh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "By the time you realized something was wrong, your way out had already been cut off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"He was the Summoner in my party.{w}But at some point, he had a change of heart, you see... and turned to the Good alignment.\"{w}",
+  "kind": "msg",
+  "note": "Zen no kairitsu = Good alignment (Wizardry-style Good/Neutral/Evil). 'He' = the dead adventurer; the source says kare."
+ },
+ {
+  "en": "\"We are those who walk the path of evil.{w}Having one of us wake up halfway to something like justice makes things no end of trouble.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"He could have just left without a word, but instead he started getting in our way.{w}So we called him out into this forest.\"{w}{p}\"Honestly, summoning a Cerberus of all things... he just would not go quietly.{w}Thanks to that, I came out of it badly hurt.\"{w}",
+  "kind": "msg",
+  "note": "kocchi wa daikega: rendered 'I' because the next row shows the Mage's own bandaged arm; could also be 'we'."
+ },
+ {
+  "en": "The mage rolled up a sleeve, revealing an arm wrapped in bandages.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then. If we are telling you all this, you already know what that means, don't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Having made sure they were dead, the Cerberus let a lonely howl ring out through the forest.{w}",
+  "kind": "msg",
+  "note": "'they' = the three Suspicious adventurers just defeated."
+ },
+ {
+  "en": "Then, gently taking its master's body in its jaws, it turned its back on you and went off somewhere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nnnooooo---!?{w}Is one little fairy gonna drop dead out here in the middle of nowhere!?{w}No-o, I don't want that, I don't waaaaant iiit!!\"{w}",
+  "kind": "msg",
+  "note": "noTarejini = die a dog's death by the wayside."
+ },
+ {
+  "en": "...Lunea is making a racket.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Huh-huh-huh-huh!?{w}Whaaaat!! Ev-everybodyyyyy!!\"{w}",
+  "kind": "msg",
+  "note": "minashaaan: Lunea's panicked lisp of minasan; kept as a stretched cry rather than a lisp."
+ },
+ {
+  "en": "\"H-hewp me, hewp meeee!!\"{w}",
+  "kind": "msg",
+  "note": "tashukete = lisped tasukete; rendered as 'hewp'."
+ },
+ {
+  "en": "\"Gnyoooooooh!?{w}You won't let me join your party!?{w}N-no wayyy!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll hold a grudge against youuu~{w}I'll resent you for the rest of my liiife!!{w}Waaaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lunea leapt onto you.{w}",
+  "kind": "msg",
+  "note": "tobitsuite kita = jumped on / clung to you (joining)."
+ },
+ {
+  "en": "Certain NPCs join your adventure in the summoned monster slot.{w}{p}If you already have an NPC like this with you, you cannot bring another one along.{w}{p}Either finish the event of the NPC currently with you, or disband your party once at the tavern.{w}",
+  "kind": "msg",
+  "note": "System tutorial text. sakaba = the tavern (generic, not named)."
+ },
+ {
+  "en": "The indescribable scent of catnip water hangs in the air.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take the catnip water?",
+  "kind": "data"
+ },
+ {
+  "en": "[Key Item]\nYou obtained Catnip Water.{w}",
+  "kind": "msg",
+  "note": "Glossary: matatabi-sui = catnip water; capitalized here as the key item name. Align with the item table."
+ },
+ {
+  "en": "Fairy",
+  "kind": "name"
+ },
+ {
+  "en": "\"Past here is our home, the fairies' home!{w}We're not letting the likes of you climb up there~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Try giving them something?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Whoa, you're giving us that!?{w}...Then just this once, I'll pretend I didn't see you! Go on through!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is this!? Like anyone could eat this stuff!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You were turned away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bard",
+  "kind": "name"
+ },
+ {
+  "en": "\"You should be able to start the climb from that entrance right there, but...\"{w}{p}\"The fairies over there just won't let anyone through, you know?{w}Don't you have anything that might put them in a good mood?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A man is surrounded by fairies.{w}",
+  "kind": "msg",
+  "note": "Source says hitori no otoko ('a man'), and the speaker who follows is the Principal: script evidence for the Principal's gender (glossary has unknown)."
+ },
+ {
+  "en": "\"Now, now, let's all just calm dooown a little, shall we~?{w}I'm simply here, as the Principal of Rubenburg, you seeee...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This one's still got more!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All of it!{w}Leave every last bit of it behind!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can have them, you can have them, reeeally~{w}I'd just be so honored if you would come and teach at our school...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Found it! Found some in a pocket!{w}Cookies! Sweet buns! Biscuits!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pluck away~!!\"{w}",
+  "kind": "msg",
+  "note": "mushire = pluck/strip (no object in the source)."
+ },
+ {
+  "en": "\"Snort!?{w}E-everyone, no roughhousing...{w}I'd really like you to stooop, you knooow!?\"{w}",
+  "kind": "msg",
+  "note": "buhi'= the Principal's pig snort; 'Snort' as in slice 026."
+ },
+ {
+  "en": "After the commotion, the Principal lay collapsed, completely spent.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, well, getting along with the fairy folk sure is tricky~\"{w}{p}\"But I won't be discouraged, nooo~{w}If I can just invite the fairy folk over, I'm sure our school's lessons will be all the richer for it~\"{w}{p}\"A little while ago, over that way, you seeee, I found a lovely spring~{w}Rest there a while, and any wounds should heal, too.\"{w}{p}\"And then, to negotiate with the fairy folk, I'll go buy some new sweets again!{w}Snort-ho-ho-ho!!\"{w}",
+  "kind": "msg",
+  "note": "Whose wounds heal is left open (source: kizu mo ieru deshou)."
+ },
+ {
+  "en": "Earth Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "\"What's the matter, adventurers?{w}Lookin' for somethin', are you?\"{w}",
+  "kind": "msg",
+  "note": "Folksy old-man speech (washi, oru, ee)."
+ },
+ {
+  "en": "Looking for something?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Hmm, old sheet music, you say?{w}Can't say I know of it...\"{w}{p}\"Have you asked my fellow over on that floating cloud?{w}If not, go on and see.{w}...Up you go!!\"{w}",
+  "kind": "msg",
+  "note": "sora' = shout as the Elemental launches the party on the wind (next row)."
+ },
+ {
+  "en": "You rode the wind and flew up into the air!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, stay a while and take it easy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ho ho ho.{w}So adventurers have made it all the way up here, eh?{w}Well, stay a while and take it easy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wind Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "\"...Old sheet music, you say?{w}Hmm... so it seems you are not just wandering about for no reason.\"{w}{p}\"Very well. One who knows of it is on the cloud over there.{w}I could send you there. What will you do?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Have it send you over?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Then go...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, suit yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Since ancient times, mountains have been sacred ground.{w}All the more so here, the land of Omshokopo, the Wind Sage.{w}Do not go scurrying about needlessly.\"{w}",
+  "kind": "msg",
+  "note": "Omshokopo-sama: no title added (gender not established)."
+ },
+ {
+  "en": "Fire Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "\"Old sheet music?{w}That old thing? I threw it out!{w}...Just kidding!\"{w}{p}\"I know somebody who might know about it. Want me to introduce you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Get an introduction?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Then off you go!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph. Whatever.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This mountain is where all the spirits gather.{w}And on top of that, Omshokopo's up at the very summit!{w}Don't you go dumping trash or anything, got it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Water Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "\"Old sheet music... an old song...?{w}Ah, yes, there was such a thing, wasn't there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Is that your wish?",
+  "kind": "data",
+  "note": "goshomou de? = 'You desire it?' (polite)."
+ },
+ {
+  "en": "\"Then, safe travels.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Water flows and changes.{w}It never takes the same shape twice. Every meeting comes only once.{w}And so, hello. And goodbye.\"{w}",
+  "kind": "msg",
+  "note": "ichigo ichie = each encounter happens only once in a lifetime."
+ },
+ {
+  "en": "Shining Figure",
+  "kind": "name",
+  "note": "New name: kagayaku sugata."
+ },
+ {
+  "en": "\"Omshokopo is the wisest of the Four Sages.{w}Take care not to show your foolishness and leave Omshokopo appalled.\"{w}",
+  "kind": "msg",
+  "note": "Name repeated instead of a pronoun (gender not established)."
+ },
+ {
+  "en": "Earth Man",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ohhh...{w}You want the old sheet music...\"{w}{p}\"Nowadays... in a thing like this...{w}hardly anyone... takes an interest...{w}Sing it... with care...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nYou obtained the ?First Movement.{w}",
+  "kind": "msg",
+  "note": "Item name provisional; leading '?' kept as in the source (cf. '?Ancient Song', slice 017)."
+ },
+ {
+  "en": "\"Ohhh...{w}My back hurts...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sylphe",
+  "kind": "name"
+ },
+ {
+  "en": "\"Whaddya want?{w}Old sheet music? You mean this thing~?\"{w}{p}\"You want this ratty scrap of paper that bad?{w}Then hey! If I went fwoo~ and blew it way off into the sky, would you get mad? Would ya?\"{w}{p}\"..........{w}Fwoooooo~!!{w}Kidding, just kidding! Here, take it, take iiit!\"{w}",
+  "kind": "msg",
+  "note": "Sylphe talks like a gal (a-shi, a-ni). okoru? okoru? = 'would you get mad? Would ya?'."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the ?Second Movement.{w}",
+  "kind": "msg",
+  "note": "Provisional item name."
+ },
+ {
+  "en": "\"Hey hey!{w}Gonna blow some good winds your way today too~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Phoenix",
+  "kind": "name"
+ },
+ {
+  "en": "\"What is it? As you can see, I am already old.{w}My flame has dwindled; all that is left is to fade away...\"{w}{p}\"What, you say you are looking for sheet music?{w}You mean this. ...Folk from the world below seeking it now, after all this time? What has brought this on?\"{w}{p}\"Well, no matter.{w}If there are those who wish to know it, take it.\"{w}",
+  "kind": "msg",
+  "note": "dou iu kaze no fukimawashi = 'what brought this on'."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the ?Third Movement.{w}",
+  "kind": "msg",
+  "note": "Provisional item name."
+ },
+ {
+  "en": "\"What is it, whelp...{w}You surely have no more business with a worn-out old thing like me.{w}Now, go.\"{w}",
+  "kind": "msg",
+  "note": "kozou = 'kid/whelp', said to the party; rendered without gender."
+ },
+ {
+  "en": "Undine",
+  "kind": "name"
+ },
+ {
+  "en": "\"Old sheet music? Ah, yes, I do have some.{w}There are people who want to sing it these days?{w}Hmm...\"{w}{p}\"Well, if that's how it is, I'll give it to you.{w}Don't treat it carelessly, all right?\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,364 @@
+[
+ {
+  "en": "\"Ah... I-I'm sorry!{w} I didn't mean it like that...\"{w}",
+  "kind": "msg",
+  "note": "Euratia apologizes for hinting there is no time left (previous row 2803, Isfald's '...Euratia')."
+ },
+ {
+  "en": "\"It's fine, it's fine!{w} Someday, when I come back, I'll teach you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can play the lute, so I'll play along with you, Lady Urna!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'll take... hmm, which one should I pick~?{w} Okay, I'll go with the Divine Thunder Harp! Twaaang~\"{w}",
+  "kind": "msg",
+  "note": "New item name: [JP] = 'Divine Thunder Harp' (not in glossary). [JP]♪ = a twang; ♪ -> '~'."
+ },
+ {
+  "en": "\"Ah, Lady Urna, if you hold it like that, the lightning'll...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Look ouuuuut!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It already struck.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: the lightning has already come down."
+ },
+ {
+  "en": "\"S-s-sorry! Who did it hit!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-Radrecht, heeeere...\"{w}",
+  "kind": "msg",
+  "note": "Callback to Radrecht's self-introduction gag [JP] (slice 063, SCD17:2727): align that row's wording with this one."
+ },
+ {
+  "en": "\"Oh, then never mind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait, why!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alllright, let's get started!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "All",
+  "kind": "name",
+  "note": "Glossary name box [JP] = All."
+ },
+ {
+  "en": "\"Yeah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "'Urna wished for a small happiness:\nfirst friends, breathing deep in the earth...'{w}",
+  "kind": "msg",
+  "note": "Song lyric in [JP] -> single quotes; line break kept as in the source verse."
+ },
+ {
+  "en": "\"Can you hear me, our descendants?{w} I am Isfald.\"{w}{p}\"I greet you on behalf of the Elves, Ogres, Humans, Gnomes and Hobbits.\"{w}{p}\"We have overcome a great ruin, and now we stand here, on this land of Fiur Rade.{w} ...Ngh... Gh...! I'm sor... ry...\"{w}",
+  "kind": "msg",
+  "note": "Isfald (gender not stated): no pronouns."
+ },
+ {
+  "en": "\"Lady Ur... na...{w} Lady Urnaaa... *sob*...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = a sob."
+ },
+ {
+  "en": "\"Say...{w} Even if it meant putting Lady Urna through this...{w} even if it meant losing Orses and Sarijana...\"{w}{p}\"...were we really meant to survive...?{w} Maybe we should've just gone with Lady Urna...\"{w}",
+  "kind": "msg",
+  "note": "[JP]: kept as unfinished as in the source ('gone with' = shared her fate; not made explicit). Orses/Sarijana without honorifics (gender not established, lead convention)."
+ },
+ {
+  "en": "\"Hey, old man!{w} Don't you... say stuff like that...{w} You can't say that...!!\"{w}{p}\"The lives we've got now...{w} are lives Lady Urna saved by trading herself for them...!\"{w}{p}\"We're gonna live on, no matter what...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th-this...! These words of ours!{w} You descendants who are listening.{w} No matter how much time passes, you must never, ever forget them!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Our mother -- the place where we were born -- isn't some 'Fiur Rade'!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (dismissive) rendered as 'some'; quotes mark the scorned name."
+ },
+ {
+  "en": "\"It's Lady Urna's warm embrace...{w} It's Urna Rade.{w} We were loved... this much...\"{w}",
+  "kind": "msg",
+  "note": "Answers Domanaya's line: the land they were born in is Lady Urna's bosom, Urna Rade."
+ },
+ {
+  "en": "\"But there is no need to despair!{w} We will surely meet Lady Urna again!{w} We made a promise, at the very end!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right. Someday, when the time is ripe...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let this royal command go forth from the descendants of our Elven royal house!\"{w}{p}\"Leave all wealth, power and riches of every kind behind in the land of Fiona, gather at Lady Urna's side with nothing but yourselves, and start everything over!\"{w}{p}\"The five races, Elves, Ogres, Humans, Gnomes and Hobbits, shall join hands{w} and seek out the shattered Lady Urna.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: [JP] read as the source of the command (the royal descendants will issue it). Could also be read as Isfald issuing it now; uncertain."
+ },
+ {
+  "en": "\"And then we'll celebrate with this Yuan Wine...{w} We'll guard it real carefully, we will...\"{w}",
+  "kind": "msg",
+  "note": "Yuan Wine (glossary)."
+ },
+ {
+  "en": "\"Please, don't forget, deliver it to Lady Urna!{w} Please, be sure to deliver it...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're celebrating Lady Urna's return.{w} Even if we're dead by then, at least get our feelings across to her!\"{w}{p}\"You can do that, right...?{w} I don't even know your faces, but you're my Hobbit brothers and sisters!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (siblings) -> 'brothers and sisters' (descendants of unknown gender). 'to her' restored: the feelings are for Lady Urna's return."
+ },
+ {
+  "en": "\"This Fiur Rade is now a land ruled by Fiona, the Zefkaka.\"{w}{p}\"You won't be able to live happy days as you did before.{w} If you ever run into trouble in this land...\"{w}{p}\"If ever again an unprecedented crisis brought by the hand of the gods should befall us, turn to the Four Sages.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Fiona, the Zefkaka'."
+ },
+ {
+  "en": "\"Omshokopo, once known as Omsis of Wind.\"{w}",
+  "kind": "msg",
+  "note": "[JP] on the Four Sages dropped (no honorific for sages of unestablished gender; kept parallel for all four)."
+ },
+ {
+  "en": "\"Radrecht, once known as Rades of Fire.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shirinmorin, once known as Shirins of Water.\"{w}",
+  "kind": "msg",
+  "note": "Shirinmorin is female, but 'Lady' omitted to keep the four lines parallel."
+ },
+ {
+  "en": "\"Raizam, once known as Raizas of Earth.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They have been put to sleep by this great upheaval, but once they awaken, they will surely lend you their strength.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I pushed myself to make one more stone tablet, but it seems this is as much as I can record.\"{w}{p}\"My fellow Elves. Be noble at all times!{w} Heed the voice of the forest and the whisper of the wind, and walk on with the conviction and pride Lady Urna gave us.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (given) - recipient left as 'us' (the race as a whole)."
+ },
+ {
+  "en": "\"All you Ogres.{w} Listen, we've got strength, but we ain't too bright.\"{w}{p}\"So don't go showing off the strength Lady Urna gave us, and get along with the other races, y'hear?\"{w}",
+  "kind": "msg",
+  "note": "Domanaya's rough folksy voice ([JP], ~[JP])."
+ },
+ {
+  "en": "\"Humans, everyone.{w} ...Just as Lady Urna loved us, I love all of you, too.\"{w}{p}\"There's nothing I can do from here, but I sincerely pray for your safety.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What we Gnomes have going for us is the depth of our thought.\"{w}{p}\"Just like Lady Urna, even if the world changes utterly, we of all people must never lose sight of what's precious, mind you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey there, brothers and sisters. I'm not worried!\"{w}{p}\"'Cause even if we couldn't do much else, with the quickness we got from Lady Urna, we've come along every bit as far as this lot.\"{w}{p}\"So you, our descendants, can do it too! Hang in there!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'brothers and sisters' (as 2862). [JP] = the other races present."
+ },
+ {
+  "en": "\"The Vectraim is about to run out.{w} I'm sorry, but this is farewell.{w} Blessings upon you, and upon the Lady Urna of the future!\"{w}",
+  "kind": "msg",
+  "note": "Vectraim (glossary). [JP] = 'Blessings upon...', repeated in banner 2887."
+ },
+ {
+  "en": "{0E}        *    Blessings upon you!    *        {0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner; full-width spaces -> ASCII spaces as in earlier banners; check centring in game."
+ },
+ {
+  "en": "\"So you have finally made it here...\"{w}{p}\"King of Bistel. Though you told them nothing, your descendants and the adventurers who share their resolve have come all this way without straying.\"{w}{p}\"To think there would be hearts that reach out to each other beyond even the hand of the gods...\"{w}{p}\"King of Bistel, and Muse. You have shown me something fine.\"{w}{p}\"That mural has caught your eye, has it not?{w} Go on. Offer it the name of Mother Earth.{w} You, of all people, should know the name.\"{w}{p}\"Once I have seen that through, I shall take my leave.\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as 'though you (the King) told them nothing'. 'Mother Earth' follows slice 039 ([JP]). The last three pages address the party ([JP])."
+ },
+ {
+  "en": "\"Now, show me how this long, long myth ends.{w} Offer the name of Mother Earth.\"{w}{p}\"Once I have seen that through, I shall take my leave.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a firmly sealed door.\nThere is nothing that looks like a keyhole.{w}It is as if it is turning away all who are unworthy.{w}{p}If you gather the divine relics, Ragnastia might make it so you can pass.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'those who are unworthy' (lit. without the qualification)."
+ },
+ {
+  "en": "{0E}*                                            *\n*       Win your own reason for being        *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Sword of Wrath altar inscription: [JP]."
+ },
+ {
+  "en": "There is an altar.{w}The Sword of Wrath has been offered here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*  Forgiving: warmth where fingertips meet   *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Shield of Compassion inscription."
+ },
+ {
+  "en": "There is an altar.{w}It is an altar for offering the Shield of Compassion.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Offering a divine relic here would surely give power to the evil spirit deep within the earth.{w}{p}A wise adventurer would do nothing here and move on, but...{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the evil spirit deep within the earth' (cf. glossary [JP] 'ancient evil spirit' = Urna)."
+ },
+ {
+  "en": "You offered the divine relic.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You decided not to offer the divine relic.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Offer the divine relic",
+  "kind": "data",
+  "note": "Choice (22 chars)."
+ },
+ {
+  "en": "Keep the divine relic",
+  "kind": "data",
+  "note": "Choice (21 chars). [JP] = keep it on hand."
+ },
+ {
+  "en": "{0E}*                                            *\n*  It descends on those who keep believing   *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Tiara of Hope inscription."
+ },
+ {
+  "en": "There is an altar.{w}It is an altar for offering the Tiara of Hope.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*      A miracle child born of anguish       *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Breastplate of Intellect inscription."
+ },
+ {
+  "en": "There is an altar.{w}It is an altar for offering the Breastplate of Intellect.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*    Where one of two goddesses is chosen    *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game."
+ },
+ {
+  "en": "{0E}*                                            *\n*   If too few, share; if only one, yield    *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Bracelet of Harmony inscription: [JP]."
+ },
+ {
+  "en": "There is an altar.{w}It is an altar for offering the Bracelet of Harmony.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*     Acknowledge what is, and accept it     *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Shoes of Courage inscription."
+ },
+ {
+  "en": "There is an altar.{w}It is an altar for offering the Shoes of Courage.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*  Found in the eyes of a friend facing you  *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Anklet of Joy inscription."
+ },
+ {
+  "en": "There is an altar.{w}It is an altar for offering the Anklet of Joy.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                            *\n*   Because one lives with all one's might   *\n*                                            *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line asterisk box redrawn in ASCII at the source width (46 columns), text centred; check centring in game. Earring of Sorrow inscription; the source is a fragment ([JP]...), kept as one."
+ },
+ {
+  "en": "There is an altar.{w}The Earring of Sorrow has been offered here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Spirit",
+  "kind": "name",
+  "note": "[JP] = Spirit (cf. glossary Snow Spirit)."
+ },
+ {
+  "en": "\"Contrachio reflects the heart of the Zefkaka.\"{w}{p}\"For some reason, this land has two hearts.{w} Yet both hearts are filled with sorrow.\"{w}{p}\"Before anyone knew it, the water in this Hall of Sorrow had spread wider and wider.\"{w}",
+  "kind": "msg",
+  "note": "New name: [JP] = 'Hall of Sorrow' (room of the Earring of Sorrow). 'Two hearts' = Fiona's and Urna's (lands merged); not made explicit."
+ },
+ {
+  "en": "There is a spring, its water welling up ceaselessly.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you stands Urna, with the Kin of Darkness at her command.{w}{p}As you draw near, she seems about to speak, but her words never reach your ears.{w}",
+  "kind": "msg",
+  "note": "Kin of Darkness (glossary)."
+ },
+ {
+  "en": "\"Be cursed...{w} All who stand upon this land... be cursed...!!\"{w}{p}\"Take my sword of judgment, the wrath of the land, upon yourselves, and perish regretting your own betrayal!!{w} ...Be destroyed!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept figurative ('my sword of judgment'), lower case, not the relic name Sword of Wrath."
+ },
+ {
+  "en": "Something withered in your hands.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guh... Gahaah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not yet... not yet... this fight isn't...{w} I... am... I'm...{w} g-gonna... live... gonna surviv...\"{w}",
+  "kind": "msg",
+  "note": "Urna slips from imperious [JP] to her casual [JP]; shown as 'I... am...' -> 'I'm... gonna'. Final word cut off as in the source."
+ },
+ {
+  "en": "\"Too bad, but you lose.{w} Be a good sport and hand over your power!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn it... you lot...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That was the deal, wasn't it?{w} Well, blame your own weakness. This is as far as our cooperation goes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What is going on here?{w}Escapra and the others start closing in on Urna, their supposed ally, intent on killing her.{w}",
+  "kind": "msg",
+  "note": "[JP] = to kill with one's own hands; kept at full strength."
+ },
+ {
+  "en": "\"Is this... where it ends...?\"{w}",
+  "kind": "msg"
+ }
+]

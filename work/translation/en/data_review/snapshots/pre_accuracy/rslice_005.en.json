@@ -1,0 +1,322 @@
+[
+ {
+  "en": "Revenge on the Mirage      Request desk text",
+  "max": 194
+ },
+ {
+  "en": "Search every corner of the northern Blanc Desert and you'll meet a strange beast. Actually, I met it once myself while spreading the teachings. What did I do when I met it? ...Well, I'll tell you sometime.",
+  "max": 216
+ },
+ {
+  "en": "At the Heerdahl Martial Arts Tourney, you can even fight Professor Rombino! Will something good happen if you win?",
+  "max": 202
+ },
+ {
+  "en": "Martial Arts Tourney      Request desk text",
+  "max": 194
+ },
+ {
+  "en": "This one's all about strength. Strength! Rombino can take it, so go all out!!",
+  "max": 216
+ },
+ {
+  "en": "Mistress's Invitation",
+  "max": 24
+ },
+ {
+  "en": "On the top floor of Heerdahl, Mistress challenged you to a game played with coins, a glass and water.",
+  "max": 202
+ },
+ {
+  "en": "Mistress's Invitation      Request desk text",
+  "max": 194
+ },
+ {
+  "en": "It's a pure battle of wits. No cheating at all. So do your best. ...And don't be swayed by any strange temptations, all right? By the way, they say this game has a sure-fire way to win...",
+  "max": 216
+ },
+ {
+  "en": "Skunk Girl's Job Hunt",
+  "max": 24
+ },
+ {
+  "en": "Analis the Skunk Girl is having trouble finding work. Getting back the bell stolen from the priest of Madrie Church would apparently land Analis a job, but...",
+  "max": 202
+ },
+ {
+  "en": "Skunk Girl's Job Hunt      Request desk text",
+  "max": 194
+ },
+ {
+  "en": "Follow Analis's lead, then search the nearby walls at the end and you should find a hidden door. The thief is inside, so do your best to get the bell back.",
+  "max": 216
+ },
+ {
+  "en": "Icy Night Counting Snow",
+  "max": 24
+ },
+ {
+  "en": "Lost in a blizzard, you were rescued by a strange woman. Who on earth is she...?",
+  "max": 202
+ },
+ {
+  "en": "Icy Night Counting Snow - request office text",
+  "max": 194
+ },
+ {
+  "en": "Hmm. Perhaps that was a spirit called a \"Snow Woman,\" from the legends of the lands far to the east. If she's on your mind, why not visit her now and then?",
+  "max": 216
+ },
+ {
+  "en": "Your Hand at First Frost",
+  "max": 24
+ },
+ {
+  "en": "You accepted Miyuki's feelings, but then Miyuki was carried off by someone from Glacier Castle...",
+  "max": 202
+ },
+ {
+  "en": "Your Hand at First Frost - request office text",
+  "max": 194
+ },
+ {
+  "en": "If your feelings are mutual, let's go save her! But I hear this General Winter is awfully stubborn. So show him something like his wife's portrait to soften him up. It should be hidden behind the castle.",
+  "max": 216
+ },
+ {
+  "en": "Goblin Prince Coronation",
+  "max": 24
+ },
+ {
+  "en": "You were asked to find the bungee gear needed for the Goblin Prince's coronation: a \"bungee rope\" and a \"Handcrafted Zabutoon.\"",
+  "max": 202
+ },
+ {
+  "en": "Goblin Prince Coronation - request office text",
+  "max": 194
+ },
+ {
+  "en": "This one's a real hassle. Well, if you keep going around talking to everyone, I think it'll sort itself out eventually, so be patient and keep at it.",
+  "max": 216
+ },
+ {
+  "en": "Pyroglyph Research",
+  "max": 24
+ },
+ {
+  "en": "A Pyroglyph researcher in Baroque Fort asked you to help with the research.",
+  "max": 202
+ },
+ {
+  "en": "Pyroglyph Research - request office text",
+  "max": 194
+ },
+ {
+  "en": "Ancient script research, is it! Why not try answering [┌┐┘└├┬┤] for the first, [┴┏┓┛┣┗┳] for the second, [┫┻┠┯┨┷┿] for the third, and [┝┰┥┸╂] for the last!?",
+  "max": 216
+ },
+ {
+  "en": "Report to the Ancestors",
+  "max": 24
+ },
+ {
+  "en": "Once the coronation was over, you were asked to take Goblin Prince Montana to the royal tomb of the ogres and goblins in the Churos Highlands.",
+  "max": 202
+ },
+ {
+  "en": "Report to the Ancestors - request office text",
+  "max": 194
+ },
+ {
+  "en": "That would be the first floor on the north side of the Churos Highlands. You can't go on without finding a hidden door, so search hard for it.",
+  "max": 216
+ },
+ {
+  "en": "Enrolling at Rubenburg",
+  "max": 24
+ },
+ {
+  "en": "You finished enrolling at Rubenburg. Will you actually manage to graduate?",
+  "max": 202
+ },
+ {
+  "en": "Enrolling at Rubenburg - request office text",
+  "max": 194
+ },
+ {
+  "en": "The school sets lots of tough exams, so no slacking off, all right? Still, if you walk every corner of the school building, I think you'll pick up hints to the questions, so give it your best.",
+  "max": 216
+ },
+ {
+  "en": "In the Magic Research Wing, you can even fight Professor Nambino! Might something good happen if you win?",
+  "max": 202
+ },
+ {
+  "en": "Magical Party - request office text",
+  "max": 194
+ },
+ {
+  "en": "As befits a school that teaches spells, only spells work on Professor Nambino. It should be a good test of strength for Mages and other spellcasters.",
+  "max": 216
+ },
+ {
+  "en": "Can't... Hold... It!",
+  "max": 24
+ },
+ {
+  "en": "Mirco's in a pinch!",
+  "max": 202
+ },
+ {
+  "en": "Can't... Hold... It! - request office text",
+  "max": 194
+ },
+ {
+  "en": "I'll lend you an Angel's Window. Then again, I don't have to lend it... What do you think, hmm?",
+  "max": 216
+ },
+ {
+  "en": "Stop the Forbidden Expt.",
+  "max": 24
+ },
+ {
+  "en": "According to Soara, the academy's Board Chair is about to dabble in a forbidden arcane experiment. You were asked to help uncover the truth.",
+  "max": 202
+ },
+ {
+  "en": "Stop the Forbidden Expt. - request office text",
+  "max": 194
+ },
+ {
+  "en": "This calls for a head-on charge, plain and simple. Storm in through the Principal's Office and demand answers.",
+  "max": 216
+ },
+ {
+  "en": "Fire Sage's Irritation",
+  "max": 24
+ },
+ {
+  "en": "Radrecht, the Fire Sage, was wilting in the heat of the Scorching Castle. The spirits seem to be raising a ruckus underground...",
+  "max": 202
+ },
+ {
+  "en": "Fire Sage's Irritation - request office text",
+  "max": 194
+ },
+ {
+  "en": "I've heard of the Spirit Tournament: the fire kin gather to vie for first place. Well, if they've lost their senses and are running riot, it's easiest to make them all promise to enter, then handle them all at once.",
+  "max": 216
+ },
+ {
+  "en": "Hot Stuff, Shirinmorin",
+  "max": 24
+ },
+ {
+  "en": "Radrecht, back in good spirits, entrusted you with a love letter addressed to Shirinmorin.",
+  "max": 202
+ },
+ {
+  "en": "Hot Stuff, Shirinmorin - request office text",
+  "max": 194
+ },
+ {
+  "en": "What, Radrecht is sweet on Shirinmorin!? Well, well, my word. So even the Four Sages fall in love. If you've been asked to deliver it, there's nothing for it but to deliver it.",
+  "max": 216
+ },
+ {
+  "en": "Regards to the Unicorn",
+  "max": 24
+ },
+ {
+  "en": "At the entrance to the Churos Highlands, an adventurer with a past entrusted you with returning the Great Tree Staff to the Unicorn, along with her thanks.",
+  "max": 202
+ },
+ {
+  "en": "Regards to the Unicorn - request office text",
+  "max": 194
+ },
+ {
+  "en": "To reach the Unicorn, you'll probably have to go with Innocents only -- that is, characters who have never changed class.",
+  "max": 216
+ },
+ {
+  "en": "The Land Reborn",
+  "max": 24
+ },
+ {
+  "en": "The Librarian led you to a land newly reborn: the New Land, Urnas Rade. What can you do for her?",
+  "max": 202
+ },
+ {
+  "en": "The Land Reborn - request office text",
+  "max": 194
+ },
+ {
+  "en": "You'll need the help of many people: Princess Leafa, King Montana, the Pyroglyph Researcher... Carve the true Earth Mother's name into Reiblair, then bring that one the Yuan Wine the ogres and goblins hold.",
+  "max": 216
+ },
+ {
+  "en": "Kine's True Disciple",
+  "max": 24
+ },
+ {
+  "en": "Kine's True Disciple - event text",
+  "max": 202
+ },
+ {
+  "en": "Kine's True Disciple - request office text",
+  "max": 194
+ },
+ {
+  "en": "Kine's True Disciple - hint text",
+  "max": 216
+ },
+ {
+  "en": "Puppet",
+  "max": 6
+ },
+ {
+  "en": "Dream World",
+  "max": 18
+ },
+ {
+  "en": "Gray",
+  "max": 14
+ },
+ {
+  "en": "Church Cemetery",
+  "max": 16
+ },
+ {
+  "en": "Category",
+  "max": 32
+ },
+ {
+  "en": "Type",
+  "max": 24
+ },
+ {
+  "en": "Description",
+  "max": 325
+ },
+ {
+  "en": "Items",
+  "max": 98
+ },
+ {
+  "en": "Use",
+  "max": 98
+ },
+ {
+  "en": "Give",
+  "max": 98
+ },
+ {
+  "en": "Discard",
+  "max": 98
+ },
+ {
+  "en": "Appraise",
+  "max": 98
+ }
+]

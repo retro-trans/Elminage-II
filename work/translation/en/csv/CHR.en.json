@@ -1,0 +1,3187 @@
+[
+ {
+  "id": "CHR.CSV:2:27",
+  "en": "Max",
+  "max": 6,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:2:28",
+  "en": "Step",
+  "max": 18,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:2:29",
+  "en": "Note",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:4:2",
+  "en": "Settings",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:4:21",
+  "en": "Enemy 1",
+  "max": 14,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:4:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:5:3",
+  "en": "Name",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:5:4",
+  "en": "Hum Fighter",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:5",
+  "en": "Hum Fighter",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:6",
+  "en": "Elf Mage",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:7",
+  "en": "Gnm Priest",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:8",
+  "en": "Hobbit Thief",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:9",
+  "en": "Gnm Alchemist",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:10",
+  "en": "Fairy Servant",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:11",
+  "en": "Devilish Bishop",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:12",
+  "en": "Elf Ranger",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:13",
+  "en": "Wrb Gladiator",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:14",
+  "en": "Hobbit Bard",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:15",
+  "en": "HumKannagi",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:16",
+  "en": "Devilish Summoner",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:17",
+  "en": "Elf Valkyrie",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:18",
+  "en": "Dragonewt Lord",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:19",
+  "en": "DwfSamurai",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:20",
+  "en": "Hobbit Ninja",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:5:25",
+  "en": "Double-byte text",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:5:28",
+  "en": "Double-byte text",
+  "max": 18,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:5:29",
+  "en": "May include kanji.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:6:3",
+  "en": "Nickname",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:6:4",
+  "en": "Fighter",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:5",
+  "en": "Fighter",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:6",
+  "en": "Mage",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:7",
+  "en": "Priest",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:8",
+  "en": "Thief",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:9",
+  "en": "Alchemist",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:10",
+  "en": "Maid",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:11",
+  "en": "Bishop",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:12",
+  "en": "Ranger",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:13",
+  "en": "Gladiator",
+  "max": 16,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:14",
+  "en": "Roma",
+  "max": 14,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:15",
+  "en": "Kannagi",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:16",
+  "en": "Summoner",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:17",
+  "en": "Valkyrie",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:18",
+  "en": "Lord",
+  "max": 18,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:19",
+  "en": "Samurai",
+  "max": 10,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:20",
+  "en": "Ninja",
+  "max": 12,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:6:25",
+  "en": "Double-byte text",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:6:28",
+  "en": "Double-byte text",
+  "max": 18,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:6:29",
+  "en": "Alphanumerics, hiragana, katakana and some symbols only. No kanji.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:7:3",
+  "en": "Icon",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:7:25",
+  "en": "Number",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:8:3",
+  "en": "Level",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:8:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:9:3",
+  "en": "Race",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:9:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:10:3",
+  "en": "Sex",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:10:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:11:3",
+  "en": "Age",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:11:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:12:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:13:3",
+  "en": "Class",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:13:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:14:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:15:2",
+  "en": "Status",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:15:3",
+  "en": "Current HP",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:15:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:16:3",
+  "en": "Max HP",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:16:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:17:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:18:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:19:3",
+  "en": "Intellect",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:19:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:20:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:21:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:22:3",
+  "en": "Agility",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:22:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:23:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:24:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:25:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:26:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:27:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:28:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:29:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:30:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:31:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:32:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:33:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:34:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:35:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:36:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:37:3",
+  "en": "Experience",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:37:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:37:29",
+  "en": "2^32-1",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:38:3",
+  "en": "Money",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:38:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:38:29",
+  "en": "2^32-1",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:39:2",
+  "en": "Status Ailments",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:39:3",
+  "en": "Sleep",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:39:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:40:3",
+  "en": "Poison",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:40:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:41:3",
+  "en": "Paralysis",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:41:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:42:3",
+  "en": "Silence",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:42:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:43:3",
+  "en": "Confusion",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:43:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:44:3",
+  "en": "Charm",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:44:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:45:3",
+  "en": "Petrification",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:45:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:46:3",
+  "en": "Curse",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:46:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:47:3",
+  "en": "Death",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:47:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:48:3",
+  "en": "Ash",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:48:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:49:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:50:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:51:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:52:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:53:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:54:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:55:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:179:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:180:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:181:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:182:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:183:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:184:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:185:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:186:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:187:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:188:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:189:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:190:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:191:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:192:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:193:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:194:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:195:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:196:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:197:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:198:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:199:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:200:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:201:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:202:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:203:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:204:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:205:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:206:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:207:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:208:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:209:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:210:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:211:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:212:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:213:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:214:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:215:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:216:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:217:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:218:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:219:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:220:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:221:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:222:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:223:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:224:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:225:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:226:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:227:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:228:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:229:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:230:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:231:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:232:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:233:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:234:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:235:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:236:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:237:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:238:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:239:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:240:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:241:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:242:3",
+  "en": "High Master/Summa Ability 1",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:242:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:243:3",
+  "en": "High Master/Summa Ability 1",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:243:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:244:3",
+  "en": "High Master/Summa Ability 1",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:244:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:245:3",
+  "en": "High Master/Summa Ability 4",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:245:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:246:2",
+  "en": "SpellRes",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:246:3",
+  "en": "Mage",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:246:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:246:29",
+  "en": "Unit (%). Base value is fixed at 100%; calculated from equipment, etc.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:247:3",
+  "en": "Priest",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:247:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:248:3",
+  "en": "Alchem",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:248:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:249:3",
+  "en": "Summon",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:249:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:250:2",
+  "en": "Innate Skills (per monster, etc.)",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:250:3",
+  "en": "Ailment Recovery Rate",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:250:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:250:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:251:3",
+  "en": "Turn Regen",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:251:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:252:3",
+  "en": "Breath",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:252:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:253:3",
+  "en": "Weapon Seal",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:253:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:253:29",
+  "en": "Enemy-only attribute.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:254:3",
+  "en": "Armor Seal",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:254:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:254:29",
+  "en": "Enemy-only attribute.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:255:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:255:29",
+  "en": "Can be granted by magic (tracked separately).",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:256:3",
+  "en": "Run",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:256:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:257:3",
+  "en": "Reinforcements",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:257:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:258:3",
+  "en": "Nullify Physical",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:258:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:259:3",
+  "en": "Absorb Physical",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:259:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:260:3",
+  "en": "Reflect Physical",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:260:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:261:2",
+  "en": "Slaying",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:261:3",
+  "en": "Arcane",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:261:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:261:29",
+  "en": "Stacked up from class, equipment, etc.",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:262:3",
+  "en": "Undead",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:262:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:263:3",
+  "en": "Spirit",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:263:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:264:3",
+  "en": "Insect",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:264:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:265:3",
+  "en": "Animal",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:265:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:266:3",
+  "en": "Mythic",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:266:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:267:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:268:3",
+  "en": "The Devil",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:268:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:269:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:270:3",
+  "en": "Fighter",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:270:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:271:3",
+  "en": "Mage",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:271:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:272:3",
+  "en": "Priest",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:272:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:273:3",
+  "en": "Thief",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:273:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:274:3",
+  "en": "Beastkin",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:274:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:275:3",
+  "en": "Giant",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:275:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:276:3",
+  "en": "Godshade",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:276:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:277:2",
+  "en": "Elem Atk",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:277:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:277:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:278:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:278:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:279:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:279:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:280:3",
+  "en": "Holy",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:280:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:280:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:281:3",
+  "en": "Dark",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:281:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:281:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:282:2",
+  "en": "Elem Def",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:282:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:282:29",
+  "en": "Unit (%)\n100 = Nullify\n200 = Absorb\n300 = Reflect",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:283:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:284:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:285:3",
+  "en": "Holy",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:285:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:286:3",
+  "en": "Dark",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:286:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:287:2",
+  "en": "Inflict",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:287:3",
+  "en": "Sleep",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:287:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:287:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:288:3",
+  "en": "Poison",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:288:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:288:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:289:3",
+  "en": "Paralysis",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:289:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:289:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:290:3",
+  "en": "Silence",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:290:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:290:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:291:3",
+  "en": "Confusion",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:291:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:291:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:292:3",
+  "en": "Charm",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:292:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:292:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:293:3",
+  "en": "Petrification",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:293:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:293:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:294:3",
+  "en": "Decap",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:294:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:294:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:295:3",
+  "en": "Drain",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:295:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:295:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:296:2",
+  "en": "Resist",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:296:3",
+  "en": "Sleep",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:296:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:296:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:297:3",
+  "en": "Poison",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:297:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:297:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:298:3",
+  "en": "Paralysis",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:298:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:298:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:299:3",
+  "en": "Silence",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:299:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:299:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:300:3",
+  "en": "Confusion",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:300:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:300:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:301:3",
+  "en": "Charm",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:301:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:301:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:302:3",
+  "en": "Petrification",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:302:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:302:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:303:3",
+  "en": "Decap",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:303:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:303:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:304:3",
+  "en": "Drain",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:304:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:304:29",
+  "en": "Unit (%)",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:305:2",
+  "en": "Equipment Settings",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:305:3",
+  "en": "Main",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:305:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:305:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:306:3",
+  "en": "Sub",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:306:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:306:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:307:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:307:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:308:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:308:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:309:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:309:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:310:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:310:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:311:3",
+  "en": "Accessory 1",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:311:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:311:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:312:3",
+  "en": "Accessory 2",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:312:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:312:29",
+  "en": "Value is the number of an item in Regular Inventory.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:313:2",
+  "en": "Curse Trigger Flag",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:313:3",
+  "en": "Main",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:313:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:313:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:314:3",
+  "en": "Sub",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:314:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:314:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:315:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:315:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:316:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:316:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:317:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:317:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:318:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:318:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:319:3",
+  "en": "Accessory 1",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:319:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:319:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:320:3",
+  "en": "Accessory 2",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:320:25",
+  "en": "Flag",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:320:29",
+  "en": "The Curse status ailment is calculated from this.\nAdded 2007/08/01",
+  "max": 221,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:321:2",
+  "en": "Regular Inventory",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:321:3",
+  "en": "Item 1",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:321:25",
+  "en": "One Item sheet entry",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:322:3",
+  "en": "Item 2",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:323:3",
+  "en": "Item 3",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:324:3",
+  "en": "Item 4",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:325:3",
+  "en": "Item 5",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:326:3",
+  "en": "Item 6",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:327:3",
+  "en": "Item 7",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:328:3",
+  "en": "Item 8",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:329:3",
+  "en": "Item 9",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:330:3",
+  "en": "Item 10",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:331:2",
+  "en": "Servant's Bag",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:331:3",
+  "en": "Salve",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:331:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:332:3",
+  "en": "Full Heal Potion",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:332:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:333:3",
+  "en": "Wake-Up Potion",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:333:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:334:3",
+  "en": "Antidote",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:334:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:335:3",
+  "en": "Paralysis Cure",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:335:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:336:3",
+  "en": "Nightdew Lozenge",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:336:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:337:3",
+  "en": "Calming Herb",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:337:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:338:3",
+  "en": "First Love Gem",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:338:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:339:3",
+  "en": "Stonemelt Water",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:339:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:340:3",
+  "en": "Revival Elixir",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:340:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:341:2",
+  "en": "Tarot Cards",
+  "max": 37,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:341:3",
+  "en": "The Fool",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:341:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:342:3",
+  "en": "Mage",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:342:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:343:3",
+  "en": "The High Priestess",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:343:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:344:3",
+  "en": "The Empress",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:344:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:345:3",
+  "en": "The Emperor",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:345:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:346:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:347:3",
+  "en": "The Lovers",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:347:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:348:3",
+  "en": "The Chariot",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:348:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:349:3",
+  "en": "Justice",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:349:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:350:3",
+  "en": "The Hermit",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:350:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:351:3",
+  "en": "Wheel of Fortune",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:351:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:352:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:353:3",
+  "en": "The Hanged Man",
+  "max": 27,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:353:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:354:3",
+  "en": "Death",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:354:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:355:3",
+  "en": "Temperance",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:355:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:356:3",
+  "en": "The Devil",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:356:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:357:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:358:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:359:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:360:3",
+  "en": "The Sun",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:360:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:361:3",
+  "en": "Judgement",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:361:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ },
+ {
+  "id": "CHR.CSV:362:3",
+  "en": "The World",
+  "max": 27,
+  "used": true,
+  "status": "elm3"
+ },
+ {
+  "id": "CHR.CSV:362:25",
+  "en": "Numeric",
+  "max": 32,
+  "used": true,
+  "status": "new"
+ }
+]

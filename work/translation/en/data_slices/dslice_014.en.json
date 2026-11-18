@@ -1,0 +1,401 @@
+[
+ {
+  "en": "Miyuki",
+  "max": 6,
+  "note": "Nickname of [JP] (glossary Miyuki)."
+ },
+ {
+  "en": "General Winter",
+  "max": 14,
+  "note": "Glossary [JP]."
+ },
+ {
+  "en": "Captain Wanelly",
+  "max": 18,
+  "note": "Glossary title form."
+ },
+ {
+  "en": "Vice Principal Kathleen",
+  "max": 24,
+  "note": "Glossary title form (23/24)."
+ },
+ {
+  "en": "Prof. Scheherazade",
+  "max": 20,
+  "note": "Nickname = [JP]; 'Professor Scheherazade' is 22 > 20, so 'Prof.' (used for all five teacher nicknames)."
+ },
+ {
+  "en": "Prof. McMahon",
+  "max": 18,
+  "note": "Nickname says [JP] (not [JP] 'Head of Year'); 'Prof.' for consistency with the other teacher nicknames."
+ },
+ {
+  "en": "Prof. Kamikaze",
+  "max": 20,
+  "note": "Nickname says [JP]; 'Prof.' for consistency."
+ },
+ {
+  "en": "Principal",
+  "max": 10
+ },
+ {
+  "en": "Bd. Chair",
+  "max": 10,
+  "note": "Glossary 'Board Chair' is 11 > 10; abbreviated."
+ },
+ {
+  "en": "D. Tentacle",
+  "max": 12,
+  "note": "[JP] = Death Tentacle (script slice 058); 14 > 12, abbreviated."
+ },
+ {
+  "en": "Montana",
+  "max": 16,
+  "note": "Goblin Prince's nickname; glossary."
+ },
+ {
+  "en": "Bohinyob",
+  "max": 16,
+  "note": "Undead Ogre's nickname; glossary."
+ },
+ {
+  "en": "Ubogenya",
+  "max": 18,
+  "note": "Undead Goblin's nickname; glossary."
+ },
+ {
+  "en": "Babis",
+  "max": 18,
+  "note": "Undead Kobold's nickname; glossary."
+ },
+ {
+  "en": "Dragon Centaur V",
+  "max": 24,
+  "note": "Kana nickname drops [JP] ('Dragon Centaur 5'); script slice 017 uses 'Dragon Centaur V'."
+ },
+ {
+  "en": "Emperor Harold",
+  "max": 16,
+  "note": "[JP]; Harold not in glossary (new name)."
+ },
+ {
+  "en": "Abyssal Apasha",
+  "max": 18,
+  "note": "[JP]; Apasha per glossary (term). 'Apasha the Abyss' (16) would also fit."
+ },
+ {
+  "en": "Lord Volms",
+  "max": 16,
+  "note": "Glossary."
+ },
+ {
+  "en": "Prof. Harmoni",
+  "max": 16,
+  "note": "'Professor Harmoni' is 17 > 16."
+ },
+ {
+  "en": "Prof. Warmoni",
+  "max": 16,
+  "note": "'Professor Warmoni' is 17 > 16."
+ },
+ {
+  "en": "Mirco",
+  "max": 16,
+  "note": "Shared with MON_TEXT name and PLAYER.CSV."
+ },
+ {
+  "en": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11",
+  "max": 36,
+  "note": "debug? Column-3 filler shared by every MON_TEXT row; full-width digits converted to ASCII, line breaks kept."
+ },
+ {
+  "en": "Mere clay set in motion by high-level magic. Fiercely loyal to its maker, it is said never to disobey. For that reason, frail mages sometimes keep one at their side as a bodyguard.",
+  "max": 256,
+  "note": "Golem."
+ },
+ {
+  "en": "A tycoon of old built a piggy bank that dodges danger on its own so no one could steal the fortune: the Goggle Eye. But who could have guessed it would flee from its owner too? The owner seems long gone, so let's gratefully claim what's inside.",
+  "max": 256,
+  "note": "Goggle Eye. Tycoon's gender not stated; written around it."
+ },
+ {
+  "en": "Living armor. It poses as an ornament, then suddenly attacks. It may be empty inside, but it carries a full set of knight's gear, so don't let your guard down.",
+  "max": 256,
+  "note": "Living Statue."
+ },
+ {
+  "en": "The corpses of those who collapsed and died in the labyrinth, or of unlucky souls killed by monsters and left to rot, risen and walking. Take care not to join their ranks.",
+  "max": 256,
+  "note": "Zombie."
+ },
+ {
+  "en": "A demon that feeds on carrion. No wonder they love to settle in labyrinths: they are littered with dead adventurers. Then again, perhaps one day you yourselves will give in to hunger and become Ghouls.",
+  "max": 256,
+  "note": "Ghoul."
+ },
+ {
+  "en": "The corpse of a samurai carrying the famed blade Hundred Bamboo Edge. Some attack him to get the sword, but many are said to have been cut down in turn. Is that power truly his own, or the sword's?",
+  "max": 256,
+  "note": "[JP] (fallen samurai). [JP] = Hundred Bamboo Edge (review_notes convention). Source uses [JP] for the corpse."
+ },
+ {
+  "en": "A Bass Dragon turned zombie. Mid-level adventurers sometimes fish in dungeons as one way to find food. But reeling in a Bass Zombi is a letdown. Would a revival spell bring its fish meat back to life?",
+  "max": 256,
+  "note": "Bass Zombi (filled Elm3 spelling, MON_TEXT:30:2)."
+ },
+ {
+  "en": "Langsuir",
+  "max": 24,
+  "note": "Matches the filled description (row_name)."
+ },
+ {
+  "en": "Giants with an element of their own are close to spirits, and on death they rarely leave a corpse, returning straight to nature. But some giants are far from spirits, and such louts end up as zombies. If you meet one, beat it to a pulp to lay it to rest.",
+  "max": 256,
+  "note": "Giant Zombie. [JP] = pummel it as a memorial rite."
+ },
+ {
+  "en": "A skeleton warrior bearing a great scythe. If your front row's defense is thin, it will easily take their heads. If you can't handle it, Dispel is an option too.",
+  "max": 256,
+  "note": "Damned ([JP])."
+ },
+ {
+  "en": "Curse or obsession? It is an undead dragon, a creature called the mightiest on earth. Even its breath has changed and its form is long gone, yet you still sense its majesty. But you are alive. Dragon or not, you can't let the dead reap your lives. Fight!",
+  "max": 256,
+  "note": "Dragon Zombie. [JP] read as the dragon's form."
+ },
+ {
+  "en": "A child of human and vampire blood. Most die soon after birth, so adult Dhampirs are very rare. Perhaps due to their vampire blood, they can sense vampires. Many are persecuted for their mixed blood, and their natures vary widely.",
+  "max": 256,
+  "note": "Dhampir."
+ },
+ {
+  "en": "A spirit dwelling in a tree. It takes a womanly form, and it is said those pure of heart can befriend it. It usually lives quietly in the forest, but if anyone ravages the forest, it binds them with its vines.",
+  "max": 256,
+  "note": "Dryad (glossary)."
+ },
+ {
+  "en": "Trees that live for many years merge with spirits and gain a will of their own. Treants are one such kind. Usually silent, they sometimes speak to Elves or Gnomes when a great calamity or change is coming.",
+  "max": 256,
+  "note": "Treant (new monster name)."
+ },
+ {
+  "en": "Surly and aggressive, they're often taken for fairies gone astray, but far from it. They have merely come closer to a fairy's true nature than ordinary ones. To fulfill their duty as a mana-circulation system, they attack to release the power within you.",
+  "max": 256,
+  "note": "Ark Fairy ([JP]; new name, not in text)."
+ },
+ {
+  "en": "A fire djinn that freely commands all flame. The air around it is always searing; an Ifrit's mere arrival sets the area ablaze. Unskilled summoners who make a pact beyond their means are often engulfed in flames and burned to ash the moment they call it.",
+  "max": 256,
+  "note": "Ifrit (glossary). [JP] = djinn."
+ },
+ {
+  "en": "Its hard shell can't be cracked even with a hammer, and its sharp claws tear flesh with ease. It watches for an opening, then pounces, so if you don't judge your distance carefully, you'll be sorry.",
+  "max": 256,
+  "note": "Giant Beetle."
+ },
+ {
+  "en": "A mosquito with a mouth as sharp as a pike, the spear soldiers carry. It's only a mosquito, so it's no great foe, but lose enough blood and you'll still die. Be careful when a swarm surrounds you.",
+  "max": 256,
+  "note": "Pike Mosquito."
+ },
+ {
+  "en": "It turns the floor into quicksand to drag adventurers down to itself. With their formation broken, adventurers may be wiped out without being able to do a thing. If you run into one, take it out first.",
+  "max": 256,
+  "note": "Antlion."
+ },
+ {
+  "en": "It gapes its crooked-toothed mouth like an idiot. Its supple tentacles can wrap around a foe in an instant, crush every bone in its body and swallow it whole, head first. Even if you're lucky enough to dodge, your gear will likely be destroyed.",
+  "max": 256,
+  "note": "Carrion Crawler."
+ },
+ {
+  "en": "A scorpion monster found mainly in deserts. When an already dangerous creature mutates into a monster, its danger is beyond measure. When the venomous tail comes flying, the front row should brace their shields.",
+  "max": 256,
+  "note": "Desert Murderer."
+ },
+ {
+  "en": "They live in flocks in dark, cramped places, always hunting for prey by ultrasound. Once they find it, they fly straight in and go for the base of the neck with fang and claw. They prefer blood to flesh, hence the name 'Vampire'.",
+  "max": 256,
+  "note": "Vampire Bat."
+ },
+ {
+  "en": "Rats that fed on the flesh and blood of dead adventurers. More aggressive than ordinary rats and a size bigger. They know how adventurers taste, so if their cute looks lure you closer, they'll bite without mercy.",
+  "max": 256,
+  "note": "Giant Rat."
+ },
+ {
+  "en": "Its warty skin is coated in poison that leaves anyone who touches it Poisoned. It's surprisingly strong, too: if its kick lands in your gut, you'll double over. If you can remove the poisonous parts, its meat is edible.",
+  "max": 256,
+  "note": "Giant Frog. [JP] = Poison status (filled [JP] = Poison)."
+ },
+ {
+  "en": "A ray-like animal that drifts and flutters through the air. It is surprisingly quick, and its habit of attacking twice at once is a nuisance. Then again, that's all it is.",
+  "max": 256,
+  "note": "Flying Stingray."
+ },
+ {
+  "en": "A monster known for its burly body and long, sharp horn. As a rule it doesn't attack other creatures, but once it's worked up, that's another story. With a burst of speed and a piercing charge, it kills foes in the blink of an eye.",
+  "max": 256,
+  "note": "Rhinosaurus ([JP]; new name, not in text)."
+ },
+ {
+  "en": "A mountain bear. It lives quietly far from towns, and leaves to avoid a fight when it hears adventurers' footsteps. But when food runs short, hunger drives it down to the foothills. Most sightings are of these hungry bears, hence its fierce reputation.",
+  "max": 256,
+  "note": "Grizzly."
+ },
+ {
+  "en": "The Ripper Mizuchi is the bane of fishermen and sailors. Its whole body is covered in sword-sharp blades that shred the nets they set. But if you meet one, worry about your own skin, not your tools of the trade.",
+  "max": 256,
+  "note": "Mizuchi (glossary). [JP] = 'Ripper Mizuchi' epithet."
+ },
+ {
+  "en": "A huge creature, part man and part ape, met on snowy mountains. It's often seen, but no one has settled whether it is an animal, a near-human or a spirit. In a world where spirits and spells are commonplace, half-baked mysteries like it tend to be ignored.",
+  "max": 256,
+  "note": "Yeti."
+ },
+ {
+  "en": "It swallows prey, water and all, with its huge mouth. It lives in dark, cold places and rises to the surface only to feed. It is so ferocious it bears the name 'Dragon'. Then again, real dragons are rather intelligent, so they may find that a nuisance.",
+  "max": 256,
+  "note": "Bass Dragon."
+ },
+ {
+  "en": "Also called the Silver Hunter. It races across snowfields like a gale, cleverly drives its prey into its hunting ground, pins it down and kills it. It usually acts alone, but in packs they can even bring down foes above their level.",
+  "max": 256,
+  "note": "Hunter Wolf."
+ },
+ {
+  "en": "A sheep that has gained magical power. It has a strong spell barrier of its own and tries to lower its foes' spell resistance. When it shows up with mages or monsters that cast evasion-raising spells, it becomes a real pain.",
+  "max": 256,
+  "note": "Black Sheep."
+ },
+ {
+  "en": "The slimy mucus covering its body makes weapons slip off. It stores foul, pitch-black ink and spits it at foes when in danger. The smell is hard to wash out and saps morale on its own, but it is actually delicious: one of the Three Great Delicacies.",
+  "max": 256,
+  "note": "Tentacles (glossary). [JP] capitalized as a set phrase (see Ogre Crab, row 97)."
+ },
+ {
+  "en": "It cuts foes in two, bone and all, with its huge pincers and spits foamy digestive juice. Despite the name, it has nothing to do with Ogres, except that an odd Ogre puts one in a stew. Its tomalley is one of Hestrio's Three Great Delicacies. Remember that.",
+  "max": 256,
+  "note": "Ogre Crab. [JP] = crab tomalley."
+ },
+ {
+  "en": "A giant flying whale. It feeds by inhaling 'something' in the air, with suction so strong that, if unlucky, even an adult gets sucked in. Its size will knock you off your feet, but there is said to be a giant bird, the Wargle, that preys on Aerividers.",
+  "max": 256,
+  "note": "Aerivider per glossary; the filled Elm3 name in MON_TEXT:100:2 is 'Airy Vider' (conflict, see report). [JP] = Wargle (new name)."
+ },
+ {
+  "en": "It moves among the trees like the wind, too swift to ever be seen. It toys with adventurers with shifting attacks that could come from any side. A front row that senses trouble and turns around may well find the back row soaked in blood.",
+  "max": 256,
+  "note": "Ark Renard ([JP]; new name, not in text)."
+ },
+ {
+  "en": "You walk up thinking it's a bat, but it's a giant eyeball... that's an Eye Wing. Perhaps because of its huge eye, it tends to shun bright, dazzling places. It's no great threat, but its poison spells are a nuisance. Watch out when they come in groups.",
+  "max": 256,
+  "note": "Eye Wing."
+ },
+ {
+  "en": "It takes the form of a winged serpent, and in some lands is revered as a messenger of the gods, or as a god itself. It swoops down from the sky without warning, so let your guard down and it will catch you napping.",
+  "max": 256,
+  "note": "Coatl. [JP] = be caught off guard."
+ },
+ {
+  "en": "A monster fused from several animals. Each of its three heads attacks in its own way: the dragon with breath, the ox with spells, the lion with matchless fangs. Beating a Chimera is what separates novices from intermediate adventurers.",
+  "max": 256,
+  "note": "Chimera. [JP] = ox (source, not goat). Source typo [JP] read as [JP]."
+ },
+ {
+  "en": "A monster that is part old man, part magical beast. It understands human speech and is very clever. At times it speaks kindly to weary adventurers, coaxing them to give up. Facing a Manticore may test your resolve more than your strength.",
+  "max": 256,
+  "note": "Manticore. [JP] rendered 'part old man, part magical beast'."
+ },
+ {
+  "en": "A sacred bird whose lifeblood is said to grant eternal life. Born in raging flames, it carries flame within, so it is hard to approach. Come near it carelessly for its blood, and that rash act will be atoned for in purging fire.",
+  "max": 256,
+  "note": "Phoenix (glossary)."
+ },
+ {
+  "en": "A fearsome beast that would easily spawn a legend or two if it ever came to the surface. The blows of its giant body are all it has, but the simpler the attack, the less you can take it lightly.",
+  "max": 256,
+  "note": "Behemoth."
+ },
+ {
+  "en": "Queen of the Phoenixes, at the summit of the fire spirits. The flames the Phoenix Queen wears burn far hotter than a Phoenix's; they say that when she is angry, even Phoenixes are burned to death.",
+  "max": 256,
+  "note": "Phoenix Queen (glossary, female). Source typo [JP] read as [JP]."
+ },
+ {
+  "en": "A spirit of the dead, so to speak. It is a mere soul, so there's no need to mind it. But if you do mean to banish it, most weapons pass right through, so bring a Priest who can strike spirits, or a suitable weapon.",
+  "max": 256,
+  "note": "Ectoplasm. [JP] = Priest (class)."
+ },
+ {
+  "en": "A malicious, dangerous soul. It trails the adventurer it has marked, waiting for a chance to drag them into the afterlife. It's hard to hit with weapons, so if it looks dangerous, rely on Dispel.",
+  "max": 256,
+  "note": "Phantom."
+ },
+ {
+  "en": "The ghost of a female adventurer who lost her companions on a journey and died alone. If you sense someone in the labyrinth and call out, and the same words come back, it's probably an Echo. Head toward the voice, and you'll become her new companion.",
+  "max": 256,
+  "note": "Echo (glossary). [JP] = join her (echoes 'lost her companions')."
+ },
+ {
+  "en": "She who heralds death. People think 'the Banshee brings death', but Banshees only appear where death is. They shed every tear to comfort fading lives. Classed as ghosts, they are really closer to spirits. Pray their tears are not meant for you.",
+  "max": 256,
+  "note": "Banshee."
+ },
+ {
+  "en": "A ship that lost its master to storms or pirates and became undead after long years adrift. It takes in shipwreck victims and attacks merchant ships to gain crew. An old charm against it was to 'greet the sea', though now and then an Echo answered.",
+  "max": 256,
+  "note": "Ghost Ship. Final clause ([JP], 'which was awkward') compressed into 'though now and then an Echo answered' to fit 256."
+ },
+ {
+  "en": "A demon's arm sprouting from the ground. No one knows what lies at the other end.",
+  "max": 256,
+  "note": "Crawling Claw."
+ },
+ {
+  "en": "A cruel little demon. Alone it is a coward, but in a group it seems to grow bold and turns vicious. Watch out when a group of them attacks.",
+  "max": 256,
+  "note": "Demon Imp."
+ },
+ {
+  "en": "One who walks the night. If you sense strange footsteps behind you in the dark, it may be a Night Stalker. Give it an opening, and in an instant you'll be dragged into the darkness and become Night Stalkers yourselves.",
+  "max": 256,
+  "note": "Night Stalker."
+ },
+ {
+  "en": "A crafty, learned demon. It chants spells in a hoarse voice. Leave it alone and it becomes a nuisance, so let's ask Grandpa to retire early.",
+  "max": 256,
+  "note": "Nagpa."
+ },
+ {
+  "en": "A demon in a pitiful state. Why it suffers so is unknown, but it is said it was reduced to this form after losing a power struggle among the Demon Dukes. Bound and unable to speak, it can still freeze your heart with muffled roars and a piercing glare.",
+  "max": 256,
+  "note": "Oreia ([JP]; new name, not in text). [JP] = Demon Duke (glossary)."
+ },
+ {
+  "en": "A greater demon with copper-red skin. Its name means 'calamity' and 'evil', and is said to hold every wicked thought. Its malice is so pure that even if you win, your heart will be deeply wounded. The wound festers, and one day you become the next Fiend.",
+  "max": 256,
+  "note": "Red Fiend."
+ },
+ {
+  "en": "A small flying dragon, the most commonly seen kind. But it is not weak. Take it lightly, and the gale from its wings will blow you away.",
+  "max": 256,
+  "note": "Wyvern."
+ },
+ {
+  "en": "A dragon covered in copper scales. Unlike a Wyvern, it plants both feet on the ground to attack. It is probably the first truly dragon-like dragon you will meet.",
+  "max": 256,
+  "note": "Copper Dragon."
+ },
+ {
+  "en": "A green-bodied dragon. It lives in caves and high mountains and swoops down to the lands below for food. Even if Wyverns and Copper Dragons make you think you're used to dragons, a Green Dragon will teach you their terror all over again.",
+  "max": 256,
+  "note": "Green Dragon."
+ },
+ {
+  "en": "Poison coats it from fang to claw tip. Even a scratch will make you double over, but scarier still is its venomous breath. Weaker than other elemental breaths, it causes status ailments. If you meet one, hit it fast and wear it down.",
+  "max": 256,
+  "note": "Poison Dragon."
+ }
+]

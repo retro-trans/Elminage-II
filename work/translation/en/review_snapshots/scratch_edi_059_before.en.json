@@ -1,0 +1,351 @@
+[
+ {
+  "en": "\"I had you, and Kathleen as well...{w}I should have trusted you both and come to you for advice.{w}...And thank you too, all of you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Soara (she spoke the row before); [JP] = Mirco's group, who answer next."
+ },
+ {
+  "en": "\"You're welcome.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But why do you have the same dark...{w}...No, that would be tactless of me.{w}For now, I'll simply be grateful for your help.\"{w}",
+  "kind": "msg",
+  "note": "[JP]...: cut off; read as Mirco's group sharing the darkness of the Kin of Darkness they fought (Baltagias just awoke as a dark blade). Kept vague. | Accuracy: source asks why the group has (something) of the same darkness, cut off at [JP]; the draft turned the darkness into a relative clause and implied a different question. Now the darkness is the content of the question, cut off mid-phrase."
+ },
+ {
+  "en": "\"Ehehe~{w}...Guess it's about time we headed out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? We're going already?\"{w}",
+  "kind": "msg",
+  "note": "Elpina is in Mirco's party, so \"we\" for the unstated subject of [JP]."
+ },
+ {
+  "en": "\"Yeah.{w}We stopped Zoze, and that's good enough.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, until we meet again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bye-byeee!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mirco and the others left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Not everything had been resolved.{w}{p}But the great threat had passed, and Rubenburg was able to regain its old atmosphere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you too, everyone.{w}Now there's nothing left weighing on me either.{w}...Maybe I'll go back. To Bistel.\"{w}{p}\"I think I'll stay here a little while longer, so if anything comes up, come see me on 1F.{w}See you!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the player party. 1[JP] -> \"1F\"."
+ },
+ {
+  "en": "\"You, too, should beware of 'knowing too much.'{w}Don't go gaining more knowledge than you can handle\nand end up being led around by it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> single quotes per brief. | Accuracy: [JP] = more knowledge than one can handle; \"beyond your station\" implied social rank."
+ },
+ {
+  "en": "{0E}*    The way is lit not by light alone.    *\n*                                          *\n*  At thy feet, and further still beyond,  *{0F}{w}{p}{0E}*  a deadly darkness shall show the way.   *\n*       Those who grasp its meaning        *\n*      shall walk on and never fall.       *{0F}{w}",
+  "kind": "msg",
+  "note": "Stone inscription with * borders (source [JP]). Centred with spaces; proportional font, so the right border will not align exactly: check in game. Dungeon hint (dark zone ahead / pits)."
+ },
+ {
+  "en": "The Holy Ember is burning a bright red.{w}",
+  "kind": "msg",
+  "note": "Holy Ember (glossary)."
+ },
+ {
+  "en": "Rogorn",
+  "kind": "name"
+ },
+ {
+  "en": "\"Myyy...{w}luuucky baaags...{w}wanna buuuy one?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = slurred [JP]; drawn-out rustic speech kept with stretched vowels."
+ },
+ {
+  "en": "Buy a lucky bag?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Much obliiiged...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seeee ya...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "?????? costs\n{0B:0001:4D58} GP.{w}",
+  "kind": "msg",
+  "note": "[JP] = the unidentified bag contents; price insert kept."
+ },
+ {
+  "en": "Rida",
+  "kind": "name"
+ },
+ {
+  "en": "Yahite",
+  "kind": "name"
+ },
+ {
+  "en": "Sajikoni",
+  "kind": "name"
+ },
+ {
+  "en": "Peppet",
+  "kind": "name"
+ },
+ {
+  "en": "Zeparis",
+  "kind": "name"
+ },
+ {
+  "en": "Yansa",
+  "kind": "name"
+ },
+ {
+  "en": "Uyapol",
+  "kind": "name"
+ },
+ {
+  "en": "Rijirai",
+  "kind": "name"
+ },
+ {
+  "en": "Gofreki",
+  "kind": "name"
+ },
+ {
+  "en": "Hawanbu",
+  "kind": "name"
+ },
+ {
+  "en": "\"Gwoooaaargh...{w}Ah... Aaaaaahhh...{w}It's HOOOT, can't you tell!!\"{w}{p}\"What do those guys underground think they're doing!!{w}Sure, it's called the Scorching Castle,\nbut there's such a thing as limits, y'knooow!!\"{w}{p}\"Listen up, you lot!{w}Clean out your ears and listen good!!{w}I may be the Fire Sage, but I ain't a fire spirit!\"{w}{p}\"Hot is HOT, okay!!\"{w}{p}\"Aaaah... This is bad...{w}I might seriously die...\"{w}{p}\"...Okay, got it. Here's the plan.{w}You, go on down underground for a bit.{w}Go make those spirits settle down for me.\"{w}{p}\"I'm counting on you!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the player party, addressed as one (\"You\")."
+ },
+ {
+  "en": "Radrecht's giant foot slowly draws back.{w}And then...{w}",
+  "kind": "msg",
+  "note": "[JP]: wind-up for a kick (the party gets sent below); kept as the source shows it."
+ },
+ {
+  "en": "\"Heeeey!!{w}The heat hasn't changed one bit!!{w}Do it over, you idiots!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] at the party: \"you idiots\"."
+ },
+ {
+  "en": "\"Whew, thanks to you guys it's finally back to normal.{w}Thanks a bunch!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y'know, hot stuff...{w}I'm not really a fan of it.\"{w}{p}\"Haaah...{w}I wanna see my sweet Shirinmorin...{w}You know her? Sweet Shirinmorin?\"{w}{p}\"Sweet Shirinmorin lives deep in Narmant,\nand she's all squishy and cool,\nand sooo cuuute!\"{w}{p}\"But I'm the Fire Sage, right?{w}My wings and stuff are kinda on fire, right?{w}Not only won't she see me, she flat-out hates me...\"{w}{p}\"...Maybe I'll try writing a love letter.{w}Yeah, that might be just the thing.{w}You, wait right there a sec.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"sweet Shirinmorin\" (no -chan in the corpus). Shirinmorin is female per glossary."
+ },
+ {
+  "en": "Radrecht started writing a love letter...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alright, done!{w}...But it takes guts to hand it over, huh...\"{w}{p}\"This...{w}Could you take it to sweet Shirinmorin for me?\"{w}{p}\"Please, I'm begging you! I'll make it worth your while!{w}C'mon!{w}You'll do it, right!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (bowing gesture) -> \"I'm begging you\"; [JP] -> \"I'll make it worth your while\"."
+ },
+ {
+  "en": "[Key Item]\nYou obtained the Fire Sage's Love Letter.{w}",
+  "kind": "msg",
+  "note": "New item name \"Fire Sage's Love Letter\" (eboot eb@08950738 still untranslated)."
+ },
+ {
+  "en": "\"I'm counting on you guys!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dammit! I'm getting nervous!!{w}What kind of answer am I gonna get...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"H-how'd it go? How'd it go, huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told Radrecht how it went when you handed it over.{w}",
+  "kind": "msg",
+  "note": "Listener (Radrecht) named for clarity; the source leaves it implied by the scene."
+ },
+ {
+  "en": "\"S... Seriously...{w}Sh-she didn't have to tear it uuup...{w}Sure, the answer's just what I figured, but...\"{w}{p}\"Oh man, I think I'm... gonna cry...\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as the reply being what Radrecht expected. | Accuracy: Shirinmorin tore the letter (slice 048 SCD10:3077); \"you\" read as the party tearing it. She = female per glossary."
+ },
+ {
+  "en": "Comfort Radrecht?",
+  "kind": "data",
+  "note": "Object named instead of a pronoun (Radrecht's gender unknown)."
+ },
+ {
+  "en": "\"Sniff... You guys are good people...{w}Thanks, I feel a little better.\"{w}{p}\"Oh yeah, take this with you.{w}It's my thanks for putting up with all my crazy requests.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come by and hang out anytime, y'hear!{w}I'll be waiting!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If a letter's no good, what should I try next?{w}...I know, I'll write a song!!{w}Girls love songs and stuff, right! Alllright!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems it would be hard to unlock this from this side.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ifrit",
+  "kind": "name"
+ },
+ {
+  "en": "\"Radrecht is furious...{w}You lot had better not get too close\nto Radrecht right now...\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Radrecht\" (no Lord/Lady: gender not established)."
+ },
+ {
+  "en": "\"Looks like things underground have finally calmed down.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Radrecht, together with the other Four Sages...\"{w}",
+  "kind": "msg",
+  "note": "Deliberately trails off, kept unfinished."
+ },
+ {
+  "en": "\"Hey, take my advice...{w}Leave this castle quietly!{w}Fire Sage Radrecht's rage is in top form!\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept as the comic \"in top form\"."
+ },
+ {
+  "en": "\"Honestly, the Queen is such a headache.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the Phoenix Queen."
+ },
+ {
+  "en": "\"...So Radrecht has gone, then.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Complain about the heat all you want, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That thing underground was a three-way fight, right?{w}Who won in the end? Who? Who?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"An old promise, huh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Referee",
+  "kind": "name"
+ },
+ {
+  "en": "\"Shortly, the Spirit Tournament of the fire kin\nwill be held.{w}Spirits wishing to compete, entries are now open!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"the fire kin\" ([JP] = Kin, as in Kin of Darkness)."
+ },
+ {
+  "en": "\"We now open the Scorching Castle\nFire Spirit Tournament!{w}First, the competitors take the floor. Please welcome them with a round of applause!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Our first contestant: the Fire Elemental!{w}Small, but packs some heat!{w}Fighting to raise the standing of Elementals everywhere!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: play on the proverb \"small but spicy\"; rendered \"Small, but packs some heat\"."
+ },
+ {
+  "en": "\"Nobody's gonna call me a little spark anymore!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] here = \"spark\" (also in 3034); not the Holy Ember item."
+ },
+ {
+  "en": "\"Next up, an undisputed powerhouse!{w}When you say Mister Fire, you mean this one!{w}The incarnation of flame, Ifrit!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept as \"Mister Fire\" (source title)."
+ },
+ {
+  "en": "\"Yours truly is No. 1! Number One!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Yours truly\"; Number One per glossary."
+ },
+ {
+  "en": "\"And now, last of all, the champion of the previous Spirit Tournament!{w}The Queen of Fire, with grace and power alike!{w}The Phoenix Queen\"{w}",
+  "kind": "msg",
+  "note": "[JP] here and again in 3029 (source says \"last\" twice, a joke); kept both. Source has no ! after the name; none added."
+ },
+ {
+  "en": "Phoenix Queen",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh-ho-ho-ho!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And at the very last, a walk-on entry!{w}The nameless adventurerrrs!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "For some reason, you've been entered!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Perhaps due to the anomaly at the Holy Foundation, Contrachio,\nthe spirits are all worked up this term!{w}With the heat still running high, the tournament now begins!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Every great blaze starts from a tiny spark!{w}Fire Elemental, here I am!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Number One!{w}Number Ooooone!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh-ho-ho-ho!!{w}Fire kin or not, I shall turn you all to ash!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ready... FIGHT!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You sent them all flying.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The winner: the nameless adventurerrrs!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-no waaay...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-Number Two...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aaaagh!{w}How could I, of all people, lose!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = shriek of frustration; [JP] (affected posh \"I\") -> \"I, of all people\"."
+ }
+]

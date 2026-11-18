@@ -1,0 +1,37 @@
+[
+ {
+  "en": "\"Peace is boring, but all this commotion\nis a bit much, too.{w}You there, do a trick or something to cheer me up.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = put me at ease / lighten the mood."
+ },
+ {
+  "en": "\"Oh, what is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You handed Radrecht's letter\nto Shirinmorin.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "She tore it up and threw it away!!{w}",
+  "kind": "msg",
+  "note": "Subject is Shirinmorin (female per glossary)."
+ },
+ {
+  "en": "\"No doubt it says\n'Shirinmoriiin, sweetieee~'{w}or some such nonsense again.\"{w}{p}\"Honestly, in that sweltering getup, how does Radrecht\nhave the face to write love letters to the Water Sage?{w}...Well, with that face, I suppose.\"{w}{p}\"Don't worry about it.{w}It's been like this forever...\"{w}{p}\"...Forever?{w}Oh? Come to think of it, I...{w}Since when have I been here... and why...?\"{w}{p}\"How strange. I can't remember...{w}Ugh, how creepy...{w}It's all because Radrecht sent me that thing!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]♪ rendered 'sweetieee~'. [JP] / [JP] pun kept as 'have the face' / 'with that face'. Radrecht named instead of a pronoun (gender unknown). 'Forever' echoes [JP] across the two pages."
+ },
+ {
+  "en": "Something strange is lying on the sea floor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pick it up?",
+  "kind": "data"
+ },
+ {
+  "en": "Mizuchi",
+  "kind": "name"
+ }
+]
