@@ -20,6 +20,7 @@ path is inside this project is ever started or stopped.
 | `tools/mips.py` | ELF loader, disassembly (`all_insns` steps over undecodable words), xrefs |
 | `tools/port_addr.py` | Elminage III address -> Elminage II candidates (masked instruction match; `near <delta>` mode) |
 | `tools/scp_sig.py`, `tools/scp.py` | VM operand signatures from the EBOOT; script parser / coverage check |
+| `tools/release.py` | package a release: xdelta (verified round trip), README/CHANGELOG txt, manifest, validation, checksums in work/release/v<ver>/ |
 | `tools/prune_outputs.py` | after a build: older ISOs -> verified xdelta patches (max 10), `work/xdelta/xdelta3-3.1.0-x86_64.exe` |
 
 ```bash
@@ -64,6 +65,7 @@ end of patches.apply_all so the cave layout stays). Archive or script changes st
 | v0117_hd_narration | 0.1.17 | opening narration, HD font chosen (hotpatch base: v0117_hd_narration.EBOOT.BIN) |
 | v0116_tavern | 0.1.16 | same place, original font (set var 4990 = 2 in RAM for HD; hotpatch base: v0116_tavern.EBOOT.BIN) |
 | v0123_tavern | 0.1.23 | tavern menu after the opening, premade party, original font (hotpatch base: v0123_tavern.EBOOT.BIN) |
+| v080_tavern | 0.8.0 | same place, released build (hotpatch base: v080_tavern.EBOOT.BIN) |
 
 ## Memory Stick install
 The original game installs its archives to `SAVEDATA/ULJM05488DATA01` (169 MB) without asking. The
