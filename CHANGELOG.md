@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.8.1 (2026-11-22, not a release yet)
+- Alchemist and Summoner spells were never learned (GitHub issue #1). The spell table parser (0x088DA4B4)
+  strcmp's each SPELL.CSV school cell with four EBOOT keys and makes any other value school 4 (enemy only).
+  The cells read "Alchem" / "Sum" (6-byte column) but the keys had become "Alchemy" / "Summoner" when those
+  strings were reclassified as UI text in 0.1.12, so 46 Alchemist and Summoner spells were enemy-only. The
+  keys now read "Alchem" / "Sum". Checked in RAM (table 0x08D53A10, 92-byte records, school at +0x1C):
+  v0.8.0 parsed 2 Alchemist / 0 Summoner / 60 enemy-only rows, v0.8.1 25 / 21 / 16.
+- Traps aimed at the character who opens the chest: the trap parser (0x088DBAF0) strncmp's TRAP.CSV's target
+  cell with the key 当人. The cells stayed Japanese on purpose but the key had become "Self" (same 0.1.12
+  reclassification), so those 5 traps took the other target. The key is Japanese again. Not checked in play.
+- Why it was missed: the compare-key scan of 0.1.10 covered strcmp-like calls at 0x08817294 / 0x08817114, but
+  the CSV parsers also call the plain strcmp at 0x08816F44. Every call to both compare routines was listed
+  again with its literal arguments: the Japanese keys are the four schools, 雲の上 (already matched), ○ / ● and
+  当人. tools/eboot_text.py COMPARE_KEYS now stops the build if a key and its data cells disagree.
+- Existing saves: characters keep the spells they have; whether a later level-up also teaches the spells
+  missed at earlier levels was not checked.
+
 ## 0.8.0 (2026-11-19, first public release)
 - First published build: the 0.1.24 work below plus the fix in this entry, rebuilt as v0.8.0 (numbering
   jumps to 0.8.0 for the first release, as Elminage III).

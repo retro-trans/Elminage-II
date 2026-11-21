@@ -122,10 +122,46 @@ def apply_overrides(eb):
         eb.w32(p, eb.alloc(encode(en) + b'\0', align=4))
 
 
+# Japanese strings the CSV parsers compare data cells with (strcmp 0x08816F44 / strncmp 0x08817114, found by
+# listing the literal arguments of every call): the key's text (English, or the Japanese if untranslated) must
+# equal every cell of that column with the same Japanese, or the row silently falls through to the default.
+# v0.8.0 shipped 'Alchemy' / 'Summoner' against cells 'Alchem' / 'Sum' (Alchemist and Summoner spells became
+# enemy-only, never learned) and 'Self' against the Japanese TRAP cells (GitHub issue #1).
+COMPARE_KEYS = {
+    'eb@0895e7c0': (('SPELL.CSV', 1),),          # school 0 魔術師   (0x088DA4B4)
+    'eb@0895e7c8': (('SPELL.CSV', 1),),          # school 1 僧侶     (0x088DA4D0)
+    'eb@0895e7d0': (('SPELL.CSV', 1),),          # school 2 錬金術   (0x088DA4F0)
+    'eb@0895e7d8': (('SPELL.CSV', 1),),          # school 3 召喚師   (0x088DA510); anything else -> 4 enemy-only
+    'eb@0895e990': (('TRAP.CSV', 4),),           # trap target 当人  (0x088DBAF0)
+}
+
+
+def check_keys(ents=None):
+    """Raise if a compare key and its CSV cells disagree (see COMPARE_KEYS)."""
+    ents = ents or json.load(open(TR, encoding='utf-8'))
+    by_id = {e['id']: e for e in ents}
+    csv_dir = os.path.join(ROOT, 'work', 'translation', 'en', 'csv')
+    bad = []
+    for kid, cols in COMPARE_KEYS.items():
+        k = by_id[kid]
+        key = (k.get('en') or '').strip() or k['jp']
+        for fname, col in cols:
+            cells = json.load(open(os.path.join(csv_dir, fname.replace('.CSV', '.json')), encoding='utf-8'))
+            for c in cells:
+                if c['id'].endswith(':%d' % col) and c['jp'] == k['jp']:
+                    val = (c.get('en') or '').strip() or c['jp']
+                    if val != key:
+                        bad.append('%s %r != %s %r' % (kid, key, c['id'], val))
+    if bad:
+        raise SystemExit('compare keys do not match their data cells:\n  ' + '\n  '.join(bad[:20]))
+    return len(COMPARE_KEYS)
+
+
 def apply(eb, report=None):
     report = [] if report is None else report
     if not os.path.exists(TR):
         return report
+    check_keys()
     ents = [e for e in json.load(open(TR, encoding='utf-8')) if (e.get('en') or '').strip()]
     if not ents:
         return report

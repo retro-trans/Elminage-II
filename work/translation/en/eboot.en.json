@@ -5626,29 +5626,22 @@
  },
  {
   "id": "eb@0895e7d0",
-  "en": "Alchemy",
+  "en": "Alchem",
   "len": 7,
-  "status": "new",
-  "note": "reclassified 0.1.12: UI string (name-entry cells are only 0x08958D7C-0x08958F7F)"
+  "status": "key",
+  "note": "0.8.1: strcmp key of the SPELL.CSV school column (0x088DA4F0); must equal the cell \"Alchem\""
  },
  {
   "id": "eb@0895e7d8",
-  "en": "Summoner",
+  "en": "Sum",
   "len": 7,
-  "status": "new",
-  "note": "reclassified 0.1.12: UI string (name-entry cells are only 0x08958D7C-0x08958F7F)"
+  "status": "key",
+  "note": "0.8.1: strcmp key of the SPELL.CSV school column (0x088DA510); must equal the cell \"Sum\""
  },
  {
   "id": "eb@0895e7e0",
   "en": "spell_table[%3d] = %-20s,level=%d, dmg=%3d~%3d,%s,stat_op_type=%d\n",
   "len": 76,
-  "status": "new",
-  "note": "reclassified 0.1.12: UI string (name-entry cells are only 0x08958D7C-0x08958F7F)"
- },
- {
-  "id": "eb@0895e990",
-  "en": "Self",
-  "len": 5,
   "status": "new",
   "note": "reclassified 0.1.12: UI string (name-entry cells are only 0x08958D7C-0x08958F7F)"
  },
