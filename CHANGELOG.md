@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.8.1 (2026-11-22, not a release yet)
+## 0.8.1 (2026-11-22, release)
 - Alchemist and Summoner spells were never learned (GitHub issue #1). The spell table parser (0x088DA4B4)
   strcmp's each SPELL.CSV school cell with four EBOOT keys and makes any other value school 4 (enemy only).
   The cells read "Alchem" / "Sum" (6-byte column) but the keys had become "Alchemy" / "Summoner" when those
