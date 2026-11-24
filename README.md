@@ -14,29 +14,30 @@ way — be it bug reports, proofreading or playtesting — please join my Discor
 
 ## Play it
 
-The latest release is **[v0.8.1](https://github.com/retro-trans/Elminage-II/releases/tag/v0.8.1)**,
-a full patch for the Japanese release (**ULJM05488**) and an upgrade patch from v0.8.0: the whole script,
+The latest release is **[v0.8.3](https://github.com/retro-trans/Elminage-II/releases/tag/v0.8.3)**,
+a full patch for the Japanese release (**ULJM05488**) and an upgrade patch from v0.8.1: the whole script,
 menus, data tables, interface artwork and the subtitled opening movies are in English, with a
-variable-width font and an optional HD font chosen when you start a new game. v0.8.1 fixes Alchemist and
-Summoner spells, which v0.8.0 never let characters learn.
+variable-width font and an optional HD font chosen when you start a new game. v0.8.3 translates the Yes / No
+prompts and the Sphinx's riddles that v0.8.1 left in Japanese (answers are typed in English), wraps the
+event list and descriptions by whole words, and translates the title logo.
 
 ### Apply
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools), or apply the `.xdelta`
-with DeltaPatcher or xdelta3. You need your own Japanese disc image, or the image you patched to v0.8.0.
+with DeltaPatcher or xdelta3. You need your own Japanese disc image, or the image you patched to v0.8.1.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, ULJM05488 | `Elminage2-English-v0.8.1.xdelta` |
-| English v0.8.0 image | `Elminage2-English-v0.8.0-to-v0.8.1.xdelta` |
+| Japanese release, ULJM05488 | `Elminage2-English-v0.8.3.xdelta` |
+| English v0.8.1 image | `Elminage2-English-v0.8.1-to-v0.8.3.xdelta` |
 
-Check the source hashes in `README-v0.8.1.txt` if your patcher reports a mismatch; keep
+Check the source hashes in `README-v0.8.3.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Elminage II - Sousei no Megami to Unmei no Daichi (Japan).iso" Elminage2-English-v0.8.1.xdelta "Elminage II English v0.8.1.iso"
+xdelta3 -d -s "Elminage II - Sousei no Megami to Unmei no Daichi (Japan).iso" Elminage2-English-v0.8.3.xdelta "Elminage II English v0.8.3.iso"
 ```
 
 A CSO or CHD must be converted back to a plain ISO first.
@@ -71,7 +72,7 @@ python tools/extract_csv.py          # data tables
 python tools/extract_eboot.py        # executable strings
 python tools/restore_en.py           # copy the English from the *.en.json files into them
 #   ... edit the "en" fields in work/translation/en/ ...
-python tools/build.py 0.8.1          # build work/output/Elminage II (EN) v0.8.1.iso
+python tools/build.py 0.8.3          # build work/output/Elminage II (EN) v0.8.3.iso
 ```
 
 The script stays in place: English goes into the freed string slots and a small hook in the
@@ -104,7 +105,7 @@ Python 3.8+, with numpy, Pillow, keystone-engine and capstone; ffmpeg for the mo
 xdelta3 for patches.
 
 ```sh
-python tools/build.py 0.8.1                   # full build
+python tools/build.py 0.8.3                   # full build
 python tools/ppsspp_dbg.py start work/output/current.iso
 python tools/hotpatch.py work/emulator/states/<state>.EBOOT.BIN   # reload the executable into a savestate
 ```
