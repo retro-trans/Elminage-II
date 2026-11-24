@@ -58,9 +58,11 @@ def make_patch(src, dst, patch, check):
         raise SystemExit('patch does not rebuild the target: ' + patch)
 
 
-def changelog_section(ver):
+def changelog_since(ver, prev):
+    """The entries from <ver> down to (not including) <prev>: the release plus the test builds since the
+    last published one."""
     text = open(os.path.join(ROOT, 'CHANGELOG.md'), encoding='utf-8').read()
-    m = re.search(r'^## %s .*?(?=^## )' % re.escape(ver), text, re.S | re.M)
+    m = re.search(r'^## %s .*?(?=^## %s )' % (re.escape(ver), re.escape(prev)), text, re.S | re.M)
     return m.group(0).rstrip() + '\n' if m else ''
 
 
@@ -139,9 +141,9 @@ def main():
               'Discord: ' + DISCORD, 'Source: ' + REPO, '']
     open(os.path.join(rel, 'README-v%s.txt' % ver), 'w', encoding='utf-8', newline='\n').write('\n'.join(lines))
     head = 'Elminage II English v%s - changes\n\n' % ver
-    # first release: the whole history (every test build before it); later ones: this version's entry
+    # first release: the whole history (every test build before it); later ones: the entries since --from
     if prev:
-        body = changelog_section(ver)
+        body = changelog_since(ver, prev)
     else:
         body = open(os.path.join(ROOT, 'CHANGELOG.md'), encoding='utf-8').read().split('\n', 2)[2]
     open(os.path.join(rel, 'CHANGELOG-v%s.txt' % ver), 'w', encoding='utf-8', newline='\n').write(head + body)

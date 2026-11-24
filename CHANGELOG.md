@@ -1,6 +1,7 @@
 # Changelog
 
-## 0.8.3 (2026-11-24, test build, not a release)
+## 0.8.3 (2026-11-24, release)
+- Published release: the 0.8.2 fixes below plus the title logo. Upgrade patch from v0.8.1.
 - Title logo (ANIME/GR01_10303.GIM): the subtitle 双生の女神と運命の大地 now reads "The Twin Goddesses & the
   Land of Destiny" ("Twin Goddesses" as in the script; the "&" takes the place of と between the II's two
   pillars) and the katakana reading above the logo reads "ELMINAGE II". New tools/title_logo.py: both lines
