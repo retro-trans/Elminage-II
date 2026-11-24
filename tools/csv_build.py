@@ -70,8 +70,8 @@ COMMA, QUOTE, NEWLINE = '\x1f', '\x1e', '\x1d'
 # break kept as NEWLINE (0x1D, stored as 0x0A by the cell copy) starts a new row. Breaks that only copy
 # the Japanese line layout (mid-sentence) become spaces; a blank line, a break after sentence-ending
 # punctuation and a break after a recipe line ('A x B') are kept. Other columns: every break is a space.
-# Elminage II: the pixel word wrap (Elminage III vwf.apply_wrap) is not ported yet, so no column keeps
-# line breaks; check the description boxes in game before enabling this.
+# Elminage II: the pixel word wrap is ported (0.8.2, vwf.apply_wrap: event list, monster and item text),
+# but no column keeps line breaks yet (every break is a space); check those boxes in game before enabling it.
 WRAP_COLS = set()
 BREAK_AFTER = tuple('.!?:\'"~)-')
 RECIPE = re.compile(r'\S x \S')

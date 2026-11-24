@@ -6168,6 +6168,18 @@
   "len": 32
  },
  {
+  "id": "00011-CHOUSA.bin@102a0",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "00011-CHOUSA.bin@102a6",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
   "id": "00011-CHOUSA.bin@103ad",
   "en": "You offered a prayer at the last of the gods' altars.{w}",
   "kind": "msg",

@@ -552,3 +552,164 @@ def apply_ticker(eb):
         ''').format(whi=whi, wlo=wlo, bhi=bhi, blo=blo, right=TICKER_RIGHT), 'ticker_window')
     assert eb.u32(TICKER_HOOK) == 0x06210003, hex(eb.u32(TICKER_HOOK))      # bgez s1, +3
     eb.asm(TICKER_HOOK, 'jal 0x%08x; nop; j 0x%08x; nop' % (eb.symbols['ticker_window'], TICKER_DRAW), expect=4)
+
+
+# ---------------------------------------------------------------------------------------------
+# Description boxes (ported from Elminage III vwf.apply_wrap). Three loops cut their text into fixed
+# byte rows, which split English words ("whet / her", v0.8.1 event list):
+#   event list + alchemy (0x088417D4: 10 rows of 28 bytes at x 240; source s0 or s4 + 0x22, both
+#   += 0x1C per row; the row gets 16 full-width spaces appended (strcat 0x088417E8) and is cut at
+#   28 bytes again in the draw call's delay slot 0x08841814),
+#   monster and item text (0x08857508, 0x08857A14): rows of 24 bytes at x 268, s2 = source,
+#   s1 = bytes left, until s1 <= 0.
+# Each row now comes from wrap_line(dst, src, max_px) -> v0 = bytes consumed: whole words while the
+# VWF width (HD widths when the HD font is on) fits max_px, a full-width character counts 16 px and
+# may break anywhere, byte 0x0A forces a break, spaces after a break are skipped, and a row never
+# takes more than WRAP_MAX_BYTES (the row buffers are 80 bytes on the stack). Pixel limits: events
+# 224 px (the original 14 full-width characters), descriptions 200 px (box inner width from x 268).
+# The event rows' full-width space padding is dropped (it only filled out the fixed-width rows).
+# Real hardware: code in the cave only, same registers and stack frames as the original loops.
+WRAP_EVENT, WRAP_EVENT_PX = 0x088417D4, 224
+WRAP_EVENT_PAD, WRAP_EVENT_CUT = 0x088417E8, 0x08841814
+WRAP_DESC, WRAP_DESC_PX = (0x08857508, 0x08857A14), 200
+WRAP_MAX_BYTES = 72
+
+
+def _expect(eb, va, words):
+    got = tuple(eb.u32(va + 4 * i) for i in range(len(words)))
+    assert got == tuple(words), 'unexpected code at %08x: %s' % (va, ' '.join('%08x' % w for w in got))
+
+
+def apply_wrap(eb):
+    hi, lo = _hilo(eb.symbols['vwf_widths'])
+    eb.asm_alloc((hdchk('$t6', 'wr_hd') + '''
+            sll $t6, $t6, 8
+            lui $t7, 0x{hi:x}
+            addiu $t7, $t7, {lo}
+            addu $t6, $t6, $t7
+            move $t0, $zero
+            move $t1, $zero
+            addiu $t2, $zero, -1
+        wr_loop:
+            addu $t7, $a1, $t0
+            lbu $t3, 0($t7)
+            beqz $t3, wr_end
+            addiu $at, $zero, 0x0a
+            beq $t3, $at, wr_nl
+            addiu $at, $zero, 0x20
+            bne $t3, $at, wr_ns
+            nop
+            move $t2, $t0
+        wr_ns:
+            sltiu $at, $t3, 0x81
+            bnez $at, wr_hw
+            sltiu $at, $t3, 0xa0
+            bnez $at, wr_fw
+            sltiu $at, $t3, 0xe0
+            bnez $at, wr_hw
+            sltiu $at, $t3, 0xfd
+            beqz $at, wr_hw
+            nop
+        wr_fw:
+            addiu $t4, $zero, 16
+            addiu $t5, $zero, 2
+            bgtz $t0, wr_fit
+            move $t2, $t0
+            b wr_fit
+            addiu $t2, $zero, -1
+        wr_hw:
+            addu $t7, $t6, $t3
+            lbu $t4, 0($t7)
+            addiu $t5, $zero, 1
+        wr_fit:
+            addu $t7, $t0, $t5
+            sltiu $at, $t7, {maxb}
+            beqz $at, wr_over
+            addu $t7, $t1, $t4
+            slt $at, $a2, $t7
+            beqz $at, wr_adv
+            nop
+        wr_over:
+            beqz $t0, wr_adv
+            addu $t7, $t1, $t4
+            blez $t2, wr_hard
+            nop
+            b wr_skip
+            move $v0, $t2
+        wr_hard:
+            b wr_copy
+            move $v0, $t0
+        wr_skip:
+            addu $t7, $a1, $v0
+            lbu $t3, 0($t7)
+            addiu $at, $zero, 0x20
+            bne $t3, $at, wr_copy
+            nop
+            b wr_skip
+            addiu $v0, $v0, 1
+        wr_adv:
+            move $t1, $t7
+            b wr_loop
+            addu $t0, $t0, $t5
+        wr_nl:
+            b wr_cp0
+            addiu $v0, $t0, 1
+        wr_end:
+            move $v0, $t0
+        wr_cp0:
+            move $t8, $t0
+            b wr_cp
+            move $t9, $zero
+        wr_copy:
+            move $t8, $t2
+            bgtz $t2, wr_cp
+            move $t9, $zero
+            move $t8, $t0
+        wr_cp:
+            beq $t9, $t8, wr_done
+            addu $t7, $a1, $t9
+            lbu $t3, 0($t7)
+            addu $t7, $a0, $t9
+            sb $t3, 0($t7)
+            b wr_cp
+            addiu $t9, $t9, 1
+        wr_done:
+            addu $t7, $a0, $t8
+            jr $ra
+            sb $zero, 0($t7)
+        ''').format(hi=hi, lo=lo, maxb=WRAP_MAX_BYTES + 1), 'wrap_line')
+    wl = eb.symbols['wrap_line']
+    # events / alchemy: the loop advances both source registers by 0x1C, so add (consumed - 0x1C)
+    eb.asm_alloc('''
+            addiu $sp, $sp, -16
+            sw $ra, 0($sp)
+            jal 0x{wl:08x}
+            nop
+            lw $ra, 0($sp)
+            addiu $sp, $sp, 16
+            addu $s0, $s0, $v0
+            addu $s4, $s4, $v0
+            addiu $s0, $s0, -0x1c
+            jr $ra
+            addiu $s4, $s4, -0x1c
+        '''.format(wl=wl), 'wrap_event')
+    _expect(eb, WRAP_EVENT, (0x0e205ca5, 0x2406001c, 0xa3a0003c))     # jal strncpy; a2 = 28; sb zero
+    _expect(eb, WRAP_EVENT_PAD, (0x0e205b63,))                          # jal strcat (full-width spaces)
+    _expect(eb, WRAP_EVENT_CUT, (0xa3a0003c,))
+    eb.asm(WRAP_EVENT, 'jal 0x%08x; addiu $a2, $zero, %d; nop' % (eb.symbols['wrap_event'], WRAP_EVENT_PX),
+           expect=3)
+    eb.asm(WRAP_EVENT_PAD, 'nop', expect=1)
+    eb.asm(WRAP_EVENT_CUT, 'nop', expect=1)
+    for b in WRAP_DESC:
+        _expect(eb, b, (0x2a210019,))
+        _expect(eb, b + 0x24, (0x0e205ca5, 0x24060018, 0xa3a00028))
+        _expect(eb, b + 0x58, (0x2631ffe8, 0x26520018))
+        eb.asm(b, '''addiu $a0, $sp, 0x10
+                     move $a1, $s2
+                     jal 0x{wl:08x}
+                     addiu $a2, $zero, {px}
+                     addu $s2, $s2, $v0
+                     subu $s1, $s1, $v0
+                     addiu $s2, $s2, -0x18
+                     addiu $s1, $s1, 0x18
+                     nop; nop; nop; nop'''.format(wl=wl, px=WRAP_DESC_PX), expect=12)

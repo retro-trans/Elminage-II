@@ -56,6 +56,16 @@ the HD font looks at a higher rendering resolution; compare sheets offline inste
 A savestate holds the old EBOOT and loaded scripts. EBOOT-only changes: load the state, then
 `python tools/hotpatch.py <EBOOT.BIN of the state's build>` (saved next to each state as <state>.EBOOT.BIN; new patches go at the
 end of patches.apply_all so the cave layout stays). Archive or script changes still need a fresh boot.
+Running a state on a newer disc image also breaks chapters loaded afterwards: the game keeps the archive TOCs
+from boot, and the first 0x20 bytes of each file are XORed with a key from its TOC offset / size
+(tools/mps2.py), so a chapter whose size changed loads with a garbled header, none of its sub-scripts are
+registered (index 0x08C30DC0, count 0x08D115DA) and the debug line "Specified script not found. [01001]"
+appears on every step. Seen in 0.8.2 testing (v080_tavern + 0.8.2 image); not a bug of the build.
+
+Riddle test without reaching the riddle (0.8.2): in a dungeon (the editor only runs in the dungeon scene),
+break at the script dispatcher 0x0887E22C, write `A2 15 00 01 00 01 00 <prompt off>`, `A3`,
+`A2 15 00 00 00 01 00 <prompt off>`, `A4 <answer> 1B 00` after the sub-script base, point ctx+0x528 at it and
+set a1 = 0xA2; type the answer and break at 0x088801D4 (strcmp a0 = answer, a1 = typed text).
 
 | State | Build | Place |
 | --- | --- | --- |

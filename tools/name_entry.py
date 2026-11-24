@@ -12,8 +12,11 @@ Modes:
   0x6D / 0x129 / 0x87 name (new character / password character / rename), record +0x00 (0x14 bytes)
   0x6E / 0x12A / 0x88 nickname, record +0x19 (0x14 bytes)
   0x1D  Rename Spells (options), 12 cells -> 0x18-byte spell name record (commit 0x08831380)
-  0x0F  riddle answer (script ops 0xA2 / 0xA4, scripts 34001 and 53001): the answers are box-drawing
-        glyph sequences typed on the original keyboard -> original keyboard, no conversion
+  0x0F  riddle answer (script ops 0xA2 / 0xA3 / 0xA4): the Sphinx at Dekor (SCD05 15005.bin) opens on page 1
+        or 2 (hiragana / katakana), riddles 34001 and 53001 on the box-drawing glyph page 77 -> its own page
+        table: the original one with pages 0 and 1 replaced by the Latin page (the glyph pages unchanged).
+        The answer stays full-width cells (op 0xA4 strcmp's it with the script's answer); on confirm a-z
+        are folded to A-Z and trailing spaces dropped, so the English answers are full-width capitals.
   0x128 Book of the Next Age password (36 cells) -> original keyboard, no conversion
 
 Changes (the editor keeps 2-byte cells, so its own logic is untouched):
@@ -74,6 +77,7 @@ SPELL_CHECK_FN = 0x08849CA0
 PAGE_TABLE, PAGE_ROWS = 0x08953998, 468
 PAGE_REFS = ((0x0884C44C, 0x0884C454, '$v0'), (0x0884C73C, 0x0884C740, '$a0'))
 LATIN_MODES = (0x6D, 0x6E, 0x87, 0x88, 0x129, 0x12A, 0x1D)
+RIDDLE_MODE, RIDDLE_LATIN_PAGES = 0x0F, 2
 # addiu v0, zero, N before 'sh v0, 0x1C7A(..)' (max cells) for the Latin modes
 FIELD_LIMITS = ((0x08848AAC, 10), (0x08849084, 10), (0x08849094, 10), (0x0884A5B8, 10),
                 (0x0884A7C4, 10), (0x0884A414, 6), (0x08831274, 12))
@@ -133,12 +137,28 @@ def apply(eb):
         eb.asm(lui_at, 'lui %s, 0x%x' % (reg, ph), expect=1)
         eb.asm(add_at, 'lw %s, %d(%s)' % (reg, pl, reg), expect=1)
 
+    # riddle mode: the original page table with the hiragana / katakana pages (the Sphinx riddles start
+    # there, script op 0xA2 arg 1 = 1 / 2) replaced by the Latin page; the glyph page 77 (riddles 34001,
+    # 53001) and the rest stay
+    rp = [eb.u32(PAGE_TABLE + 4 * k) for k in range(PAGE_ROWS)]
+    for k in range(6 * RIDDLE_LATIN_PAGES):
+        rp[k] = rows + 32 * (k % 6)
+    eb.alloc(b''.join(struct.pack('<I', v) for v in rp), 'ne_riddle_pages', align=4)
+    rh, rl = hilo(eb.symbols['ne_riddle_pages'])
+
     # set ne_pagetab from the mode of state $t3 (leaf; t3, t4, at)
     def select_table(lab):
         return '''
             lw $t3, 0x1fc($t3)
             lui $t4, 0x{oh:x}
-            addiu $t4, $t4, {ol}'''.format(oh=oh, ol=ol) + latin_check('$t3', lab + '_o') + '''
+            addiu $t4, $t4, {ol}
+            addiu $at, $zero, 0x{rm:x}
+            bne $t3, $at, {lab}_nr
+            nop
+            lui $t4, 0x{rh:x}
+            b {lab}_o
+            addiu $t4, $t4, {rl}
+        {lab}_nr:'''.format(oh=oh, ol=ol, rm=RIDDLE_MODE, rh=rh, rl=rl, lab=lab) + latin_check('$t3', lab + '_o') + '''
             lui $t4, 0x{nh:x}
             addiu $t4, $t4, {nl}
         {lab}_o:
@@ -585,9 +605,56 @@ def apply(eb):
 
     # confirm (names / nicknames): buffer -> ASCII (Latin modes), then the replaced instructions.
     # v0 must hold the mode afterwards (the code after the non-empty check branches on it).
+    # riddle_fold(a0 buf): full-width a-z -> A-Z, trailing full-width spaces removed; other cells (the
+    # box-drawing glyphs) untouched. The answers stay full-width cells, compared by op 0xA4 with strcmp.
+    eb.asm_alloc('''
+            move $t3, $a0
+            move $t4, $a0
+        r_l:
+            lbu $t5, 0($t3)
+            beqz $t5, r_t
+            sltiu $at, $t5, 0x80
+            bnez $at, r_n1
+            lbu $t6, 1($t3)
+            addiu $at, $zero, 0x82
+            bne $t5, $at, r_n2
+            addiu $t7, $t6, -0x81
+            sltiu $at, $t7, 26
+            beqz $at, r_n2
+            nop
+            addiu $t6, $t6, -0x21
+            sb $t6, 1($t3)
+        r_n2:
+            addiu $at, $zero, 0x81
+            bne $t5, $at, r_ns
+            addiu $at, $zero, 0x40
+            beq $t6, $at, r_sp
+            nop
+        r_ns:
+            addiu $t4, $t3, 2
+        r_sp:
+            b r_l
+            addiu $t3, $t3, 2
+        r_n1:
+            addiu $t3, $t3, 1
+            b r_l
+            move $t4, $t3
+        r_t:
+            jr $ra
+            sb $zero, 0($t4)
+        ''', 'ne_riddle_fold')
+
     assert eb.u32(CONFIRM_AT) == 0x3c0308b9 and eb.u32(CONFIRM_AT + 4) == 0x8c63ac80
     eb.asm_alloc(('''
             lw $t3, 0x1fc($s3)
+            addiu $at, $zero, 0x{rm:x}
+            bne $t3, $at, q_nr
+            nop
+            jal 0x{rf:08x}
+            addiu $a0, $s3, 8
+            b q_d
+            nop
+        q_nr:
 ''' + latin_check('$t3', 'q_d') + '''
             jal 0x{cv:08x}
             addiu $a0, $s3, 8
@@ -596,7 +663,8 @@ def apply(eb):
             lui $v1, 0x8b9
             j 0x{back:08x}
             lw $v1, -0x5380($v1)
-        ''').format(cv=eb.symbols['ne_conv'], back=CONFIRM_AT + 8), 'ne_confirm')
+        ''').format(cv=eb.symbols['ne_conv'], back=CONFIRM_AT + 8, rm=RIDDLE_MODE,
+                    rf=eb.symbols['ne_riddle_fold']), 'ne_confirm')
     eb.asm(CONFIRM_AT, 'j 0x%08x; nop' % eb.symbols['ne_confirm'], expect=2)
 
     # confirm (Rename Spells, mode 0x1D): buffer -> ASCII, then the non-empty check

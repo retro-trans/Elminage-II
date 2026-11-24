@@ -1,5 +1,43 @@
 # Changelog
 
+## 0.8.3 (2026-11-24, test build, not a release)
+- Title logo (ANIME/GR01_10303.GIM): the subtitle 双生の女神と運命の大地 now reads "The Twin Goddesses & the
+  Land of Destiny" ("Twin Goddesses" as in the script; the "&" takes the place of と between the II's two
+  pillars) and the katakana reading above the logo reads "ELMINAGE II". New tools/title_logo.py: both lines
+  sat on transparent pixels and are erased to alpha 0 (pillars, flag tip, 'g' tail and pillar bases kept),
+  then redrawn in Palatino Linotype Bold (Windows font) in the original colours with a dark outline,
+  quantised to the logo's own palette.
+- Checked in game (fresh boot of 0.8.3): the title screen (work/ui/title_v083.png); the boot continues into
+  the font choice and the opening narration as before.
+
+## 0.8.2 (2026-11-24, test build, not a release)
+- Yes / No left in Japanese after "Take it?" (the Jewel Ring in Loipes Cave) and the other prompts of the search
+  script 00011-CHOUSA, in all 20 script files. The choice menu (op 0x92) points back at strings that sit before
+  it; the parser had already read those bytes as ops, so they were never extracted. tools/scp.py now sweeps
+  such a sub-script again with the known string offsets. Only additions: 40 Yes / No strings, nothing lost.
+- The Sphinx at Dekor (SCD05 15005.bin) was mostly Japanese: its menu ("What brings you here today?"), all ten
+  riddles, its replies and the answers. An empty string between two choice strings stopped the parser
+  halfway through that sub-script, so 119 strings were never extracted. A string that does not parse as an op
+  right after another string is now read as a string. 72 lines reuse existing translations (floor markers,
+  key items, Godshade victories); 47 are new (glossary terms, Sphinx voice as in its translated lines).
+- Riddle answers are typed in English: the riddle editor (mode 0x0F) opens on the Latin keyboard where the
+  Sphinx's riddles opened on hiragana / katakana; the glyph page of riddles 34001 / 53001 is unchanged. The
+  answer is folded to upper case on confirm, so "book", "Book" and "BOOK" all match. Accepted answers use the
+  original number of slots: BOOK / TOME; GRAVE / TOMB / GRAVESTONE / TOMBSTONE; TIME / CLOCK; DREAM / DREAMS /
+  SLEEP; HAIR REMEMBER (with or without the space, the "Hair remover?" gag); SILK / THREAD / SILK THREAD /
+  COCOON / SILKWORM; HAIR / HAIRS / BEARD; NAME; SOUND / SMELL / SCENT / VOICE; MIRROR.
+- Event list and monster / item descriptions broke words across lines ("whet / her", "Loipe / s Cave"): the
+  game cut them into fixed 28- or 24-byte rows. Ported Elminage III's pixel word wrap (vwf.apply_wrap): whole
+  words per row by VWF width (224 px events, 200 px descriptions, HD widths with the HD font), at most 72 bytes
+  a row (80-byte row buffers). The event rows' full-width space padding is dropped.
+- Checked in game (savestate v080_tavern with the 0.8.2 EBOOT hot-loaded): the event "Adventurer Reg. Exam"
+  wraps by words (work/ui/event_wrap_v082.png); in Loipes Cave an injected Sphinx riddle opens the Latin
+  keyboard with the English prompt (work/ui/riddle_keyboard_v082.png), "book" typed in lower case reaches
+  the compare as ＢＯＯＫ against the answer ＢＯＯＫ. The built SCD05 decodes every new answer, prompt and
+  menu line to its English. Not checked in play: "Take it?" in Loipes Cave, the Sphinx itself (late game),
+  the monster / item description boxes (none seen yet on the test party), a fresh boot of 0.8.2.
+- Real hardware: code and tables in the cave only, no change to the hooked loops' registers or stack frames.
+
 ## 0.8.1 (2026-11-22, release)
 - Alchemist and Summoner spells were never learned (GitHub issue #1). The spell table parser (0x088DA4B4)
   strcmp's each SPELL.CSV school cell with four EBOOT keys and makes any other value school 4 (enemy only).

@@ -162,15 +162,17 @@ def parse_op(d, p):
 JUMPS = (0x00a,)     # unconditional jump: the next byte need not be code
 
 
-def parse_sub(d, off, size, skip_dead=False):
+def parse_sub(d, off, size, skip_dead=False, seed=()):
     """Sweep a sub-script. Returns dict(ops=[(pos, op, parts)], strs=[(pos,end)], err).
 
     skip_dead: after an unconditional jump/return, bytes up to the next known code target that is
-    not reached otherwise are read as strings (choice prompts and unreferenced text sit there)."""
+    not reached otherwise are read as strings (choice prompts and unreferenced text sit there).
+    seed: string offsets (relative to base) known from an earlier sweep, for strings that sit before
+    the op that references them (see parse_file)."""
     base = off + 4
     end = off + size
     FMT[0] = d[off]
-    str_at, code_at = set(), {0}
+    str_at, code_at = set(seed), {0}
     ops, strs = [], []
     p = base
     err = None
@@ -184,6 +186,13 @@ def parse_sub(d, off, size, skip_dead=False):
         try:
             op, q, parts, so, co = parse_op(d, p)
         except (ParseError, IndexError, struct.error) as x:
+            # unreferenced string inside a run of strings (SCD05 15005.bin: an empty '1B 00' between two choice
+            # strings stopped the sweep and left ~150 lines of that event out of the extraction)
+            q = read_str(d, p) if strs and strs[-1][1] == p else p
+            if p < q <= end:
+                strs.append((p, q))
+                p = q
+                continue
             err = str(x)
             break
         ops.append((p, op, parts))
@@ -203,7 +212,28 @@ def parse_sub(d, off, size, skip_dead=False):
                 p = t                    # leftover non-string bytes: skip to the code target
     if not err and p != end:
         err = 'overrun %x > %x' % (p, end)
-    return dict(ops=ops, strs=strs, err=err, base=base, end=end, str_at=str_at, code_at=code_at)
+    return dict(ops=ops, strs=strs, err=err, base=base, end=end, str_at=str_at, code_at=code_at,
+                skip_dead=skip_dead)
+
+
+def _missed(r):
+    """String offsets an op references that the sweep read as code instead (it got there first)."""
+    got = {a - r['base'] for a, _ in r['strs']}
+    return {s for s in r['str_at'] - r['code_at'] - got if r['base'] + s < r['end']}
+
+
+def _resweep(d, off, size, r):
+    """A choice menu (0x92) can point back at its Yes/No strings, which the sweep has already parsed as
+    ops (v0.8.1: 65 untranslated Yes/No pairs, e.g. 'Take it?' in Loipes Cave). Sweep again with those
+    offsets known; keep the result only if it parses as cleanly as before."""
+    for _ in range(4):
+        if not _missed(r):
+            break
+        r2 = parse_sub(d, off, size, r['skip_dead'], seed=r['str_at'] - r['code_at'])
+        if r2['err'] and not r['err']:
+            break
+        r = r2
+    return r
 
 
 def parse_file(d, skip_dead=False):
@@ -215,6 +245,7 @@ def parse_file(d, skip_dead=False):
             r2 = parse_sub(d, off, size, True)
             if not r2['err'] or r2['ops'][-1][0] > r['ops'][-1][0]:
                 r = r2
+        r = _resweep(d, off, size, r)
         r.update(name=name, off=off, size=size)
         subs.append(r)
     return subs

@@ -6168,6 +6168,18 @@
   "len": 32
  },
  {
+  "id": "00011-CHOUSA.bin@10510",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "00011-CHOUSA.bin@10516",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
   "id": "00011-CHOUSA.bin@1061d",
   "en": "You offered a prayer at the last of the gods' altars.{w}",
   "kind": "msg",
@@ -16208,6 +16220,767 @@
  {
   "id": "15005.bin@3141a",
   "en": "Give up",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "15005.bin@31424",
+  "en": "\"What brings you here today?\"",
+  "kind": "data",
+  "len": 22,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3143a",
+  "en": "Let us through",
+  "kind": "data",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@31444",
+  "en": "Take on the questions",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "15005.bin@31454",
+  "en": "Test of strength",
+  "kind": "data",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3145c",
+  "en": "Nothing",
+  "kind": "data",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@314d1",
+  "en": "Friendly foes have appeared. Will you fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "15005.bin@314f7",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "15005.bin@314fd",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "15005.bin@31510",
+  "en": "* Current floor: {0B:0003:0000}",
+  "kind": "op0fb",
+  "len": 22
+ },
+ {
+  "id": "15005.bin@31551",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@315ce",
+  "en": "* Current floor: {0B:0003:0000}",
+  "kind": "op0fb",
+  "len": 22
+ },
+ {
+  "id": "15005.bin@3160f",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@31669",
+  "en": "* Current floor: {0B:0003:0000}",
+  "kind": "op0fb",
+  "len": 22
+ },
+ {
+  "id": "15005.bin@316aa",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@316ea",
+  "en": "* Current floor: {0B:0003:0000}",
+  "kind": "op0fb",
+  "len": 22
+ },
+ {
+  "id": "15005.bin@3172b",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@3176b",
+  "en": "* Current floor: {0B:0003:0000}",
+  "kind": "op0fb",
+  "len": 22
+ },
+ {
+  "id": "15005.bin@317ac",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@317f1",
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "len": 12
+ },
+ {
+  "id": "15005.bin@31806",
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@3184e",
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "15005.bin@3187a",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@318d3",
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "len": 12
+ },
+ {
+  "id": "15005.bin@318e8",
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@31930",
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "15005.bin@3195c",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@319b5",
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "len": 12
+ },
+ {
+  "id": "15005.bin@319ca",
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@31a12",
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "15005.bin@31a3e",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@31a97",
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "len": 12
+ },
+ {
+  "id": "15005.bin@31aac",
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@31af4",
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "15005.bin@31b20",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@31b79",
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "len": 12
+ },
+ {
+  "id": "15005.bin@31b8e",
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@31bd6",
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "15005.bin@31c02",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@31c5b",
+  "en": "* Godshade victory",
+  "kind": "op0fb",
+  "len": 12
+ },
+ {
+  "id": "15005.bin@31c70",
+  "en": "The great shadow fades away.\nSomething has been left behind.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@31cb8",
+  "en": "You obtained an item.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "15005.bin@31ce4",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@31db5",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@31e5b",
+  "en": "[Key Item]\nYou obtained a Piece of Grotesque Flesh.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "15005.bin@31ec6",
+  "en": "[Key Item]\nYou obtained an Espel-Dex Business Card.{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "15005.bin@31f3d",
+  "en": "[Key Item]\nYou obtained Tsakaro's Evil Eye.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "15005.bin@31fae",
+  "en": "[Key Item]\nYou obtained the Noble Lady's Eerie Wings.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@3201b",
+  "en": "[Key Item]\nYou obtained the Great Emperor's Crown.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "15005.bin@32084",
+  "en": "[Key Item]\nYou obtained Underworld Water.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "15005.bin@320eb",
+  "en": "[Key Item]\nYou obtained Underworld Water{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "15005.bin@32150",
+  "en": "[Key Item]\nYou obtained the Prayer to the Revered One.{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "15005.bin@321c5",
+  "en": "[Key Item]\nYou obtained the Overlord Bull's Demon Horn.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "15005.bin@32230",
+  "en": "[Key Item]\nYou obtained the Harz Crystal.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "15005.bin@322a3",
+  "en": "[Key Item]\nYou obtained a Half-Drawn Map.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "15005.bin@32312",
+  "en": "[Key Item]\nYou obtained Nyoppurin's Pudding.{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "15005.bin@32358",
+  "en": "[Key Item]\nYou obtained Ira's True Crystal.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "15005.bin@32394",
+  "en": "After defeating the mighty duke of the demon realm,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "15005.bin@323d7",
+  "en": "Having won the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "15005.bin@3243f",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@324a4",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "15005.bin@32550",
+  "en": "{0A:0003:0006}'s alignment changed to Good.{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "15005.bin@325ee",
+  "en": "{0A:0003:0006}'s alignment changed to Evil.{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "15005.bin@32872",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@32881",
+  "en": "\"Just so. That is correct.\"{w}",
+  "kind": "msg",
+  "len": 24,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3289d",
+  "en": "The Sphinx swished its tail in satisfaction.{w}",
+  "kind": "msg",
+  "len": 40,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@328d4",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@328e3",
+  "en": "\"Wrong.\"{w}",
+  "kind": "msg",
+  "len": 14,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@328f5",
+  "en": "The Sphinx gazes down at you with cold eyes.{w}",
+  "kind": "msg",
+  "len": 44,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3294d",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@3295c",
+  "en": "\"Countless marks cover my body.{w}Their order is irregular, yet they hold meaning,\nand they do not change as time passes.\"{w}{p}\"Yet as time passes for those who look upon me,\nthe meaning they take from me changes too.\"{w}",
+  "kind": "msg",
+  "len": 166,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32a1c",
+  "en": "ＢＯＯＫ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32a3b",
+  "en": "ＴＯＭＥ",
+  "kind": "op0a4",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32a85",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@32a94",
+  "en": "\"I am the silent guardian of memories.{w}One day I shall stand above you.{w}Yet you shall never set eyes on me.\"{w}{p}\"I shall be made by those who knew you.\"{w}",
+  "kind": "msg",
+  "len": 158,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32b4c",
+  "en": "ＧＲＡＶＥ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32b6b",
+  "en": "ＴＯＭＢ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32b8c",
+  "en": "ＧＲＡＶＥＳＴＯＮＥ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32bab",
+  "en": "ＴＯＭＢＳＴＯＮＥ",
+  "kind": "op0a4",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32bf5",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@32c04",
+  "en": "\"I am truly fair to all.{w}No fortune and no plea will make me turn;\nI only walk on.\"{w}{p}\"All you are allowed is to mark me off\nwith a long blade and a short one.\"{w}",
+  "kind": "msg",
+  "len": 160,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32cbe",
+  "en": "ＴＩＭＥ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32cdd",
+  "en": "ＣＬＯＣＫ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32d25",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@32d34",
+  "en": "\"I am a projector without order.{w}In my world all things become fools\nand take on a fleeting meaning.\"{w}{p}\"Nothing binds me,\nyet the rooster shall break my reign.\"{w}",
+  "kind": "msg",
+  "len": 162,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32df0",
+  "en": "ＤＲＥＡＭ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32e0f",
+  "en": "ＤＲＥＡＭＳ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32e30",
+  "en": "ＳＬＥＥＰ",
+  "kind": "op0a4",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32e7a",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@32e89",
+  "en": "\"Hair remover?\"{w}",
+  "kind": "msg",
+  "len": 26,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32ebd",
+  "en": "ＨＡＩＲ　ＲＥＭＥＭＢＥＲ",
+  "kind": "op0a4",
+  "len": 18,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32ee8",
+  "en": "ＨＡＩＲＲＥＭＥＭＢＥＲ",
+  "kind": "op0a4",
+  "len": 20,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32f3c",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@32f4b",
+  "en": "\"I am a noble house without a seam.{w}Your hands bring heat and water;\nmy master dies, and I am broken apart.\"{w}{p}\"Then you gather up my remains\nto adorn yourselves.\"{w}",
+  "kind": "msg",
+  "len": 138,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@32fef",
+  "en": "ＳＩＬＫ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3300e",
+  "en": "ＴＨＲＥＡＤ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3302d",
+  "en": "ＳＩＬＫ　ＴＨＲＥＡＤ",
+  "kind": "op0a4",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33050",
+  "en": "ＣＯＣＯＯＮ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33071",
+  "en": "ＳＩＬＫＷＯＲＭ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@330b9",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@330c8",
+  "en": "\"I am one who keeps on growing.\nYet the longer I grow,\nthe closer I come to the ground.\"{w}",
+  "kind": "msg",
+  "len": 70,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33128",
+  "en": "ＨＡＩＲ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33147",
+  "en": "ＨＡＩＲＳ",
+  "kind": "op0a4",
+  "len": 10,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3316a",
+  "en": "ＢＥＡＲＤ",
+  "kind": "op0a4",
+  "len": 4,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@331ae",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@331bd",
+  "en": "\"I am something you have.\nAlone I mean nothing, and you did not choose me.\nRarely does another have the same.\"{w}",
+  "kind": "msg",
+  "len": 120,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@3324f",
+  "en": "ＮＡＭＥ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33297",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@332a6",
+  "en": "\"I am everywhere.\nAt times I trouble people, delight them, serve them.\nEven with your eyes closed, you can sense me.\"{w}",
+  "kind": "msg",
+  "len": 114,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33332",
+  "en": "ＳＯＵＮＤ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33351",
+  "en": "ＳＭＥＬＬ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33372",
+  "en": "ＳＣＥＮＴ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33393",
+  "en": "ＶＯＩＣＥ",
+  "kind": "op0a4",
+  "len": 6,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@333d9",
+  "en": "Sphinx",
+  "kind": "name",
+  "len": 14
+ },
+ {
+  "id": "15005.bin@333e8",
+  "en": "\"I have endless faces.\nAll who come peer into my face,\nand then they walk away.\"{w}",
+  "kind": "msg",
+  "len": 80,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33452",
+  "en": "ＭＩＲＲＯＲ",
+  "kind": "op0a4",
+  "len": 8,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33478",
+  "en": "What am I?",
+  "kind": "data",
+  "len": 12,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33484",
+  "en": "Hair remover?",
+  "kind": "data",
+  "len": 20,
+  "status": "v082"
+ },
+ {
+  "id": "15005.bin@33499",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "15005.bin@3349f",
+  "en": "No",
   "kind": "data",
   "len": 8
  },

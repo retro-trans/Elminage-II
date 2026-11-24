@@ -125,6 +125,7 @@ def apply_all(eb, opts):
         if vwf.HD_WIDTHS:
             vwf.apply_hd(eb, info)      # HD font sheet + glyph/sprite hooks (chosen at New Game)
         vwf.apply_ticker(eb)            # pixel-smooth scrolling help line
+        vwf.apply_wrap(eb)              # word wrap in the event list and the monster / item descriptions
         import ui_fixes
         ui_fixes.apply(eb)              # character creation: wide selection box for gender / alignment
     if 'notext' not in opts:
@@ -134,6 +135,9 @@ def apply_all(eb, opts):
         # UI textures with baked Japanese text: work/ui/specs/*.json (tools/img_text.py)
         import img_text
         for arc, files in img_text.archive_files().items():
+            info['archives'].setdefault(arc, {}).update(files)
+        import title_logo               # title logo: English subtitle and reading (GR01_10303)
+        for arc, files in title_logo.archive_files().items():
             info['archives'].setdefault(arc, {}).update(files)
         import anm                      # facility buttons 114 -> 130 px (MD02_004.ANM rects, EL02_001 widen)
         for arc, files in anm.archive_files().items():

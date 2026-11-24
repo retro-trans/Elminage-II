@@ -35,8 +35,17 @@ Always run Python with `PYTHONUTF8=1`, because the system codepage is GBK.
   if `& 0xC0` is set, the mask is a u16 with 2 bits per argument (u8/s16/u32/var), as in Elminage III;
   otherwise the mask is a u8 with 1 bit per argument (1 = u16, 0 = u8).
 - String-offset arguments: 0x8F arg 1, 0x92 arg 1 (choice prompt, with the same entry layout as Elminage III), 0xA2 arg 2.
+  A choice menu can point *back* at strings the sweep already read as code (the Yes / No of the search script
+  00011-CHOUSA, e.g. "Take it?" in Loipes Cave): `scp.parse_file` sweeps such a sub-script again with those
+  offsets known. An unreferenced string between two strings (an empty `1B 00` in 15005.bin) is read as a
+  string when it does not parse as an op, instead of stopping the sweep.
+- Riddles: 0xA2 (arg 0 = 1 open / 0 close, arg 1 = first keyboard page, 1-based: 1 hiragana, 2 katakana,
+  0x4E box-drawing glyphs; arg 2 = prompt), 0xA3 waits for the answer, then each 0xA4 `<answer>` compares it
+  (strcmp 0x08816CA4 at 0x088801D4 with the editor text from 0x08824B44) and an 0x01 branches on the result.
+  The Sphinx at Dekor (SCD05 15005.bin, ten riddles) types on page 1 / 2; 34001 and 53001 on the glyph page.
 - Escape codes with 4 operand bytes: 0A 0B 0C 10 11 12 (no 13). **Every byte >= 0x80 is read as a 2-byte character.**
-- Coverage: 1603/1625 sub-scripts parse fully. The 22 that fail are all developer tests (00101-TEST-OP-01, 99999-TEST).
+- Coverage: 1604/1625 sub-scripts parse fully (0.8.2: SCD05 15005.bin, the Sphinx, now parses to its end). The 21
+  that fail are all developer tests (00101-TEST-OP-01, 99999-TEST).
 
 ## Text drawing (VWF targets)
 - Draw string at 0x088F0E84 (Elminage III 0x0891BAF8). Registers: font $s5, x $s3, y $s2, index $s0, half flag $s1.
@@ -59,7 +68,10 @@ Always run Python with `PYTHONUTF8=1`, because the system codepage is GBK.
   left / right / end. Nickname modes page through the first 4 pages only. Grid draw 0x0884C418, key handler
   0x0884C640, backspace 0x0884C7AC, cursor xy 0x0884C2A8, editor main 0x0884A06C (confirm 0x0884A2BC),
   spell-name confirm 0x08831380. Record fields: name +0x00 (0x14), nickname +0x19 (0x14).
-- Patched by tools/name_entry.py (Latin keyboard, ASCII storage; riddle and password keep the original).
+- Patched by tools/name_entry.py (Latin keyboard, ASCII storage; password keeps the original). Riddle mode
+  0x0F: the original page table with pages 0 and 1 (hiragana, katakana) replaced by the Latin page; the
+  answer stays full-width cells, folded to upper case with trailing spaces removed on confirm, so the
+  script answers are full-width capitals (ＢＯＯＫ).
 
 ## HD font
 - FONT16 object: constructor 0x088F0BAC (called 0x0886AD48), half-width sheet list 0x0895565C ([FONT10_16.GIM,
@@ -72,6 +84,12 @@ Always run Python with `PYTHONUTF8=1`, because the system codepage is GBK.
   4x HD sheet FONT10HD.GIM lives in PARTS.BIN.
 - Patched by tools/vwf.py apply_hd + tools/font_hd.py; popup injected by tools/text_build.py
   inject_font_choice (SCDWMAP 99101-BIS_TOP_IN.bin +0x0034).
+
+## Title screen
+- Layers (480x272, 8-bit indexed with alpha, loaded at the title): GR01_10300 frame, GR01_10301 sky,
+  GR01_10302 moon phases (512x512), GR01_10303 logo, GR01_10304 landscape; SF_LOGO / CRIPSPB are the boot logos.
+- The logo's katakana reading and subtitle are redrawn by tools/title_logo.py (not an img_text spec: serif
+  TrueType text, erase that spares the II's pillars).
 
 ## UI sprite layouts (ANIME/*.ANM, 'animdata')
 - Header: 'animdata', u32 0x20 = texture list offset, u32 record table offset, u32 next section, u32 size.
